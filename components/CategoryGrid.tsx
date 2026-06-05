@@ -1,12 +1,14 @@
 import Link from "next/link";
 import { categories } from "@/content/categories";
-import { keywords } from "@/content/keywords";
+import { getPublishedKeywords } from "@/lib/data";
 
 export function CategoryGrid() {
+  const publishedKeywords = getPublishedKeywords();
+
   return (
     <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {categories.map((category) => {
-        const count = keywords.filter((keyword) => keyword.category === category.title).length;
+        const count = publishedKeywords.filter((keyword) => keyword.category === category.title).length;
 
         return (
           <Link

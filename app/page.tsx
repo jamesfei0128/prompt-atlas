@@ -1,9 +1,16 @@
+import Image from "next/image";
 import Link from "next/link";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { KeywordCard } from "@/components/KeywordCard";
-import { getFeaturedKeywords } from "@/lib/data";
+import { getFeaturedKeywords, getRelatedKeywords } from "@/lib/data";
 
 const featured = getFeaturedKeywords();
+const heroPreviewKeywords = getRelatedKeywords([
+  "Cinematic Lighting",
+  "Golden Hour",
+  "Soft Light",
+  "Moody Lighting"
+]);
 
 export default function HomePage() {
   return (
@@ -36,14 +43,36 @@ export default function HomePage() {
               </Link>
             </div>
           </div>
-          <div className="aspect-[4/3] rounded-lg border border-line bg-[radial-gradient(circle_at_20%_20%,#ffffff,transparent_32%),linear-gradient(135deg,#dfe9e2,#fbfaf7_45%,#e8d5cc)] p-5">
-            <div className="grid h-full grid-cols-2 gap-3">
-              {["Lighting", "Style", "Color", "Commercial"].map((label) => (
-                <div key={label} className="rounded-md border border-white/70 bg-white/55 p-4">
-                  <p className="text-sm font-semibold text-ink">{label}</p>
-                  <div className="mt-10 h-2 rounded-full bg-sage/30" />
-                  <div className="mt-2 h-2 w-2/3 rounded-full bg-clay/30" />
-                </div>
+          <div className="rounded-lg border border-line bg-white p-4 shadow-sm">
+            <div className="mb-4 flex items-center justify-between gap-4">
+              <p className="text-sm font-semibold text-ink">Featured Keywords</p>
+              <span className="text-xs font-medium text-sage">Lighting cluster</span>
+            </div>
+            <div className="grid gap-3 sm:grid-cols-2">
+              {heroPreviewKeywords.map((keyword) => (
+                <Link
+                  key={keyword.slug}
+                  href={`/keywords/${keyword.slug}`}
+                  className="group overflow-hidden rounded-md border border-line bg-paper transition hover:border-sage"
+                >
+                  <div className="aspect-[16/9] overflow-hidden bg-mist">
+                    {keyword.heroImage?.src ? (
+                      <Image
+                        src={keyword.heroImage.src}
+                        alt={keyword.heroImage.alt}
+                        width={320}
+                        height={180}
+                        className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.03]"
+                      />
+                    ) : null}
+                  </div>
+                  <div className="p-3">
+                    <p className="text-xs font-medium text-sage">{keyword.category}</p>
+                    <h3 className="mt-1 text-sm font-semibold leading-5 text-ink">
+                      {keyword.title}
+                    </h3>
+                  </div>
+                </Link>
               ))}
             </div>
           </div>

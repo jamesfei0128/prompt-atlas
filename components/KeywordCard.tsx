@@ -1,25 +1,30 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { KeywordWithSlug } from "@/content/keywords";
+import { publicImageExists } from "@/lib/images";
 
 const defaultImageBackground =
   "linear-gradient(135deg, #edf1ee, #fbfaf7 52%, #eaded6)";
 
 export function KeywordCard({ keyword }: { keyword: KeywordWithSlug }) {
+  const showImage = publicImageExists(keyword.heroImage?.src);
+
   return (
     <Link
       href={`/keywords/${keyword.slug}`}
       className="group rounded-lg border border-line bg-white p-4 transition hover:-translate-y-0.5 hover:border-sage hover:shadow-sm"
     >
       <div
-        className="mb-4 aspect-[16/9] overflow-hidden rounded-md border border-line bg-cover bg-center"
+        className="relative mb-4 aspect-[16/9] overflow-hidden rounded-md border border-line bg-cover bg-center"
         style={{ background: keyword.heroImage?.background ?? defaultImageBackground }}
       >
-        {keyword.heroImage?.src ? (
-          <img
+        {showImage && keyword.heroImage?.src ? (
+          <Image
             src={keyword.heroImage.src}
             alt={keyword.heroImage.alt}
-            className="h-full w-full object-cover"
-            loading="lazy"
+            fill
+            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+            className="object-cover"
           />
         ) : null}
       </div>

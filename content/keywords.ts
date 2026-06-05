@@ -3,6 +3,7 @@ import { slugify } from "@/lib/slug";
 export type Keyword = {
   title: string;
   category: string;
+  published?: boolean;
   heroImage?: {
     src?: string;
     alt: string;
@@ -22,6 +23,7 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Cinematic Lighting",
     category: "Lighting",
+    published: true,
     heroImage: {
       src: "/images/keywords/cinematic-lighting.png",
       alt: "Abstract placeholder for cinematic lighting with dramatic warm highlights and deep shadows",
@@ -38,7 +40,7 @@ const keywordSeeds: Keyword[] = [
       "Editorial, advertising, and landing page visuals that need to look more designed than ordinary stock photography. It works especially well when combined with negative space for text placement.",
       "Atmospheric interiors, restaurants, hotels, offices, studios, and architectural scenes where light should shape the room instead of merely revealing it."
     ],
-    relatedKeywords: ["Golden Hour", "Volumetric Lighting", "Moody"],
+    relatedKeywords: ["Golden Hour", "Volumetric Lighting", "Moody Lighting"],
     examplePrompt:
       "A premium watch resting on black stone, cinematic lighting, warm key light from the left, subtle rim light, controlled reflections, shallow depth of field, dark neutral background, luxury product photography, high detail, elegant commercial composition",
     commercialApplications: ["Luxury ads", "Poster concepts", "Hero banners"],
@@ -49,6 +51,7 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Golden Hour",
     category: "Lighting",
+    published: true,
     heroImage: {
       src: "/images/keywords/golden-hour.png",
       alt: "Abstract placeholder for golden hour with warm sunlight fading into soft neutral tones",
@@ -65,7 +68,7 @@ const keywordSeeds: Keyword[] = [
       "Product images for wellness, outdoor gear, beverages, home goods, and sustainable brands. Golden Hour can make simple products feel natural, premium, and connected to real-life use.",
       "Stock images that need a positive, optimistic mood. The keyword is useful for concepts like freedom, renewal, health, calm, family, entrepreneurship, and work-life balance."
     ],
-    relatedKeywords: ["Cinematic Lighting", "Volumetric Lighting", "Morandi Palette"],
+    relatedKeywords: ["Cinematic Lighting", "Backlight", "Soft Light"],
     examplePrompt:
       "A modern cabin on a quiet hillside at golden hour, warm sunlight from the side, long soft shadows, natural color grading, peaceful travel photography, negative space for copy, realistic editorial style",
     commercialApplications: ["Travel marketing", "Wellness brands", "Real estate visuals"],
@@ -76,13 +79,29 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Soft Light",
     category: "Lighting",
-    overview: "A gentle lighting keyword for smooth, flattering, low-contrast image generation.",
-    whatItDoes: "Reduces harsh shadows and creates a calm, approachable visual tone.",
-    bestUseCases: ["Portraits", "Beauty imagery", "Minimal product shots"],
-    relatedKeywords: ["Pastel Colors", "Dreamy", "Studio Lighting"],
-    examplePrompt: "Ceramic skincare bottles on a neutral surface, soft light, minimalist styling, pastel colors",
+    published: true,
+    heroImage: {
+      src: "/images/keywords/soft-light.png",
+      alt: "Soft light AI prompt example with diffused highlights and gentle commercial product shadows",
+      background:
+        "radial-gradient(circle at 28% 20%, #ffffff 0, transparent 32%), linear-gradient(135deg, #f7f4ee 0%, #e8eee9 48%, #d8ccc4 100%)"
+    },
+    overview:
+      "Soft Light is a lighting keyword used to create gentle, flattering, low-contrast images. It describes light that has been diffused before it reaches the subject, like daylight through a sheer curtain, a large studio softbox, or cloudy outdoor light. In AI image prompts, Soft Light is especially useful when you want the image to feel calm, natural, welcoming, and easy to use commercially. It reduces harsh shadow edges and helps skin, products, interiors, and materials look smoother. For beginners, Soft Light is one of the safest lighting keywords because it improves many images without making them feel too dramatic or overly stylized.",
+    whatItDoes:
+      "When you add Soft Light to a prompt, the model is encouraged to create broader highlights, smoother transitions, and less aggressive contrast. Shadows may still exist, but they feel gradual rather than sharp. This helps portraits look more approachable, product photos feel cleaner, and interior scenes feel peaceful. Soft Light also works well when you need a neutral stock image because it does not force a strong mood. It can support beauty, wellness, lifestyle, ecommerce, food, home decor, and business imagery. To control the result, pair it with practical phrases like natural window light, diffused studio light, soft shadows, clean background, realistic skin tones, or gentle highlights. If the image becomes too flat, add a subtle rim light, shallow depth of field, or a clear focal object.",
+    bestUseCases: [
+      "Portraits, wellness imagery, and lifestyle scenes where people should look relaxed, friendly, and natural rather than dramatic or intense.",
+      "Beauty, skincare, food, ceramics, stationery, and ecommerce product images where smooth surfaces and soft shadows make the subject feel premium and accessible.",
+      "Interior and home decor visuals that need a calm, bright atmosphere. Soft Light helps rooms feel livable and visually clean.",
+      "Stock imagery for concepts such as comfort, care, clarity, health, productivity, calm workspaces, and everyday modern living."
+    ],
+    relatedKeywords: ["Studio Lighting", "High Key Lighting", "Golden Hour"],
+    examplePrompt:
+      "A ceramic skincare bottle on a pale linen surface, soft light, diffused window glow, gentle shadows, clean minimalist styling, neutral background, commercial beauty photography",
     commercialApplications: ["Beauty campaigns", "Ecommerce imagery", "Wellness content"],
-    adobeStockPotential: "High potential for clean product and people-focused stock visuals.",
+    adobeStockPotential:
+      "Soft Light has excellent Adobe Stock potential because it creates broadly usable images that buyers can adapt across many industries. Designers often need images that feel polished but not overly specific, and Soft Light supports that. It works for beauty campaigns, healthcare content, wellness blogs, family lifestyle, product mockups, food packaging, online shops, and presentation visuals. For better stock value, keep the subject clear, avoid clutter, and leave some negative space for text. Soft Light can sometimes make an image feel too generic, so combine it with a clear use case such as skincare product photography, modern home office, healthy breakfast table, or calm wellness portrait.",
     difficulty: "Beginner"
   },
   {
@@ -100,30 +119,63 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Rim Light",
     category: "Lighting",
-    overview: "A back-edge lighting effect that outlines the subject and separates it from the background.",
-    whatItDoes: "Adds a bright contour around subjects, improving depth and premium polish.",
-    bestUseCases: ["Portraits", "Product silhouettes", "Dark background scenes"],
-    relatedKeywords: ["Backlighting", "Cinematic Lighting", "Neon Glow"],
-    examplePrompt: "A runner in a dark studio, rim light outlining the silhouette, cinematic lighting, high contrast",
+    published: true,
+    heroImage: {
+      src: "/images/keywords/rim-light.png",
+      alt: "Rim light AI prompt example showing a bright edge highlight separating the subject from shadow",
+      background:
+        "radial-gradient(circle at 76% 38%, #fff3c7 0, transparent 18%), linear-gradient(135deg, #151817 0%, #26302c 54%, #caa36e 100%)"
+    },
+    overview:
+      "Rim Light is a lighting keyword that describes a bright edge of light around a subject. The light usually comes from behind or slightly behind the subject, catching the outline of hair, shoulders, products, glass, metal, or other edges. In AI image generation, Rim Light is useful when the subject blends into the background or when you want a more professional, cinematic result. It adds separation, depth, and polish. For beginners, Rim Light is a practical keyword because it solves a common problem: flat images where the subject does not stand out clearly.",
+    whatItDoes:
+      "When you use Rim Light in a prompt, the model is guided to create a narrow highlight along the outer edge of the subject. This can make a portrait feel more dramatic, a product feel more premium, or a sports image feel more energetic. Rim Light is often paired with darker backgrounds because the bright outline becomes easier to see. It can also work in bright scenes if the effect is subtle. The keyword is especially helpful for reflective materials, silhouettes, backlit people, technology products, bottles, jewelry, and fitness imagery. To refine it, use phrases like subtle rim light, warm rim highlight, blue edge light, dark studio background, cinematic lighting, or separated from background. Avoid asking for too many rim lights at once, since the result can become artificial.",
+    bestUseCases: [
+      "Portraits, athlete images, musicians, founders, and character studies where the person needs to feel defined, confident, and visually separated from the background.",
+      "Product photography for bottles, headphones, watches, electronics, vehicles, and reflective materials. Rim Light can emphasize shape and premium surface detail.",
+      "Dark studio scenes, cinematic posters, sports campaigns, gaming visuals, and music promotions where strong outlines and contrast improve visual impact.",
+      "Stock concepts about leadership, performance, focus, technology, innovation, nightlife, fitness, and premium branding."
+    ],
+    relatedKeywords: ["Backlight", "Cinematic Lighting", "Low Key Lighting"],
+    examplePrompt:
+      "A runner standing in a dark studio, subtle rim light outlining the shoulders and profile, cinematic lighting, controlled contrast, realistic athletic campaign photography",
     commercialApplications: ["Sports campaigns", "Tech ads", "Premium product images"],
-    adobeStockPotential: "Strong for dramatic concepts where subject separation matters.",
+    adobeStockPotential:
+      "Rim Light has strong Adobe Stock potential for dramatic portraits, fitness campaigns, tech products, premium lifestyle images, and entertainment visuals. It helps images feel more produced, which can make them attractive for ads, website headers, magazine layouts, and social campaigns. Stock buyers often need clear subjects that can be cut out, placed beside text, or used as hero visuals. Rim Light supports that by defining the outline. For best results, keep the subject recognizable, avoid overly dark details, and make sure the rim effect supports the concept instead of overpowering it. Images with clean backgrounds and strong subject separation are often more flexible for commercial buyers.",
     difficulty: "Intermediate"
   },
   {
-    title: "Backlighting",
+    title: "Backlight",
     category: "Lighting",
-    overview: "A lighting direction that places the main light behind the subject for glow and silhouette.",
-    whatItDoes: "Creates halos, translucent edges, and atmospheric separation.",
-    bestUseCases: ["Nature scenes", "Silhouettes", "Lifestyle portraits"],
-    relatedKeywords: ["Rim Light", "Golden Hour", "Atmospheric Haze"],
-    examplePrompt: "A person walking through tall grass, backlighting, golden hour, atmospheric haze, dreamy mood",
+    published: true,
+    heroImage: {
+      src: "/images/keywords/backlight.png",
+      alt: "Backlight AI prompt example with warm light behind the subject and glowing atmospheric edges",
+      background:
+        "radial-gradient(circle at 50% 28%, #fff0b5 0, transparent 30%), linear-gradient(135deg, #6d6b5f 0%, #d6b56e 48%, #f7ead3 100%)"
+    },
+    overview:
+      "Backlight is a lighting direction where the main light source sits behind the subject, facing toward the camera. It can create glowing edges, silhouettes, translucent materials, and a strong sense of atmosphere. In AI image prompts, Backlight is useful when you want an image to feel warm, emotional, mysterious, or visually layered. It is common in outdoor lifestyle photography, travel imagery, nature scenes, music videos, and cinematic portraits. Beginners can use Backlight to make a simple scene feel more dramatic without needing complicated camera or lighting language.",
+    whatItDoes:
+      "When a prompt includes Backlight, the model often places the brightest part of the image behind the main subject. This can create a halo around hair, a glowing outline around a person, light passing through fabric, or a bright window behind a product. Backlight can also make haze, dust, smoke, or fog more visible, which is why it pairs well with Volumetric Lighting and Atmospheric Haze. It is different from Rim Light because Backlight describes the overall direction of the light, while Rim Light describes the visible edge highlight that may result from it. To control Backlight, add phrases like soft backlight, warm backlight, silhouette, golden hour, translucent fabric, or subject still visible. If the subject becomes too dark, add fill light, visible face, balanced exposure, or soft front detail.",
+    bestUseCases: [
+      "Outdoor portraits and lifestyle scenes where warm sunlight behind the subject creates an emotional, aspirational feeling.",
+      "Travel, wellness, nature, and family imagery where glow, atmosphere, and natural beauty matter more than hard detail.",
+      "Product and still-life images involving glass, fabric, leaves, beverages, bottles, or translucent materials that look better when light passes through them.",
+      "Commercial concepts such as hope, freedom, renewal, calm, spirituality, morning routines, outdoor adventure, and premium lifestyle."
+    ],
+    relatedKeywords: ["Rim Light", "Golden Hour", "Volumetric Lighting"],
+    examplePrompt:
+      "A person walking through tall grass at sunrise, warm backlight, soft glowing edges, visible face detail, atmospheric haze, natural lifestyle photography, peaceful commercial mood",
     commercialApplications: ["Outdoor campaigns", "Book covers", "Inspirational imagery"],
-    adobeStockPotential: "High for emotional, aspirational, and nature-based stock themes.",
+    adobeStockPotential:
+      "Backlight has high Adobe Stock potential because it supports emotional and aspirational image concepts. Buyers often need visuals for wellness, travel, spirituality, outdoor products, family lifestyle, environmental themes, and inspirational campaigns. Backlit images can feel premium when the subject remains readable and the glow does not wash out the entire frame. For stock use, avoid turning every image into a full silhouette unless that is the concept. A partially visible subject is often more flexible. Backlight works especially well when paired with clear copy space, natural settings, and universal themes such as new beginnings, health, freedom, and calm living.",
     difficulty: "Beginner"
   },
   {
     title: "Volumetric Lighting",
     category: "Lighting",
+    published: true,
     heroImage: {
       src: "/images/keywords/volumetric-lighting.png",
       alt: "Abstract placeholder for volumetric lighting with visible beams passing through haze",
@@ -140,7 +192,7 @@ const keywordSeeds: Keyword[] = [
       "Commercial backgrounds that need a strong mood without relying on busy details. It can create dramatic empty space for posters, hero banners, or presentation slides.",
       "Stock images about spirituality, inspiration, performance, entertainment, innovation, and nature. The visible light can make abstract ideas feel more concrete."
     ],
-    relatedKeywords: ["Cinematic Lighting", "Golden Hour", "Minimalist"],
+    relatedKeywords: ["Cinematic Lighting", "Backlight", "Rim Light"],
     examplePrompt:
       "An ancient library with tall arched windows, volumetric lighting, visible dust particles in the air, warm beams crossing wooden shelves, atmospheric depth, cinematic composition, quiet mysterious mood",
     commercialApplications: ["Game concepts", "Entertainment posters", "Editorial backgrounds"],
@@ -175,14 +227,114 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Studio Lighting",
     category: "Lighting",
-    overview: "A controlled commercial lighting setup for clean, professional output.",
-    whatItDoes: "Creates predictable highlights, shadows, and polished product or portrait results.",
-    bestUseCases: ["Product photography", "Corporate portraits", "Catalog visuals"],
-    relatedKeywords: ["Soft Light", "Product Photography", "Luxury Branding"],
-    examplePrompt: "A premium perfume bottle on a white sweep, studio lighting, clean shadows, luxury branding",
+    published: true,
+    heroImage: {
+      src: "/images/keywords/studio-lighting.png",
+      alt: "Studio lighting AI prompt example with clean controlled highlights for commercial photography",
+      background:
+        "radial-gradient(circle at 30% 20%, #ffffff 0, transparent 24%), radial-gradient(circle at 70% 35%, #f2f7f4 0, transparent 22%), linear-gradient(135deg, #e8ece8 0%, #fbfaf7 48%, #cfd8d1 100%)"
+    },
+    overview:
+      "Studio Lighting is a prompt keyword that suggests a controlled, professional lighting setup. Instead of relying on natural sunlight or random environmental light, Studio Lighting points the model toward clean highlights, intentional shadows, balanced exposure, and a polished commercial finish. It is one of the most practical lighting keywords for AI image creators because it works across product photography, portraits, ecommerce, fashion, corporate visuals, and catalog-style imagery. For beginners, Studio Lighting is helpful when you want an image to look professional, reliable, and ready for business use.",
+    whatItDoes:
+      "When Studio Lighting is added to a prompt, the image usually becomes more controlled. The subject may appear against a clean background, with highlights placed to show shape and texture. Shadows are often softer and more predictable than outdoor light, and the overall scene may feel like it was photographed with softboxes, reflectors, or a seamless backdrop. Studio Lighting can be bright and minimal, dramatic and low key, or elegant and luxury-focused depending on your supporting keywords. Pair it with soft light for approachable product images, rim light for depth, high key lighting for bright catalog looks, or low key lighting for premium drama. If the result feels too artificial, add realistic materials, natural shadow falloff, or editorial product photography.",
+    bestUseCases: [
+      "Product photography for ecommerce, packaging, beauty, electronics, jewelry, accessories, and home goods. Studio Lighting makes objects feel clear and sellable.",
+      "Corporate portraits, founder portraits, professional headshots, and team images where clean lighting and trust matter.",
+      "Fashion, beauty, and luxury branding visuals that need controlled highlights, refined surfaces, and a polished commercial tone.",
+      "Stock images for business, retail, online shopping, premium products, advertising, presentation slides, and brand mockups."
+    ],
+    relatedKeywords: ["Soft Light", "High Key Lighting", "Low Key Lighting"],
+    examplePrompt:
+      "A premium perfume bottle on a seamless warm gray background, studio lighting, soft key light, subtle rim highlight, clean shadow, elegant luxury product photography",
     commercialApplications: ["Ecommerce", "Advertising", "Brand lookbooks"],
-    adobeStockPotential: "Very high for product, business, and commercial stock demand.",
+    adobeStockPotential:
+      "Studio Lighting has very high Adobe Stock potential because it aligns directly with commercial image needs. Buyers frequently search for clean product images, business portraits, isolated objects, packaging mockups, retail visuals, and professional campaign assets. Studio-lit images are easier to place in ads, websites, catalogs, and presentations because the lighting is controlled and the subject is clear. To increase stock usefulness, avoid brand names and copyrighted packaging, keep backgrounds simple, and make sure the product or person is easy to understand at thumbnail size. Studio Lighting is also useful for creating variations: bright ecommerce, dark luxury, colorful campaign, or neutral corporate.",
     difficulty: "Beginner"
+  },
+  {
+    title: "Low Key Lighting",
+    category: "Lighting",
+    published: true,
+    heroImage: {
+      src: "/images/keywords/low-key-lighting.png",
+      alt: "Low key lighting AI prompt example with deep shadows and selective premium highlights",
+      background:
+        "radial-gradient(circle at 72% 34%, #d7b77a 0, transparent 18%), linear-gradient(135deg, #0f1110 0%, #202623 54%, #4d4236 100%)"
+    },
+    overview:
+      "Low Key Lighting is a lighting style built around darkness, contrast, and selective illumination. In AI image prompts, it usually creates images with deep shadows, darker backgrounds, and a small amount of focused light on the subject. The result can feel dramatic, mysterious, premium, serious, or cinematic. Low Key Lighting is often used in luxury product photography, film posters, athletic portraits, music visuals, and editorial images. For beginners, it is a useful keyword when you want more mood and depth, but it needs a clear subject so the image does not become too dark to read.",
+    whatItDoes:
+      "When you use Low Key Lighting, the model is guided to reduce the overall brightness of the scene and emphasize the relationship between light and shadow. Important parts of the subject may be illuminated while other areas fall into darkness. This can make a watch, perfume bottle, portrait, car interior, or musician feel more expensive and dramatic. Low Key Lighting pairs well with Rim Light, Cinematic Lighting, Moody Lighting, black background, hard light, metallic surface, glass reflection, and shallow depth of field. To keep it usable, add phrases like visible subject detail, controlled shadows, subtle highlights, and clean background. Without those controls, the model may hide too much information in shadow.",
+    bestUseCases: [
+      "Luxury product images where darkness, reflection, and selective highlights make the object feel premium and exclusive.",
+      "Portraits, athlete images, musicians, and editorial subjects that need a serious, cinematic, or intense mood.",
+      "Posters, hero banners, book covers, and dramatic website visuals where a strong focal point matters more than bright detail everywhere.",
+      "Stock concepts related to focus, mystery, performance, leadership, premium branding, nightlife, security, and innovation."
+    ],
+    relatedKeywords: ["Rim Light", "Moody Lighting", "Cinematic Lighting"],
+    examplePrompt:
+      "A luxury black perfume bottle on dark stone, low key lighting, narrow warm highlight, subtle rim light, controlled reflections, deep shadows, premium advertising photography",
+    commercialApplications: ["Luxury ads", "Editorial portraits", "Premium product campaigns"],
+    adobeStockPotential:
+      "Low Key Lighting has strong Adobe Stock potential for premium and dramatic visual categories. It is useful for luxury branding, fragrance, jewelry, watches, sports, music, security, finance, technology, and high-end lifestyle imagery. Buyers may use low key images when they need a serious or exclusive feeling. The main stock risk is that the image becomes too dark or too niche. To improve usefulness, keep the subject readable, maintain clean composition, and leave space for text when possible. Low key images with well-controlled highlights can stand out in search results because they look more produced than ordinary bright stock photos.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "High Key Lighting",
+    category: "Lighting",
+    published: true,
+    heroImage: {
+      src: "/images/keywords/high-key-lighting.png",
+      alt: "High key lighting AI prompt example with bright airy exposure and soft pale shadows",
+      background:
+        "radial-gradient(circle at 30% 24%, #ffffff 0, transparent 34%), linear-gradient(135deg, #ffffff 0%, #f6f3ec 46%, #e4eee9 100%)"
+    },
+    overview:
+      "High Key Lighting is a bright lighting style with low contrast, pale shadows, and an airy overall feeling. In AI image prompts, it is useful for creating clean, optimistic, fresh, and approachable images. The background is often white or light-toned, and the subject is evenly illuminated. High Key Lighting is common in beauty campaigns, wellness imagery, ecommerce product photography, healthcare visuals, baby and family photography, and modern business imagery. For beginners, it is a helpful keyword when you want a bright commercial look without harsh shadows or heavy drama.",
+    whatItDoes:
+      "When High Key Lighting appears in a prompt, the model tends to lift the overall exposure and reduce deep shadow areas. The image may feel clean, open, and friendly. This can make products look fresh, people look approachable, and interiors feel bright and modern. High Key Lighting is different from simply saying white background. It describes the whole lighting approach: soft shadows, bright surfaces, and controlled low contrast. Pair it with Soft Light, Studio Lighting, Minimalist, white seamless background, clean composition, pastel colors, or ecommerce photography. If the image becomes washed out, add phrases like visible detail, gentle contrast, natural skin tones, and defined subject edges.",
+    bestUseCases: [
+      "Beauty, skincare, healthcare, wellness, and family-oriented images where freshness, trust, and cleanliness are important.",
+      "Ecommerce and catalog product photography that needs a simple, bright, buyer-friendly presentation.",
+      "Business, education, and presentation visuals where the image should feel clear, positive, and easy to pair with text.",
+      "Stock concepts such as clarity, care, optimism, simplicity, clean living, modern work, health, and new beginnings."
+    ],
+    relatedKeywords: ["Soft Light", "Studio Lighting", "Minimalist"],
+    examplePrompt:
+      "A clean skincare product set on a white seamless background, high key lighting, soft shadows, pale neutral styling, fresh beauty campaign photography, visible product detail",
+    commercialApplications: ["Ecommerce catalogs", "Healthcare visuals", "Beauty campaigns"],
+    adobeStockPotential:
+      "High Key Lighting has excellent Adobe Stock potential because bright, clean images are widely useful. Buyers often need optimistic visuals for healthcare, wellness, beauty, education, business, family, and ecommerce. High key images can work well in layouts because they feel open and do not compete heavily with text or branding. To make them more valuable, avoid overexposure and keep important details visible. A strong high key stock image should feel clean but not empty. Clear subjects, subtle shadows, and practical copy space can make these images useful for websites, product pages, slide decks, ads, and social media templates.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Moody Lighting",
+    category: "Lighting",
+    published: true,
+    heroImage: {
+      src: "/images/keywords/moody-lighting.png",
+      alt: "Moody lighting AI prompt example with muted shadows and soft directional editorial glow",
+      background:
+        "radial-gradient(circle at 22% 30%, #d6c09a 0, transparent 22%), linear-gradient(135deg, #252a28 0%, #59605b 48%, #7a6658 100%)"
+    },
+    overview:
+      "Moody Lighting is a prompt keyword for images with atmosphere, emotional depth, and a more restrained lighting style. It often includes darker tones, directional light, muted colors, and visible shadow areas, but it does not have to be as dark as Low Key Lighting. In AI image generation, Moody Lighting is useful when you want a scene to feel thoughtful, cinematic, intimate, elegant, or mysterious. It is common in editorial portraits, luxury interiors, coffee shop scenes, rainy windows, fashion campaigns, and premium product photography. Beginners can use it to add feeling and story to otherwise plain images.",
+    whatItDoes:
+      "When you add Moody Lighting, the model tends to reduce brightness, soften the palette, and create a stronger emotional tone. Light may come from a window, lamp, candle, screen, doorway, or narrow studio source. Shadows become part of the composition instead of something to remove. Moody Lighting can make a room feel quiet, a portrait feel introspective, or a product feel more premium. It pairs well with Cinematic Lighting, Low Key Lighting, Warm Tones, Muted Colors, Depth of Field, and Atmospheric Haze. To keep the result practical, describe the subject clearly and ask for readable detail. If the image becomes too gloomy, add soft highlight, balanced exposure, or subtle warm light.",
+    bestUseCases: [
+      "Editorial portraits and lifestyle scenes where emotion, introspection, or quiet atmosphere are more important than bright commercial polish.",
+      "Luxury interiors, boutique hospitality, restaurants, coffee shops, studios, and home scenes that should feel intimate and designed.",
+      "Premium product images for fragrance, leather goods, watches, books, beverages, and craft objects where restrained light adds perceived value.",
+      "Stock concepts such as focus, creativity, solitude, craftsmanship, premium service, rainy days, evening routines, and thoughtful work."
+    ],
+    relatedKeywords: ["Low Key Lighting", "Cinematic Lighting", "Rim Light"],
+    examplePrompt:
+      "A quiet designer workspace beside a rain-streaked window, moody lighting, muted colors, soft directional lamp glow, shallow depth of field, editorial lifestyle photography",
+    commercialApplications: ["Editorial campaigns", "Hospitality branding", "Premium lifestyle visuals"],
+    adobeStockPotential:
+      "Moody Lighting has good Adobe Stock potential for buyers seeking premium, editorial, or emotionally rich images. It is useful for lifestyle articles, hospitality websites, book covers, music visuals, luxury branding, coffee and food culture, creative work, and boutique retail. The key is balance: the mood should be clear, but the subject must remain readable. Overly dark or vague images can be harder to sell. Strong moody stock images usually have a specific setting, a clean focal point, and a commercial theme such as creativity, calm, focus, elegance, or evening atmosphere. This keyword helps create images that feel less generic and more curated.",
+    difficulty: "Intermediate"
   },
   {
     title: "Dreamy",
@@ -379,6 +531,7 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Minimalist",
     category: "Style",
+    published: true,
     heroImage: {
       src: "/images/keywords/minimalist.png",
       alt: "Abstract placeholder for minimalist style with open space and restrained blocks of color",
@@ -490,6 +643,7 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Morandi Palette",
     category: "Color",
+    published: true,
     heroImage: {
       src: "/images/keywords/morandi-palette.png",
       alt: "Abstract placeholder for Morandi palette with dusty muted color fields",

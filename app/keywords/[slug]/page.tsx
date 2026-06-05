@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { KeywordArticleLayout } from "@/components/KeywordArticleLayout";
-import { keywords } from "@/content/keywords";
-import { getKeyword, getRelatedKeywords } from "@/lib/data";
+import { getKeyword, getPublishedKeywords, getRelatedKeywords } from "@/lib/data";
 
 type Props = {
   params: Promise<{ slug: string }>;
 };
 
 export function generateStaticParams() {
-  return keywords.map((keyword) => ({ slug: keyword.slug }));
+  return getPublishedKeywords().map((keyword) => ({ slug: keyword.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

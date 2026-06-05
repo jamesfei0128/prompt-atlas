@@ -7,20 +7,24 @@ export function getCategory(slug: string) {
 }
 
 export function getKeyword(slug: string) {
-  return keywords.find((keyword) => keyword.slug === slug);
+  return getPublishedKeywords().find((keyword) => keyword.slug === slug);
 }
 
 export function getKeywordsByCategory(categorySlug: string) {
-  return keywords.filter((keyword) => keyword.categorySlug === categorySlug);
+  return getPublishedKeywords().filter((keyword) => keyword.categorySlug === categorySlug);
 }
 
 export function getRelatedKeywords(titles: string[]) {
   return titles
-    .map((title) => keywords.find((keyword) => keyword.title === title))
+    .map((title) => getPublishedKeywords().find((keyword) => keyword.title === title))
     .filter((keyword): keyword is KeywordWithSlug => Boolean(keyword))
     .slice(0, 6);
 }
 
 export function getFeaturedKeywords() {
   return getRelatedKeywords(featuredKeywordTitles);
+}
+
+export function getPublishedKeywords() {
+  return keywords.filter((keyword) => keyword.published);
 }

@@ -1,5 +1,7 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { KeywordWithSlug } from "@/content/keywords";
+import { publicImageExists } from "@/lib/images";
 
 type KeywordArticleLayoutProps = {
   keyword: KeywordWithSlug;
@@ -10,6 +12,8 @@ const defaultHeroBackground =
   "radial-gradient(circle at 18% 22%, #ffffff, transparent 30%), linear-gradient(135deg, #edf1ee, #fbfaf7 50%, #eaded6)";
 
 export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticleLayoutProps) {
+  const showImage = publicImageExists(keyword.heroImage?.src);
+
   return (
     <article className="mx-auto max-w-5xl px-5 py-12">
       <Link href={`/categories/${keyword.categorySlug}`} className="text-sm font-semibold text-sage">
@@ -23,14 +27,17 @@ export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticl
       <div
         role="img"
         aria-label={keyword.heroImage?.alt ?? `${keyword.title} hero image placeholder`}
-        className="mt-9 aspect-[16/9] overflow-hidden rounded-lg border border-line bg-cover bg-center"
+        className="relative mt-9 aspect-[16/9] overflow-hidden rounded-lg border border-line bg-cover bg-center"
         style={{ background: keyword.heroImage?.background ?? defaultHeroBackground }}
       >
-        {keyword.heroImage?.src ? (
-          <img
+        {showImage && keyword.heroImage?.src ? (
+          <Image
             src={keyword.heroImage.src}
-            alt=""
-            className="h-full w-full object-cover"
+            alt={keyword.heroImage.alt}
+            fill
+            priority
+            sizes="(min-width: 1024px) 896px, calc(100vw - 40px)"
+            className="object-cover"
           />
         ) : null}
       </div>
