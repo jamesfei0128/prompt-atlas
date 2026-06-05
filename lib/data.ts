@@ -1,4 +1,5 @@
 import { categories } from "@/content/categories";
+import { featuredKeywordTitles } from "@/content/featured";
 import { keywords, type KeywordWithSlug } from "@/content/keywords";
 
 export function getCategory(slug: string) {
@@ -18,4 +19,8 @@ export function getRelatedKeywords(titles: string[]) {
     .map((title) => keywords.find((keyword) => keyword.title === title))
     .filter((keyword): keyword is KeywordWithSlug => Boolean(keyword))
     .slice(0, 6);
+}
+
+export function getFeaturedKeywords() {
+  return getRelatedKeywords(featuredKeywordTitles);
 }

@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { KeywordCard } from "@/components/KeywordCard";
-import { keywords } from "@/content/keywords";
+import { getFeaturedKeywords } from "@/lib/data";
 
-const featured = keywords.slice(0, 6);
+const featured = getFeaturedKeywords();
 
 export default function HomePage() {
   return (

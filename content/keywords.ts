@@ -3,6 +3,10 @@ import { slugify } from "@/lib/slug";
 export type Keyword = {
   title: string;
   category: string;
+  heroImage?: {
+    alt: string;
+    background: string;
+  };
   overview: string;
   whatItDoes: string;
   bestUseCases: string[];
@@ -17,25 +21,53 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Cinematic Lighting",
     category: "Lighting",
-    overview: "A dramatic lighting cue that makes images feel polished, story-driven, and filmic.",
-    whatItDoes: "Adds controlled contrast, directional light, and a premium scene quality.",
-    bestUseCases: ["Movie-inspired portraits", "Product hero images", "Editorial scenes"],
-    relatedKeywords: ["Moody", "Rim Light", "Depth of Field"],
-    examplePrompt: "A premium watch on black stone, cinematic lighting, subtle reflections, shallow depth of field",
+    heroImage: {
+      alt: "Abstract placeholder for cinematic lighting with dramatic warm highlights and deep shadows",
+      background:
+        "radial-gradient(circle at 24% 28%, #fff4d7 0, transparent 28%), linear-gradient(135deg, #232323 0%, #6d4b38 48%, #e7d8bc 100%)"
+    },
+    overview:
+      "Cinematic Lighting is one of the most useful prompt keywords for making AI-generated images feel intentional, polished, and story-driven. Instead of asking for a flat, evenly lit image, this keyword signals that the scene should feel as if it was lit for a film, commercial, or high-end editorial shoot. The result often includes stronger direction in the light source, more purposeful shadows, richer contrast, and a clearer sense of atmosphere. For beginners, it is a reliable way to move an image away from a generic render and toward something that feels composed, dramatic, and visually memorable.",
+    whatItDoes:
+      "In a prompt, Cinematic Lighting helps the model think about light as part of the storytelling. It can create a bright key light on the main subject, a darker background, subtle rim highlights, glowing practical lights, or a soft falloff from light into shadow. This keyword also tends to improve depth because it separates the subject from the environment. A portrait may feel more emotional, a product may feel more premium, and an interior may feel more atmospheric. It does not automatically mean dark or moody; cinematic lighting can be warm, clean, romantic, futuristic, or suspenseful depending on the other keywords around it. Pair it with phrases like soft shadows, dramatic contrast, golden hour, rim light, volumetric haze, or studio setup to guide the exact mood.",
+    bestUseCases: [
+      "Portraits and character images where the face, pose, or expression needs emotional weight. Cinematic Lighting can make a simple subject feel like a still frame from a larger story.",
+      "Product hero images for watches, perfume, headphones, beverages, skincare, and luxury packaging. The keyword helps add premium highlights, controlled reflections, and stronger visual focus.",
+      "Editorial, advertising, and landing page visuals that need to look more designed than ordinary stock photography. It works especially well when combined with negative space for text placement.",
+      "Atmospheric interiors, restaurants, hotels, offices, studios, and architectural scenes where light should shape the room instead of merely revealing it."
+    ],
+    relatedKeywords: ["Golden Hour", "Volumetric Lighting", "Moody"],
+    examplePrompt:
+      "A premium watch resting on black stone, cinematic lighting, warm key light from the left, subtle rim light, controlled reflections, shallow depth of field, dark neutral background, luxury product photography, high detail, elegant commercial composition",
     commercialApplications: ["Luxury ads", "Poster concepts", "Hero banners"],
-    adobeStockPotential: "High potential for dramatic business, lifestyle, and product imagery.",
+    adobeStockPotential:
+      "Cinematic Lighting has strong Adobe Stock potential because it supports many evergreen commercial needs: product hero images, business portraits, technology concepts, luxury branding, entertainment posters, lifestyle campaigns, and dramatic website headers. Buyers often look for images that already feel premium and usable in a layout. This keyword can help create visuals with strong focal points, appealing contrast, and space for copy. To improve stock usefulness, avoid copyrighted characters, logos, recognizable brands, and overly specific movie references. Keep the subject clear, the composition flexible, and the lighting polished. Images using Cinematic Lighting can perform especially well when paired with practical commercial themes such as innovation, leadership, wellness, fashion, hospitality, finance, or premium consumer goods.",
     difficulty: "Beginner"
   },
   {
     title: "Golden Hour",
     category: "Lighting",
-    overview: "A warm sunrise or sunset light effect associated with softness, optimism, and lifestyle appeal.",
-    whatItDoes: "Wraps subjects in warm directional light with gentle shadows and natural glow.",
-    bestUseCases: ["Travel imagery", "Outdoor portraits", "Lifestyle campaigns"],
-    relatedKeywords: ["Warm Tones", "Soft Light", "Serene"],
-    examplePrompt: "A modern cabin in the hills at golden hour, warm tones, serene atmosphere, editorial travel photo",
+    heroImage: {
+      alt: "Abstract placeholder for golden hour with warm sunlight fading into soft neutral tones",
+      background:
+        "radial-gradient(circle at 18% 22%, #fff1b8 0, transparent 30%), linear-gradient(135deg, #e7a94f 0%, #f4d7a1 46%, #f8f2e8 100%)"
+    },
+    overview:
+      "Golden Hour is a lighting keyword that refers to the warm, low-angle sunlight shortly after sunrise or shortly before sunset. In AI image prompts, it is one of the easiest ways to make a scene feel natural, emotional, and commercially appealing. The light is usually softer than midday sun, the shadows are longer, and the color temperature leans warm. This makes subjects feel more flattering and environments feel more inviting. For beginners, Golden Hour is a dependable keyword because it improves mood without requiring a complicated lighting setup. It works for people, landscapes, products, interiors, food, travel scenes, and lifestyle imagery.",
+    whatItDoes:
+      "When you add Golden Hour to a prompt, you are asking the image model to create a specific time-of-day feeling. The light often appears directional, warm, and slightly glowing. It can wrap around a subject, create gentle highlights on hair or objects, and add depth through long shadows. Golden Hour also helps connect the subject to the environment. A person walking through a city, a cabin in the hills, or a product on an outdoor table can all feel more believable when the light has a clear source. This keyword pairs especially well with warm tones, soft light, backlighting, cinematic lighting, and atmospheric haze. If your image becomes too orange, balance it with phrases like natural color grading, soft contrast, realistic skin tones, or neutral shadows.",
+    bestUseCases: [
+      "Travel and destination imagery where the goal is to make a place feel aspirational, peaceful, or worth visiting. Golden Hour can make beaches, cabins, streets, mountains, and hotels feel more inviting.",
+      "Lifestyle photography with people exercising, working, relaxing, driving, cooking, or spending time outdoors. The warm light adds emotional warmth without making the scene feel overly staged.",
+      "Product images for wellness, outdoor gear, beverages, home goods, and sustainable brands. Golden Hour can make simple products feel natural, premium, and connected to real-life use.",
+      "Stock images that need a positive, optimistic mood. The keyword is useful for concepts like freedom, renewal, health, calm, family, entrepreneurship, and work-life balance."
+    ],
+    relatedKeywords: ["Cinematic Lighting", "Volumetric Lighting", "Morandi Palette"],
+    examplePrompt:
+      "A modern cabin on a quiet hillside at golden hour, warm sunlight from the side, long soft shadows, natural color grading, peaceful travel photography, negative space for copy, realistic editorial style",
     commercialApplications: ["Travel marketing", "Wellness brands", "Real estate visuals"],
-    adobeStockPotential: "Strong potential for travel, wellness, and aspirational lifestyle searches.",
+    adobeStockPotential:
+      "Golden Hour has high Adobe Stock potential because it supports many buyer-friendly themes: travel, wellness, real estate, family, outdoor lifestyle, entrepreneurship, retirement, hospitality, and nature. Buyers often need images that feel hopeful and polished while still looking realistic. Golden Hour can provide that balance. It is especially useful when combined with simple compositions and clear subjects. For stock use, avoid making the image too fantasy-like unless the concept requires it. Keep faces natural, avoid logos, and leave some open space when possible so designers can add headlines or promotional text. Golden Hour images can also work well as website headers, social media ads, editorial blog visuals, and presentation covers.",
     difficulty: "Beginner"
   },
   {
@@ -89,13 +121,27 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Volumetric Lighting",
     category: "Lighting",
-    overview: "Visible light beams moving through dust, mist, smoke, or haze.",
-    whatItDoes: "Adds depth, scale, and cinematic atmosphere to a scene.",
-    bestUseCases: ["Interiors", "Fantasy scenes", "Concert imagery"],
-    relatedKeywords: ["God Rays", "Atmospheric Haze", "Mystical"],
-    examplePrompt: "An ancient library with tall windows, volumetric lighting, dust in the air, mystical atmosphere",
+    heroImage: {
+      alt: "Abstract placeholder for volumetric lighting with visible beams passing through haze",
+      background:
+        "linear-gradient(120deg, rgba(255,255,255,0.88) 0 12%, transparent 12% 28%, rgba(255,255,255,0.48) 28% 38%, transparent 38%), linear-gradient(135deg, #dce7e1 0%, #9eaa9d 48%, #5b665d 100%)"
+    },
+    overview:
+      "Volumetric Lighting describes visible beams of light traveling through particles in the air, such as mist, dust, smoke, fog, or atmospheric haze. In AI image generation, it is a powerful keyword for adding depth and drama. Instead of light simply landing on objects, the light itself becomes visible inside the scene. This can make an image feel cinematic, mysterious, sacred, futuristic, or magical depending on the setting. Beginners can use Volumetric Lighting when a prompt feels flat or lacks atmosphere. It is especially useful when you want the viewer to feel the scale of a space, the direction of the light, or the mood of an environment.",
+    whatItDoes:
+      "This keyword tells the model to render light as a physical presence. You may see beams passing through tall windows, shafts of sunlight crossing a forest, stage lights cutting through smoke, or glowing haze inside a futuristic hallway. Volumetric Lighting often increases the sense of distance because it creates layers between the foreground, middle ground, and background. It also helps guide attention. A beam of light can point toward a subject, highlight a product, or create a natural focal path through the image. To control it well, pair it with words that describe the environment: dusty library, misty forest, smoky concert stage, foggy street, or sunlit cathedral. If the image becomes too heavy or unclear, add subtle haze, clean subject focus, or soft atmospheric depth.",
+    bestUseCases: [
+      "Large interiors such as libraries, museums, studios, churches, warehouses, hotels, and modern offices. Beams of light can make these spaces feel grand and visually layered.",
+      "Fantasy, sci-fi, and concept art where atmosphere matters as much as the subject. Volumetric Lighting can suggest mystery, discovery, danger, or wonder.",
+      "Commercial backgrounds that need a strong mood without relying on busy details. It can create dramatic empty space for posters, hero banners, or presentation slides.",
+      "Stock images about spirituality, inspiration, performance, entertainment, innovation, and nature. The visible light can make abstract ideas feel more concrete."
+    ],
+    relatedKeywords: ["Cinematic Lighting", "Golden Hour", "Minimalist"],
+    examplePrompt:
+      "An ancient library with tall arched windows, volumetric lighting, visible dust particles in the air, warm beams crossing wooden shelves, atmospheric depth, cinematic composition, quiet mysterious mood",
     commercialApplications: ["Game concepts", "Entertainment posters", "Editorial backgrounds"],
-    adobeStockPotential: "Good potential for backgrounds, fantasy, and atmospheric concepts.",
+    adobeStockPotential:
+      "Volumetric Lighting has solid Adobe Stock potential, especially for atmospheric backgrounds, entertainment concepts, spiritual visuals, dramatic interiors, and cinematic design assets. Buyers may use these images for book covers, event posters, music promotions, film-related articles, game concepts, or website hero sections. The strongest stock images usually have a readable subject and controlled atmosphere. If there is too much haze, the image can become hard to use commercially. Keep the composition clean, avoid copyrighted symbols, and make sure the lighting supports a clear concept such as inspiration, mystery, performance, technology, history, or discovery. Volumetric Lighting can also increase the perceived production value of otherwise simple scenes.",
     difficulty: "Intermediate"
   },
   {
@@ -329,13 +375,27 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Minimalist",
     category: "Style",
-    overview: "A clean style keyword focused on simplicity, restraint, and intentional empty space.",
-    whatItDoes: "Removes clutter and creates a polished, flexible design base.",
-    bestUseCases: ["Brand visuals", "Product images", "Presentation backgrounds"],
-    relatedKeywords: ["Negative Space", "Scandinavian", "Muted Colors"],
-    examplePrompt: "Minimalist desk setup with a notebook and pen, negative space, soft light, muted colors",
+    heroImage: {
+      alt: "Abstract placeholder for minimalist style with open space and restrained blocks of color",
+      background:
+        "linear-gradient(135deg, #fbfaf7 0%, #fbfaf7 52%, #dfe7e2 52% 72%, #b8c5ba 72% 100%)"
+    },
+    overview:
+      "Minimalist is a style keyword that emphasizes simplicity, clarity, and restraint. In AI image prompts, it helps remove visual clutter and creates images that feel calm, modern, and easy to use in real design projects. A minimalist image usually has fewer objects, cleaner backgrounds, more negative space, and a clearer focal point. This makes it especially useful for commercial work because designers often need images that can support text, branding, or layout elements. For beginners, Minimalist is one of the best keywords to use when a generated image feels too busy, decorative, or hard to read.",
+    whatItDoes:
+      "When added to a prompt, Minimalist encourages the model to simplify the scene. It may reduce the number of props, use cleaner surfaces, soften the color palette, and make the subject easier to identify. It can also create a stronger sense of design because every element has more room to breathe. Minimalist does not mean empty or boring. A good minimalist image still needs a clear subject, thoughtful light, pleasing proportions, and enough visual interest to hold attention. The keyword works well with negative space, soft light, center composition, Scandinavian, Japandi, muted colors, and Morandi palette. If the result becomes too plain, add a material or focal detail such as ceramic texture, paper texture, subtle shadow, natural wood, or refined product styling.",
+    bestUseCases: [
+      "Product photography and ecommerce visuals where the item should be immediately clear. Minimalist prompts help reduce distractions around packaging, devices, furniture, cosmetics, and accessories.",
+      "Business presentation backgrounds, website headers, and social media graphics that need copy space. The clean structure makes it easier for designers to place text over or beside the image.",
+      "Interior and lifestyle imagery for wellness, productivity, home decor, architecture, and premium consumer brands. Minimalist scenes can feel calm, professional, and current.",
+      "Stock concepts that need broad usability, such as focus, clarity, simplicity, modern work, calm living, organization, sustainability, and intentional design."
+    ],
+    relatedKeywords: ["Morandi Palette", "Cinematic Lighting", "Volumetric Lighting"],
+    examplePrompt:
+      "A minimalist desk setup with one notebook, a black pen, and a ceramic cup, soft natural light, generous negative space, muted neutral colors, clean modern composition, professional stock photo",
     commercialApplications: ["Tech branding", "Slide decks", "Ecommerce"],
-    adobeStockPotential: "Very high for versatile business and design assets.",
+    adobeStockPotential:
+      "Minimalist has very strong Adobe Stock potential because it creates flexible assets that can serve many industries. Designers often search for clean images with room for text, simple backgrounds, and clear subjects. Minimalist images can work for technology, wellness, productivity, finance, education, real estate, home decor, beauty, and lifestyle brands. For stock success, make sure the image has a useful concept rather than only looking empty. A simple laptop can represent remote work, a clean table can represent planning, and a single product can represent quality or focus. Avoid overly generic blank scenes unless they are intended as backgrounds. Strong minimalist stock images usually combine restraint with a clear commercial purpose.",
     difficulty: "Beginner"
   },
   {
@@ -425,13 +485,27 @@ const keywordSeeds: Keyword[] = [
   {
     title: "Morandi Palette",
     category: "Color",
-    overview: "A subdued palette inspired by dusty, softened colors with painterly restraint.",
-    whatItDoes: "Creates sophistication through muted, low-saturation color harmony.",
-    bestUseCases: ["Editorial design", "Interiors", "Beauty products"],
-    relatedKeywords: ["Muted Colors", "Pastel Colors", "Minimalist"],
-    examplePrompt: "A set of ceramic vases on linen, Morandi palette, soft light, minimalist still life",
+    heroImage: {
+      alt: "Abstract placeholder for Morandi palette with dusty muted color fields",
+      background:
+        "linear-gradient(135deg, #b9aaa0 0%, #d2c7bd 25%, #aeb9ad 25% 52%, #d8c4b2 52% 76%, #8f9a91 76% 100%)"
+    },
+    overview:
+      "Morandi Palette is a color keyword inspired by the quiet, dusty tones associated with painter Giorgio Morandi. In AI image prompts, it usually points the model toward muted, low-saturation colors such as dusty rose, warm gray, clay, sage, beige, soft blue, faded mauve, and stone. The effect is refined, calm, and slightly editorial. This palette is useful when you want an image to feel sophisticated without becoming cold or overly minimal. For beginners, Morandi Palette is a practical way to control color harmony. It can make a scene feel more tasteful, cohesive, and brand-ready, especially when default AI colors look too bright or artificial.",
+    whatItDoes:
+      "Adding Morandi Palette to a prompt reduces color intensity and encourages subtle relationships between hues. Instead of strong primary colors or neon contrast, the image may use softened colors that feel natural, dusty, and carefully chosen. This can improve the professional quality of still lifes, interiors, packaging mockups, beauty products, stationery, ceramics, and lifestyle scenes. Morandi Palette is not the same as pastel colors. Pastels can feel sweet and light, while Morandi tones are usually more muted, mature, and painterly. It pairs well with minimalist, soft light, paper texture, ceramic objects, organic modern, Japandi, and negative space. If the result feels too dull, add gentle contrast, warm highlights, or a clear focal object.",
+    bestUseCases: [
+      "Beauty, skincare, fragrance, and wellness product imagery where the brand should feel calm, premium, and refined. The palette can make packaging feel more editorial.",
+      "Interior design and home decor visuals that need a soft, sophisticated color story. Morandi tones work well with ceramics, linen, plaster, wood, stone, and natural light.",
+      "Stationery, packaging, and branding mockups where the image should feel designer-friendly without strong visual noise. Muted colors leave room for typography and identity systems.",
+      "Stock images for calm lifestyle concepts, slow living, creative work, handmade objects, modern homes, art direction, and boutique retail."
+    ],
+    relatedKeywords: ["Minimalist", "Golden Hour", "Cinematic Lighting"],
+    examplePrompt:
+      "A set of ceramic vases on natural linen, Morandi palette, dusty rose and sage tones, soft window light, minimalist still life, gentle shadows, refined editorial composition",
     commercialApplications: ["Beauty branding", "Home decor", "Editorial backgrounds"],
-    adobeStockPotential: "Good for refined, design-aware commercial imagery.",
+    adobeStockPotential:
+      "Morandi Palette has good Adobe Stock potential for buyers who need refined, design-aware visuals. It is especially strong for beauty branding, wellness, home decor, stationery, packaging, boutique retail, and editorial lifestyle content. The palette can make simple objects feel intentional and premium, which helps images stand out from generic colorful stock. To make Morandi-style images more useful, keep the subject clear and avoid making the entire frame too low contrast. Designers often need images that are soft but still readable. This keyword also works well for backgrounds and mockups because the colors are gentle enough to support text overlays. For stock submissions, avoid brand names, copyrighted artwork, and overly specific product labels.",
     difficulty: "Intermediate"
   },
   {
