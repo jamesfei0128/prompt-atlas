@@ -23,9 +23,17 @@ export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticl
       <div
         role="img"
         aria-label={keyword.heroImage?.alt ?? `${keyword.title} hero image placeholder`}
-        className="mt-9 aspect-[16/7] rounded-lg border border-line"
+        className="mt-9 aspect-[16/9] overflow-hidden rounded-lg border border-line bg-cover bg-center"
         style={{ background: keyword.heroImage?.background ?? defaultHeroBackground }}
-      />
+      >
+        {keyword.heroImage?.src ? (
+          <img
+            src={keyword.heroImage.src}
+            alt=""
+            className="h-full w-full object-cover"
+          />
+        ) : null}
+      </div>
 
       <div className="mt-10 grid gap-8 lg:grid-cols-[1fr_280px]">
         <div className="space-y-9">

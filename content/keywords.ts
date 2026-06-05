@@ -4,6 +4,7 @@ export type Keyword = {
   title: string;
   category: string;
   heroImage?: {
+    src?: string;
     alt: string;
     background: string;
   };
@@ -22,6 +23,7 @@ const keywordSeeds: Keyword[] = [
     title: "Cinematic Lighting",
     category: "Lighting",
     heroImage: {
+      src: "/images/keywords/cinematic-lighting.png",
       alt: "Abstract placeholder for cinematic lighting with dramatic warm highlights and deep shadows",
       background:
         "radial-gradient(circle at 24% 28%, #fff4d7 0, transparent 28%), linear-gradient(135deg, #232323 0%, #6d4b38 48%, #e7d8bc 100%)"
@@ -48,6 +50,7 @@ const keywordSeeds: Keyword[] = [
     title: "Golden Hour",
     category: "Lighting",
     heroImage: {
+      src: "/images/keywords/golden-hour.png",
       alt: "Abstract placeholder for golden hour with warm sunlight fading into soft neutral tones",
       background:
         "radial-gradient(circle at 18% 22%, #fff1b8 0, transparent 30%), linear-gradient(135deg, #e7a94f 0%, #f4d7a1 46%, #f8f2e8 100%)"
@@ -122,6 +125,7 @@ const keywordSeeds: Keyword[] = [
     title: "Volumetric Lighting",
     category: "Lighting",
     heroImage: {
+      src: "/images/keywords/volumetric-lighting.png",
       alt: "Abstract placeholder for volumetric lighting with visible beams passing through haze",
       background:
         "linear-gradient(120deg, rgba(255,255,255,0.88) 0 12%, transparent 12% 28%, rgba(255,255,255,0.48) 28% 38%, transparent 38%), linear-gradient(135deg, #dce7e1 0%, #9eaa9d 48%, #5b665d 100%)"
@@ -376,6 +380,7 @@ const keywordSeeds: Keyword[] = [
     title: "Minimalist",
     category: "Style",
     heroImage: {
+      src: "/images/keywords/minimalist.png",
       alt: "Abstract placeholder for minimalist style with open space and restrained blocks of color",
       background:
         "linear-gradient(135deg, #fbfaf7 0%, #fbfaf7 52%, #dfe7e2 52% 72%, #b8c5ba 72% 100%)"
@@ -486,6 +491,7 @@ const keywordSeeds: Keyword[] = [
     title: "Morandi Palette",
     category: "Color",
     heroImage: {
+      src: "/images/keywords/morandi-palette.png",
       alt: "Abstract placeholder for Morandi palette with dusty muted color fields",
       background:
         "linear-gradient(135deg, #b9aaa0 0%, #d2c7bd 25%, #aeb9ad 25% 52%, #d8c4b2 52% 76%, #8f9a91 76% 100%)"
