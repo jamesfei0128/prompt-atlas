@@ -1,0 +1,625 @@
+import { slugify } from "@/lib/slug";
+
+export type Keyword = {
+  title: string;
+  category: string;
+  overview: string;
+  whatItDoes: string;
+  bestUseCases: string[];
+  relatedKeywords: string[];
+  examplePrompt: string;
+  commercialApplications: string[];
+  adobeStockPotential: string;
+  difficulty: "Beginner" | "Intermediate" | "Advanced";
+};
+
+const keywordSeeds: Keyword[] = [
+  {
+    title: "Cinematic Lighting",
+    category: "Lighting",
+    overview: "A dramatic lighting cue that makes images feel polished, story-driven, and filmic.",
+    whatItDoes: "Adds controlled contrast, directional light, and a premium scene quality.",
+    bestUseCases: ["Movie-inspired portraits", "Product hero images", "Editorial scenes"],
+    relatedKeywords: ["Moody", "Rim Light", "Depth of Field"],
+    examplePrompt: "A premium watch on black stone, cinematic lighting, subtle reflections, shallow depth of field",
+    commercialApplications: ["Luxury ads", "Poster concepts", "Hero banners"],
+    adobeStockPotential: "High potential for dramatic business, lifestyle, and product imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Golden Hour",
+    category: "Lighting",
+    overview: "A warm sunrise or sunset light effect associated with softness, optimism, and lifestyle appeal.",
+    whatItDoes: "Wraps subjects in warm directional light with gentle shadows and natural glow.",
+    bestUseCases: ["Travel imagery", "Outdoor portraits", "Lifestyle campaigns"],
+    relatedKeywords: ["Warm Tones", "Soft Light", "Serene"],
+    examplePrompt: "A modern cabin in the hills at golden hour, warm tones, serene atmosphere, editorial travel photo",
+    commercialApplications: ["Travel marketing", "Wellness brands", "Real estate visuals"],
+    adobeStockPotential: "Strong potential for travel, wellness, and aspirational lifestyle searches.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Soft Light",
+    category: "Lighting",
+    overview: "A gentle lighting keyword for smooth, flattering, low-contrast image generation.",
+    whatItDoes: "Reduces harsh shadows and creates a calm, approachable visual tone.",
+    bestUseCases: ["Portraits", "Beauty imagery", "Minimal product shots"],
+    relatedKeywords: ["Pastel Colors", "Dreamy", "Studio Lighting"],
+    examplePrompt: "Ceramic skincare bottles on a neutral surface, soft light, minimalist styling, pastel colors",
+    commercialApplications: ["Beauty campaigns", "Ecommerce imagery", "Wellness content"],
+    adobeStockPotential: "High potential for clean product and people-focused stock visuals.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Hard Light",
+    category: "Lighting",
+    overview: "A crisp, high-definition lighting cue that creates strong shadows and graphic drama.",
+    whatItDoes: "Emphasizes shape, contrast, edges, and bold visual tension.",
+    bestUseCases: ["Fashion editorials", "Architecture", "Graphic product scenes"],
+    relatedKeywords: ["High Contrast Colors", "Brutalist", "Monochrome"],
+    examplePrompt: "Brutalist concrete staircase, hard light, sharp geometric shadows, monochrome editorial photo",
+    commercialApplications: ["Fashion visuals", "Architecture portfolios", "Bold brand campaigns"],
+    adobeStockPotential: "Good potential for distinctive editorial and architectural content.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Rim Light",
+    category: "Lighting",
+    overview: "A back-edge lighting effect that outlines the subject and separates it from the background.",
+    whatItDoes: "Adds a bright contour around subjects, improving depth and premium polish.",
+    bestUseCases: ["Portraits", "Product silhouettes", "Dark background scenes"],
+    relatedKeywords: ["Backlighting", "Cinematic Lighting", "Neon Glow"],
+    examplePrompt: "A runner in a dark studio, rim light outlining the silhouette, cinematic lighting, high contrast",
+    commercialApplications: ["Sports campaigns", "Tech ads", "Premium product images"],
+    adobeStockPotential: "Strong for dramatic concepts where subject separation matters.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Backlighting",
+    category: "Lighting",
+    overview: "A lighting direction that places the main light behind the subject for glow and silhouette.",
+    whatItDoes: "Creates halos, translucent edges, and atmospheric separation.",
+    bestUseCases: ["Nature scenes", "Silhouettes", "Lifestyle portraits"],
+    relatedKeywords: ["Rim Light", "Golden Hour", "Atmospheric Haze"],
+    examplePrompt: "A person walking through tall grass, backlighting, golden hour, atmospheric haze, dreamy mood",
+    commercialApplications: ["Outdoor campaigns", "Book covers", "Inspirational imagery"],
+    adobeStockPotential: "High for emotional, aspirational, and nature-based stock themes.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Volumetric Lighting",
+    category: "Lighting",
+    overview: "Visible light beams moving through dust, mist, smoke, or haze.",
+    whatItDoes: "Adds depth, scale, and cinematic atmosphere to a scene.",
+    bestUseCases: ["Interiors", "Fantasy scenes", "Concert imagery"],
+    relatedKeywords: ["God Rays", "Atmospheric Haze", "Mystical"],
+    examplePrompt: "An ancient library with tall windows, volumetric lighting, dust in the air, mystical atmosphere",
+    commercialApplications: ["Game concepts", "Entertainment posters", "Editorial backgrounds"],
+    adobeStockPotential: "Good potential for backgrounds, fantasy, and atmospheric concepts.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "God Rays",
+    category: "Lighting",
+    overview: "Radiating beams of light often seen through clouds, trees, or windows.",
+    whatItDoes: "Creates a spiritual, epic, or awe-filled focal effect.",
+    bestUseCases: ["Landscape scenes", "Sacred interiors", "Fantasy art"],
+    relatedKeywords: ["Volumetric Lighting", "Ethereal", "Mystical"],
+    examplePrompt: "Sunbeams breaking through a misty forest canopy, god rays, ethereal atmosphere, wide angle",
+    commercialApplications: ["Inspirational posters", "Travel content", "Fantasy covers"],
+    adobeStockPotential: "Strong for spiritual, nature, and cinematic background searches.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Neon Glow",
+    category: "Lighting",
+    overview: "A colorful artificial glow associated with nightlife, tech, and futuristic design.",
+    whatItDoes: "Adds saturated luminous edges, reflections, and energetic contrast.",
+    bestUseCases: ["Cyberpunk scenes", "Music visuals", "Tech products"],
+    relatedKeywords: ["Cyberpunk", "Futuristic", "Glass Reflection"],
+    examplePrompt: "Transparent headphones on glossy acrylic, neon glow, cyberpunk color palette, studio product photo",
+    commercialApplications: ["Music campaigns", "Gaming brands", "Technology launches"],
+    adobeStockPotential: "High for tech, nightlife, and modern promotional imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Studio Lighting",
+    category: "Lighting",
+    overview: "A controlled commercial lighting setup for clean, professional output.",
+    whatItDoes: "Creates predictable highlights, shadows, and polished product or portrait results.",
+    bestUseCases: ["Product photography", "Corporate portraits", "Catalog visuals"],
+    relatedKeywords: ["Soft Light", "Product Photography", "Luxury Branding"],
+    examplePrompt: "A premium perfume bottle on a white sweep, studio lighting, clean shadows, luxury branding",
+    commercialApplications: ["Ecommerce", "Advertising", "Brand lookbooks"],
+    adobeStockPotential: "Very high for product, business, and commercial stock demand.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Dreamy",
+    category: "Atmosphere",
+    overview: "A soft emotional cue that creates gentle, imaginative, slightly unreal imagery.",
+    whatItDoes: "Adds glow, softness, pastel tones, and a light sense of fantasy.",
+    bestUseCases: ["Beauty visuals", "Lifestyle scenes", "Concept art"],
+    relatedKeywords: ["Soft Light", "Ethereal", "Pastel Colors"],
+    examplePrompt: "A quiet bedroom with linen curtains, dreamy atmosphere, soft light, pastel colors, serene styling",
+    commercialApplications: ["Wellness brands", "Interior content", "Beauty campaigns"],
+    adobeStockPotential: "Strong for lifestyle, wellness, and soft background imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Ethereal",
+    category: "Atmosphere",
+    overview: "A delicate mood keyword for airy, luminous, otherworldly scenes.",
+    whatItDoes: "Makes imagery feel light, magical, graceful, and translucent.",
+    bestUseCases: ["Fantasy portraits", "Bridal imagery", "Spiritual landscapes"],
+    relatedKeywords: ["God Rays", "Dreamy", "Mystical"],
+    examplePrompt: "A dancer in flowing fabric, ethereal atmosphere, soft light, pale background, elegant motion",
+    commercialApplications: ["Fashion editorials", "Wellness visuals", "Event branding"],
+    adobeStockPotential: "Good for elegant, spiritual, and aspirational visuals.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Moody",
+    category: "Atmosphere",
+    overview: "A darker emotional direction with contrast, restraint, and dramatic tone.",
+    whatItDoes: "Creates depth, seriousness, and a more cinematic visual language.",
+    bestUseCases: ["Editorial portraits", "Luxury products", "Dramatic interiors"],
+    relatedKeywords: ["Cinematic Lighting", "Muted Colors", "Hard Light"],
+    examplePrompt: "A leather armchair beside a rain-streaked window, moody atmosphere, muted colors, cinematic lighting",
+    commercialApplications: ["Luxury branding", "Book covers", "Premium hospitality"],
+    adobeStockPotential: "High for sophisticated business, interior, and lifestyle content.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Serene",
+    category: "Atmosphere",
+    overview: "A calm mood keyword for peaceful, balanced, uncluttered images.",
+    whatItDoes: "Reduces visual tension and encourages spacious, restful compositions.",
+    bestUseCases: ["Wellness imagery", "Spa visuals", "Nature scenes"],
+    relatedKeywords: ["Negative Space", "Soft Light", "Cool Tones"],
+    examplePrompt: "A quiet lakeside meditation deck, serene atmosphere, cool tones, negative space, soft morning light",
+    commercialApplications: ["Wellness campaigns", "Healthcare visuals", "Hospitality branding"],
+    adobeStockPotential: "Strong for wellness, mindfulness, and calm business concepts.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Melancholic",
+    category: "Atmosphere",
+    overview: "A reflective emotional cue with quiet sadness and poetic restraint.",
+    whatItDoes: "Adds introspection, muted color, and emotional depth.",
+    bestUseCases: ["Narrative portraits", "Rainy city scenes", "Album artwork"],
+    relatedKeywords: ["Muted Colors", "Foggy", "Moody"],
+    examplePrompt: "A solitary figure at a bus stop in light rain, melancholic mood, muted colors, foggy city background",
+    commercialApplications: ["Editorial stories", "Music visuals", "Book covers"],
+    adobeStockPotential: "Moderate potential for narrative and emotional concept imagery.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Mystical",
+    category: "Atmosphere",
+    overview: "A magical atmosphere keyword that suggests mystery, symbolism, and hidden meaning.",
+    whatItDoes: "Adds haze, unusual light, and a sense of enchanted discovery.",
+    bestUseCases: ["Fantasy art", "Spiritual concepts", "Mysterious landscapes"],
+    relatedKeywords: ["Ethereal", "God Rays", "Atmospheric Haze"],
+    examplePrompt: "A stone circle at dawn, mystical atmosphere, atmospheric haze, god rays, ancient landscape",
+    commercialApplications: ["Fantasy covers", "Wellness branding", "Event posters"],
+    adobeStockPotential: "Good for fantasy, spiritual, and atmospheric backgrounds.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Atmospheric Haze",
+    category: "Atmosphere",
+    overview: "A depth cue that softens distant objects with mist, dust, or subtle air particles.",
+    whatItDoes: "Creates layered distance, softness, and cinematic spatial depth.",
+    bestUseCases: ["Landscapes", "Architecture", "Backlit scenes"],
+    relatedKeywords: ["Volumetric Lighting", "Foggy", "Backlighting"],
+    examplePrompt: "A mountain road at sunrise, atmospheric haze, backlighting, layered hills, cinematic landscape",
+    commercialApplications: ["Travel campaigns", "Automotive visuals", "Background plates"],
+    adobeStockPotential: "High for landscapes, travel, and background imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Foggy",
+    category: "Atmosphere",
+    overview: "A weather and mood keyword that obscures detail and adds mystery.",
+    whatItDoes: "Softens edges, lowers contrast, and creates quiet visual suspense.",
+    bestUseCases: ["Forests", "Urban mornings", "Mystery scenes"],
+    relatedKeywords: ["Atmospheric Haze", "Melancholic", "Moody"],
+    examplePrompt: "A narrow old street at dawn, foggy atmosphere, warm window lights, melancholic mood",
+    commercialApplications: ["Book covers", "Travel images", "Editorial backgrounds"],
+    adobeStockPotential: "Good for mood, weather, and mystery-themed stock searches.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Negative Space",
+    category: "Composition",
+    overview: "A composition keyword that leaves intentional empty space around the subject.",
+    whatItDoes: "Creates clarity, elegance, and room for text overlays.",
+    bestUseCases: ["Ad layouts", "Social graphics", "Presentation covers"],
+    relatedKeywords: ["Minimalist", "Serene", "Business Presentation Background"],
+    examplePrompt: "A single ceramic cup on a large clean table, negative space, soft light, minimalist composition",
+    commercialApplications: ["Web banners", "Slide covers", "Ad templates"],
+    adobeStockPotential: "Very high because designers often need copy space.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Symmetry",
+    category: "Composition",
+    overview: "A balanced framing keyword where elements mirror each other across an axis.",
+    whatItDoes: "Adds order, stability, and a refined visual rhythm.",
+    bestUseCases: ["Architecture", "Product layouts", "Luxury visuals"],
+    relatedKeywords: ["Center Composition", "Minimalist", "Studio Lighting"],
+    examplePrompt: "A symmetrical hotel lobby interior, marble texture, warm tones, luxury branding, wide angle",
+    commercialApplications: ["Hospitality marketing", "Architecture portfolios", "Brand visuals"],
+    adobeStockPotential: "High for architecture, interiors, and premium business imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Leading Lines",
+    category: "Composition",
+    overview: "A visual structure keyword that uses lines to guide attention toward a focal point.",
+    whatItDoes: "Improves depth, movement, and viewer navigation through the image.",
+    bestUseCases: ["Roads", "Architecture", "Product perspective shots"],
+    relatedKeywords: ["Wide Angle", "Depth of Field", "Rule of Thirds"],
+    examplePrompt: "A modern train platform with leading lines, wide angle, cinematic lighting, clean commercial photo",
+    commercialApplications: ["Travel ads", "Architecture visuals", "Transport campaigns"],
+    adobeStockPotential: "Strong for dynamic, professional-looking stock images.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Rule of Thirds",
+    category: "Composition",
+    overview: "A classic framing method that places important subjects off-center for natural balance.",
+    whatItDoes: "Makes compositions feel more dynamic and editorial.",
+    bestUseCases: ["Portraits", "Landscapes", "Lifestyle imagery"],
+    relatedKeywords: ["Leading Lines", "Negative Space", "Golden Hour"],
+    examplePrompt: "A freelancer working by a window, rule of thirds composition, soft light, modern workspace",
+    commercialApplications: ["Business imagery", "Lifestyle ads", "Editorial content"],
+    adobeStockPotential: "High for broadly useful lifestyle and business stock assets.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Center Composition",
+    category: "Composition",
+    overview: "A direct composition keyword that places the subject in the middle of the frame.",
+    whatItDoes: "Creates focus, simplicity, and strong product or portrait emphasis.",
+    bestUseCases: ["Product shots", "Icons", "Editorial portraits"],
+    relatedKeywords: ["Symmetry", "Studio Lighting", "Minimalist"],
+    examplePrompt: "A single designer chair, center composition, studio lighting, muted colors, clean background",
+    commercialApplications: ["Catalog imagery", "Hero assets", "Brand campaigns"],
+    adobeStockPotential: "High for isolated products, objects, and clean commercial visuals.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Wide Angle",
+    category: "Composition",
+    overview: "A lens and framing keyword for expansive scenes with a broad field of view.",
+    whatItDoes: "Adds scale, context, and immersive perspective.",
+    bestUseCases: ["Interiors", "Landscapes", "Architecture"],
+    relatedKeywords: ["Leading Lines", "Atmospheric Haze", "Futuristic"],
+    examplePrompt: "A futuristic airport terminal, wide angle, leading lines, cool tones, clean architectural photo",
+    commercialApplications: ["Real estate", "Travel campaigns", "Architecture marketing"],
+    adobeStockPotential: "Very high for spaces, interiors, and large commercial scenes.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Close Up",
+    category: "Composition",
+    overview: "A framing cue that brings the camera near the subject for detail and intimacy.",
+    whatItDoes: "Emphasizes texture, material, expression, and product features.",
+    bestUseCases: ["Product details", "Food photography", "Beauty shots"],
+    relatedKeywords: ["Paper Texture", "Metallic Surface", "Depth of Field"],
+    examplePrompt: "Close up of a handmade paper invitation, paper texture, soft light, luxury branding",
+    commercialApplications: ["Ecommerce details", "Packaging visuals", "Beauty campaigns"],
+    adobeStockPotential: "High for product, texture, craft, and detail-focused stock.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Depth of Field",
+    category: "Composition",
+    overview: "A focus keyword that keeps the subject sharp while blurring foreground or background.",
+    whatItDoes: "Creates separation, realism, and a photographic premium feel.",
+    bestUseCases: ["Portraits", "Product photography", "Lifestyle scenes"],
+    relatedKeywords: ["Close Up", "Cinematic Lighting", "Product Photography"],
+    examplePrompt: "A cup of coffee beside a laptop, depth of field, soft light, warm tones, modern office",
+    commercialApplications: ["Business stock", "Food imagery", "Product hero shots"],
+    adobeStockPotential: "Very high for realistic commercial photography styles.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Minimalist",
+    category: "Style",
+    overview: "A clean style keyword focused on simplicity, restraint, and intentional empty space.",
+    whatItDoes: "Removes clutter and creates a polished, flexible design base.",
+    bestUseCases: ["Brand visuals", "Product images", "Presentation backgrounds"],
+    relatedKeywords: ["Negative Space", "Scandinavian", "Muted Colors"],
+    examplePrompt: "Minimalist desk setup with a notebook and pen, negative space, soft light, muted colors",
+    commercialApplications: ["Tech branding", "Slide decks", "Ecommerce"],
+    adobeStockPotential: "Very high for versatile business and design assets.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Brutalist",
+    category: "Style",
+    overview: "A bold style keyword inspired by raw concrete, mass, geometry, and visual weight.",
+    whatItDoes: "Adds seriousness, structure, and architectural impact.",
+    bestUseCases: ["Architecture", "Fashion", "Editorial branding"],
+    relatedKeywords: ["Hard Light", "Monochrome", "High Contrast Colors"],
+    examplePrompt: "A brutalist museum exterior, hard light, high contrast shadows, monochrome architectural photo",
+    commercialApplications: ["Architecture marketing", "Fashion campaigns", "Cultural posters"],
+    adobeStockPotential: "Moderate to high for niche architectural and design-focused searches.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Cyberpunk",
+    category: "Style",
+    overview: "A futuristic urban style with neon lighting, dense technology, and night city energy.",
+    whatItDoes: "Adds saturated glow, tech atmosphere, and high-energy visual contrast.",
+    bestUseCases: ["Gaming art", "Tech campaigns", "Music visuals"],
+    relatedKeywords: ["Neon Glow", "Futuristic", "Glass Reflection"],
+    examplePrompt: "A cyberpunk street market at night, neon glow, rain reflections, futuristic signage",
+    commercialApplications: ["Gaming launches", "Music covers", "Tech event posters"],
+    adobeStockPotential: "High for digital culture, technology, and entertainment imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Japandi",
+    category: "Style",
+    overview: "A hybrid interior style combining Japanese restraint and Scandinavian warmth.",
+    whatItDoes: "Creates calm, natural, balanced spaces with refined simplicity.",
+    bestUseCases: ["Interior design", "Furniture visuals", "Wellness brands"],
+    relatedKeywords: ["Scandinavian", "Organic Modern", "Earth Tones"],
+    examplePrompt: "A Japandi living room with low wooden furniture, earth tones, soft light, serene atmosphere",
+    commercialApplications: ["Interior marketing", "Furniture catalogs", "Hospitality branding"],
+    adobeStockPotential: "High for interior, lifestyle, and design trend searches.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Scandinavian",
+    category: "Style",
+    overview: "A bright, functional style keyword with clean lines, natural materials, and light interiors.",
+    whatItDoes: "Adds simplicity, warmth, and everyday modern appeal.",
+    bestUseCases: ["Interiors", "Furniture", "Lifestyle scenes"],
+    relatedKeywords: ["Minimalist", "Japandi", "Soft Light"],
+    examplePrompt: "A Scandinavian kitchen with pale wood cabinets, soft light, minimalist styling, warm neutral tones",
+    commercialApplications: ["Furniture marketing", "Real estate", "Lifestyle blogs"],
+    adobeStockPotential: "Very high for interiors, home decor, and lifestyle stock imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Futuristic",
+    category: "Style",
+    overview: "A forward-looking style cue for sleek technology, advanced materials, and modern forms.",
+    whatItDoes: "Creates clean innovation signals through lighting, shape, and surface.",
+    bestUseCases: ["Tech products", "Architecture", "Concept vehicles"],
+    relatedKeywords: ["Cyberpunk", "Metallic Surface", "Cool Tones"],
+    examplePrompt: "A futuristic electric vehicle interior, cool tones, metallic surface, clean studio lighting",
+    commercialApplications: ["Technology launches", "Mobility concepts", "SaaS visuals"],
+    adobeStockPotential: "High for innovation, AI, technology, and future-of-work concepts.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Retro Futurism",
+    category: "Style",
+    overview: "A nostalgic future aesthetic inspired by mid-century optimism, space age design, and vintage tech.",
+    whatItDoes: "Adds playful nostalgia while still feeling imaginative and designed.",
+    bestUseCases: ["Poster art", "Packaging", "Editorial concepts"],
+    relatedKeywords: ["Futuristic", "Pastel Colors", "Warm Tones"],
+    examplePrompt: "A retro futurism travel poster for a moon hotel, pastel colors, clean geometry, vintage print style",
+    commercialApplications: ["Merchandise", "Editorial art", "Campaign concepts"],
+    adobeStockPotential: "Moderate to high for distinctive trend-led visual assets.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Organic Modern",
+    category: "Style",
+    overview: "A contemporary style using natural forms, calm colors, and tactile materials.",
+    whatItDoes: "Balances modern minimalism with warmth, softness, and nature-inspired texture.",
+    bestUseCases: ["Interiors", "Wellness products", "Brand imagery"],
+    relatedKeywords: ["Earth Tones", "Japandi", "Marble Texture"],
+    examplePrompt: "Organic modern bathroom interior with stone sink, earth tones, soft light, natural materials",
+    commercialApplications: ["Interior design", "Spa branding", "Home decor marketing"],
+    adobeStockPotential: "High for current interior, wellness, and premium lifestyle searches.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Morandi Palette",
+    category: "Color",
+    overview: "A subdued palette inspired by dusty, softened colors with painterly restraint.",
+    whatItDoes: "Creates sophistication through muted, low-saturation color harmony.",
+    bestUseCases: ["Editorial design", "Interiors", "Beauty products"],
+    relatedKeywords: ["Muted Colors", "Pastel Colors", "Minimalist"],
+    examplePrompt: "A set of ceramic vases on linen, Morandi palette, soft light, minimalist still life",
+    commercialApplications: ["Beauty branding", "Home decor", "Editorial backgrounds"],
+    adobeStockPotential: "Good for refined, design-aware commercial imagery.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Pastel Colors",
+    category: "Color",
+    overview: "A soft color keyword using pale, gentle hues for friendly and airy visuals.",
+    whatItDoes: "Reduces intensity and adds sweetness, calm, or playful lightness.",
+    bestUseCases: ["Beauty", "Children's products", "Wellness"],
+    relatedKeywords: ["Dreamy", "Soft Light", "Morandi Palette"],
+    examplePrompt: "A pastel colors stationery flat lay, soft light, clean background, negative space",
+    commercialApplications: ["Social templates", "Beauty campaigns", "Spring promotions"],
+    adobeStockPotential: "High for approachable seasonal, lifestyle, and product images.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Warm Tones",
+    category: "Color",
+    overview: "A palette direction based on reds, oranges, yellows, and warm neutrals.",
+    whatItDoes: "Creates comfort, energy, optimism, and hospitality.",
+    bestUseCases: ["Food imagery", "Travel", "Home interiors"],
+    relatedKeywords: ["Golden Hour", "Earth Tones", "Serene"],
+    examplePrompt: "A breakfast table in morning sun, warm tones, soft light, cozy lifestyle photo",
+    commercialApplications: ["Food brands", "Hospitality", "Family lifestyle campaigns"],
+    adobeStockPotential: "Very high for food, interiors, travel, and lifestyle categories.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Cool Tones",
+    category: "Color",
+    overview: "A palette direction based on blues, greens, cyans, and cool neutrals.",
+    whatItDoes: "Adds calm, clarity, technology, or clinical polish.",
+    bestUseCases: ["Tech visuals", "Healthcare", "Modern architecture"],
+    relatedKeywords: ["Futuristic", "Serene", "Monochrome"],
+    examplePrompt: "A clean healthcare reception area, cool tones, wide angle, serene atmosphere, modern design",
+    commercialApplications: ["Healthcare marketing", "SaaS visuals", "Corporate presentations"],
+    adobeStockPotential: "High for business, medical, technology, and clean design imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Monochrome",
+    category: "Color",
+    overview: "A color strategy built from one hue or a black-and-white range.",
+    whatItDoes: "Creates unity, graphic impact, and simplified visual hierarchy.",
+    bestUseCases: ["Architecture", "Fashion", "Premium branding"],
+    relatedKeywords: ["Brutalist", "Hard Light", "Minimalist"],
+    examplePrompt: "A monochrome fashion portrait, hard light, minimalist styling, strong shadow shapes",
+    commercialApplications: ["Luxury campaigns", "Editorial layouts", "Poster design"],
+    adobeStockPotential: "Good for elegant and graphic commercial imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Earth Tones",
+    category: "Color",
+    overview: "A natural palette of browns, clay, olive, sand, stone, and muted greens.",
+    whatItDoes: "Creates grounded, organic, sustainable, and warm visual cues.",
+    bestUseCases: ["Wellness", "Interiors", "Sustainable brands"],
+    relatedKeywords: ["Organic Modern", "Japandi", "Warm Tones"],
+    examplePrompt: "A sustainable skincare package set, earth tones, paper texture, soft light, organic modern styling",
+    commercialApplications: ["Eco brands", "Home decor", "Wellness campaigns"],
+    adobeStockPotential: "Very high for sustainability, interiors, and lifestyle visuals.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Muted Colors",
+    category: "Color",
+    overview: "A restrained palette with reduced saturation and understated contrast.",
+    whatItDoes: "Adds sophistication, calm, and editorial maturity.",
+    bestUseCases: ["Luxury visuals", "Interiors", "Professional branding"],
+    relatedKeywords: ["Moody", "Morandi Palette", "Minimalist"],
+    examplePrompt: "A modern workspace with muted colors, minimalist furniture, soft light, professional stock photo",
+    commercialApplications: ["Corporate content", "Interior brands", "Premium social media"],
+    adobeStockPotential: "High for versatile business and design-friendly imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "High Contrast Colors",
+    category: "Color",
+    overview: "A vivid palette keyword that emphasizes strong separation between colors or values.",
+    whatItDoes: "Creates impact, readability, and bold visual energy.",
+    bestUseCases: ["Posters", "Fashion", "Sports campaigns"],
+    relatedKeywords: ["Hard Light", "Cyberpunk", "Brutalist"],
+    examplePrompt: "A bold sports shoe campaign image, high contrast colors, hard light, dynamic composition",
+    commercialApplications: ["Advertising", "Event graphics", "Product launches"],
+    adobeStockPotential: "High for attention-grabbing campaign and editorial assets.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Glass Reflection",
+    category: "Texture & Material",
+    overview: "A material cue for transparent, glossy, reflective surfaces.",
+    whatItDoes: "Adds premium highlights, depth, and modern product polish.",
+    bestUseCases: ["Tech products", "Cosmetics", "Luxury packaging"],
+    relatedKeywords: ["Neon Glow", "Studio Lighting", "Futuristic"],
+    examplePrompt: "A transparent cosmetic bottle on glass reflection, studio lighting, soft shadows, luxury branding",
+    commercialApplications: ["Beauty ads", "Product mockups", "Tech launch visuals"],
+    adobeStockPotential: "High for polished product and premium commercial scenes.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Metallic Surface",
+    category: "Texture & Material",
+    overview: "A reflective material keyword for steel, chrome, aluminum, gold, or brushed metal finishes.",
+    whatItDoes: "Adds durability, premium value, and sleek industrial texture.",
+    bestUseCases: ["Tech hardware", "Luxury goods", "Automotive visuals"],
+    relatedKeywords: ["Futuristic", "Studio Lighting", "Hard Light"],
+    examplePrompt: "A brushed aluminum speaker, metallic surface, studio lighting, cool tones, premium product photo",
+    commercialApplications: ["Consumer electronics", "Automotive", "Luxury product campaigns"],
+    adobeStockPotential: "High for product, technology, and industrial stock demand.",
+    difficulty: "Intermediate"
+  },
+  {
+    title: "Paper Texture",
+    category: "Texture & Material",
+    overview: "A tactile surface cue for handmade, recycled, folded, or printed paper.",
+    whatItDoes: "Adds craft, warmth, detail, and editorial authenticity.",
+    bestUseCases: ["Stationery", "Packaging", "Flat lays"],
+    relatedKeywords: ["Close Up", "Earth Tones", "Luxury Branding"],
+    examplePrompt: "Close up of recycled paper packaging, paper texture, earth tones, soft light, minimalist layout",
+    commercialApplications: ["Packaging design", "Stationery branding", "Editorial mockups"],
+    adobeStockPotential: "Good for design mockups, packaging, and background textures.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Marble Texture",
+    category: "Texture & Material",
+    overview: "A luxury material cue featuring natural stone veining and polished surfaces.",
+    whatItDoes: "Adds refinement, weight, and a high-end interior or product context.",
+    bestUseCases: ["Luxury branding", "Interiors", "Beauty products"],
+    relatedKeywords: ["Luxury Branding", "Organic Modern", "Glass Reflection"],
+    examplePrompt: "A luxury skincare jar on marble texture, soft studio lighting, glass reflection, muted colors",
+    commercialApplications: ["Beauty ads", "Interior design", "Premium packaging"],
+    adobeStockPotential: "High for luxury, beauty, and upscale background imagery.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Business Presentation Background",
+    category: "Commercial Use",
+    overview: "A practical keyword for clean, abstract, copy-friendly visuals used in slides and reports.",
+    whatItDoes: "Prioritizes readability, whitespace, and flexible professional design.",
+    bestUseCases: ["Slide covers", "Corporate decks", "Report visuals"],
+    relatedKeywords: ["Negative Space", "Minimalist", "Cool Tones"],
+    examplePrompt: "A clean business presentation background, negative space, cool tones, subtle glass shapes, modern corporate style",
+    commercialApplications: ["Pitch decks", "Webinars", "Annual reports"],
+    adobeStockPotential: "Very high because presentation backgrounds are evergreen stock assets.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Product Photography",
+    category: "Commercial Use",
+    overview: "A commercial keyword for clear, sellable images focused on a product.",
+    whatItDoes: "Encourages clean lighting, strong subject priority, and realistic product staging.",
+    bestUseCases: ["Ecommerce", "Ads", "Catalogs"],
+    relatedKeywords: ["Studio Lighting", "Depth of Field", "Glass Reflection"],
+    examplePrompt: "Product photography of a wireless charger on a clean desk, studio lighting, depth of field, modern styling",
+    commercialApplications: ["Online stores", "Product launches", "Retail campaigns"],
+    adobeStockPotential: "Very high across ecommerce, retail, and advertising use cases.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Stock Image Design",
+    category: "Commercial Use",
+    overview: "A keyword direction for broadly useful images with clear concepts and licensing-friendly composition.",
+    whatItDoes: "Creates flexible, generic-but-polished visuals that can serve many buyers.",
+    bestUseCases: ["Business concepts", "Website headers", "Marketing templates"],
+    relatedKeywords: ["Business Presentation Background", "Negative Space", "Rule of Thirds"],
+    examplePrompt: "A diverse team reviewing charts in a bright office, stock image design, rule of thirds, natural soft light",
+    commercialApplications: ["Blogs", "Landing pages", "Corporate marketing"],
+    adobeStockPotential: "Very high when concepts are clear, current, and easy to reuse.",
+    difficulty: "Beginner"
+  },
+  {
+    title: "Luxury Branding",
+    category: "Commercial Use",
+    overview: "A premium commercial keyword for elegant, expensive, carefully styled brand imagery.",
+    whatItDoes: "Adds refinement through materials, lighting, spacing, and restrained color.",
+    bestUseCases: ["Beauty", "Jewelry", "Hospitality"],
+    relatedKeywords: ["Marble Texture", "Studio Lighting", "Muted Colors"],
+    examplePrompt: "A luxury branding scene for a perfume bottle, marble texture, muted colors, studio lighting, elegant shadows",
+    commercialApplications: ["Premium ads", "Packaging mockups", "Brand identity visuals"],
+    adobeStockPotential: "High for beauty, fashion, jewelry, and upscale marketing assets.",
+    difficulty: "Intermediate"
+  }
+];
+
+export const keywords = keywordSeeds.map((keyword) => ({
+  ...keyword,
+  slug: slugify(keyword.title),
+  categorySlug: slugify(keyword.category)
+}));
+
+export type KeywordWithSlug = (typeof keywords)[number];
