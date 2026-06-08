@@ -491,6 +491,30 @@
       "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a premium tactile close-up scene focused on Paper Texture with realistic surface detail and controlled light. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
       "category": "Texture & Material",
       "keywordSlug": "paper-texture"
+    },
+    {
+      "filename": "side-lighting.png",
+      "altText": "Portrait of a woman illuminated with side lighting creating dramatic shadows and depth",
+      "imageTitle": "Side Lighting Portrait Example",
+      "generationPrompt": "16:9 photo of female portrait illuminated by soft side lighting, dramatic shadows, high detail, clean background, realistic skin texture, premium stock quality, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "side-lighting"
+    },
+    {
+      "filename": "butterfly-lighting.png",
+      "altText": "Studio portrait of a woman with butterfly lighting casting a butterfly-shaped shadow under her nose",
+      "imageTitle": "Classic Butterfly Lighting Portrait Setup",
+      "generationPrompt": "16:9 portrait of a woman in studio using butterfly lighting, soft, clean background, butterfly-shaped shadow under nose, high detail, softbox lighting, professional photography style, no text or watermark",
+      "category": "Lighting",
+      "keywordSlug": "butterfly-lighting"
+    },
+    {
+      "filename": "practical-lighting.png",
+      "altText": "Warm interior scene illuminated by practical table lamps casting soft, realistic shadows",
+      "imageTitle": "Cozy Living Room with Practical Lighting",
+      "generationPrompt": "16:9 cozy interior living room scene with warm practical table lamps and ceiling lights casting natural shadows, clean editorial composition, realistic materials, refined lighting, subtle depth, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "practical-lighting"
     }
   ]
 }

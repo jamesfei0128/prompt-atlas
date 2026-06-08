@@ -1,0 +1,282 @@
+[
+  {
+    "keyword": "Side Lighting",
+    "slug": "side-lighting",
+    "category": "Lighting",
+    "status": "published",
+    "createdAt": "2026-06-08",
+    "publishedAt": "2026-06-08T20:56:11.980Z"
+  },
+  {
+    "keyword": "Butterfly Lighting",
+    "slug": "butterfly-lighting",
+    "category": "Lighting",
+    "status": "published",
+    "createdAt": "2026-06-08",
+    "publishedAt": "2026-06-08T20:56:45.658Z"
+  },
+  {
+    "keyword": "Practical Lighting",
+    "slug": "practical-lighting",
+    "category": "Lighting",
+    "status": "published",
+    "createdAt": "2026-06-08",
+    "publishedAt": "2026-06-08T20:57:22.260Z"
+  },
+  {
+    "keyword": "Silhouette Lighting",
+    "slug": "silhouette-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Noir Lighting",
+    "slug": "noir-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Cozy Atmosphere",
+    "slug": "cozy-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Surreal Atmosphere",
+    "slug": "surreal-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Nostalgic Mood",
+    "slug": "nostalgic-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Rainy Atmosphere",
+    "slug": "rainy-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Peaceful Atmosphere",
+    "slug": "peaceful-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Flat Lay Composition",
+    "slug": "flat-lay-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Diagonal Composition",
+    "slug": "diagonal-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Birds Eye View",
+    "slug": "birds-eye-view",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Worms Eye View",
+    "slug": "worms-eye-view",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Layered Composition",
+    "slug": "layered-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Bauhaus",
+    "slug": "bauhaus",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Art Deco",
+    "slug": "art-deco",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Mid Century Modern",
+    "slug": "mid-century-modern",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Editorial Style",
+    "slug": "editorial-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Maximalist",
+    "slug": "maximalist",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Jewel Tone Colors",
+    "slug": "jewel-tone-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Duotone Colors",
+    "slug": "duotone-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Gradient Colors",
+    "slug": "gradient-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Black and Gold Palette",
+    "slug": "black-and-gold-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Desaturated Colors",
+    "slug": "desaturated-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Wood Grain",
+    "slug": "wood-grain",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Fabric Texture",
+    "slug": "fabric-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Concrete Texture",
+    "slug": "concrete-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Leather Texture",
+    "slug": "leather-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Ceramic Surface",
+    "slug": "ceramic-surface",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Ecommerce Product Shot",
+    "slug": "ecommerce-product-shot",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Social Media Ad Creative",
+    "slug": "social-media-ad-creative",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Website Hero Background",
+    "slug": "website-hero-background",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Packaging Mockup",
+    "slug": "packaging-mockup",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  },
+  {
+    "keyword": "Brand Campaign Visual",
+    "slug": "brand-campaign-visual",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-08",
+    "publishedAt": null
+  }
+]

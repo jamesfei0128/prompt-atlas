@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
+    "content:auto": "tsx scripts/generate-daily-content.ts",
     "images:dry-run": "node scripts/generate-keyword-images.mjs --dry-run",
     "images:generate": "node scripts/generate-keyword-images.mjs --generate",
     "start": "next start",
@@ -23,6 +24,7 @@
     "autoprefixer": "10.4.20",
     "postcss": "8.5.10",
     "tailwindcss": "3.4.17",
+    "tsx": "latest",
     "typescript": "5.7.2"
   },
   "overrides": {

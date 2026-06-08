@@ -1,5 +1,6 @@
 import { slugify } from "@/lib/slug";
 import { colorKeywordSeeds } from "@/content/color-keywords";
+import { generatedKeywordSeeds } from "@/content/generated-keywords";
 import { keywordHero } from "@/content/image-meta";
 import { remainingKeywordOverrides } from "@/content/remaining-keyword-overrides";
 
@@ -844,7 +845,8 @@ const keywordSeeds: Keyword[] = [
     ...keyword,
     ...remainingKeywordOverrides[keyword.title]
   })),
-  ...colorKeywordSeeds
+  ...colorKeywordSeeds,
+  ...generatedKeywordSeeds
 ];
 
 export const keywords = keywordSeeds.map((keyword) => ({
