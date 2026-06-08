@@ -515,6 +515,30 @@
       "generationPrompt": "16:9 cozy interior living room scene with warm practical table lamps and ceiling lights casting natural shadows, clean editorial composition, realistic materials, refined lighting, subtle depth, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "practical-lighting"
+    },
+    {
+      "filename": "silhouette-lighting.png",
+      "altText": "Silhouette of a person standing against a vibrant orange sunset sky with strong backlighting",
+      "imageTitle": "Silhouette Lighting at Sunset",
+      "generationPrompt": "16:9 photo of a person in silhouette standing on a hilltop during sunset with vibrant orange and red sky, strong backlight, clean modern composition, realistic materials, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "silhouette-lighting"
+    },
+    {
+      "filename": "noir-lighting.png",
+      "altText": "Portrait of person illuminated by dramatic noir lighting with strong shadows and high contrast",
+      "imageTitle": "Dramatic Noir Lighting Portrait",
+      "generationPrompt": "16:9 portrait of a person under dramatic noir lighting, deep shadows, high contrast, cinematic style, realistic skin texture, minimal background, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "noir-lighting"
+    },
+    {
+      "filename": "cozy-atmosphere.png",
+      "altText": "Warm and inviting living room with soft lighting and plush cushions creating a cozy atmosphere",
+      "imageTitle": "Cozy Atmosphere in a Warm Living Room",
+      "generationPrompt": "16:9 image of a warm living room interior with soft golden lighting, plush cushions, soft blankets, wooden furniture, and ambient shadows, realistic materials, no logos or text",
+      "category": "Atmosphere",
+      "keywordSlug": "cozy-atmosphere"
     }
   ]
 }

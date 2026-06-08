@@ -1,8 +1,7 @@
 import { keywordHero } from "@/content/image-meta";
 import type { Keyword } from "@/content/keywords";
 
-export const generatedKeywordSeeds: Keyword[] = [
-  {
+export const generatedKeywordSeeds: Keyword[] = [{
     title: "Side Lighting",
     category: "Lighting",
     published: true,
@@ -160,5 +159,163 @@ export const generatedKeywordSeeds: Keyword[] = [
       "answer": "Yes, practical lighting can be used outdoors with visible light fixtures like street lamps, lanterns, or neon signs that realistically illuminate the environment."
     }
   ]
-  }
-];
+  },
+  {
+    title: "Silhouette Lighting",
+    category: "Lighting",
+    published: true,
+    seoTitle: "Silhouette Lighting: Mastering Dramatic Light and Shadow Effects",
+    metaDescription: "Discover Silhouette Lighting, a photography technique creating striking contrasts and dramatic moods by backlighting subjects for bold outlines and shadow play.",
+    heroImage: keywordHero("silhouette-lighting", "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"),
+    definition: "Silhouette Lighting is a photographic technique where the subject is placed between the light source and the camera, causing the subject to appear as a dark shape or outline against a brighter background. This creates striking contrasts and emphasizes shape and form rather than detail or color.",
+    visualCharacteristics: [
+    "Strong contrast between dark subject and bright background",
+    "Subject appears as a dark outline or shape",
+    "Background is usually well-lit, often with natural or artificial light"
+  ],
+    overview: "Silhouette Lighting is a powerful method used by photographers and visual artists to create images that emphasize shape, form, and mood. By positioning a strong light source behind the subject, the subject itself becomes a dark silhouette, stripped of detail but rich in expressive outlines. This technique can evoke mystery, drama, or elegance depending on the composition and context. It is widely applicable across genres, from portraits and nature photography to commercial and editorial imagery. The minimalist visual impact of silhouette lighting makes it a favorite for delivering compelling visuals that focus on contours and compositions rather than intricate details.",
+    whatItDoes: "Silhouette Lighting transforms the way a subject is perceived by rendering it as a featureless dark shape against a luminous background. It directs the viewer’s focus onto the subject’s outline, enhancing its graphic quality while hiding internal details. This technique generates dramatic contrast and emotional intensity, often evoking feelings of mystery, suspense, or serenity. It can simplify complex scenes by reducing distractions and strong color information, allowing the form and gesture to take center stage. For AI image creation, silhouette lighting helps produce bold compositions that command attention and enhance narrative storytelling visually.",
+    bestUseCases: [
+    "Creating striking profile portraits with strong mood",
+    "Emphasizing natural forms like trees or animals in outdoor photography",
+    "Designing dramatic backgrounds for product photography and advertising"
+  ],
+    relatedKeywords: [
+    "Backlight Photography",
+    "Shadow Play",
+    "Dramatic Lighting"
+  ],
+    examplePrompt: "A silhouette of a lone tree against a vibrant sunset sky, high contrast lighting",
+    promptExamples: [
+    "A silhouette of a lone tree against a vibrant sunset sky, high contrast lighting",
+    "Silhouette of a dancer captured in mid-pose, backlit studio lighting",
+    "Black cat silhouette sitting on a fence with full moon glowing behind"
+  ],
+    commercialApplications: [
+    "Advertising campaigns highlighting product shapes",
+    "Editorial photos conveying emotion and mood",
+    "Brand visuals emphasizing minimalistic design and identity"
+  ],
+    adobeStockPotential: "Silhouette Lighting images have strong commercial appeal due to their timeless and versatile aesthetic. Their high-contrast and minimalistic quality make them ideal for use across diverse media, including advertising banners, website hero images, magazine covers, and social media content. Stock platforms like Adobe Stock benefit from well-executed silhouette images because they cater to clients seeking strong visual statements without clutter. The technique’s adaptability to various subjects — from nature and people to objects and architecture — ensures ongoing demand in commercial stock photography.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "How do I create a silhouette photo?",
+      "answer": "Place your subject between your camera and a strong light source, expose for the bright background, and underexpose the subject to capture its dark outline."
+    },
+    {
+      "question": "Can silhouette lighting be used indoors?",
+      "answer": "Yes, by using a powerful artificial backlight or positioning the subject in front of a bright window, you can achieve silhouette lighting indoors."
+    },
+    {
+      "question": "What settings help in capturing silhouette photos?",
+      "answer": "Using a small aperture and low ISO can increase sharpness and contrast; meter for the background light to render the subject dark."
+    }
+  ]
+  },
+  {
+    title: "Noir Lighting",
+    category: "Lighting",
+    published: true,
+    seoTitle: "Noir Lighting: Mastering Dramatic Shadows in Photography",
+    metaDescription: "Discover Noir Lighting, a dramatic lighting style using high contrast and shadows to create mood. Perfect for photographers and AI artists.",
+    heroImage: keywordHero("noir-lighting", "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"),
+    definition: "Noir Lighting is a dramatic lighting technique characterized by stark contrasts between light and shadow, often creating a moody or mysterious atmosphere. Derived from the visual style of film noir, it emphasizes deep shadows and minimal lighting to highlight subject features and textures.",
+    visualCharacteristics: [
+    "Strong contrasts with deep blacks and bright highlights",
+    "Use of directional light creating sharp shadows",
+    "Minimalistic lighting setups focusing on highlights and shadows"
+  ],
+    overview: "Noir Lighting is a powerful style used to convey mystery, suspense, or classic elegance by playing with deep shadows and stark light contrasts. Originating from the mid-20th century film noir genre, this lighting style uses minimal light sources to cast dramatic shadows, emphasizing shapes and contours. It evokes an intense mood while often simplifying the visual elements, focusing the viewer's attention on specific parts of the composition. Noir Lighting is versatile, used in photography, film, and digital art to add emotional depth and a cinematic feel. Artists and photographers employ it to create visually compelling images that engage the audience with their enigmatic atmosphere.",
+    whatItDoes: "Noir Lighting serves to dramatically emphasize mood and texture by creating a visual narrative grounded in contrast. By using strong directional lighting and deep shadows, it sculpts subjects in a way that highlights their form while concealing details, thus adding intrigue and intensity. This lighting technique guides viewers’ focus and heightens emotional impact, often making scenes feel more intimate or suspenseful. In AI-generated imagery, Noir Lighting helps recreate this timeless cinematic aesthetic, providing images with a rich sense of depth and storytelling potential.",
+    bestUseCases: [
+    "Dramatic portrait photography highlighting facial features",
+    "Film noir or mystery-themed digital art compositions",
+    "Advertising campaigns aiming for a sophisticated or moody tone"
+  ],
+    relatedKeywords: [
+    "Chiaroscuro Lighting",
+    "Cinematic Lighting",
+    "Moody Portrait Lighting"
+  ],
+    examplePrompt: "'Portrait of a woman in noir lighting with deep shadows and sharp highlights, cinematic mood, high contrast'",
+    promptExamples: [
+    "'Portrait of a woman in noir lighting with deep shadows and sharp highlights, cinematic mood, high contrast'",
+    "'Urban street scene at night with noir lighting, wet pavement reflections, and strong chiaroscuro'",
+    "'Classic detective character illuminated by a single overhead lamp, noir lighting style, high drama'"
+  ],
+    commercialApplications: [
+    "Photography studios specializing in editorial and fashion portraits using noir lighting",
+    "Film production and cinematography focusing on noir or thriller genres",
+    "Digital art and advertising agencies creating striking, dramatic visuals"
+  ],
+    adobeStockPotential: "Images utilizing Noir Lighting possess strong commercial appeal due to their cinematic mood and dramatic visual storytelling. Such images can serve effectively in editorial spreads, advertising campaigns, and artistic portfolios. Their high-contrast and visually striking nature makes them eye-catching assets for stock image libraries, particularly for clients seeking sophisticated or mysterious atmospheres. Noir Lighting photos and illustrations can also support branding and promotional materials in entertainment, fashion, and lifestyle sectors, ensuring consistent demand and premium licensing opportunities.",
+    difficulty: "Intermediate",
+    faqs: [
+    {
+      "question": "What makes Noir Lighting different from regular lighting?",
+      "answer": "Noir Lighting emphasizes strong contrast with deep shadows and selective highlights, creating a dramatic and moody atmosphere unlike evenly distributed or soft lighting."
+    },
+    {
+      "question": "Can Noir Lighting be used in color photography?",
+      "answer": "Yes, while traditionally associated with black-and-white, Noir Lighting can be applied in color photography to create striking effects by managing contrast and mood."
+    },
+    {
+      "question": "Is special equipment needed to achieve Noir Lighting?",
+      "answer": "Simple directional light sources like spotlights or lamps can achieve Noir Lighting; the key is controlling light placement and intensity rather than specialized gear."
+    }
+  ]
+  },
+  {
+    title: "Cozy Atmosphere",
+    category: "Atmosphere",
+    published: true,
+    seoTitle: "Cozy Atmosphere: Creating Warm and Inviting Spaces",
+    metaDescription: "Discover how to craft a cozy atmosphere in AI imagery with warm lighting, soft textures, and intimate settings. Perfect for enhancing mood and comfort.",
+    heroImage: keywordHero("cozy-atmosphere", "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"),
+    definition: "A cozy atmosphere refers to an environment that feels warm, comfortable, and inviting, often characterized by soft lighting, warm colors, and intimate settings that evoke feelings of relaxation and safety.",
+    visualCharacteristics: [
+    "Warm and soft lighting creating gentle shadows",
+    "Use of plush textures like blankets and cushions",
+    "Intimate, small-scale spaces with personal touches"
+  ],
+    overview: "Cozy atmosphere is an aesthetic concept used in various visual arts to evoke feelings of comfort, warmth, and intimacy. It typically incorporates elements such as warm color palettes, soft textures, and ambient lighting to create inviting and relaxing environments. Whether depicted in interior design, photography, or AI-generated art, a cozy atmosphere helps convey emotions of safety and homeliness. Artists and creators often utilize this ambiance to engage viewers on an emotional level, making them feel welcomed and at ease. This ambiance translates well across seasonal themes, especially during autumn and winter, where warm environments contrast the cold outside world.",
+    whatItDoes: "Creating a cozy atmosphere in imagery enhances emotional connection by invoking feelings of warmth and security. It softens harsh environmental elements, encourages viewers to imagine themselves within the space, and promotes a sense of well-being. In AI-generated art, simulating this vibe involves careful selection of lighting, color tones, and material realism. The effect can transform a simple scene into a compelling visual story that speaks to comfort and relaxation, making it ideal for marketing, editorial content, and home lifestyle visuals. It effectively draws attention and can increase engagement by appealing to universal human experiences related to comfort and belonging.",
+    bestUseCases: [
+    "Interior design visualizations for home decor brands",
+    "Seasonal marketing campaigns emphasizing warmth and comfort",
+    "Editorial hero images for lifestyle and wellness articles"
+  ],
+    relatedKeywords: [
+    "Warm Lighting",
+    "Intimate Spaces",
+    "Comforting Textures"
+  ],
+    examplePrompt: "A living room with warm golden light, plush cushions, and soft blankets creating a cozy atmosphere",
+    promptExamples: [
+    "A living room with warm golden light, plush cushions, and soft blankets creating a cozy atmosphere",
+    "A small café with intimate lighting, wooden furniture, and warm color tones evoking coziness",
+    "A reading nook with thick rugs, ambient lamp light, and a window showing snowfall outside"
+  ],
+    commercialApplications: [
+    "Home decor advertising showcasing cozy room scenes",
+    "Hospitality marketing focusing on inviting lounge areas",
+    "Wellness and lifestyle brand imagery promoting relaxation"
+  ],
+    adobeStockPotential: "Imagery featuring a cozy atmosphere holds strong commercial appeal on platforms like Adobe Stock. Such images align well with trending keywords related to comfort, lifestyle, and interior design. Their universal emotional appeal makes them suitable for a variety of buyers including marketers, bloggers, and designers. When created with high realism and refined lighting, these images perform well both as editorial content and in commercial campaigns. Given the growing demand for mood-driven visuals, cozy atmosphere art can consistently generate interest and downloads.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What makes an atmosphere 'cozy' in a visual context?",
+      "answer": "Key elements include warm lighting, soft textures, warm color palettes, and intimate, inviting settings that together evoke comfort and relaxation."
+    },
+    {
+      "question": "Can cozy atmosphere imagery work across different seasons?",
+      "answer": "Yes, while it's often associated with autumn and winter, cozy elements can be adapted to any season to create inviting spaces that feel welcoming year-round."
+    },
+    {
+      "question": "How can I adjust AI prompts to enhance the cozy feeling?",
+      "answer": "Focus on including descriptors like 'warm light,' 'plush textures,' 'intimate spaces,' and incorporate materials such as wood and soft fabrics to amplify coziness."
+    }
+  ]
+  }];
