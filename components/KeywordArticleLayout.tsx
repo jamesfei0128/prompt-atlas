@@ -44,27 +44,58 @@ export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticl
 
       <div className="mt-10 grid gap-8 lg:grid-cols-[1fr_280px]">
         <div className="space-y-9">
-          <Section title="Overview">
-            <p>{keyword.overview}</p>
-          </Section>
+          {keyword.definition ? (
+            <Section title="Definition">
+              <p>{keyword.definition}</p>
+            </Section>
+          ) : (
+            <Section title="Overview">
+              <p>{keyword.overview}</p>
+            </Section>
+          )}
 
-          <Section title="What It Does">
-            <p>{keyword.whatItDoes}</p>
-          </Section>
+          {keyword.visualCharacteristics ? (
+            <Section title="Visual Characteristics">
+              <List items={keyword.visualCharacteristics} />
+            </Section>
+          ) : (
+            <Section title="What It Does">
+              <p>{keyword.whatItDoes}</p>
+            </Section>
+          )}
 
           <Section title="Best Use Cases">
             <List items={keyword.bestUseCases} />
           </Section>
 
-          <Section title="Example Prompt">
-            <div className="rounded-lg border border-line bg-white p-5 text-ink/75">
-              {keyword.examplePrompt}
-            </div>
-          </Section>
+          {keyword.promptExamples ? (
+            <Section title="Prompt Examples">
+              <List items={keyword.promptExamples} />
+            </Section>
+          ) : (
+            <Section title="Example Prompt">
+              <div className="rounded-lg border border-line bg-white p-5 text-ink/75">
+                {keyword.examplePrompt}
+              </div>
+            </Section>
+          )}
 
           <Section title="Adobe Stock Potential">
             <p>{keyword.adobeStockPotential}</p>
           </Section>
+
+          {keyword.faqs ? (
+            <Section title="FAQ">
+              <div className="space-y-3">
+                {keyword.faqs.map((faq) => (
+                  <div key={faq.question} className="rounded-md border border-line bg-white px-4 py-3">
+                    <h3 className="font-semibold text-ink">{faq.question}</h3>
+                    <p className="mt-2 text-ink/70">{faq.answer}</p>
+                  </div>
+                ))}
+              </div>
+            </Section>
+          ) : null}
         </div>
 
         <aside className="h-fit rounded-lg border border-line bg-white p-5">

@@ -20,11 +20,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${keyword.title} AI Art Prompt Keyword`,
-    description: keyword.overview,
+    title: keyword.seoTitle ?? `${keyword.title} AI Art Prompt Keyword`,
+    description: keyword.metaDescription ?? keyword.overview,
     openGraph: {
-      title: `${keyword.title} AI Art Prompt Keyword`,
-      description: keyword.overview,
+      title: keyword.seoTitle ?? `${keyword.title} AI Art Prompt Keyword`,
+      description: keyword.metaDescription ?? keyword.overview,
       type: "article"
     }
   };

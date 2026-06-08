@@ -1,0 +1,496 @@
+{
+  "version": 1,
+  "outputDirectory": "/images/keywords/",
+  "aspectRatio": "16:9",
+  "styleGuide": "Consistent modern design-reference hero images for an AI prompt keyword library: clean editorial compositions, premium stock-image polish, refined lighting, subtle depth, realistic materials, no text, no logos, no watermark, suitable for article heroes and thumbnail cards.",
+  "images": [
+    {
+      "filename": "atmospheric-haze.png",
+      "altText": "Atmospheric Haze AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Atmospheric Haze - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Atmospheric Haze mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "atmospheric-haze"
+    },
+    {
+      "filename": "dreamy.png",
+      "altText": "Dreamy AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Dreamy - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Dreamy mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "dreamy"
+    },
+    {
+      "filename": "ethereal.png",
+      "altText": "Ethereal AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Ethereal - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Ethereal mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "ethereal"
+    },
+    {
+      "filename": "foggy.png",
+      "altText": "Foggy AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Foggy - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Foggy mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "foggy"
+    },
+    {
+      "filename": "melancholic.png",
+      "altText": "Melancholic AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Melancholic - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Melancholic mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "melancholic"
+    },
+    {
+      "filename": "moody.png",
+      "altText": "Moody AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Moody - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Moody mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "moody"
+    },
+    {
+      "filename": "mystical.png",
+      "altText": "Mystical AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Mystical - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Mystical mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "mystical"
+    },
+    {
+      "filename": "serene.png",
+      "altText": "Serene AI prompt keyword hero image for the PromptAtlas Atmosphere category",
+      "imageTitle": "Serene - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a calm editorial scene expressing the Serene mood through air, depth, softness, and environmental detail. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Atmosphere",
+      "keywordSlug": "serene"
+    },
+    {
+      "filename": "analogous-colors.png",
+      "altText": "Analogous Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Analogous Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Analogous Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "analogous-colors"
+    },
+    {
+      "filename": "complementary-colors.png",
+      "altText": "Complementary Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Complementary Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Complementary Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "complementary-colors"
+    },
+    {
+      "filename": "cool-color-palette.png",
+      "altText": "Cool Color Palette AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Cool Color Palette - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Cool Color Palette with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "cool-color-palette"
+    },
+    {
+      "filename": "cool-tones.png",
+      "altText": "Cool Tones AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Cool Tones - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Cool Tones with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "cool-tones"
+    },
+    {
+      "filename": "earth-tone-colors.png",
+      "altText": "Earth Tone Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Earth Tone Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Earth Tone Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "earth-tone-colors"
+    },
+    {
+      "filename": "earth-tones.png",
+      "altText": "Earth Tones AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Earth Tones - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Earth Tones with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "earth-tones"
+    },
+    {
+      "filename": "high-contrast-colors.png",
+      "altText": "High Contrast Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "High Contrast Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing High Contrast Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "high-contrast-colors"
+    },
+    {
+      "filename": "monochromatic-colors.png",
+      "altText": "Monochromatic Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Monochromatic Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Monochromatic Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "monochromatic-colors"
+    },
+    {
+      "filename": "monochrome.png",
+      "altText": "Monochrome AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Monochrome - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Monochrome with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "monochrome"
+    },
+    {
+      "filename": "morandi-palette.png",
+      "altText": "Morandi Palette AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Morandi Palette - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Morandi Palette with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "morandi-palette"
+    },
+    {
+      "filename": "muted-colors.png",
+      "altText": "Muted Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Muted Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Muted Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "muted-colors"
+    },
+    {
+      "filename": "neutral-colors.png",
+      "altText": "Neutral Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Neutral Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Neutral Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "neutral-colors"
+    },
+    {
+      "filename": "pastel-colors.png",
+      "altText": "Pastel Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Pastel Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Pastel Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "pastel-colors"
+    },
+    {
+      "filename": "vibrant-colors.png",
+      "altText": "Vibrant Colors AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Vibrant Colors - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Vibrant Colors with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "vibrant-colors"
+    },
+    {
+      "filename": "warm-color-palette.png",
+      "altText": "Warm Color Palette AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Warm Color Palette - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Warm Color Palette with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "warm-color-palette"
+    },
+    {
+      "filename": "warm-tones.png",
+      "altText": "Warm Tones AI prompt keyword hero image for the PromptAtlas Color category",
+      "imageTitle": "Warm Tones - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: an elegant color study visualizing Warm Tones with arranged objects, swatches, and subtle material surfaces. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Color",
+      "keywordSlug": "warm-tones"
+    },
+    {
+      "filename": "business-presentation-background.png",
+      "altText": "Business Presentation Background AI prompt keyword hero image for the PromptAtlas Commercial Use category",
+      "imageTitle": "Business Presentation Background - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a polished commercial design scene demonstrating Business Presentation Background for brand, presentation, and stock-image use. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Commercial Use",
+      "keywordSlug": "business-presentation-background"
+    },
+    {
+      "filename": "luxury-branding.png",
+      "altText": "Luxury Branding AI prompt keyword hero image for the PromptAtlas Commercial Use category",
+      "imageTitle": "Luxury Branding - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a polished commercial design scene demonstrating Luxury Branding for brand, presentation, and stock-image use. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Commercial Use",
+      "keywordSlug": "luxury-branding"
+    },
+    {
+      "filename": "product-photography.png",
+      "altText": "Product Photography AI prompt keyword hero image for the PromptAtlas Commercial Use category",
+      "imageTitle": "Product Photography - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a polished commercial design scene demonstrating Product Photography for brand, presentation, and stock-image use. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Commercial Use",
+      "keywordSlug": "product-photography"
+    },
+    {
+      "filename": "stock-image-design.png",
+      "altText": "Stock Image Design AI prompt keyword hero image for the PromptAtlas Commercial Use category",
+      "imageTitle": "Stock Image Design - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a polished commercial design scene demonstrating Stock Image Design for brand, presentation, and stock-image use. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Commercial Use",
+      "keywordSlug": "stock-image-design"
+    },
+    {
+      "filename": "center-composition.png",
+      "altText": "Center Composition AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Center Composition - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Center Composition using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "center-composition"
+    },
+    {
+      "filename": "close-up.png",
+      "altText": "Close Up AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Close Up - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Close Up using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "close-up"
+    },
+    {
+      "filename": "depth-of-field.png",
+      "altText": "Depth of Field AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Depth of Field - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Depth of Field using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "depth-of-field"
+    },
+    {
+      "filename": "leading-lines.png",
+      "altText": "Leading Lines AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Leading Lines - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Leading Lines using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "leading-lines"
+    },
+    {
+      "filename": "negative-space.png",
+      "altText": "Negative Space AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Negative Space - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Negative Space using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "negative-space"
+    },
+    {
+      "filename": "rule-of-thirds.png",
+      "altText": "Rule of Thirds AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Rule of Thirds - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Rule of Thirds using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "rule-of-thirds"
+    },
+    {
+      "filename": "symmetry.png",
+      "altText": "Symmetry AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Symmetry - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Symmetry using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "symmetry"
+    },
+    {
+      "filename": "wide-angle.png",
+      "altText": "Wide Angle AI prompt keyword hero image for the PromptAtlas Composition category",
+      "imageTitle": "Wide Angle - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a clean design-reference composition that clearly demonstrates Wide Angle using objects, spacing, and visual structure. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Composition",
+      "keywordSlug": "wide-angle"
+    },
+    {
+      "filename": "backlight.png",
+      "altText": "Backlight AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Backlight - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Backlight through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "backlight"
+    },
+    {
+      "filename": "cinematic-lighting.png",
+      "altText": "Cinematic Lighting AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Cinematic Lighting - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Cinematic Lighting through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "cinematic-lighting"
+    },
+    {
+      "filename": "god-rays.png",
+      "altText": "God Rays AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "God Rays - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating God Rays through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "god-rays"
+    },
+    {
+      "filename": "golden-hour.png",
+      "altText": "Golden Hour AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Golden Hour - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Golden Hour through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "golden-hour"
+    },
+    {
+      "filename": "hard-light.png",
+      "altText": "Hard Light AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Hard Light - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Hard Light through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "hard-light"
+    },
+    {
+      "filename": "high-key-lighting.png",
+      "altText": "High Key Lighting AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "High Key Lighting - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating High Key Lighting through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "high-key-lighting"
+    },
+    {
+      "filename": "low-key-lighting.png",
+      "altText": "Low Key Lighting AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Low Key Lighting - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Low Key Lighting through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "low-key-lighting"
+    },
+    {
+      "filename": "moody-lighting.png",
+      "altText": "Moody Lighting AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Moody Lighting - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Moody Lighting through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "moody-lighting"
+    },
+    {
+      "filename": "neon-glow.png",
+      "altText": "Neon Glow AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Neon Glow - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Neon Glow through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "neon-glow"
+    },
+    {
+      "filename": "rim-light.png",
+      "altText": "Rim Light AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Rim Light - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Rim Light through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "rim-light"
+    },
+    {
+      "filename": "soft-light.png",
+      "altText": "Soft Light AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Soft Light - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Soft Light through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "soft-light"
+    },
+    {
+      "filename": "studio-lighting.png",
+      "altText": "Studio Lighting AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Studio Lighting - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Studio Lighting through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "studio-lighting"
+    },
+    {
+      "filename": "volumetric-lighting.png",
+      "altText": "Volumetric Lighting AI prompt keyword hero image for the PromptAtlas Lighting category",
+      "imageTitle": "Volumetric Lighting - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a refined still-life scene demonstrating Volumetric Lighting through light direction, shadow quality, glow, and depth. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Lighting",
+      "keywordSlug": "volumetric-lighting"
+    },
+    {
+      "filename": "brutalist.png",
+      "altText": "Brutalist AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Brutalist - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Brutalist aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "brutalist"
+    },
+    {
+      "filename": "cyberpunk.png",
+      "altText": "Cyberpunk AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Cyberpunk - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Cyberpunk aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "cyberpunk"
+    },
+    {
+      "filename": "futuristic.png",
+      "altText": "Futuristic AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Futuristic - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Futuristic aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "futuristic"
+    },
+    {
+      "filename": "japandi.png",
+      "altText": "Japandi AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Japandi - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Japandi aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "japandi"
+    },
+    {
+      "filename": "minimalist.png",
+      "altText": "Minimalist AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Minimalist - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Minimalist aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "minimalist"
+    },
+    {
+      "filename": "organic-modern.png",
+      "altText": "Organic Modern AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Organic Modern - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Organic Modern aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "organic-modern"
+    },
+    {
+      "filename": "retro-futurism.png",
+      "altText": "Retro Futurism AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Retro Futurism - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Retro Futurism aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "retro-futurism"
+    },
+    {
+      "filename": "scandinavian.png",
+      "altText": "Scandinavian AI prompt keyword hero image for the PromptAtlas Style category",
+      "imageTitle": "Scandinavian - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a curated design vignette in the Scandinavian aesthetic with architecture, object styling, and material cues. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Style",
+      "keywordSlug": "scandinavian"
+    },
+    {
+      "filename": "glass-reflection.png",
+      "altText": "Glass Reflection AI prompt keyword hero image for the PromptAtlas Texture & Material category",
+      "imageTitle": "Glass Reflection - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a premium tactile close-up scene focused on Glass Reflection with realistic surface detail and controlled light. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Texture & Material",
+      "keywordSlug": "glass-reflection"
+    },
+    {
+      "filename": "marble-texture.png",
+      "altText": "Marble Texture AI prompt keyword hero image for the PromptAtlas Texture & Material category",
+      "imageTitle": "Marble Texture - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a premium tactile close-up scene focused on Marble Texture with realistic surface detail and controlled light. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Texture & Material",
+      "keywordSlug": "marble-texture"
+    },
+    {
+      "filename": "metallic-surface.png",
+      "altText": "Metallic Surface AI prompt keyword hero image for the PromptAtlas Texture & Material category",
+      "imageTitle": "Metallic Surface - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a premium tactile close-up scene focused on Metallic Surface with realistic surface detail and controlled light. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Texture & Material",
+      "keywordSlug": "metallic-surface"
+    },
+    {
+      "filename": "paper-texture.png",
+      "altText": "Paper Texture AI prompt keyword hero image for the PromptAtlas Texture & Material category",
+      "imageTitle": "Paper Texture - PromptAtlas Keyword Hero",
+      "generationPrompt": "Create a 16:9 hero image for PromptAtlas, a modern AI art prompt keyword encyclopedia. Subject: a premium tactile close-up scene focused on Paper Texture with realistic surface detail and controlled light. Style: consistent modern design-reference aesthetic, clean editorial art direction, premium stock-image quality, minimalist but not empty, sophisticated lighting, subtle depth, crisp focal point, refined color grading, realistic materials, generous copy-safe negative space, no text, no letters, no logos, no watermark, no UI, no people unless essential to the concept. The image should feel suitable as both a keyword article hero and a category card thumbnail.",
+      "category": "Texture & Material",
+      "keywordSlug": "paper-texture"
+    }
+  ]
+}

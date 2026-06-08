@@ -1,35 +1,46 @@
 import { slugify } from "@/lib/slug";
+import { colorKeywordSeeds } from "@/content/color-keywords";
+import { keywordHero } from "@/content/image-meta";
+import { remainingKeywordOverrides } from "@/content/remaining-keyword-overrides";
 
 export type Keyword = {
   title: string;
   category: string;
   published?: boolean;
+  seoTitle?: string;
+  metaDescription?: string;
   heroImage?: {
     src?: string;
     alt: string;
+    title?: string;
     background: string;
   };
+  definition?: string;
+  visualCharacteristics?: string[];
   overview: string;
   whatItDoes: string;
   bestUseCases: string[];
   relatedKeywords: string[];
   examplePrompt: string;
+  promptExamples?: string[];
   commercialApplications: string[];
   adobeStockPotential: string;
   difficulty: "Beginner" | "Intermediate" | "Advanced";
+  faqs?: {
+    question: string;
+    answer: string;
+  }[];
 };
 
-const keywordSeeds: Keyword[] = [
+const baseKeywordSeeds: Keyword[] = [
   {
     title: "Cinematic Lighting",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/cinematic-lighting.png",
-      alt: "Abstract placeholder for cinematic lighting with dramatic warm highlights and deep shadows",
-      background:
-        "radial-gradient(circle at 24% 28%, #fff4d7 0, transparent 28%), linear-gradient(135deg, #232323 0%, #6d4b38 48%, #e7d8bc 100%)"
-    },
+    heroImage: keywordHero(
+      "cinematic-lighting",
+      "radial-gradient(circle at 24% 28%, #fff4d7 0, transparent 28%), linear-gradient(135deg, #232323 0%, #6d4b38 48%, #e7d8bc 100%)"
+    ),
     overview:
       "Cinematic Lighting is one of the most useful prompt keywords for making AI-generated images feel intentional, polished, and story-driven. Instead of asking for a flat, evenly lit image, this keyword signals that the scene should feel as if it was lit for a film, commercial, or high-end editorial shoot. The result often includes stronger direction in the light source, more purposeful shadows, richer contrast, and a clearer sense of atmosphere. For beginners, it is a reliable way to move an image away from a generic render and toward something that feels composed, dramatic, and visually memorable.",
     whatItDoes:
@@ -52,12 +63,10 @@ const keywordSeeds: Keyword[] = [
     title: "Golden Hour",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/golden-hour.png",
-      alt: "Abstract placeholder for golden hour with warm sunlight fading into soft neutral tones",
-      background:
-        "radial-gradient(circle at 18% 22%, #fff1b8 0, transparent 30%), linear-gradient(135deg, #e7a94f 0%, #f4d7a1 46%, #f8f2e8 100%)"
-    },
+    heroImage: keywordHero(
+      "golden-hour",
+      "radial-gradient(circle at 18% 22%, #fff1b8 0, transparent 30%), linear-gradient(135deg, #e7a94f 0%, #f4d7a1 46%, #f8f2e8 100%)"
+    ),
     overview:
       "Golden Hour is a lighting keyword that refers to the warm, low-angle sunlight shortly after sunrise or shortly before sunset. In AI image prompts, it is one of the easiest ways to make a scene feel natural, emotional, and commercially appealing. The light is usually softer than midday sun, the shadows are longer, and the color temperature leans warm. This makes subjects feel more flattering and environments feel more inviting. For beginners, Golden Hour is a dependable keyword because it improves mood without requiring a complicated lighting setup. It works for people, landscapes, products, interiors, food, travel scenes, and lifestyle imagery.",
     whatItDoes:
@@ -80,12 +89,10 @@ const keywordSeeds: Keyword[] = [
     title: "Soft Light",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/soft-light.png",
-      alt: "Soft light AI prompt example with diffused highlights and gentle commercial product shadows",
-      background:
-        "radial-gradient(circle at 28% 20%, #ffffff 0, transparent 32%), linear-gradient(135deg, #f7f4ee 0%, #e8eee9 48%, #d8ccc4 100%)"
-    },
+    heroImage: keywordHero(
+      "soft-light",
+      "radial-gradient(circle at 28% 20%, #ffffff 0, transparent 32%), linear-gradient(135deg, #f7f4ee 0%, #e8eee9 48%, #d8ccc4 100%)"
+    ),
     overview:
       "Soft Light is a lighting keyword used to create gentle, flattering, low-contrast images. It describes light that has been diffused before it reaches the subject, like daylight through a sheer curtain, a large studio softbox, or cloudy outdoor light. In AI image prompts, Soft Light is especially useful when you want the image to feel calm, natural, welcoming, and easy to use commercially. It reduces harsh shadow edges and helps skin, products, interiors, and materials look smoother. For beginners, Soft Light is one of the safest lighting keywords because it improves many images without making them feel too dramatic or overly stylized.",
     whatItDoes:
@@ -120,12 +127,10 @@ const keywordSeeds: Keyword[] = [
     title: "Rim Light",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/rim-light.png",
-      alt: "Rim light AI prompt example showing a bright edge highlight separating the subject from shadow",
-      background:
-        "radial-gradient(circle at 76% 38%, #fff3c7 0, transparent 18%), linear-gradient(135deg, #151817 0%, #26302c 54%, #caa36e 100%)"
-    },
+    heroImage: keywordHero(
+      "rim-light",
+      "radial-gradient(circle at 76% 38%, #fff3c7 0, transparent 18%), linear-gradient(135deg, #151817 0%, #26302c 54%, #caa36e 100%)"
+    ),
     overview:
       "Rim Light is a lighting keyword that describes a bright edge of light around a subject. The light usually comes from behind or slightly behind the subject, catching the outline of hair, shoulders, products, glass, metal, or other edges. In AI image generation, Rim Light is useful when the subject blends into the background or when you want a more professional, cinematic result. It adds separation, depth, and polish. For beginners, Rim Light is a practical keyword because it solves a common problem: flat images where the subject does not stand out clearly.",
     whatItDoes:
@@ -148,12 +153,10 @@ const keywordSeeds: Keyword[] = [
     title: "Backlight",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/backlight.png",
-      alt: "Backlight AI prompt example with warm light behind the subject and glowing atmospheric edges",
-      background:
-        "radial-gradient(circle at 50% 28%, #fff0b5 0, transparent 30%), linear-gradient(135deg, #6d6b5f 0%, #d6b56e 48%, #f7ead3 100%)"
-    },
+    heroImage: keywordHero(
+      "backlight",
+      "radial-gradient(circle at 50% 28%, #fff0b5 0, transparent 30%), linear-gradient(135deg, #6d6b5f 0%, #d6b56e 48%, #f7ead3 100%)"
+    ),
     overview:
       "Backlight is a lighting direction where the main light source sits behind the subject, facing toward the camera. It can create glowing edges, silhouettes, translucent materials, and a strong sense of atmosphere. In AI image prompts, Backlight is useful when you want an image to feel warm, emotional, mysterious, or visually layered. It is common in outdoor lifestyle photography, travel imagery, nature scenes, music videos, and cinematic portraits. Beginners can use Backlight to make a simple scene feel more dramatic without needing complicated camera or lighting language.",
     whatItDoes:
@@ -176,12 +179,10 @@ const keywordSeeds: Keyword[] = [
     title: "Volumetric Lighting",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/volumetric-lighting.png",
-      alt: "Abstract placeholder for volumetric lighting with visible beams passing through haze",
-      background:
-        "linear-gradient(120deg, rgba(255,255,255,0.88) 0 12%, transparent 12% 28%, rgba(255,255,255,0.48) 28% 38%, transparent 38%), linear-gradient(135deg, #dce7e1 0%, #9eaa9d 48%, #5b665d 100%)"
-    },
+    heroImage: keywordHero(
+      "volumetric-lighting",
+      "linear-gradient(120deg, rgba(255,255,255,0.88) 0 12%, transparent 12% 28%, rgba(255,255,255,0.48) 28% 38%, transparent 38%), linear-gradient(135deg, #dce7e1 0%, #9eaa9d 48%, #5b665d 100%)"
+    ),
     overview:
       "Volumetric Lighting describes visible beams of light traveling through particles in the air, such as mist, dust, smoke, fog, or atmospheric haze. In AI image generation, it is a powerful keyword for adding depth and drama. Instead of light simply landing on objects, the light itself becomes visible inside the scene. This can make an image feel cinematic, mysterious, sacred, futuristic, or magical depending on the setting. Beginners can use Volumetric Lighting when a prompt feels flat or lacks atmosphere. It is especially useful when you want the viewer to feel the scale of a space, the direction of the light, or the mood of an environment.",
     whatItDoes:
@@ -228,12 +229,10 @@ const keywordSeeds: Keyword[] = [
     title: "Studio Lighting",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/studio-lighting.png",
-      alt: "Studio lighting AI prompt example with clean controlled highlights for commercial photography",
-      background:
-        "radial-gradient(circle at 30% 20%, #ffffff 0, transparent 24%), radial-gradient(circle at 70% 35%, #f2f7f4 0, transparent 22%), linear-gradient(135deg, #e8ece8 0%, #fbfaf7 48%, #cfd8d1 100%)"
-    },
+    heroImage: keywordHero(
+      "studio-lighting",
+      "radial-gradient(circle at 30% 20%, #ffffff 0, transparent 24%), radial-gradient(circle at 70% 35%, #f2f7f4 0, transparent 22%), linear-gradient(135deg, #e8ece8 0%, #fbfaf7 48%, #cfd8d1 100%)"
+    ),
     overview:
       "Studio Lighting is a prompt keyword that suggests a controlled, professional lighting setup. Instead of relying on natural sunlight or random environmental light, Studio Lighting points the model toward clean highlights, intentional shadows, balanced exposure, and a polished commercial finish. It is one of the most practical lighting keywords for AI image creators because it works across product photography, portraits, ecommerce, fashion, corporate visuals, and catalog-style imagery. For beginners, Studio Lighting is helpful when you want an image to look professional, reliable, and ready for business use.",
     whatItDoes:
@@ -256,12 +255,10 @@ const keywordSeeds: Keyword[] = [
     title: "Low Key Lighting",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/low-key-lighting.png",
-      alt: "Low key lighting AI prompt example with deep shadows and selective premium highlights",
-      background:
-        "radial-gradient(circle at 72% 34%, #d7b77a 0, transparent 18%), linear-gradient(135deg, #0f1110 0%, #202623 54%, #4d4236 100%)"
-    },
+    heroImage: keywordHero(
+      "low-key-lighting",
+      "radial-gradient(circle at 72% 34%, #d7b77a 0, transparent 18%), linear-gradient(135deg, #0f1110 0%, #202623 54%, #4d4236 100%)"
+    ),
     overview:
       "Low Key Lighting is a lighting style built around darkness, contrast, and selective illumination. In AI image prompts, it usually creates images with deep shadows, darker backgrounds, and a small amount of focused light on the subject. The result can feel dramatic, mysterious, premium, serious, or cinematic. Low Key Lighting is often used in luxury product photography, film posters, athletic portraits, music visuals, and editorial images. For beginners, it is a useful keyword when you want more mood and depth, but it needs a clear subject so the image does not become too dark to read.",
     whatItDoes:
@@ -284,12 +281,10 @@ const keywordSeeds: Keyword[] = [
     title: "High Key Lighting",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/high-key-lighting.png",
-      alt: "High key lighting AI prompt example with bright airy exposure and soft pale shadows",
-      background:
-        "radial-gradient(circle at 30% 24%, #ffffff 0, transparent 34%), linear-gradient(135deg, #ffffff 0%, #f6f3ec 46%, #e4eee9 100%)"
-    },
+    heroImage: keywordHero(
+      "high-key-lighting",
+      "radial-gradient(circle at 30% 24%, #ffffff 0, transparent 34%), linear-gradient(135deg, #ffffff 0%, #f6f3ec 46%, #e4eee9 100%)"
+    ),
     overview:
       "High Key Lighting is a bright lighting style with low contrast, pale shadows, and an airy overall feeling. In AI image prompts, it is useful for creating clean, optimistic, fresh, and approachable images. The background is often white or light-toned, and the subject is evenly illuminated. High Key Lighting is common in beauty campaigns, wellness imagery, ecommerce product photography, healthcare visuals, baby and family photography, and modern business imagery. For beginners, it is a helpful keyword when you want a bright commercial look without harsh shadows or heavy drama.",
     whatItDoes:
@@ -312,12 +307,10 @@ const keywordSeeds: Keyword[] = [
     title: "Moody Lighting",
     category: "Lighting",
     published: true,
-    heroImage: {
-      src: "/images/keywords/moody-lighting.png",
-      alt: "Moody lighting AI prompt example with muted shadows and soft directional editorial glow",
-      background:
-        "radial-gradient(circle at 22% 30%, #d6c09a 0, transparent 22%), linear-gradient(135deg, #252a28 0%, #59605b 48%, #7a6658 100%)"
-    },
+    heroImage: keywordHero(
+      "moody-lighting",
+      "radial-gradient(circle at 22% 30%, #d6c09a 0, transparent 22%), linear-gradient(135deg, #252a28 0%, #59605b 48%, #7a6658 100%)"
+    ),
     overview:
       "Moody Lighting is a prompt keyword for images with atmosphere, emotional depth, and a more restrained lighting style. It often includes darker tones, directional light, muted colors, and visible shadow areas, but it does not have to be as dark as Low Key Lighting. In AI image generation, Moody Lighting is useful when you want a scene to feel thoughtful, cinematic, intimate, elegant, or mysterious. It is common in editorial portraits, luxury interiors, coffee shop scenes, rainy windows, fashion campaigns, and premium product photography. Beginners can use it to add feeling and story to otherwise plain images.",
     whatItDoes:
@@ -532,12 +525,10 @@ const keywordSeeds: Keyword[] = [
     title: "Minimalist",
     category: "Style",
     published: true,
-    heroImage: {
-      src: "/images/keywords/minimalist.png",
-      alt: "Abstract placeholder for minimalist style with open space and restrained blocks of color",
-      background:
-        "linear-gradient(135deg, #fbfaf7 0%, #fbfaf7 52%, #dfe7e2 52% 72%, #b8c5ba 72% 100%)"
-    },
+    heroImage: keywordHero(
+      "minimalist",
+      "linear-gradient(135deg, #fbfaf7 0%, #fbfaf7 52%, #dfe7e2 52% 72%, #b8c5ba 72% 100%)"
+    ),
     overview:
       "Minimalist is a style keyword that emphasizes simplicity, clarity, and restraint. In AI image prompts, it helps remove visual clutter and creates images that feel calm, modern, and easy to use in real design projects. A minimalist image usually has fewer objects, cleaner backgrounds, more negative space, and a clearer focal point. This makes it especially useful for commercial work because designers often need images that can support text, branding, or layout elements. For beginners, Minimalist is one of the best keywords to use when a generated image feels too busy, decorative, or hard to read.",
     whatItDoes:
@@ -644,12 +635,10 @@ const keywordSeeds: Keyword[] = [
     title: "Morandi Palette",
     category: "Color",
     published: true,
-    heroImage: {
-      src: "/images/keywords/morandi-palette.png",
-      alt: "Abstract placeholder for Morandi palette with dusty muted color fields",
-      background:
-        "linear-gradient(135deg, #b9aaa0 0%, #d2c7bd 25%, #aeb9ad 25% 52%, #d8c4b2 52% 76%, #8f9a91 76% 100%)"
-    },
+    heroImage: keywordHero(
+      "morandi-palette",
+      "linear-gradient(135deg, #b9aaa0 0%, #d2c7bd 25%, #aeb9ad 25% 52%, #d8c4b2 52% 76%, #8f9a91 76% 100%)"
+    ),
     overview:
       "Morandi Palette is a color keyword inspired by the quiet, dusty tones associated with painter Giorgio Morandi. In AI image prompts, it usually points the model toward muted, low-saturation colors such as dusty rose, warm gray, clay, sage, beige, soft blue, faded mauve, and stone. The effect is refined, calm, and slightly editorial. This palette is useful when you want an image to feel sophisticated without becoming cold or overly minimal. For beginners, Morandi Palette is a practical way to control color harmony. It can make a scene feel more tasteful, cohesive, and brand-ready, especially when default AI colors look too bright or artificial.",
     whatItDoes:
@@ -848,6 +837,14 @@ const keywordSeeds: Keyword[] = [
     adobeStockPotential: "High for beauty, fashion, jewelry, and upscale marketing assets.",
     difficulty: "Intermediate"
   }
+];
+
+const keywordSeeds: Keyword[] = [
+  ...baseKeywordSeeds.map((keyword) => ({
+    ...keyword,
+    ...remainingKeywordOverrides[keyword.title]
+  })),
+  ...colorKeywordSeeds
 ];
 
 export const keywords = keywordSeeds.map((keyword) => ({
