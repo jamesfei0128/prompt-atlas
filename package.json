@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
+    "keywords:discover": "tsx scripts/discover-keywords.ts",
     "content:auto": "tsx scripts/generate-daily-content.ts",
     "images:dry-run": "node scripts/generate-keyword-images.mjs --dry-run",
     "images:generate": "node scripts/generate-keyword-images.mjs --generate",
