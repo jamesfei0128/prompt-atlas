@@ -539,6 +539,30 @@
       "generationPrompt": "16:9 image of a warm living room interior with soft golden lighting, plush cushions, soft blankets, wooden furniture, and ambient shadows, realistic materials, no logos or text",
       "category": "Atmosphere",
       "keywordSlug": "cozy-atmosphere"
+    },
+    {
+      "filename": "surreal-atmosphere.png",
+      "altText": "Dreamlike surreal atmosphere with floating geometric shapes in a misty violet forest",
+      "imageTitle": "Surreal Atmosphere in a Misty Forest",
+      "generationPrompt": "16:9 image of a misty forest with floating glowing geometric shapes under a violet sky, surreal atmosphere, clean editorial composition, premium lighting, subtle depth, realistic materials, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "surreal-atmosphere"
+    },
+    {
+      "filename": "nostalgic-mood.png",
+      "altText": "Warm sunlit autumn park bench evoking nostalgic memories with soft shadows and golden hues",
+      "imageTitle": "Nostalgic Mood Autumn Park Scene",
+      "generationPrompt": "16:9 image of a sunlit autumn park bench with golden leaves, soft shadows, warm muted tones, vintage atmosphere, soft diffused lighting, realistic natural materials, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "nostalgic-mood"
+    },
+    {
+      "filename": "rainy-atmosphere.png",
+      "altText": "City street illuminated by neon lights under a rainy atmosphere with wet reflective pavement and overcast sky",
+      "imageTitle": "Rainy Atmosphere Urban Night Scene",
+      "generationPrompt": "16:9 urban street scene at night under heavy rain, wet reflective pavement glistening with neon light reflections, overcast cloudy sky, realistic water droplets, soft diffuse lighting, clean editorial composition, premium photorealistic style, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "rainy-atmosphere"
     }
   ]
 }

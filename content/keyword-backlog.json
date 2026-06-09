@@ -51,25 +51,25 @@
     "keyword": "Surreal Atmosphere",
     "slug": "surreal-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-09T15:07:06.815Z"
   },
   {
     "keyword": "Nostalgic Mood",
     "slug": "nostalgic-mood",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-09T15:07:45.436Z"
   },
   {
     "keyword": "Rainy Atmosphere",
     "slug": "rainy-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-09T15:08:54.745Z"
   },
   {
     "keyword": "Peaceful Atmosphere",
@@ -278,5 +278,590 @@
     "status": "pending",
     "createdAt": "2026-06-08",
     "publishedAt": null
+  },
+  {
+    "keyword": "Chiaroscuro Lighting",
+    "slug": "chiaroscuro-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Ambient Light Effects",
+    "slug": "ambient-light-effects",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Shadow Play",
+    "slug": "soft-shadow-play",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Ratio Composition",
+    "slug": "golden-ratio-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Radial Symmetry Composition",
+    "slug": "radial-symmetry-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Triadic Color Scheme",
+    "slug": "triadic-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Warm Neutral Palette",
+    "slug": "warm-neutral-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Gradient Mesh Coloring",
+    "slug": "gradient-mesh-coloring",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Matte Surface Texture",
+    "slug": "matte-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rough Stone Texture",
+    "slug": "rough-stone-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Torn Paper Texture",
+    "slug": "torn-paper-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.536Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Velvet Texture",
+    "slug": "soft-velvet-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Foggy Morning Atmosphere",
+    "slug": "foggy-morning-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Dusk Twilight Mood",
+    "slug": "dusk-twilight-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Crisp Winter Air Atmosphere",
+    "slug": "crisp-winter-air-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rain-Slicked Pavement Atmosphere",
+    "slug": "rain-slicked-pavement-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Asymmetrical Balance Composition",
+    "slug": "asymmetrical-balance-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Central Focus Composition",
+    "slug": "central-focus-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Juxtaposition Visual Style",
+    "slug": "juxtaposition-visual-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Grainy Film Texture Style",
+    "slug": "grainy-film-texture-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flat Graphic Style",
+    "slug": "flat-graphic-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Hand Rendered Illustration Style",
+    "slug": "hand-rendered-illustration-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vector Art Style",
+    "slug": "vector-art-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Crosshatching Texture",
+    "slug": "crosshatching-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Glossy Surface Finish",
+    "slug": "glossy-surface-finish",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Fabric Weave Pattern",
+    "slug": "fabric-weave-pattern",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Smooth Silk Texture",
+    "slug": "smooth-silk-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Wood Grain",
+    "slug": "natural-wood-grain",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Studio Product Photography",
+    "slug": "studio-product-photography",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Corporate Presentation Design",
+    "slug": "corporate-presentation-design",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Mobile App Hero Image",
+    "slug": "mobile-app-hero-image",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Book Cover Layout",
+    "slug": "book-cover-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Backlit Silhouette Lighting",
+    "slug": "backlit-silhouette-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Colored Shadow Lighting",
+    "slug": "colored-shadow-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Specular Highlight Lighting",
+    "slug": "specular-highlight-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Light Painting Technique",
+    "slug": "light-painting-technique",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Key Background Lighting",
+    "slug": "high-key-background-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Negative Space Usage",
+    "slug": "negative-space-usage",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Visual Hierarchy Principles",
+    "slug": "visual-hierarchy-principles",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Diagonal Movement Composition",
+    "slug": "diagonal-movement-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Layered Depth Composition",
+    "slug": "layered-depth-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimal Text Overlay Style",
+    "slug": "minimal-text-overlay-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flat Design Style",
+    "slug": "flat-design-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Monoline Icon Style",
+    "slug": "monoline-icon-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Hand Lettered Typography Style",
+    "slug": "hand-lettered-typography-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Geometric Pattern Style",
+    "slug": "geometric-pattern-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Monotone Blue Palette",
+    "slug": "monotone-blue-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Earthy Warm Tones",
+    "slug": "earthy-warm-tones",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rough Canvas Texture",
+    "slug": "rough-canvas-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Chalkboard Surface Texture",
+    "slug": "chalkboard-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cracked Paint Texture",
+    "slug": "cracked-paint-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Concrete Wall Texture",
+    "slug": "concrete-wall-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Matte Paper Texture",
+    "slug": "soft-matte-paper-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Studio Lighting Setup Guide",
+    "slug": "studio-lighting-setup-guide",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Window Light Usage",
+    "slug": "natural-window-light-usage",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Artificial Light Balancing",
+    "slug": "artificial-light-balancing",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.537Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Overhead Lighting Technique",
+    "slug": "overhead-lighting-technique",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flickering Light Effect",
+    "slug": "flickering-light-effect",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rainy Day Mood",
+    "slug": "rainy-day-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Sunset Glow Atmosphere",
+    "slug": "sunset-glow-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Mystic Forest Atmosphere",
+    "slug": "mystic-forest-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Urban Night Atmosphere",
+    "slug": "urban-night-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Calm Beach Atmosphere",
+    "slug": "calm-beach-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Editorial Lifestyle Photography",
+    "slug": "editorial-lifestyle-photography",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Advertising Print Layout",
+    "slug": "advertising-print-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-06-09T15:06:28.538Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
   }
 ]

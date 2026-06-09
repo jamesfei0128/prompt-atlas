@@ -318,4 +318,155 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Focus on including descriptors like 'warm light,' 'plush textures,' 'intimate spaces,' and incorporate materials such as wood and soft fabrics to amplify coziness."
     }
   ]
+  },
+  {
+    title: "Surreal Atmosphere",
+    category: "Atmosphere",
+    published: true,
+    seoTitle: "Surreal Atmosphere: Creating Dreamlike AI Art Environments",
+    metaDescription: "Explore surreal atmosphere prompts to create dreamlike AI-generated images with unique lighting and surreal elements for creative projects.",
+    heroImage: keywordHero("surreal-atmosphere", "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"),
+    definition: "A surreal atmosphere describes an environment in visual art or imagery that combines realistic elements with dreamlike, bizarre, or illogical features, creating a sense of fantasy or altered reality.",
+    visualCharacteristics: [
+    "Unusual lighting and color schemes",
+    "Distorted or impossible spatial arrangements",
+    "Combination of realistic and fantastical elements"
+  ],
+    overview: "Surreal atmosphere in AI-generated imagery refers to the creation of scenes that evoke a dreamlike or otherworldly mood. By blending realistic details with fantastical or impossible elements, these images stimulate imagination and curiosity. The atmosphere often employs unexpected lighting, unconventional perspectives, and imaginative compositions to challenge the viewer’s perception of reality. This style is widely used in art, storytelling, and advertising to convey unique concepts or evoke specific emotions. Surreal atmospheres encourage viewers to explore beyond ordinary experiences, creating memorable and visually engaging content.",
+    whatItDoes: "Using surreal atmosphere prompts guides AI image generators to produce visuals that mix reality and fantasy seamlessly. This approach enables creators to explore abstract ideas, symbolize emotions, or craft visually striking scenes that defy normal logic. Surreal atmospheres enhance narrative depth and artistic expression by introducing elements that surprise or intrigue the viewer. They are effective in capturing attention across media formats, making them valuable for creative projects that require standout imagery. Ultimately, surreal atmosphere prompts expand artistic possibilities by breaking conventional visual boundaries.",
+    bestUseCases: [
+    "Concept art for fantasy or sci-fi projects",
+    "Marketing visuals that require attention-grabbing surreal elements",
+    "Editorial illustrations for articles exploring abstract or psychological themes"
+  ],
+    relatedKeywords: [
+    "Dreamlike Lighting",
+    "Fantastical Environment",
+    "Abstract Mood"
+  ],
+    examplePrompt: "A misty forest with floating, glowing geometric shapes under a violet sky",
+    promptExamples: [
+    "A misty forest with floating, glowing geometric shapes under a violet sky",
+    "An urban cityscape melting into a colorful ocean with surreal reflections",
+    "A surreal desert scene with giant clock faces partially buried in sand during golden hour"
+  ],
+    commercialApplications: [
+    "Advertising campaigns that need unique, eye-catching visuals",
+    "Book covers for fantasy and speculative fiction genres",
+    "Video game environment design with imaginative worlds"
+  ],
+    adobeStockPotential: "Surreal atmosphere images hold strong potential for Adobe Stock due to their wide appeal in creative industries. Their dreamlike qualities suit editorial, advertising, and entertainment needs, making them versatile assets. High-quality surreal atmosphere visuals can attract designers and marketers aiming for unusual and artistic imagery. Stock platforms favor such compelling content because it offers distinctiveness compared to standard photography, boosting commercial relevance and downloads.",
+    difficulty: "Intermediate",
+    faqs: [
+    {
+      "question": "What makes an atmosphere 'surreal' in AI-generated images?",
+      "answer": "A surreal atmosphere combines realistic elements with bizarre or dreamlike features that challenge normal perception, often using unusual lighting, strange spatial arrangements, or fantastical imagery."
+    },
+    {
+      "question": "Can beginners create surreal atmosphere images with AI tools?",
+      "answer": "Yes, beginners can create surreal atmospheres by starting with simple prompts that mix familiar objects in unusual ways and gradually experimenting with more complex surreal concepts."
+    }
+  ]
+  },
+  {
+    title: "Nostalgic Mood",
+    category: "Atmosphere",
+    published: true,
+    seoTitle: "Nostalgic Mood: Capturing Emotions in AI Art",
+    metaDescription: "Explore the Nostalgic Mood keyword to evoke warm memories and timeless emotions in AI-generated images. Perfect for atmospheric digital art.",
+    heroImage: keywordHero("nostalgic-mood", "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"),
+    definition: "Nostalgic Mood refers to an emotional atmosphere in imagery that evokes sentimental longing for the past, often characterized by warm tones, soft lighting, and elements reminiscent of earlier times.",
+    visualCharacteristics: [
+    "Warm, muted color palettes",
+    "Soft, diffused lighting",
+    "Elements evoking past eras or memories"
+  ],
+    overview: "The Nostalgic Mood in AI image generation centers around creating visuals that elicit feelings of fond remembrance and emotional warmth. This atmosphere leverages warm and muted tones, soft focus or gentle lighting, and subtle vintage or retro elements to create a connection to the past. It is widely used to convey stories or moments that recall simpler times, cherished memories, or timeless beauty. Incorporating Nostalgic Mood enhances the emotional depth of an image, making it resonate deeply with viewers by sparking familiar feelings of comfort and reminiscence.",
+    whatItDoes: "Using the Nostalgic Mood in AI-generated imagery helps to infuse scenes with a sentimental quality that communicates warmth and emotional intimacy. It guides the AI to focus on color schemes and lighting that mirror old photographs or familiar settings, creating a bridge between the viewer's present and their memories. This can invoke a sense of calmness, longing, or happiness, depending on the context. By highlighting themes of memory and past experiences, Nostalgic Mood images captivate audiences through emotional storytelling and atmospheric richness.",
+    bestUseCases: [
+    "Creating editorial hero images that convey emotional storytelling",
+    "Designing marketing visuals for vintage or retro-inspired brands",
+    "Producing movie or book cover art that emphasizes sentimental themes"
+  ],
+    relatedKeywords: [
+    "Warm Atmosphere",
+    "Sentimental Vibes",
+    "Retro Aesthetic"
+  ],
+    examplePrompt: "A sunlit autumn park bench with soft shadows and golden hues, evoking childhood memories",
+    promptExamples: [
+    "A sunlit autumn park bench with soft shadows and golden hues, evoking childhood memories",
+    "Vintage bicycle leaning against a rustic wooden fence, morning light filtering through trees",
+    "Cozy interior with warm light spilling through lace curtains, old photographs on a table"
+  ],
+    commercialApplications: [
+    "Advertising campaigns for nostalgia-driven products like collectibles",
+    "Editorial photography for lifestyle magazines",
+    "Packaging design for artisanal or heritage brands"
+  ],
+    adobeStockPotential: "Images generated with the Nostalgic Mood keyword have high commercial appeal due to their emotional resonance and broad usability. They are well-suited for premium stock photo collections targeting lifestyle, advertising, and editorial markets. Such images can enhance brand storytelling by evoking familiar sentiments and drawing viewers into content with memorable warmth and character. This increases the value and versatility of stock imagery, making Nostalgic Mood visuals strong candidates for high-demand stock portfolios.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "How can I make an AI image appear nostalgic?",
+      "answer": "Focus on warm, muted colors, soft lighting effects, and include elements that are reminiscent of past eras, such as vintage objects or settings that suggest memory and time."
+    },
+    {
+      "question": "Which lighting style best enhances nostalgic mood?",
+      "answer": "Soft, diffused natural lighting or golden hour sunlight tends to enhance a nostalgic atmosphere by creating gentle shadows and warm highlights."
+    },
+    {
+      "question": "Can nostalgic mood be combined with other atmospheres?",
+      "answer": "Yes, it pairs well with cozy, romantic, or calm atmospheres to deepen emotional impact, but should be balanced to avoid clashing tonalities."
+    }
+  ]
+  },
+  {
+    title: "Rainy Atmosphere",
+    category: "Atmosphere",
+    published: true,
+    seoTitle: "Rainy Atmosphere: Creating Moody AI Imagery",
+    metaDescription: "Explore how to create rainy atmosphere scenes with AI prompts. Learn its characteristics, uses, and commercial potential in atmospheric image generation.",
+    heroImage: keywordHero("rainy-atmosphere", "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"),
+    definition: "Rainy Atmosphere refers to a visual setting where elements like rain, overcast skies, wet surfaces, and subdued lighting combine to evoke feelings of melancholy, freshness, or introspection in imagery.",
+    visualCharacteristics: [
+    "Dark, overcast skies with diffused light",
+    "Visible rain droplets or wet surfaces",
+    "Muted colors with reflective puddles or slick textures"
+  ],
+    overview: "Rainy Atmosphere in AI-generated imagery involves recreating the nuanced conditions of rainfall and its effects on the environment. This atmosphere is characterized by clouds dense with moisture, soft and diffused lighting due to overcast conditions, and surfaces that appear slick or reflective from water. By simulating these conditions, artists can evoke moods ranging from somber and contemplative to calm and refreshing. The presence of rain adds dynamic elements like visible drops or mist, enhancing realism and emotional depth. Such atmospheres are widely used to depict urban scenes, nature, and cinematic moments where weather impacts the narrative tone.",
+    whatItDoes: "Using a rainy atmosphere in AI prompts adds emotional and aesthetic complexity to images. It influences lighting conditions by introducing soft shadows and muted highlights, which make scenes appear more diffused and natural. Wet surfaces create reflections and glimmers that add depth and realism. Rain effects can suggest motion, evoke nostalgia or melancholy, and increase immersion by appealing to sensory associations with weather. For AI models, specifying rainy atmosphere helps generate textures like drops, puddles, and fog, enriching visual storytelling and mood setting.",
+    bestUseCases: [
+    "Creating cinematic cityscapes with wet streets and glowing reflections",
+    "Depicting contemplative or emotional human portraits under rain",
+    "Enhancing nature scenes with rain-dappled leaves and misty backgrounds"
+  ],
+    relatedKeywords: [
+    "Overcast Sky",
+    "Wet Surfaces",
+    "Foggy Environment"
+  ],
+    examplePrompt: "Urban street at night with rainy atmosphere, wet pavement reflecting neon lights, soft diffuse lighting",
+    promptExamples: [
+    "Urban street at night with rainy atmosphere, wet pavement reflecting neon lights, soft diffuse lighting",
+    "Solitary person with umbrella walking through a rainy forest, visible raindrops, muted cool color palette",
+    "Rainy seaside pier with mist and dark clouds, wet wooden planks, subtle reflections"
+  ],
+    commercialApplications: [
+    "Advertising campaigns emphasizing rainy moods or products for wet weather",
+    "Film and game concept art requiring realistic weather atmospheres",
+    "Stock photography and editorial images for seasonal storytelling"
+  ],
+    adobeStockPotential: "Rainy atmosphere imagery holds strong commercial appeal for stock platforms like Adobe Stock due to its versatility and emotional impact. Such images serve advertising, editorial, and entertainment industries looking to convey moods from melancholy to freshness. Their demand spikes in campaigns related to weather, fashion, travel, and urban lifestyle. Photorealistic renderings combining rain effects with refined lighting are sought after for their premium editorial quality and narrative potential, making rainy atmosphere prompts valuable assets for contributors focused on high-quality atmospheric visuals.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "How can I make AI-generated rain look realistic?",
+      "answer": "Include descriptive keywords like 'visible raindrops', 'wet surfaces', and 'diffused lighting'. Combining these with environmental cues such as puddles and reflections helps enhance realism."
+    },
+    {
+      "question": "Does rainy atmosphere affect color tones?",
+      "answer": "Yes, rainy atmosphere typically mutes colors, shifting palettes to cooler, subdued tones and increasing contrast through reflections and shadows."
+    }
+  ]
   }];
