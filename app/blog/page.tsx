@@ -3,7 +3,17 @@ import { posts } from "@/content/blog";
 
 export const metadata: Metadata = {
   title: "Blog",
-  description: "PromptAtlas guides for combining AI art prompt keywords and creating commercial-ready visuals."
+  description: "PromptAtlas guides for combining AI art prompt keywords and creating commercial-ready visuals.",
+  alternates: {
+    canonical: "/blog"
+  },
+  openGraph: {
+    title: "PromptAtlas Blog",
+    description: "PromptAtlas guides for combining AI art prompt keywords and creating commercial-ready visuals.",
+    url: "/blog",
+    siteName: "PromptAtlas",
+    type: "website"
+  }
 };
 
 export default function BlogPage() {

@@ -2,7 +2,17 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Learn what PromptAtlas is and how it organizes AI art prompt keywords for creators."
+  description: "Learn what PromptAtlas is and how it organizes AI art prompt keywords for creators.",
+  alternates: {
+    canonical: "/about"
+  },
+  openGraph: {
+    title: "About PromptAtlas",
+    description: "Learn what PromptAtlas is and how it organizes AI art prompt keywords for creators.",
+    url: "/about",
+    siteName: "PromptAtlas",
+    type: "website"
+  }
 };
 
 export default function AboutPage() {

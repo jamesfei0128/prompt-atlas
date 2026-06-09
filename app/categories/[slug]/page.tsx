@@ -23,7 +23,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: `${category.title} Prompt Keywords`,
-    description: category.description
+    description: category.description,
+    alternates: {
+      canonical: `/categories/${category.slug}`
+    },
+    openGraph: {
+      title: `${category.title} Prompt Keywords`,
+      description: category.description,
+      url: `/categories/${category.slug}`,
+      siteName: "PromptAtlas",
+      type: "website"
+    }
   };
 }
 

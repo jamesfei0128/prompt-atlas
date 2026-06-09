@@ -19,13 +19,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {};
   }
 
+  const title = keyword.seoTitle ?? `${keyword.title} AI Art Prompt Keyword`;
+  const description = keyword.metaDescription ?? keyword.overview;
+  const url = `/keywords/${keyword.slug}`;
+
   return {
-    title: keyword.seoTitle ?? `${keyword.title} AI Art Prompt Keyword`,
-    description: keyword.metaDescription ?? keyword.overview,
+    title,
+    description,
+    alternates: {
+      canonical: url
+    },
     openGraph: {
-      title: keyword.seoTitle ?? `${keyword.title} AI Art Prompt Keyword`,
-      description: keyword.metaDescription ?? keyword.overview,
-      type: "article"
+      title,
+      description,
+      url,
+      siteName: "PromptAtlas",
+      type: "article",
+      images: keyword.heroImage?.src
+        ? [
+            {
+              url: keyword.heroImage.src,
+              alt: keyword.heroImage.alt
+            }
+          ]
+        : undefined
     }
   };
 }

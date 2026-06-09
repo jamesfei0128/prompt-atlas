@@ -3,8 +3,10 @@ import type { ReactNode } from "react";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "PromptAtlas - AI Art Prompt Keyword Encyclopedia",
     template: "%s | PromptAtlas"

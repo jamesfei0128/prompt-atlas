@@ -1,8 +1,28 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { KeywordCard } from "@/components/KeywordCard";
 import { getFeaturedKeywords, getRelatedKeywords } from "@/lib/data";
+
+const title = "PromptAtlas - AI Art Prompt Keyword Encyclopedia";
+const description =
+  "A SEO-friendly encyclopedia of AI art prompt keywords for lighting, atmosphere, composition, style, color, texture, and commercial use.";
+
+export const metadata: Metadata = {
+  title,
+  description,
+  alternates: {
+    canonical: "/"
+  },
+  openGraph: {
+    title,
+    description,
+    url: "/",
+    siteName: "PromptAtlas",
+    type: "website"
+  }
+};
 
 const featured = getFeaturedKeywords();
 const heroPreviewKeywords = getRelatedKeywords([
