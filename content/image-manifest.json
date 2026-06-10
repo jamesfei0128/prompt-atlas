@@ -563,6 +563,30 @@
       "generationPrompt": "16:9 urban street scene at night under heavy rain, wet reflective pavement glistening with neon light reflections, overcast cloudy sky, realistic water droplets, soft diffuse lighting, clean editorial composition, premium photorealistic style, no text, no logos",
       "category": "Atmosphere",
       "keywordSlug": "rainy-atmosphere"
+    },
+    {
+      "filename": "peaceful-atmosphere.png",
+      "altText": "Calm minimalist living room with soft natural light creating a peaceful atmosphere",
+      "imageTitle": "Peaceful Atmosphere in Minimalist Interior",
+      "generationPrompt": "16:9, a calm minimalist living room scene with soft natural light streaming through large windows, cozy textures, muted neutral colors, subtle depth, realistic materials, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "peaceful-atmosphere"
+    },
+    {
+      "filename": "flat-lay-composition.png",
+      "altText": "Modern flat lay composition of everyday objects arranged neatly on a white surface with soft lighting",
+      "imageTitle": "Flat Lay Composition of Everyday Objects",
+      "generationPrompt": "A clean and modern flat lay composition featuring everyday objects such as a notebook, coffee cup, eyeglasses, and a smartphone arranged neatly on a white surface, soft natural lighting, subtle shadows, 16:9 aspect ratio, high-resolution, realistic materials, no text or logos",
+      "category": "Composition",
+      "keywordSlug": "flat-lay-composition"
+    },
+    {
+      "filename": "diagonal-composition.png",
+      "altText": "A winding mountain road creating a strong diagonal line through a dense forest under golden light",
+      "imageTitle": "Mountain Road with Diagonal Composition at Sunset",
+      "generationPrompt": "16:9 photo of a winding mountain road cutting diagonally through a dense sunlit forest during golden hour, photorealistic, premium editorial style, clean and refined lighting, realistic textures, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "diagonal-composition"
     }
   ]
 }
