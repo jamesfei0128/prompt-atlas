@@ -628,4 +628,163 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Yes, it often complements techniques like the rule of thirds and leading lines for enhanced effect."
     }
   ]
+  },
+  {
+    title: "Birds Eye View",
+    category: "Composition",
+    published: true,
+    seoTitle: "Birds Eye View: Composition Technique for Stunning Visuals",
+    metaDescription: "Discover the Birds Eye View composition technique, its benefits, use cases, and how to create compelling images with this unique perspective.",
+    heroImage: keywordHero("birds-eye-view", "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"),
+    definition: "Birds Eye View is a photographic or illustrative composition where the subject is viewed from directly above, providing a top-down perspective that reveals spatial relationships and patterns not visible from ground level.",
+    visualCharacteristics: [
+    "Top-down perspective looking straight down",
+    "Emphasizes layout and spatial organization",
+    "Creates abstract or map-like visuals"
+  ],
+    overview: "The Birds Eye View composition technique offers a unique vantage point by capturing scenes from directly above the subject. This overhead perspective allows viewers to observe spatial arrangements, patterns, and relationships in a way that typical eye-level shots cannot. It is commonly used in photography, filmmaking, cartography, and design to present environments, objects, or activities with clarity and abstraction. By removing depth cues and flattening the image plane, the Birds Eye View highlights shapes, lines, and symmetry, often resulting in visually striking and informative imagery. This technique enhances storytelling by offering a comprehensive overview, making it particularly useful for scenes involving multiple subjects or complex layouts.",
+    whatItDoes: "By using a Birds Eye View, creators can provide a comprehensive overview of the scene, revealing details and spatial relationships that are hidden in traditional perspectives. This approach helps to simplify complex visuals by presenting them from above, often turning chaotic scenes into organized patterns. It enhances viewers' understanding of the environment and interactions within it, making it ideal for planning, analysis, and storytelling. Furthermore, the elevated viewpoint can create dramatic or abstract compositions that grab attention and convey scale or context effectively.",
+    bestUseCases: [
+    "Urban landscape photography to showcase city layouts",
+    "Food photography focusing on plate arrangements",
+    "Event documentation showing crowd formations"
+  ],
+    relatedKeywords: [
+    "Top Down View",
+    "Overhead Shot",
+    "Aerial Perspective"
+  ],
+    examplePrompt: "A vibrant farmers market captured from a birds eye view, colorful stalls and busy shoppers",
+    promptExamples: [
+    "A vibrant farmers market captured from a birds eye view, colorful stalls and busy shoppers",
+    "A modern office workspace seen from above, desks and employees arranged neatly",
+    "A sushi platter displayed from birds eye perspective with detailed textures and vibrant colors"
+  ],
+    commercialApplications: [
+    "Real estate marketing showcasing property layouts",
+    "Advertising campaigns emphasizing product arrangements",
+    "Editorial images for travel and lifestyle articles"
+  ],
+    adobeStockPotential: "Birds Eye View visuals are highly valued on stock image platforms like Adobe Stock due to their versatility and clarity. They cater to a wide range of industries, including advertising, editorial, real estate, and design. Such images effectively communicate spatial relationships and narratives, making them useful for backgrounds, hero images, and infographics. Their abstract yet informative nature also appeals to creatives looking for unique compositions that stand out. With increasing demand for fresh, engaging content, Birds Eye View photography and illustrations hold strong commercial potential in stock marketplaces.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What equipment is needed to capture a Birds Eye View image?",
+      "answer": "You can use drones, tall ladders, or overhead rigs with cameras. Even smartphones mounted on selfie sticks or poles can achieve this angle."
+    },
+    {
+      "question": "How is Birds Eye View different from aerial photography?",
+      "answer": "While both involve elevated viewpoints, Birds Eye View specifically refers to a direct top-down angle, whereas aerial photography can include angled shots from above."
+    },
+    {
+      "question": "Can Birds Eye View be achieved without a drone or high vantage point?",
+      "answer": "Yes, by photographing flat materials on a table or creating digital renders, you can simulate the Birds Eye View perspective."
+    }
+  ]
+  },
+  {
+    title: "Worms Eye View",
+    category: "Composition",
+    published: true,
+    seoTitle: "Worms Eye View: Mastering Dramatic Low-Angle Composition",
+    metaDescription: "Explore the Worms Eye View composition technique to create powerful low-angle imagery. Learn its uses, best prompts, and commercial potential in visual storytelling.",
+    heroImage: keywordHero("worms-eye-view", "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"),
+    definition: "Worms Eye View is a photographic and artistic composition technique where the camera or viewpoint is positioned very low to the ground, looking upward. This perspective emphasizes height, scale, and grandeur of subjects, often making them appear larger or more imposing than usual, similar to viewing from the perspective of a worm on the ground.",
+    visualCharacteristics: [
+    "Viewpoint positioned near ground level looking up",
+    "Emphasizes vertical elements and height",
+    "Creates dramatic scale and perspective distortion"
+  ],
+    overview: "The Worms Eye View composition is a powerful tool in photography, cinematography, and visual arts that enables creators to capture scenes from a dramatically low angle. By positioning the viewpoint close to the ground and aiming upward, this technique magnifies the stature and dominance of subjects, adding a sense of awe, power, or grandeur. It is often employed to emphasize architecture towering above, majestic trees, towering characters, or other vertical elements. This viewpoint challenges the common eye-level framing, making compositions more dynamic and immersive. In AI image generation, it serves as an essential prompt keyword to achieve impactful low-angle scenes with realistic depth and scale.",
+    whatItDoes: "The Worms Eye View technique transforms ordinary perspectives by shifting the viewpoint to ground level looking upwards. This shift alters spatial relationships, making subjects appear towering and immersive, which can dramatically affect the mood and narrative of an image. It enhances depth cues through exaggerated vertical lines and foreshortening, adding a sense of scale and importance. This perspective encourages viewers to feel small, evoke wonder, or highlight power dynamics within a scene. In AI image generation, specifying Worms Eye View guides the model to simulate these optical effects, yielding images that resonate with grandeur and visual storytelling strength.",
+    bestUseCases: [
+    "Architectural photography emphasizing skyscrapers or monuments",
+    "Character design showcasing imposing figures or creatures",
+    "Nature scenes focusing on tall trees or structures"
+  ],
+    relatedKeywords: [
+    "Low Angle",
+    "Perspective Distortion",
+    "Vertical Emphasis"
+  ],
+    examplePrompt: "Worms eye view of a futuristic city skyline with towering skyscrapers under a clear sky",
+    promptExamples: [
+    "Worms eye view of a futuristic city skyline with towering skyscrapers under a clear sky",
+    "Epic worms eye view of a giant mythical dragon perched on a mountain peak",
+    "Worms eye view of an ancient tree forest emphasizing towering trunks and lush canopy"
+  ],
+    commercialApplications: [
+    "Advertising campaigns featuring products associated with strength or grandeur",
+    "Film and game concept art showcasing dynamic, larger-than-life characters",
+    "Architectural visualization and real estate marketing highlighting building scale"
+  ],
+    adobeStockPotential: "Worms Eye View imagery holds strong commercial potential on platforms like Adobe Stock due to its compelling dramatic perspective that attracts diverse content creators and marketers. Images showcasing towering architecture, impressive character designs, and majestic natural scenes from this vantage point are highly sought for editorial, advertising, and creative projects. The technique’s ability to convey scale and power makes such stock images versatile for a variety of uses, including campaigns, presentations, and storytelling visuals. Clean, high-quality worm's eye compositions with subtle lighting and realistic materials align well with premium stock image demands, making them valuable assets that consistently perform in licensing markets.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What is the difference between Worms Eye View and Bird's Eye View?",
+      "answer": "Worms Eye View is a low-angle perspective looking upward from near the ground, emphasizing height and grandeur. In contrast, Bird's Eye View is a high-angle perspective looking downward from above, highlighting layout and spatial relationships from an elevated position."
+    },
+    {
+      "question": "Can Worms Eye View be used in portrait photography?",
+      "answer": "Yes, using Worms Eye View in portrait photography can make subjects appear more powerful and dominant by capturing them from a lower angle, often enhancing dramatic impact."
+    },
+    {
+      "question": "How do I prompt AI models to generate Worms Eye View images effectively?",
+      "answer": "Include specific phrases like 'worms eye view' or 'low angle looking upward' in your prompt. Adding context related to scale, verticality, and environment helps the model understand the desired perspective."
+    }
+  ]
+  },
+  {
+    title: "Layered Composition",
+    category: "Composition",
+    published: true,
+    seoTitle: "Layered Composition: Enhancing Depth and Visual Interest",
+    metaDescription: "Discover Layered Composition, a technique to create depth in images through overlapping elements, enriching storytelling and visual appeal in design.",
+    heroImage: keywordHero("layered-composition", "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"),
+    definition: "Layered Composition is a technique in visual design where multiple elements are arranged in overlapping layers within an image to create a sense of depth, complexity, and visual interest. This approach uses foreground, middle ground, and background elements combined thoughtfully to guide the viewer’s eye and enrich storytelling.",
+    visualCharacteristics: [
+    "Multiple overlapping elements arranged in foreground, middle ground, and background",
+    "Use of depth cues such as blur, lighting, and shadows to enhance layer separation",
+    "Balanced spatial distribution promoting visual flow and complexity"
+  ],
+    overview: "Layered Composition is a foundational technique in photography, graphic design, and digital art used to add dimensionality to images. By strategically layering visual elements, artists create scenes that feel immersive and dynamic rather than flat. This technique leverages natural cues like perspective and lighting contrasts along with careful arrangement to differentiate layers. It helps convey complex narratives effectively, as each layer contributes unique information or mood. Modern digital tools further allow nuanced control over layering with adjustable opacity and blending modes, enhancing refinement. Layered compositions captivate viewers by guiding their attention sequentially through scenes with depth, fostering richer engagement and storytelling potential.",
+    whatItDoes: "Layered Composition enhances the perception of depth and three-dimensionality in two-dimensional imagery. By stacking elements from foreground to background, it mimics how we naturally perceive space. This technique introduces subtle visual complexity without overwhelming the viewer, providing a structured path through the image. It allows designers to emphasize certain focal points while providing contextual details in subsequent layers. Light, shadow, and texture variations across layers contribute to realism and mood, making images appear more lifelike and compelling. Ultimately, layered compositions support clearer communication of scenes, concepts, or narratives by visually organizing information through depth.",
+    bestUseCases: [
+    "Environmental portraits using foreground foliage to frame the subject",
+    "Product photography highlighting texture with layered shadows and reflections",
+    "Editorial illustrations combining multiple graphic elements for storytelling"
+  ],
+    relatedKeywords: [
+    "Depth Effect",
+    "Foreground Framing",
+    "Multi-Plane Composition"
+  ],
+    examplePrompt: "A misty forest scene with layered trees fading into the distance, soft diffused light",
+    promptExamples: [
+    "A misty forest scene with layered trees fading into the distance, soft diffused light",
+    "A busy urban street composition with layered crowds and buildings under golden hour lighting",
+    "Close-up of a flower with layered petals and blurred background creating depth"
+  ],
+    commercialApplications: [
+    "Advertising campaigns requiring impactful imagery with depth",
+    "Stock photography that benefits from dynamic compositions",
+    "Digital marketing visuals that engage audiences with layered storytelling"
+  ],
+    adobeStockPotential: "Layered Composition images have high potential on Adobe Stock as they offer premium, engaging visuals that cater to diverse client needs. Buyers often seek images with realistic depth and complexity for advertising, editorial content, and web design, where layered compositions can stand out. The technique's versatility across genres—from nature and urban photography to conceptual art—expands marketability. Well-executed layered images featuring refined lighting and materials attract premium licensing opportunities as they easily integrate into polished creative projects.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What is the key benefit of using layered composition in images?",
+      "answer": "The key benefit is adding depth and dimensionality to flat images, which makes them more engaging and realistic."
+    },
+    {
+      "question": "Can layered composition be applied digitally as well as in photography?",
+      "answer": "Yes, it is widely used in both digital art and photography, using layers in software or physical scene arrangement."
+    },
+    {
+      "question": "How do lighting and shadows affect layered composition?",
+      "answer": "Lighting and shadows help define layers by creating separation and enhancing the three-dimensional feel of the image."
+    }
+  ]
   }];
