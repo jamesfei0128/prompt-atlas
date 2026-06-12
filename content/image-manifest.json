@@ -611,6 +611,30 @@
       "generationPrompt": "16:9 photo-realistic scene showing a misty forest with multiple layers of overlapping trees and shrubs fading into the distance, soft natural morning light, subtle depth, realistic textures, no text, no logos",
       "category": "Composition",
       "keywordSlug": "layered-composition"
+    },
+    {
+      "filename": "bauhaus.png",
+      "altText": "Modern interior room featuring Bauhaus style furniture and geometric decor",
+      "imageTitle": "Bauhaus Style Interior Design",
+      "generationPrompt": "16:9 modern interior design featuring Bauhaus style furniture, clean geometric shapes, primary colors with black and white, refined lighting, realistic materials, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "bauhaus"
+    },
+    {
+      "filename": "art-deco.png",
+      "altText": "Luxurious Art Deco style interior with geometric patterns and golden accents",
+      "imageTitle": "Art Deco Inspired Interior Design",
+      "generationPrompt": "16:9 image of a luxurious Art Deco style interior, featuring geometric patterns, gold and chrome materials, bold symmetry, refined lighting, realistic textures, clean composition, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "art-deco"
+    },
+    {
+      "filename": "mid-century-modern.png",
+      "altText": "Mid Century Modern styled living room with teak furniture and large windows",
+      "imageTitle": "Mid Century Modern Living Room Interior",
+      "generationPrompt": "16:9 image of a mid century modern living room with teak wood furniture, geometric shapes, large floor-to-ceiling windows, natural lighting, clean lines, realistic textures, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "mid-century-modern"
     }
   ]
 }

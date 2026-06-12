@@ -123,25 +123,25 @@
     "keyword": "Bauhaus",
     "slug": "bauhaus",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-12T12:49:21.869Z"
   },
   {
     "keyword": "Art Deco",
     "slug": "art-deco",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-12T12:49:56.420Z"
   },
   {
     "keyword": "Mid Century Modern",
     "slug": "mid-century-modern",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-12T12:50:31.829Z"
   },
   {
     "keyword": "Editorial Style",

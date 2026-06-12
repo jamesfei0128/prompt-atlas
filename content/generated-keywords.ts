@@ -787,4 +787,163 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Lighting and shadows help define layers by creating separation and enhancing the three-dimensional feel of the image."
     }
   ]
+  },
+  {
+    title: "Bauhaus",
+    category: "Style",
+    published: true,
+    seoTitle: "Bauhaus Style: Modernist Design for Artistic Innovation",
+    metaDescription: "Explore the Bauhaus style, a modernist design movement emphasizing simplicity, function, and clean lines. Learn its characteristics, uses, and prompt ideas.",
+    heroImage: keywordHero("bauhaus", "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"),
+    definition: "Bauhaus is a modernist design style originating from the German Bauhaus school (1919-1933), characterized by its focus on function, simplicity, and the integration of art, craft, and technology. It features minimalistic geometric shapes, clean lines, and a reduced color palette emphasizing form and purpose over decoration.",
+    visualCharacteristics: [
+    "Simple geometric shapes and forms",
+    "Clean, unornamented lines",
+    "Use of primary colors with black, white, and neutrals"
+  ],
+    overview: "The Bauhaus style emerged from the influential German art school founded by Walter Gropius in 1919, revolutionizing design by combining crafts and fine arts, focusing on functionality and minimalism. It abandoned elaborate decoration in favor of straightforward geometry and industrial materials. Bauhaus permeates architecture, furniture design, graphic arts, and typography, underpinning modern design philosophies worldwide. Its principles emphasize form following function, harmony between aesthetics and usability, and reduction to essentials, inspiring contemporary designers and architects beyond its historical period.",
+    whatItDoes: "Bauhaus design creates visually balanced compositions emphasizing clarity and usability. By stripping away unnecessary ornamentation, it enhances user experience and communication effectiveness. Its use of basic shapes and primary colors establishes a universal visual language that communicates simplicity and modernity. Designers use Bauhaus principles to guide material and structural choices, ensuring that aesthetics serve practical purposes. This approach fosters innovative, efficient designs suitable for mass production, making art accessible while maintaining artistic integrity.",
+    bestUseCases: [
+    "Graphic design projects needing minimalist clarity",
+    "Modern architecture and interior design concepts",
+    "Product design emphasizing function and form"
+  ],
+    relatedKeywords: [
+    "Modernism",
+    "Minimalism",
+    "Constructivism"
+  ],
+    examplePrompt: "Create a Bauhaus-inspired poster with geometric shapes and primary colors",
+    promptExamples: [
+    "Create a Bauhaus-inspired poster with geometric shapes and primary colors",
+    "Design a Bauhaus-style chair featuring clean lines and industrial materials",
+    "Illustrate a modern living room with Bauhaus furniture and minimal decor"
+  ],
+    commercialApplications: [
+    "Corporate branding emphasizing clarity and simplicity",
+    "Furniture lines blending aesthetics with usability",
+    "Architectural projects focusing on functional modern spaces"
+  ],
+    adobeStockPotential: "Bauhaus-themed images hold strong commercial potential due to enduring interest in modernist aesthetics across advertising, editorial, and design industries. Photos and illustrations showcasing Bauhaus geometry, architecture, and objects cater well to clients seeking timeless, clean visuals. These images perform well in digital media, marketing campaigns, and product promotions that require sophisticated yet accessible looks. Consistent with premium stock image standards, Bauhaus visuals can appeal broadly to architects, designers, educators, and creative agencies.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What is the main principle of Bauhaus design?",
+      "answer": "The main principle is that form follows function, meaning design should prioritize practical purpose over decoration."
+    },
+    {
+      "question": "How does Bauhaus differ from other art movements?",
+      "answer": "Bauhaus combines fine arts with crafts focusing on practicality and simplicity, unlike movements that emphasize ornamentation or emotional expression."
+    },
+    {
+      "question": "Can Bauhaus style be used in digital design?",
+      "answer": "Yes, its clean lines and minimalism translate well into user interfaces, branding, and digital graphics promoting clarity and usability."
+    }
+  ]
+  },
+  {
+    title: "Art Deco",
+    category: "Style",
+    published: true,
+    seoTitle: "Art Deco Style: Definition, Uses & AI Image Prompts",
+    metaDescription: "Explore the Art Deco style with clear definitions, key visual traits, best use cases, and AI prompt examples for creative projects and commercial design.",
+    heroImage: keywordHero("art-deco", "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"),
+    definition: "Art Deco is a visual arts style that emerged in the 1920s and 1930s, characterized by sleek geometric shapes, bold symmetry, and lavish ornamentation. It combines modernist styles with fine craftsmanship and rich materials to create luxurious, elegant designs.",
+    visualCharacteristics: [
+    "Geometric patterns and symmetrical designs",
+    "Use of luxurious materials like gold and chrome",
+    "Bold colors with metallic accents"
+  ],
+    overview: "Art Deco is a defining style of the early 20th century, merging modern techniques with opulent aesthetics. It influences architecture, fashion, graphic design, and interior decoration, emphasizing clean lines, decadence, and a futuristic feel. While rooted in the industrial age, Art Deco reflects optimism and luxury, often incorporating motifs inspired by technology, nature, and ancient cultures. Its distinctive approach offers both elegance and dynamic visual rhythm, making it iconic in design history and continually inspiring contemporary creatives.",
+    whatItDoes: "The Art Deco style brings a sense of sophistication and glamour to visual projects by employing strong geometric forms, symmetry, and rich color contrasts. It enhances images with a polished, upscale appearance that suggests luxury and progress. When used in AI image generation, it guides the creation of visuals that balance modernity and classic elegance, suitable for editorial, branding, and stylistic storytelling. Art Deco emphasizes decorative elements while maintaining clarity and order, making the outputs refined and visually engaging.",
+    bestUseCases: [
+    "Creating stylish editorial hero images for luxury brands",
+    "Designing vintage-inspired posters or packaging",
+    "Developing upscale interior visualization concepts"
+  ],
+    relatedKeywords: [
+    "Vintage Style",
+    "Geometric Design",
+    "Luxury Aesthetic"
+  ],
+    examplePrompt: "Art Deco style interior with geometric furniture and gold accents",
+    promptExamples: [
+    "Art Deco style interior with geometric furniture and gold accents",
+    "Luxurious Art Deco cityscape at sunset, symmetrical skyscrapers, metallic details",
+    "Vintage Art Deco poster featuring bold typography and decorative patterns"
+  ],
+    commercialApplications: [
+    "High-end fashion marketing campaigns incorporating Art Deco visuals",
+    "Luxury real estate brochures featuring Art Deco-inspired interiors",
+    "Graphic design for premium product branding and packaging"
+  ],
+    adobeStockPotential: "Art Deco-themed images hold strong commercial appeal on platforms like Adobe Stock due to their timeless elegance and versatility in luxury branding. Stylized visuals with geometric patterns and metallic finishes cater well to clients in fashion, architecture, and lifestyle sectors. Offering images with clean compositions and refined lighting in this style can attract premium purchasers seeking sophisticated editorial or commercial visuals.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What is Art Deco style?",
+      "answer": "Art Deco is an early 20th-century design style known for its bold geometric shapes, symmetry, and the use of luxurious materials."
+    },
+    {
+      "question": "How can Art Deco be used in modern design?",
+      "answer": "It adds elegance and a vintage-modern fusion to projects like branding, interiors, fashion, and digital art, enhancing sophistication."
+    },
+    {
+      "question": "What colors are typical for Art Deco?",
+      "answer": "Art Deco often features bold colors such as black, gold, silver, deep blues, and rich jewel tones alongside metallic finishes."
+    }
+  ]
+  },
+  {
+    title: "Mid Century Modern",
+    category: "Style",
+    published: true,
+    seoTitle: "Mid Century Modern Style: Timeless Design for AI Image Prompts",
+    metaDescription: "Explore the Mid Century Modern style—a clean, timeless design aesthetic with sleek lines and functional forms perfect for AI image generation.",
+    heroImage: keywordHero("mid-century-modern", "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"),
+    definition: "Mid Century Modern is a design style from roughly the 1940s to 1960s characterized by simplicity, organic forms, and integration with nature, emphasizing functional and clean aesthetics.",
+    visualCharacteristics: [
+    "Clean, simple lines and geometric shapes",
+    "Natural materials like wood paired with modern fabrics",
+    "Open, airy layouts with functional furniture"
+  ],
+    overview: "Mid Century Modern is a highly influential design style recognized for its minimalistic approach and timeless elegance. It emerged post-World War II and combines organic influences with technological advances, focusing on simplicity and functionality. The style uses natural materials such as wood, combined with sleek metals and glass to create warm yet modern environments. Its emphasis on clean lines, gentle curves, and open spaces continues to inspire designers across furniture, architecture, and graphic arts. For AI image generation, incorporating Mid Century Modern elements ensures visuals that are both stylish and universally appealing, reflecting a refined, yet approachable aesthetic.",
+    whatItDoes: "Utilizing the Mid Century Modern style in AI image prompts helps create visuals that embody a sense of timeless sophistication and functional beauty. It communicates clarity and balance, highlighting furniture and spaces designed for comfort and utility without unnecessary ornamentation. This style supports the creation of scenes that feel both retro and modern, appealing to audiences seeking inspiration rooted in classic, yet fresh design principles. By generating images with Mid Century Modern cues, the output conveys a clean, inviting atmosphere—ideal for editorial, interior design showcases, and lifestyle presentations.",
+    bestUseCases: [
+    "Interior design mood boards featuring classic furniture and layouts",
+    "Modern architecture visualizations with clean lines and organic forms",
+    "Lifestyle imagery that evokes retro yet fresh living spaces"
+  ],
+    relatedKeywords: [
+    "Retro Style",
+    "Scandinavian Design",
+    "Modernist Architecture"
+  ],
+    examplePrompt: "A mid century modern living room with teak wood furniture and large windows",
+    promptExamples: [
+    "A mid century modern living room with teak wood furniture and large windows",
+    "Minimalist office space in mid century modern style with geometric chairs and pendant lighting",
+    "Mid century modern kitchen featuring clean cabinetry and vintage appliances"
+  ],
+    commercialApplications: [
+    "Furniture catalog visuals highlighting Mid Century Modern collections",
+    "Real estate marketing showcasing homes with authentic period style",
+    "Lifestyle branding emphasizing timeless, elegant living spaces"
+  ],
+    adobeStockPotential: "Mid Century Modern style images possess strong commercial appeal on platforms like Adobe Stock due to their enduring popularity and versatile usage across industries. These images cater to designers, marketers, architects, and brands seeking high-quality visuals that convey sophistication and functional beauty. The style aligns well with current design trends favoring minimalism and authenticity, making it a lucrative theme for stock contributors. Photographs and renderings emphasizing this aesthetic can attract steady demand for editorial, advertising, and commercial projects worldwide.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What makes Mid Century Modern design distinct?",
+      "answer": "Its combination of simplicity, clean lines, organic shapes, and emphasis on function distinguishes Mid Century Modern from other styles."
+    },
+    {
+      "question": "Can Mid Century Modern style work in small spaces?",
+      "answer": "Yes, its emphasis on minimalism and open layouts makes it ideal for maximizing smaller interiors."
+    },
+    {
+      "question": "What materials are typical in Mid Century Modern design?",
+      "answer": "Natural woods, metals like steel and aluminum, glass, and modern fabrics are commonly used."
+    }
+  ]
   }];
