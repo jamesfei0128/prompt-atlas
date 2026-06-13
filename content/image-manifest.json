@@ -635,6 +635,30 @@
       "generationPrompt": "16:9 image of a mid century modern living room with teak wood furniture, geometric shapes, large floor-to-ceiling windows, natural lighting, clean lines, realistic textures, no text, no logos",
       "category": "Style",
       "keywordSlug": "mid-century-modern"
+    },
+    {
+      "filename": "editorial-style.png",
+      "altText": "Clean and polished editorial style image of a professional setting with realistic lighting and composition",
+      "imageTitle": "Editorial Style AI Generated Image",
+      "generationPrompt": "16:9 clean editorial style composition of a modern professional workspace, refined natural lighting, subtle depth of field, realistic materials, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "editorial-style"
+    },
+    {
+      "filename": "maximalist.png",
+      "altText": "Vibrant maximalist interior design featuring bold patterns, rich colors, and layered textures",
+      "imageTitle": "Maximalist Style Interior with Eclectic Patterns and Colors",
+      "generationPrompt": "16:9 image of a luxurious maximalist living room with layered textiles, bold colorful wallpapers, eclectic vintage and modern furniture, intricate decor elements, refined lighting, realistic materials, clean editorial composition, premium stock image aesthetic, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "maximalist"
+    },
+    {
+      "filename": "jewel-tone-colors.png",
+      "altText": "A vibrant composition showcasing jewel tone colors inspired by gemstones with refined lighting and realistic materials",
+      "imageTitle": "Jewel Tone Colors Palette in Rich, Luxurious Design",
+      "generationPrompt": "16:9 image of a refined composition featuring jewel tone colors inspired by gemstones like emerald, sapphire, ruby, and amethyst; clean editorial style with premium lighting and realistic textures; no text, no logos",
+      "category": "Color",
+      "keywordSlug": "jewel-tone-colors"
     }
   ]
 }
