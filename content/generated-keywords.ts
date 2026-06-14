@@ -1105,4 +1105,163 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "While jewel tones work best with elegant, luxurious, or dramatic styles, they can be adapted for modern and minimalist designs when used thoughtfully."
     }
   ]
+  },
+  {
+    title: "Duotone Colors",
+    category: "Color",
+    published: true,
+    seoTitle: "Duotone Colors: Definition, Uses, and Visual Impact",
+    metaDescription: "Explore duotone colors, a vibrant two-color design technique perfect for modern visuals. Learn uses, benefits, and AI prompt examples for creative projects.",
+    heroImage: keywordHero("duotone-colors", "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"),
+    definition: "Duotone colors refer to a design technique that uses two contrasting colors to create striking visual effects. Originally popularized in print media by overlaying two ink colors, duotone enhances depth, mood, and contrast in images, logos, or graphics. This method simplifies the color palette while adding artistic flair.",
+    visualCharacteristics: [
+    "Uses two dominant contrasting colors",
+    "Creates strong visual contrast and mood",
+    "Simplifies images with minimal color palette"
+  ],
+    overview: "Duotone colors combine two distinct hues—often contrasting—to produce visually impactful images that balance simplicity and dynamism. This technique became popular in photography and graphic design where it adds a modern, artistic touch by emphasizing shadows and highlights through just two colors. Duotone visuals work well in various media including digital art, branding, and advertising. By limiting the color scheme, duotone designs offer clarity and a bold aesthetic that can communicate emotion effectively. With advances in AI image generation and editing, creating duotone visuals has become straightforward, allowing designers to experiment with color combinations and achieve stylized imagery that stands out.",
+    whatItDoes: "Duotone colors transform images by applying two complementary or contrasting hues that redefine their tonal range. This technique shifts the perception of light and shadow, creating a mood or atmosphere that a full-color image might not convey as strongly. It simplifies the visual complexity, emphasizing shapes and contours while providing artistic vibrancy. In digital design and AI imagery, duotone serves to unify a composition and focus viewer attention. It can accentuate brand identity or evoke specific emotions, making content more memorable and engaging. The adjustment helps balance aesthetic appeal and functional clarity across various platforms.",
+    bestUseCases: [
+    "Branding and logo design for memorable identities",
+    "Hero images or website banners to create visual impact",
+    "Advertising campaigns to evoke strong emotional responses"
+  ],
+    relatedKeywords: [
+    "Two-Color Palette",
+    "Color Contrast",
+    "Monochrome Styles"
+  ],
+    examplePrompt: "Create a portrait with vibrant blue and orange duotone colors, minimal background",
+    promptExamples: [
+    "Create a portrait with vibrant blue and orange duotone colors, minimal background",
+    "Generate a cityscape using purple and yellow duotone, highlighting shadows",
+    "Design a product shot in green and pink duotone emphasizing contours and materials"
+  ],
+    commercialApplications: [
+    "Marketing visuals and social media content for brand differentiation",
+    "Packaging design to attract consumer attention",
+    "Editorial illustrations for magazines and online publications"
+  ],
+    adobeStockPotential: "Duotone images have significant potential on platforms like Adobe Stock, appealing to designers and marketers seeking trendy yet versatile visuals. Their simplified color schemes reduce complexity while offering striking impact, making them ideal for commercial use in branding, advertising, and digital content. Contributors can benefit by creating a range of duotone-themed assets — portraits, landscapes, product shots — that cater to various industries needing modern and eye-catching imagery. The demand for such stylistically bold yet minimalistic visuals is growing, especially in technology, fashion, and media sectors.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What is the difference between duotone and monochrome?",
+      "answer": "Duotone uses two distinct colors to create contrast, whereas monochrome uses various shades of a single color."
+    },
+    {
+      "question": "Can I use any colors for duotone designs?",
+      "answer": "Yes, but contrasting or complementary colors often produce the most visually appealing results."
+    },
+    {
+      "question": "Is duotone suitable for all types of images?",
+      "answer": "Duotone works best on images with clear shapes and tonal variation; very complex images may lose detail."
+    }
+  ]
+  },
+  {
+    title: "Gradient Colors",
+    category: "Color",
+    published: true,
+    seoTitle: "Gradient Colors: Definition, Use Cases & Visual Impact",
+    metaDescription: "Explore gradient colors, their definition, visual traits, and practical uses. Ideal for designers seeking smooth color transitions and dynamic effects.",
+    heroImage: keywordHero("gradient-colors", "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"),
+    definition: "Gradient colors are color transitions that smoothly blend from one hue to another. Often used to add depth, dimension, or a dynamic visual effect, gradients can shift between two or more colors in a linear or radial fashion. They enhance flat designs by introducing subtle or bold color variations, making visuals more engaging and vibrant.",
+    visualCharacteristics: [
+    "Smooth color transitions between hues",
+    "Blended gradients can be linear, radial, or angular",
+    "Creates a sense of depth and dimensionality"
+  ],
+    overview: "Gradient colors are a popular design element characterized by a seamless shift between two or more colors. They range from subtle transitions, such as a light blush to soft pink, to vibrant combinations like bright blue fading into emerald green. Used widely in digital design, web interfaces, branding, and art, gradients add visual interest and guide the viewer's eye across a composition. Modern tools allow designers to customize gradients with various styles — linear, radial, angular, or diamond-shaped — enhancing the flexibility and creative potential of this technique.",
+    whatItDoes: "Gradients introduce a smooth and gradual transformation between colors, enhancing the visual appeal beyond solid color fills. By blending hues, gradients create depth, volume, and movement within flat compositions. They help to highlight focal points or backgrounds, evoke emotions through color choice, and add elegance or energy depending on their vibrancy. In UI design, gradients can improve user experience by making buttons and elements visually distinct and tactile. They support branding by enabling dynamic color schemes that feel fresh and modern.",
+    bestUseCases: [
+    "Backgrounds for websites and apps to add depth",
+    "Button and UI element design for visual engagement",
+    "Branding assets like logos and promotional artwork"
+  ],
+    relatedKeywords: [
+    "Color Transitions",
+    "Linear Gradients",
+    "Radial Gradients"
+  ],
+    examplePrompt: "A sleek app interface with a blue to violet linear gradient background",
+    promptExamples: [
+    "A sleek app interface with a blue to violet linear gradient background",
+    "Luxury product packaging featuring a gold to deep maroon radial gradient",
+    "Abstract digital art using smooth gradient transitions in pastel tones"
+  ],
+    commercialApplications: [
+    "Digital product design and branding",
+    "Advertising and marketing materials",
+    "Packaging and print design"
+  ],
+    adobeStockPotential: "Images showcasing gradient colors have strong commercial appeal due to their versatility and modern aesthetic. Gradient backgrounds and designs are widely sought in advertising, web design, and corporate branding because they convey professionalism with a dynamic edge. Stock photos and vectors featuring clean, premium gradients fit well within editorial and marketing content, driving consistent demand in commercial licensing.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "What types of gradients exist?",
+      "answer": "The most common gradients are linear, where color shifts along a straight line, and radial, which radiate outward from a central point. Other styles include angular and diamond gradients."
+    },
+    {
+      "question": "Can gradients be used in print design?",
+      "answer": "Yes, gradients can be effectively used in print, but designers need to consider color profiles and printing techniques to ensure smooth transitions without banding."
+    },
+    {
+      "question": "How do gradients affect user experience in UI design?",
+      "answer": "Gradients can draw attention to interactive elements, create hierarchy, and improve aesthetics, enhancing the overall user engagement with apps and websites."
+    }
+  ]
+  },
+  {
+    title: "Black and Gold Palette",
+    category: "Color",
+    published: true,
+    seoTitle: "Black and Gold Palette: Elegant Color Harmony for Design",
+    metaDescription: "Discover the Black and Gold Palette—a classic color combination ideal for luxurious designs. Learn its characteristics, uses, and how to apply it effectively.",
+    heroImage: keywordHero("black-and-gold-palette", "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"),
+    definition: "The Black and Gold Palette is a sophisticated color scheme that combines deep black tones with shimmering gold hues. It evokes luxury, elegance, and timelessness, commonly used to add a premium feel to various designs and artworks.",
+    visualCharacteristics: [
+    "High contrast between dark black and bright gold",
+    "Warm metallic gold shimmer with reflective highlights",
+    "Deep, matte black providing a bold, grounding backdrop"
+  ],
+    overview: "The Black and Gold Palette is a timeless color combination used widely across design, fashion, and branding to convey luxury, exclusivity, and elegance. The deep black background serves as a solid, grounding base that enhances the rich, lustrous tone of metallic gold accents. This pairing is versatile enough to appear in editorial layouts, product packaging, and digital art, offering a premium and refined visual appeal. The interplay between matte black and reflective gold elements creates subtle depth and sophisticated contrast, drawing viewers' attention effectively. Its association with opulence and tradition makes it a popular choice for high-end projects seeking a polished and stylish aesthetic.",
+    whatItDoes: "Using the Black and Gold Palette in design establishes an immediate sense of luxury and exclusivity. Black absorbs light and creates negative space that emphasizes the metallic gold’s brightness and texture, giving compositions a sense of depth and richness. This combination also supports clean, modern editorial layouts by providing clarity and contrast without overwhelming the viewer. The palette’s effectiveness lies in balancing simplicity with decoration, making it ideal for highlighting key elements or messages. Additionally, it evokes emotional responses related to sophistication, power, and classic elegance, enhancing brand perception and visual storytelling in commercial contexts.",
+    bestUseCases: [
+    "Luxury brand logos and packaging",
+    "Event invitations and formal stationery",
+    "Editorial layouts for premium magazines"
+  ],
+    relatedKeywords: [
+    "Gold Accents",
+    "Luxury Color Palette",
+    "Black Matte Texture"
+  ],
+    examplePrompt: "Portrait of a figure wearing black velvet and gold jewelry, refined lighting, subtle depth",
+    promptExamples: [
+    "Portrait of a figure wearing black velvet and gold jewelry, refined lighting, subtle depth",
+    "Minimalist product shot with black matte background and gold metallic accents, realistic materials",
+    "Elegant interior scene featuring black furniture with gold decorative details under soft lighting"
+  ],
+    commercialApplications: [
+    "High-end fashion marketing and ads",
+    "Premium product packaging design",
+    "Corporate branding for luxury services"
+  ],
+    adobeStockPotential: "The Black and Gold Palette holds strong commercial appeal for stock image platforms like Adobe Stock. Its association with luxury and premium quality renders it highly sought after in fashion, lifestyle, and branding sectors. Images exhibiting this palette often attract buyers looking for distinctive, elegant visuals perfect for advertising campaigns, editorial uses, and digital content creation. The palette’s versatility in various subjects—such as jewelry, interiors, and abstract art—extends its marketability and reuse potential. Contributors focusing on high-quality, well-lit photographs or digital renderings emphasizing rich black and shimmering gold elements can expect consistent demand and licensing opportunities.",
+    difficulty: "Beginner",
+    faqs: [
+    {
+      "question": "Why is the Black and Gold Palette considered luxurious?",
+      "answer": "Because black provides a deep, elegant background while gold adds a bright, metallic shine, their combination evokes wealth, sophistication, and timeless style."
+    },
+    {
+      "question": "Can the Black and Gold Palette be used in casual designs?",
+      "answer": "While it’s traditionally linked to luxury, it can be adapted for casual designs when balanced carefully, often by adjusting gold tones or spreading black more evenly."
+    },
+    {
+      "question": "What materials best showcase the Black and Gold Palette?",
+      "answer": "Metallic gold finishes paired with matte or glossy black surfaces like velvet, lacquer, or polished stone best highlight the palette’s contrasting qualities."
+    }
+  ]
   }];
