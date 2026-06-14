@@ -13,6 +13,9 @@ const defaultHeroBackground =
 
 export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticleLayoutProps) {
   const showImage = publicImageExists(keyword.heroImage?.src);
+  const dynamicSections = keyword.articleSections?.filter(
+    (section) => section.body || section.items?.length
+  );
 
   return (
     <article className="mx-auto max-w-5xl px-5 py-12">
@@ -44,45 +47,56 @@ export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticl
 
       <div className="mt-10 grid gap-8 lg:grid-cols-[1fr_280px]">
         <div className="space-y-9">
-          {keyword.definition ? (
-            <Section title="Definition">
-              <p>{keyword.definition}</p>
-            </Section>
+          {dynamicSections?.length ? (
+            dynamicSections.map((section) => (
+              <Section key={`${section.type}-${section.title}`} title={section.title}>
+                {section.body ? <p>{section.body}</p> : null}
+                {section.items?.length ? <List items={section.items} /> : null}
+              </Section>
+            ))
           ) : (
-            <Section title="Overview">
-              <p>{keyword.overview}</p>
-            </Section>
+            <>
+              {keyword.definition ? (
+                <Section title="Definition">
+                  <p>{keyword.definition}</p>
+                </Section>
+              ) : (
+                <Section title="Overview">
+                  <p>{keyword.overview}</p>
+                </Section>
+              )}
+
+              {keyword.visualCharacteristics ? (
+                <Section title="Visual Characteristics">
+                  <List items={keyword.visualCharacteristics} />
+                </Section>
+              ) : (
+                <Section title="What It Does">
+                  <p>{keyword.whatItDoes}</p>
+                </Section>
+              )}
+
+              <Section title="Best Use Cases">
+                <List items={keyword.bestUseCases} />
+              </Section>
+
+              {keyword.promptExamples ? (
+                <Section title="Prompt Examples">
+                  <List items={keyword.promptExamples} />
+                </Section>
+              ) : (
+                <Section title="Example Prompt">
+                  <div className="rounded-lg border border-line bg-white p-5 text-ink/75">
+                    {keyword.examplePrompt}
+                  </div>
+                </Section>
+              )}
+
+              <Section title="Adobe Stock Potential">
+                <p>{keyword.adobeStockPotential}</p>
+              </Section>
+            </>
           )}
-
-          {keyword.visualCharacteristics ? (
-            <Section title="Visual Characteristics">
-              <List items={keyword.visualCharacteristics} />
-            </Section>
-          ) : (
-            <Section title="What It Does">
-              <p>{keyword.whatItDoes}</p>
-            </Section>
-          )}
-
-          <Section title="Best Use Cases">
-            <List items={keyword.bestUseCases} />
-          </Section>
-
-          {keyword.promptExamples ? (
-            <Section title="Prompt Examples">
-              <List items={keyword.promptExamples} />
-            </Section>
-          ) : (
-            <Section title="Example Prompt">
-              <div className="rounded-lg border border-line bg-white p-5 text-ink/75">
-                {keyword.examplePrompt}
-              </div>
-            </Section>
-          )}
-
-          <Section title="Adobe Stock Potential">
-            <p>{keyword.adobeStockPotential}</p>
-          </Section>
 
           {keyword.faqs ? (
             <Section title="FAQ">
@@ -133,6 +147,48 @@ export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticl
           </div>
         </aside>
       </div>
+
+      {relatedKeywords.length > 0 ? (
+        <section className="mt-16 border-t border-line pt-10">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-sage">
+                Continue Exploring
+              </p>
+              <h2 className="mt-2 text-2xl font-semibold tracking-tight text-ink">
+                Related Prompts
+              </h2>
+            </div>
+          </div>
+
+          <div className="mt-7 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {relatedKeywords.map((item) => (
+              <Link
+                key={item.slug}
+                href={`/keywords/${item.slug}`}
+                className="group rounded-lg border border-line bg-white p-4 transition hover:-translate-y-0.5 hover:border-sage hover:shadow-sm"
+              >
+                <div
+                  className="relative mb-4 aspect-[16/9] overflow-hidden rounded-md border border-line bg-cover bg-center"
+                  style={{ background: item.heroImage?.background ?? defaultHeroBackground }}
+                >
+                  {publicImageExists(item.heroImage?.src) && item.heroImage?.src ? (
+                    <Image
+                      src={item.heroImage.src}
+                      alt={item.heroImage.alt}
+                      fill
+                      sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+                      className="object-cover"
+                    />
+                  ) : null}
+                </div>
+                <h3 className="text-lg font-semibold text-ink">{item.title}</h3>
+                <p className="mt-2 line-clamp-3 text-sm leading-6 text-ink/65">{item.overview}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      ) : null}
     </article>
   );
 }

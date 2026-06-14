@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { KeywordArticleLayout } from "@/components/KeywordArticleLayout";
-import { getKeyword, getPublishedKeywords, getRelatedKeywords } from "@/lib/data";
+import { getAutomaticRelatedKeywords, getKeyword, getPublishedKeywords } from "@/lib/data";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -55,7 +55,7 @@ export default async function KeywordPage({ params }: Props) {
     notFound();
   }
 
-  const related = getRelatedKeywords(keyword.relatedKeywords);
+  const related = getAutomaticRelatedKeywords(keyword);
 
   return <KeywordArticleLayout keyword={keyword} relatedKeywords={related} />;
 }

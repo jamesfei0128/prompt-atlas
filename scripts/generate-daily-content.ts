@@ -46,10 +46,37 @@ type GeneratedArticle = {
   commercialApplications: string[];
   adobeStockPotential: string;
   difficulty: "Beginner" | "Intermediate" | "Advanced";
+  articleSections: GeneratedArticleSection[];
   faqs: { question: string; answer: string }[];
   imageAltText: string;
   imageTitle: string;
   imageGenerationPrompt: string;
+};
+
+type ArticleSectionType =
+  | "definition"
+  | "visualCharacteristics"
+  | "promptFormula"
+  | "bestUseCases"
+  | "creativeVariations"
+  | "industryApplications"
+  | "commonMistakes"
+  | "advancedTechniques"
+  | "professionalWorkflow"
+  | "relatedStyles"
+  | "modelSpecificTips";
+
+type ArticleSectionConfig = {
+  type: ArticleSectionType;
+  title: string;
+  guidance: string;
+};
+
+type GeneratedArticleSection = {
+  type: ArticleSectionType;
+  title: string;
+  body?: string;
+  items?: string[];
 };
 
 const ROOT = process.cwd();
@@ -75,6 +102,64 @@ const IMAGE_QUALITY = (process.env.PROMPTATLAS_IMAGE_QUALITY ?? "medium") as
   | "high"
   | "standard"
   | "hd";
+
+const ARTICLE_SECTION_POOL: ArticleSectionConfig[] = [
+  {
+    type: "definition",
+    title: "Definition",
+    guidance: "Explain the keyword clearly for beginners, including what it changes in an AI image prompt."
+  },
+  {
+    type: "visualCharacteristics",
+    title: "Visual Characteristics",
+    guidance: "List observable traits a reader should expect to see in generated images."
+  },
+  {
+    type: "promptFormula",
+    title: "Prompt Formula",
+    guidance: "Show reusable prompt-building patterns and phrase combinations for this keyword."
+  },
+  {
+    type: "bestUseCases",
+    title: "Best Use Cases",
+    guidance: "List practical image types, buyer needs, or design scenarios where this keyword performs well."
+  },
+  {
+    type: "creativeVariations",
+    title: "Creative Variations",
+    guidance: "Suggest style, lighting, composition, color, or subject variations that reduce repetitive outputs."
+  },
+  {
+    type: "industryApplications",
+    title: "Industry Applications",
+    guidance: "Connect the keyword to commercial fields such as advertising, editorial, ecommerce, interiors, or social content."
+  },
+  {
+    type: "commonMistakes",
+    title: "Common Mistakes",
+    guidance: "Explain typical prompt mistakes and how to avoid muddy, generic, unrealistic, or overdone results."
+  },
+  {
+    type: "advancedTechniques",
+    title: "Advanced Techniques",
+    guidance: "Give more nuanced combinations, constraints, and refinements for experienced prompt writers."
+  },
+  {
+    type: "professionalWorkflow",
+    title: "Professional Workflow",
+    guidance: "Describe a concise workflow for briefing, generating, selecting, and refining usable images."
+  },
+  {
+    type: "relatedStyles",
+    title: "Related Styles",
+    guidance: "Name compatible styles, adjacent visual directions, and nearby PromptAtlas keywords."
+  },
+  {
+    type: "modelSpecificTips",
+    title: "Model-Specific Tips",
+    guidance: "Give portable tips for modern image models without depending on one provider or fragile syntax."
+  }
+];
 
 loadEnvFiles([".env.local", ".env"]);
 
@@ -214,6 +299,7 @@ function getExistingKeywordTitles() {
 }
 
 async function generateArticle(client: OpenAI, item: BacklogItem, manifest: Manifest) {
+  const selectedSections = selectArticleSections(item);
   const response = await client.responses.create({
     model: ARTICLE_MODEL,
     input: [
@@ -230,6 +316,11 @@ async function generateArticle(client: OpenAI, item: BacklogItem, manifest: Mani
           category: item.category,
           slug: item.slug,
           styleGuide: manifest.styleGuide,
+          articleStructure: {
+            instruction:
+              "Write articleSections using exactly these selected section types and titles, in this order. Each section should be useful on its own, avoid repeated phrasing from other sections, and add concrete prompt-writing value. Use either an 80-140 word body, 3-5 specific bullets, or both when the section needs examples.",
+            selectedSections
+          },
           requiredShape: {
             seoTitle: "string, under 70 chars",
             metaDescription: "string, 140-160 chars",
@@ -243,6 +334,8 @@ async function generateArticle(client: OpenAI, item: BacklogItem, manifest: Mani
             commercialApplications: ["3 commercial applications"],
             adobeStockPotential: "100-150 words",
             difficulty: "Beginner | Intermediate | Advanced",
+            articleSections:
+              "5-8 dynamic sections matching articleStructure.selectedSections exactly; each section needs a useful body, items, or both",
             faqs: [{ question: "string", answer: "string" }],
             imageAltText: "descriptive SEO alt text",
             imageTitle: "image title",
@@ -271,6 +364,7 @@ async function generateArticle(client: OpenAI, item: BacklogItem, manifest: Mani
             "commercialApplications",
             "adobeStockPotential",
             "difficulty",
+            "articleSections",
             "faqs",
             "imageAltText",
             "imageTitle",
@@ -289,6 +383,30 @@ async function generateArticle(client: OpenAI, item: BacklogItem, manifest: Mani
             commercialApplications: { type: "array", items: { type: "string" }, minItems: 3, maxItems: 3 },
             adobeStockPotential: { type: "string" },
             difficulty: { type: "string", enum: ["Beginner", "Intermediate", "Advanced"] },
+            articleSections: {
+              type: "array",
+              minItems: 5,
+              maxItems: 8,
+              items: {
+                type: "object",
+                additionalProperties: false,
+                required: ["type", "title"],
+                properties: {
+                  type: {
+                    type: "string",
+                    enum: ARTICLE_SECTION_POOL.map((section) => section.type)
+                  },
+                  title: { type: "string" },
+                  body: { type: "string" },
+                  items: {
+                    type: "array",
+                    items: { type: "string" },
+                    minItems: 2,
+                    maxItems: 5
+                  }
+                }
+              }
+            },
             faqs: {
               type: "array",
               minItems: 2,
@@ -312,7 +430,8 @@ async function generateArticle(client: OpenAI, item: BacklogItem, manifest: Mani
     }
   });
 
-  return JSON.parse(response.output_text) as GeneratedArticle;
+  const article = JSON.parse(response.output_text) as GeneratedArticle;
+  return normalizeArticleSections(article, selectedSections);
 }
 
 function validateArticle(article: GeneratedArticle) {
@@ -322,6 +441,7 @@ function validateArticle(article: GeneratedArticle) {
     "promptExamples",
     "relatedKeywords",
     "commercialApplications",
+    "articleSections",
     "faqs"
   ];
 
@@ -331,6 +451,57 @@ function validateArticle(article: GeneratedArticle) {
       throw new Error(`Generated article missing ${key}.`);
     }
   }
+
+  if (article.articleSections.length < 5 || article.articleSections.length > 8) {
+    throw new Error("Generated article must include 5-8 dynamic article sections.");
+  }
+
+  for (const section of article.articleSections) {
+    if (!section.title || (!section.body && !section.items?.length)) {
+      throw new Error(`Generated article section ${section.type} is incomplete.`);
+    }
+  }
+}
+
+function selectArticleSections(item: BacklogItem) {
+  const requiredTypes: ArticleSectionType[] = ["definition", "promptFormula", "bestUseCases"];
+  const sectionCount = 5 + (hashText(`${item.slug}:${item.category}`) % 4);
+  const selectedTypes = new Set<ArticleSectionType>(requiredTypes);
+  const candidates = ARTICLE_SECTION_POOL.filter((section) => !selectedTypes.has(section.type));
+  const offset = hashText(item.keyword) % candidates.length;
+
+  for (let index = 0; selectedTypes.size < sectionCount; index += 1) {
+    selectedTypes.add(candidates[(offset + index) % candidates.length].type);
+  }
+
+  return ARTICLE_SECTION_POOL.filter((section) => selectedTypes.has(section.type));
+}
+
+function normalizeArticleSections(article: GeneratedArticle, selectedSections: ArticleSectionConfig[]) {
+  const sectionsByType = new Map(article.articleSections.map((section) => [section.type, section]));
+
+  article.articleSections = selectedSections.map((section) => {
+    const generated = sectionsByType.get(section.type);
+
+    return {
+      type: section.type,
+      title: section.title,
+      body: generated?.body,
+      items: generated?.items
+    };
+  });
+
+  return article;
+}
+
+function hashText(value: string) {
+  let hash = 0;
+
+  for (let index = 0; index < value.length; index += 1) {
+    hash = (hash * 31 + value.charCodeAt(index)) >>> 0;
+  }
+
+  return hash;
 }
 
 function appendManifestImage(manifest: Manifest, item: BacklogItem, article: GeneratedArticle) {
@@ -415,6 +586,7 @@ function renderKeywordEntry(item: BacklogItem, article: GeneratedArticle) {
   commercialApplications: ${array(article.commercialApplications)},
   adobeStockPotential: ${q(article.adobeStockPotential)},
   difficulty: ${q(article.difficulty)},
+  articleSections: ${JSON.stringify(article.articleSections, null, 2)},
   faqs: ${JSON.stringify(article.faqs, null, 2)}
 }`;
 }

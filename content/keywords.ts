@@ -27,6 +27,23 @@ export type Keyword = {
   commercialApplications: string[];
   adobeStockPotential: string;
   difficulty: "Beginner" | "Intermediate" | "Advanced";
+  articleSections?: {
+    type:
+      | "definition"
+      | "visualCharacteristics"
+      | "promptFormula"
+      | "bestUseCases"
+      | "creativeVariations"
+      | "industryApplications"
+      | "commonMistakes"
+      | "advancedTechniques"
+      | "professionalWorkflow"
+      | "relatedStyles"
+      | "modelSpecificTips";
+    title: string;
+    body?: string;
+    items?: string[];
+  }[];
   faqs?: {
     question: string;
     answer: string;
