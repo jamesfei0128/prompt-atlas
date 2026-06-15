@@ -75,8 +75,8 @@ type ArticleSectionConfig = {
 type GeneratedArticleSection = {
   type: ArticleSectionType;
   title: string;
-  body?: string;
-  items?: string[];
+  body?: string | null;
+  items?: string[] | null;
 };
 
 const ROOT = process.cwd();
@@ -390,16 +390,16 @@ async function generateArticle(client: OpenAI, item: BacklogItem, manifest: Mani
               items: {
                 type: "object",
                 additionalProperties: false,
-                required: ["type", "title"],
+                required: ["type", "title", "body", "items"],
                 properties: {
                   type: {
                     type: "string",
                     enum: ARTICLE_SECTION_POOL.map((section) => section.type)
                   },
                   title: { type: "string" },
-                  body: { type: "string" },
+                  body: { type: ["string", "null"] },
                   items: {
-                    type: "array",
+                    type: ["array", "null"],
                     items: { type: "string" },
                     minItems: 2,
                     maxItems: 5
@@ -486,8 +486,8 @@ function normalizeArticleSections(article: GeneratedArticle, selectedSections: A
     return {
       type: section.type,
       title: section.title,
-      body: generated?.body,
-      items: generated?.items
+      body: generated?.body ?? undefined,
+      items: generated?.items ?? undefined
     };
   });
 

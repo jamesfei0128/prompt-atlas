@@ -195,25 +195,25 @@
     "keyword": "Desaturated Colors",
     "slug": "desaturated-colors",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-15T15:46:11.999Z"
   },
   {
     "keyword": "Wood Grain",
     "slug": "wood-grain",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-15T15:46:51.115Z"
   },
   {
     "keyword": "Fabric Texture",
     "slug": "fabric-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-08",
-    "publishedAt": null
+    "publishedAt": "2026-06-15T15:47:29.639Z"
   },
   {
     "keyword": "Concrete Texture",

@@ -683,6 +683,30 @@
       "generationPrompt": "16:9 sophisticated composition with black matte textures and shining gold metallic accents, refined lighting, subtle depth, realistic materials, no text, no logos",
       "category": "Color",
       "keywordSlug": "black-and-gold-palette"
+    },
+    {
+      "filename": "desaturated-colors.png",
+      "altText": "Elegant portrait of a woman with desaturated colors and soft, subtle lighting",
+      "imageTitle": "Desaturated Colors in AI-Generated Portrait",
+      "generationPrompt": "16:9 portrait photo of a woman with desaturated colors, soft diffused natural light, subtle depth, realistic skin textures, clean modern editorial style, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "desaturated-colors"
+    },
+    {
+      "filename": "wood-grain.png",
+      "altText": "Close-up of natural wood grain texture showing detailed organic patterns and knots",
+      "imageTitle": "Wood Grain Texture Macro Photography",
+      "generationPrompt": "16:9 close-up macro photography of natural wood grain texture with fine details, realistic lighting, warm tones, smooth surface, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "wood-grain"
+    },
+    {
+      "filename": "fabric-texture.png",
+      "altText": "Close-up of detailed fabric texture showing weave and fibers under soft lighting",
+      "imageTitle": "Detailed Fabric Texture Close-Up",
+      "generationPrompt": "16:9 close-up photo of fabric texture showing detailed weave and fibers, soft natural lighting, high resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "fabric-texture"
     }
   ]
 }
