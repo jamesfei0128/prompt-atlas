@@ -1606,4 +1606,347 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Yes, by specifying the fabric type alongside 'Fabric Texture' in prompts (e.g., silk, denim, wool), the AI can generate varied textile material appearances."
     }
   ]
+  },
+  {
+    title: "Concrete Texture",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Concrete Texture - Realistic AI Image Prompt Guide",
+    metaDescription: "Discover how to use the 'Concrete Texture' keyword in AI image prompts for realistic surfaces with fine cracks and roughness. Ideal for design and advertising.",
+    heroImage: keywordHero("concrete-texture", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "'Concrete Texture' in AI image prompts refers to specifying the realistic surface characteristics of concrete, including its roughness, cracks, grain, and color variations. Adding this keyword guides the AI to generate images that showcase authentic concrete materials, enhancing realism and tactile quality in the final visual output.",
+    visualCharacteristics: [
+    "Rough, granular surface with visible aggregate particles",
+    "Fine cracks and subtle imperfections in surface",
+    "Neutral gray tones with occasional light and shadow texture"
+  ],
+    overview: "Using 'Concrete Texture' as a keyword in AI image generation is essential when aiming to simulate authentic concrete surfaces. This texture is characterized by its rough, grainy appearance with fine cracks and natural variations in tone, which contribute to a realistic material effect. Incorporating 'Concrete Texture' enriches scenes by adding depth and tactility, suitable for architectural renders, product backgrounds, or abstract compositions. It helps avoid flat or artificial appearances of concrete elements by instructing the AI to focus on the physical traits of concrete surfaces. This keyword is especially useful when high-fidelity material depiction is required for design presentations or digital art.",
+    whatItDoes: "'Concrete Texture' directs the AI to emphasize surface details typical of concrete, such as its coarse grain, slight porosity, and unevenness. The AI interprets this prompt to render light interactions with roughness, produce subtle shading variations due to small imperfections, and include natural cracks or weathering marks. This results in images that visually communicate a concrete surface's tactile qualities, enhancing authenticity. The keyword also adjusts color palettes towards characteristic gray hues with occasional warm or cool undertones, depending on lighting. Overall, it transforms generic surfaces into realistic concrete representations in any scene.",
+    bestUseCases: [
+    "Architectural visualizations needing realistic concrete walls or floors",
+    "Background textures for product photography or digital art",
+    "Design mockups featuring industrial or urban themes"
+  ],
+    relatedKeywords: [
+    "rough stone texture",
+    "urban facade",
+    "weathered wall"
+  ],
+    examplePrompt: "Close-up of a modern building facade with detailed concrete texture, soft natural lighting",
+    promptExamples: [
+    "Close-up of a modern building facade with detailed concrete texture, soft natural lighting",
+    "Abstract background featuring cracked concrete texture in neutral gray, shallow depth of field",
+    "Interior shot showing polished concrete floor texture with subtle reflections and ambient lighting"
+  ],
+    commercialApplications: [
+    "Advertising campaigns focusing on industrial or urban products",
+    "Editorial visuals for architecture and construction magazines",
+    "Ecommerce product backgrounds emphasizing durability and minimalism"
+  ],
+    adobeStockPotential: "Concrete textures are in high demand on stock platforms like Adobe Stock due to their versatility across multiple design sectors. They serve as essential visual elements for architects, graphic designers, and advertisers seeking authentic surface materials for backgrounds, 3D renders, and promotional content. Because of their natural detail and subtle complexity, concrete textures enhance product presentation and conceptual visuals, increasing sales potential. Offering high-resolution, sharp, and well-lit concrete texture images can attract a broad creative clientele, making this keyword highly commercially viable.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Concrete Texture in AI prompts specifies the visual properties and surface details typical of concrete material. It tells the AI to generate images featuring the rough, granular, and slightly cracked appearance of concrete surfaces. This keyword helps users achieve realistic representations of concrete, including subtle imperfections, color variations, and tactile qualities."
+    },
+    {
+      "type": "visualCharacteristics",
+      "title": "Visual Characteristics",
+      "items": [
+        "Rough, granular surface showing aggregate particles",
+        "Visible fine cracks and natural surface imperfections",
+        "Neutral and muted gray color palette with subtle shading variations"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To integrate Concrete Texture effectively in prompts, combine it with details specifying lighting and context to enhance realism. Example formula: \"[subject] with detailed concrete texture, [lighting style], [composition], [camera angle]\". Adding adjectives like 'weathered', 'polished', or 'cracked' can refine results. For instance, \"industrial interior with cracked concrete texture, soft diffused light, wide-angle view.\"",
+      "items": [
+        "[subject] with detailed concrete texture",
+        "Include lighting descriptors like 'natural light', 'soft shadows'",
+        "Specify composition or angle: 'close-up', 'wide-angle', 'macro'",
+        "Add texture modifiers: 'cracked', 'polished', 'weathered'",
+        "Combine with materials or styles: 'urban', 'industrial', 'minimalist'"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Realistic architectural renders featuring concrete walls or floors",
+        "Textured backgrounds for product shots or digital artwork",
+        "Urban and industrial themed designs requiring authentic material surfaces"
+      ]
+    },
+    {
+      "type": "creativeVariations",
+      "title": "Creative Variations",
+      "body": "To avoid repetitive outcomes and add creative flair, experiment with different lighting conditions such as golden hour or harsh artificial light to emphasize texture. Alter the concrete's appearance by requesting variations like polished versus rough or fresh versus weathered surfaces. Playing with composition angles like macro close-ups or wide environmental contexts can generate diverse visual narratives. Color accents, such as moss or rust stains, can introduce visual interest to otherwise neutral textures.",
+      "items": [
+        "Change lighting: soft daylight, harsh shadows, colored illumination",
+        "Modify surface: polished, cracked, weathered, stained",
+        "Adjust composition: macro close-up, wide landscape view, angled shot",
+        "Add environmental context: urban decay, industrial site, modern architecture",
+        "Introduce subtle color shifts: moss green, rust orange, or warm undertones"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "items": [
+        "Advertising for products emphasizing strength and durability",
+        "Editorial content focused on architecture or construction trends",
+        "Ecommerce platforms showcasing industrial-style home decor and furniture"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does adding 'Concrete Texture' affect AI image generation?",
+      "answer": "Including 'Concrete Texture' guides the AI to simulate realistic concrete surfaces with visible roughness, cracks, and natural gray coloring, enhancing the authenticity of materials in the image."
+    },
+    {
+      "question": "Can 'Concrete Texture' be combined with other material keywords?",
+      "answer": "Yes, combining 'Concrete Texture' with keywords like 'weathered metal' or 'rustic wood' can create complex and layered surface visuals suited for industrial or urban scenes."
+    },
+    {
+      "question": "What lighting conditions work best for showcasing concrete texture?",
+      "answer": "Soft natural light or diffused lighting helps reveal the surface's fine details without harsh shadows, while directional light can accentuate texture depth and cracks."
+    }
+  ]
+  },
+  {
+    title: "Leather Texture",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Leather Texture: A Guide to Realistic AI Image Prompts",
+    metaDescription: "Explore how to craft AI prompts for authentic leather textures. Learn definitions, best uses, prompt formulas, advanced techniques, and workflows.",
+    heroImage: keywordHero("leather-texture", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "Leather Texture in AI image prompts refers to the simulated appearance and tactile qualities of natural or synthetic leather surfaces. Incorporating this keyword modifies the image to display characteristic details such as grain patterns, subtle wrinkles, creases, and a smooth or rough finish that mimics real leather material. For beginners, including 'leather texture' enhances the realism and material authenticity of objects within generated images, helping achieve more lifelike and tactile visuals.",
+    visualCharacteristics: [
+    "Distinct grain patterns varying by leather type",
+    "Visible creases and subtle wrinkles",
+    "Matte to glossy finish with realistic light reflections"
+  ],
+    overview: "Leather Texture evokes the visual and tactile qualities of genuine leather surfaces in AI-generated art. It introduces nuanced details like grain, pores, creases, and color variations that make materials appear authentic and luxurious. This texture is widely employed in fashion illustration, interior design renderings, product visualization, and materials studies. By using the leather texture keyword, AI models simulate the complex interplay of light, shadow, and surface imperfections typical in high-quality leather. This enriches compositions with warmth and premium appeal. Its adaptable nature supports everything from rough, distressed hides to smooth, polished finishes, providing versatility across genres and styles.",
+    whatItDoes: "When you include 'Leather Texture' in an AI image prompt, it instructs the model to render surfaces that convincingly imitate leather's tactile qualities. This means objects will feature characteristic grain details, subtle illumination of light on irregular textures, varied saturation, and complex surface features like creases or folds. Adding this keyword elevates product mockups, background materials, or character clothing by giving them a rich, realistic surface. This not only enhances visual interest but also adds depth and tangibility to digital compositions, making them more compelling for commercial or editorial use.",
+    bestUseCases: [
+    "Fashion design mockups featuring leather apparel or accessories",
+    "Product visualization for leather goods like bags, shoes, and furniture",
+    "Interior design images showcasing leather upholstery and décor"
+  ],
+    relatedKeywords: [
+    "Suede Texture",
+    "Fabric Texture",
+    "Metal Texture"
+  ],
+    examplePrompt: "\"High-resolution close-up of aged dark brown leather texture with natural grain and wrinkles, soft lighting\"",
+    promptExamples: [
+    "\"High-resolution close-up of aged dark brown leather texture with natural grain and wrinkles, soft lighting\"",
+    "\"Luxury leather jacket texture, smooth black finish with subtle creasing and fine stitching details\"",
+    "\"Vintage leather-bound book cover texture, weathered surface with rich warm tones and realistic wear marks\""
+  ],
+    commercialApplications: [
+    "E-commerce product photography enhancements for leather items",
+    "Advertising campaigns emphasizing premium tactile materials",
+    "3D asset texturing for game and film industries"
+  ],
+    adobeStockPotential: "Leather Texture imagery holds strong potential in Adobe Stock due to its versatile commercial appeal. High-quality leather texture images fulfill the needs of designers, marketers, and 3D artists searching for authentic material references. Its wide use across fashion, interiors, product visualization, and branding ensures consistent demand. Properly crafted AI-generated leather textures with clean editorial composition and realistic lighting align with Adobe Stock’s quality standards, making them attractive for licensing. Unique variations like aged or patterned leather further add market differentiation, increasing chances for sales and downloads.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Leather Texture in AI image prompts refers to the simulated look and feel of leather surfaces. Adding this keyword guides the AI to incorporate characteristic features such as natural grain, wrinkles, and light reflections typical of leather materials. It changes the visual rendering to appear more tactile and authentic, helping your image depict leather objects with realistic surface details.",
+      "items": [
+        "Simulates natural or synthetic leather materials",
+        "Includes grain patterns, creases, and surface imperfections",
+        "Enhances tactile realism and material authenticity"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use these key phrase structures to integrate leather texture effectively:\n\n- \"[Adjective] leather texture with [detail], [lighting condition]\"\n- \"Close-up of [color] leather surface showing [texture detail], softly lit\"\n- \"Hyper-realistic [product] featuring worn leather texture and fine stitching\"\n\nCombine leather texture descriptors with lighting and material conditions for a polished result.",
+      "items": [
+        "Adjectives: aged, smooth, distressed, polished, cracked",
+        "Texture details: grain, wrinkles, creases, pores",
+        "Lighting: soft light, directional lighting, natural light"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Visualizing fashion accessories like bags and shoes",
+        "Rendering furniture and interior elements with leather upholstery",
+        "Creating product shots for leather goods and lifestyle presentations"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "To elevate leather texture prompts, combine material descriptors with context and stylistic refinements. Specify lighting angles to emphasize grain or wrinkles, or include wear patterns for realism. Use constraints like \"macro shot\" or \"shallow depth of field\" to focus on texture detail. Experiment with color variations — from natural browns to painted leather — to convey mood. Layer related textures like suede or cracked paint for complexity. Incorporate environmental reflections subtly to enhance authenticity.",
+      "items": [
+        "Pair with lighting modifiers: \"side-lit,\" \"golden hour\"",
+        "Use wear and aging notes: \"scuffed edges,\" \"faded color\"",
+        "Combine with complementary textures: \"stitched seams,\" \"brushed metal hardware\"",
+        "Specify shot type: \"macro close-up,\" \"high detail\""
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Begin by defining the usage intent: product visualization, editorial imagery, or design reference. Develop a concise prompt using the leather texture formula emphasizing desired material traits and lighting. Generate multiple sample images to explore variations in grain detail, color, and finish. Select outputs with the most realistic and visually appealing leather surfaces. Refine further by adjusting prompt specificity, such as introducing environment context or texture aging. Finally, perform minor post-processing to enhance contrast and detail fidelity before deployment.",
+      "items": [
+        "Clarify image purpose and context",
+        "Construct precise prompt with detailed leather descriptors",
+        "Generate and review multiple outputs",
+        "Select best candidates and refine prompts iteratively",
+        "Apply post-processing as needed for polish"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "items": [
+        "Suede Texture – softer, velvety leather alternative",
+        "Aged or distressed leather for vintage aesthetics",
+        "High-gloss leather for luxury and modern looks"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How can I make leather textures look more realistic in AI images?",
+      "answer": "To enhance realism, include specific descriptors like grain type, creases, and lighting conditions. Phrases such as \"aged leather with visible wrinkles under natural light\" help the AI simulate authentic surfaces. Additionally, specifying shot details like \"macro close-up\" can emphasize texture quality."
+    },
+    {
+      "question": "Can leather textures be combined with other materials in prompts?",
+      "answer": "Yes, combining leather texture with materials like metal hardware, stitching, or fabric can create complex, believable objects. Use conjunctions in your prompt, for example, \"leather texture with brass buckle and stitched details,\" to enrich the visual narrative."
+    }
+  ]
+  },
+  {
+    title: "Ceramic Surface",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Ceramic Surface Texture – Realistic AI Image Prompt Guide",
+    metaDescription: "Master Ceramic Surface prompts for AI image generation with expert tips, best use cases, and advanced techniques to create realistic textures and refined lighting.",
+    heroImage: keywordHero("ceramic-surface", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "Ceramic Surface refers to the visual texture and material quality of ceramic objects, such as pottery, tiles, or porcelain, characterized by smoothness, subtle gloss, and often fine crackles or glaze effects. In AI image prompts, specifying 'Ceramic Surface' guides the model to generate images with realistic reflective qualities, delicate textures, and a material look typical of ceramics, enhancing the authenticity and tactile impression of objects depicted.",
+    visualCharacteristics: [
+    "Smooth, glossy finish with subtle reflections",
+    "Delicate glaze variations or crackle patterns",
+    "Natural light diffusion enhancing fine texture details"
+  ],
+    overview: "The keyword 'Ceramic Surface' in AI image generation targets a distinct material aesthetic recognizable by its smooth, often glossy finish and subtle textural nuances like glaze or crackle effects. Using this keyword refines renders to showcase the refined, tactile qualities of ceramics. It is essential for creating realistic representations of items like pottery, ceramic tiles, or porcelain wares, especially under nuanced lighting that enhances surface reflections and textures. The effect adds depth and realism, making objects appear tangible and convincing within various artistic or commercial compositions.",
+    whatItDoes: "In an AI prompt, 'Ceramic Surface' instructs the model to emphasize the characteristic look and feel of ceramics—predominantly smooth textures paired with variations in glossiness and glaze. This differentiation allows the AI to render realistic reflections, subtle imperfections, and the overall materiality associated with ceramic objects. Consequently, it enhances image authenticity by simulating light interactions typical of ceramic surfaces, helping distinguish these from other materials like plastic, metal, or glass. This keyword elevates designs requiring premium realistic textures and lends a sophisticated finish to 3D renders or flat images alike.",
+    bestUseCases: [
+    "Product visualization of ceramic tableware or decorative objects",
+    "Interior design mood boards featuring tiled surfaces or ceramic flooring",
+    "Artistic close-ups emphasizing texture and material properties"
+  ],
+    relatedKeywords: [
+    "Glossy Porcelain",
+    "Glazed Tile Texture",
+    "Matte Ceramic"
+  ],
+    examplePrompt: "A porcelain vase with a smooth ceramic surface, soft natural lighting, shallow depth of field",
+    promptExamples: [
+    "A porcelain vase with a smooth ceramic surface, soft natural lighting, shallow depth of field",
+    "Close-up of ceramic tiles with glazed surface, subtle crackle texture, overhead studio light",
+    "Ceramic coffee cup with high gloss finish on wooden table, realistic reflections, daylight"
+  ],
+    commercialApplications: [
+    "E-commerce product photography for ceramic goods",
+    "Architectural visualization featuring ceramic wall treatments",
+    "Advertising campaigns showcasing artisanal pottery"
+  ],
+    adobeStockPotential: "Images with realistic ceramic surface textures have strong commercial potential on Adobe Stock due to widespread demand in product advertising, interior design, and lifestyle imagery. Clean, high-quality visuals emphasizing material authenticity appeal to designers and marketers seeking premium assets for catalogs, websites, and promotional materials. The keyword's focus on subtle lighting and texture enhances usability across different themes, increasing value for stock imagery buyers.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Ceramic Surface describes the visual and tactile qualities of ceramic materials such as pottery, porcelain, or tiles. When added to AI image prompts, it instructs the model to replicate textures exhibiting smoothness, glossiness, and fine glaze effects that are characteristic of ceramics, resulting in realistic and material-accurate images."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To incorporate Ceramic Surface effectively, combine material descriptors with lighting and texture details. Example formulas:\n- \"[object] with smooth ceramic surface, soft natural light, subtle glaze reflections\"\n- \"Close-up of ceramic tile surface, crackle texture, diffused lighting\"\n- \"Glossy ceramic mug on wooden table, daylight illumination, shallow depth of field\"",
+      "items": [
+        "[subject] with smooth ceramic surface, soft natural light, subtle glaze reflections",
+        "Close-up of ceramic tile surface, crackle texture, diffused lighting",
+        "Glossy ceramic mug on wooden table, daylight illumination, shallow depth of field"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Product visualization for ceramics and porcelain items",
+        "Interior design imagery focusing on ceramic tile surfaces",
+        "Art photography highlighting texture and gloss of ceramic objects"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "A common error is failing to specify lighting and texture nuances when using 'Ceramic Surface', resulting in flat or plastic-like appearances. Avoid generic terms alone; combine with descriptors like 'glossy', 'glazed', or 'crackle texture' to evoke realism. Overusing overly broad material words can cause muddy or unrealistic renderings that lack the characteristic sheen of ceramic. Balancing light direction and gloss levels helps maintain natural surface authenticity.",
+      "items": [
+        "Neglecting to mention lighting or gloss leads to unrealistic textures",
+        "Using generic material terms without refinement makes images flat",
+        "Overapplying gloss effects results in artificial, plastic-like surfaces"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "For nuanced realism, combine 'Ceramic Surface' with specific light types such as 'soft ambient light' or 'studio spotlights' to modulate reflections and shadows. Introduce variations like 'aged crackle glaze' or 'matte finish ceramic' for stylistic diversity. Use constraints like 'high resolution close-up' or 'macro detail' to emphasize texture intricacies and subtle surface imperfections, enhancing tactile sensation.",
+      "items": [
+        "Pair with lighting descriptors (e.g., soft ambient light) to control reflections",
+        "Add glaze variations like aged crackle or matte finish for stylistic effects",
+        "Use macro or close-up constraints to highlight texture detail and imperfections"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start by defining the subject and the desired ceramic material finish, specifying 'Ceramic Surface' alongside lighting and texture modifiers. Generate multiple image variants to compare gloss levels and texture sharpness. Select images with balanced reflections and realistic cracks or glaze, then refine prompts incrementally for improved detail or mood. Finally, standardize lighting and composition to ensure consistency across project assets.",
+      "items": [
+        "Define subject and ceramic surface characteristics with lighting",
+        "Generate multiple render variants varying gloss and texture focus",
+        "Select and refine images emphasizing realistic reflections and glazing",
+        "Ensure consistent lighting and composition for cohesive asset sets"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "Ceramic Surface pairs well with complementary visual styles emphasizing materiality and texture, such as 'Glossy Porcelain' for high shine finishes, 'Glazed Tile Texture' for patterned surfaces, and 'Matte Ceramic' for subdued, low-reflectivity appearances. Exploring adjacent keywords enables versatile visual outcomes tailored to specific design goals.",
+      "items": [
+        "Glossy Porcelain - emphasizing high reflectivity and shine",
+        "Glazed Tile Texture - focusing on patterned ceramic surfaces",
+        "Matte Ceramic - low gloss, muted finish ceramic textures"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How do I make ceramic surfaces appear more realistic in AI-generated images?",
+      "answer": "Include lighting details like 'soft natural light' or 'studio lighting' and specify texture traits such as 'glazed,' 'crackle,' or 'matte finish' when using 'Ceramic Surface' in prompts. This combination helps the model simulate authentic reflections and surface nuances."
+    },
+    {
+      "question": "Can I use 'Ceramic Surface' for objects other than pottery?",
+      "answer": "Yes. 'Ceramic Surface' applies to any object featuring ceramic material qualities, including tiles, tableware, or decorative ceramics, making it versatile across different subjects."
+    },
+    {
+      "question": "What common mistakes should I avoid when prompting ceramic textures?",
+      "answer": "Avoid vague material terms without texture or lighting context, which cause flat or plastic-like results. Also, don’t overdo glossiness or omit surface imperfections needed to convey ceramic authenticity."
+    }
+  ]
   }];

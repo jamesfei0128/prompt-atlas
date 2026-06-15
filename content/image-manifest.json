@@ -707,6 +707,30 @@
       "generationPrompt": "16:9 close-up photo of fabric texture showing detailed weave and fibers, soft natural lighting, high resolution, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "fabric-texture"
+    },
+    {
+      "filename": "concrete-texture.png",
+      "altText": "Close-up of detailed rough concrete texture surface with visible cracks and natural gray tone",
+      "imageTitle": "Photorealistic Concrete Texture Surface",
+      "generationPrompt": "A photorealistic close-up of a rough concrete surface texture, showing fine cracks, granular details, and subtle natural gray color variations, soft natural lighting, shallow depth of field, high-resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "concrete-texture"
+    },
+    {
+      "filename": "leather-texture.png",
+      "altText": "Close-up of realistic dark brown leather texture showing natural grain and subtle wrinkles",
+      "imageTitle": "Realistic Dark Brown Leather Texture",
+      "generationPrompt": "16:9 close-up shot of dark brown leather texture with natural grain, subtle wrinkles, soft warm lighting, photorealistic, no text, no logos, no watermark",
+      "category": "Texture & Material",
+      "keywordSlug": "leather-texture"
+    },
+    {
+      "filename": "ceramic-surface.png",
+      "altText": "Close-up of a smooth glossy ceramic surface with delicate glaze reflections under soft natural light",
+      "imageTitle": "Glossy Ceramic Surface Texture",
+      "generationPrompt": "16:9 photo-realistic close-up of a glossy ceramic surface with subtle glaze crackle texture, soft natural lighting, shallow depth of field, realistic reflections, clean background, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "ceramic-surface"
     }
   ]
 }
