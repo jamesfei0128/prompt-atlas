@@ -731,6 +731,30 @@
       "generationPrompt": "16:9 photo-realistic close-up of a glossy ceramic surface with subtle glaze crackle texture, soft natural lighting, shallow depth of field, realistic reflections, clean background, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "ceramic-surface"
+    },
+    {
+      "filename": "ecommerce-product-shot.png",
+      "altText": "High-quality ecommerce product shot of a leather handbag on a white background with sharp focus and realistic lighting",
+      "imageTitle": "Ecommerce Product Shot of Leather Handbag",
+      "generationPrompt": "16:9 image of a single leather handbag on white background, sharp focus, soft studio lighting, realistic texture, commercial quality, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "ecommerce-product-shot"
+    },
+    {
+      "filename": "social-media-ad-creative.png",
+      "altText": "Modern social media ad creative with clean composition and refined lighting",
+      "imageTitle": "Social Media Ad Creative Image",
+      "generationPrompt": "16:9 clean editorial social media ad creative scene with refined photorealistic lighting, subtle depth, realistic materials, no text, no logos, modern design, premium stock-photo quality",
+      "category": "Commercial Use",
+      "keywordSlug": "social-media-ad-creative"
+    },
+    {
+      "filename": "website-hero-background.png",
+      "altText": "Clean and modern website hero background image with subtle depth and realistic lighting",
+      "imageTitle": "Website Hero Background Example",
+      "generationPrompt": "16:9 clean modern website hero background, wide panoramic composition, refined natural lighting, subtle depth, realistic materials, premium stock photo quality, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "website-hero-background"
     }
   ]
 }

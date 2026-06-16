@@ -1949,4 +1949,343 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Avoid vague material terms without texture or lighting context, which cause flat or plastic-like results. Also, don’t overdo glossiness or omit surface imperfections needed to convey ceramic authenticity."
     }
   ]
+  },
+  {
+    title: "Ecommerce Product Shot",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Ecommerce Product Shot: Perfect AI Image Prompts for Commercial Use",
+    metaDescription: "Learn how to create impactful ecommerce product shots with AI prompts. Discover definitions, formulas, best uses, common mistakes, and pro tips.",
+    heroImage: keywordHero("ecommerce-product-shot", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "An ecommerce product shot refers to a high-quality image focused on showcasing a product clearly and attractively, optimized for online retail platforms. In AI image prompting, including the 'ecommerce product shot' keyword guides the generator to prioritize clean, detailed, and commercially appealing visuals that highlight the product's features, textures, and form in a way suitable for online listings and advertisements.",
+    visualCharacteristics: [
+    "Clean composition with neutral or subtle backgrounds",
+    "Realistic lighting highlighting product details",
+    "Sharp focus with visible textures and materials"
+  ],
+    overview: "Ecommerce product shots are essential visuals that present products attractively for online stores, catalogs, and advertisements. Using AI to generate these images requires precise prompts that emphasize clarity, realism, and commercial appeal. These images typically feature a clean background, consistent lighting, and sharp rendering of the product's materials and details to facilitate customer trust and purchase decisions. By mastering how to craft ecommerce product shot prompts, creators can streamline content production, maintain brand consistency, and support sales efforts effectively across digital platforms.",
+    whatItDoes: "Including 'ecommerce product shot' in an AI image prompt steers the model to focus on producing images that are clear, well-lit, and product-centric, eliminating distracting elements like complex backgrounds or stylistic flourishes. This keyword helps achieve images where the product is depicted with realistic textures and proportions, enhancing its visual appeal and commercial viability. It also ensures the composition is straightforward, usually centered, facilitating usage for catalogs, online stores, and marketing campaigns. Overall, this keyword enhances the usability of AI-generated images for professional ecommerce contexts.",
+    bestUseCases: [
+    "Online retail product listings needing clean, commercial images",
+    "Marketing materials showcasing product details and textures",
+    "Catalogues and digital brochures requiring consistent product visuals"
+  ],
+    relatedKeywords: [
+    "Product Photography",
+    "Commercial Product Render",
+    "Studio Lighting"
+  ],
+    examplePrompt: "ecommerce product shot of a minimalist wireless earbud, soft studio lighting, white background, sharp focus, premium quality realistic render",
+    promptExamples: [
+    "ecommerce product shot of a minimalist wireless earbud, soft studio lighting, white background, sharp focus, premium quality realistic render",
+    "high-resolution ecommerce product shot of a leather handbag, subtle shadows, neutral background, detailed textures, clean composition",
+    "ecommerce product shot of athletic running shoes, bright even lighting, plain background, realistic materials, product centered"
+  ],
+    commercialApplications: [
+    "Ecommerce websites needing attractive product images",
+    "Advertising agencies creating promotional content",
+    "Catalog production for online and print sales"
+  ],
+    adobeStockPotential: "Ecommerce product shots have strong potential on platforms like Adobe Stock due to continuous demand from retailers and marketers who require consistent, high-quality product visuals. Well-executed AI-generated images adhering to commercial standards can supplement or replace traditional photography, offering quicker turnaround at scale. The key to success lies in creating versatile, realistic images with clean backgrounds and accurate texture detail that meet stock submission criteria and client expectations, making them highly marketable on stock image marketplaces.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Ecommerce product shots are focused images that present a product clearly and attractively for online sales. When used as an AI prompt keyword, this guides the system to generate images that emphasize clarity, detailed textures, and commercial appeal, removing distractions and spotlighting the product as it would appear on retail platforms.",
+      "items": [
+        "Guides AI towards clean and focused compositions",
+        "Emphasizes product detail and texture realism",
+        "Optimizes images for commercial and retail use"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use structured prompt patterns combining product description with technical keywords to specify lighting, background, and detail. For example: \"ecommerce product shot of [product], soft studio lighting, [background color], sharp focus, realistic materials.\" This formula helps produce consistent, high-quality commercial images.",
+      "items": [
+        "ecommerce product shot of [product], soft studio lighting, white background, sharp focus",
+        "ecommerce product shot of [product], neutral background, diffuse lighting, realistic texture detail",
+        "ecommerce product shot of [product], plain background, detailed close-up, premium stock image style"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "",
+      "items": [
+        "Online retail platforms requiring clean product imagery",
+        "Marketing campaigns emphasizing product features",
+        "Digital and print catalogs needing consistent product visuals"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "Typical mistakes include overcrowding the composition with multiple products or complex backgrounds, using unrealistic or dramatic lighting that detracts from the product, and prompting vague descriptors that yield generic or blurry images. To avoid this, keep the prompt focused, specify neutral or plain backgrounds, and emphasize realistic lighting and textures.",
+      "items": [
+        "Avoid cluttered or busy backgrounds",
+        "Specify realistic lighting over artistic effects",
+        "Use specific product details to enhance focus and clarity"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "Refine prompts by integrating material-specific keywords like \"matte finish\" or \"glossy texture\" to enhance realism. Use lighting style variations such as \"softbox lighting\" or \"natural daylight simulation.\" Incorporate shot angles like \"front view\" or \"45-degree angle\" for dynamic yet product-focused visuals. Experiment with depth of field to subtly isolate the product from the background without losing clarity.",
+      "items": [
+        "Combine material descriptors: matte, glossy, textured",
+        "Specify precise lighting: softbox, natural daylight",
+        "Use angle instructions: front view, 3/4 perspective",
+        "Add subtle depth of field for product isolation"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start by defining the product and desired style clearly in the briefing. Generate multiple AI image variants using established ecommerce product shot prompts. Review images focusing on composition, texture accuracy, and lighting realism. Select top candidates and refine prompts iteratively to eliminate flaws such as shadows or background noise. Finally, post-process the chosen image minimally to match brand standards, ensuring readiness for ecommerce use.",
+      "items": [
+        "Brief clearly with product details and style",
+        "Generate multiple prompt variants",
+        "Assess images for clarity and realism",
+        "Refine via prompt adjustments and post-processing",
+        "Finalize for consistent brand presentation"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "Ecommerce product shot imagery connects closely with product photography and commercial product renders, sharing traits like clean backgrounds and realistic lighting. It contrasts with artistic or lifestyle product images that have more environmental context. Adjacent PromptAtlas keywords include 'Product Photography' for realistic shots, 'Commercial Product Render' focusing on 3D-like presentation, and 'Studio Lighting' for lighting techniques that enhance product appeal.",
+      "items": [
+        "Product Photography",
+        "Commercial Product Render",
+        "Studio Lighting"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "What makes an ecommerce product shot different from regular product photography?",
+      "answer": "Ecommerce product shots emphasize clarity, simplicity, and commercial viability tailored for online retail, with minimal distractions, neutral backgrounds, and consistent lighting to highlight product details effectively."
+    },
+    {
+      "question": "Can AI-generated ecommerce product shots replace traditional photography?",
+      "answer": "AI-generated ecommerce product shots can complement and sometimes replace traditional photography for simple, consistent images, offering faster turnaround and scalability, but may still require careful prompting and occasional post-processing."
+    }
+  ]
+  },
+  {
+    title: "Social Media Ad Creative",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Social Media Ad Creative: Boost Engagement with AI Imagery",
+    metaDescription: "Discover how 'Social Media Ad Creative' prompts enhance AI-generated images for effective, modern, and engaging social media ads with polished visual appeal.",
+    heroImage: keywordHero("social-media-ad-creative", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "'Social Media Ad Creative' in AI image generation refers to prompts designed to create visually compelling, clean, and polished images that are perfect for use in social media advertising. These prompts focus on modern, editorial-style compositions with refined lighting and realistic materials, avoiding text, logos, or watermarks to maintain versatility. Including this keyword ensures the generated images have the professional quality and aesthetic appeal necessary to capture online audiences effectively.",
+    visualCharacteristics: [
+    "Clean and minimalistic editorial composition.",
+    "Refined lighting with subtle depth for a premium look.",
+    "Absence of text, logos, and watermarks ensuring clean imagery."
+  ],
+    overview: "Social media advertising demands visuals that are both eye-catching and professional, capturing viewer attention immediately. The 'Social Media Ad Creative' prompt keyword is tailored to guide AI models to generate images with a modern, clean design aesthetic that matches current digital marketing trends. By emphasizing polished lighting, realistic materials, and subtle depth, these prompts produce versatile visuals suitable for various platforms without distractions like text or branding elements. Using this keyword can streamline content creation, helping marketers and designers efficiently create standout ad imagery that resonates with target audiences and drives engagement.",
+    whatItDoes: "'Social Media Ad Creative' refines AI prompts to produce images optimized for social advertising campaigns. It enhances the visual polish and compositional clarity of AI-generated images, removing extraneous elements like text and logos to maximize adaptability. This approach ensures images seamlessly integrate into diverse social media formats, from feed posts to stories. Moreover, it emphasizes a clean, editorial style with balanced lighting and realistic textures, offering a high-end professional finish. The keyword helps streamline creation of images that can elevate brand presence and appeal in competitive social advertising environments.",
+    bestUseCases: [
+    "Creating hero images for Facebook or Instagram ad campaigns.",
+    "Designing visually consistent ad thumbnails for YouTube or TikTok.",
+    "Producing brand-oriented visuals for sponsored content and influencer marketing."
+  ],
+    relatedKeywords: [
+    "Commercial Product Photography",
+    "Digital Marketing Visuals",
+    "Branding Composition"
+  ],
+    examplePrompt: "\"Social media ad creative, clean editorial composition, premium stock-photo quality, refined lighting, subtle depth, realistic materials, no text, no logos, modern design\"",
+    promptExamples: [
+    "\"Social media ad creative, clean editorial composition, premium stock-photo quality, refined lighting, subtle depth, realistic materials, no text, no logos, modern design\"",
+    "\"Vibrant social media ad creative with minimalist background, polished lighting, subtle shadows, realistic textures, editorial style, no watermarks\"",
+    "\"Dynamic social media ad creative featuring diverse people, clean layout, premium photographic quality, soft depth of field, no text or logo elements\""
+  ],
+    commercialApplications: [
+    "Online marketing campaigns imagery.",
+    "E-commerce promotional graphics.",
+    "Corporate social media branding content."
+  ],
+    adobeStockPotential: "Images generated with the 'Social Media Ad Creative' prompt possess strong commercial appeal, ideal for premium stock photo platforms like Adobe Stock. Their clean, versatile aesthetic fits perfectly with marketing agencies and brands seeking polished visuals without clutter or watermarks. These images can be licensed for use across various digital advertisements, social posts, and promotional materials, offering consistent style and high production value. The keyword's emphasis on editorial composition and realistic lighting aligns with Adobe Stock's premium image quality standards, increasing chances for widespread commercial licensing and utilization.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "The term 'Social Media Ad Creative' relates to AI prompts used to generate images specifically designed for social media advertising. When included, it guides the AI to produce clean, modern visuals with editorial composition and premium lighting. This removes any distracting text or branding and ensures the images look professional and adaptable for various social platforms."
+    },
+    {
+      "type": "visualCharacteristics",
+      "title": "Visual Characteristics",
+      "items": [
+        "Clean, minimal editorial layout with balanced composition.",
+        "Refined lighting delivering subtle depth and realistic materials.",
+        "No text, logos, or watermarks ensuring versatile usage."
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use this formula structure to craft effective social media ad creative prompts: Begin with the keyword phrase 'social media ad creative,' then specify desired traits such as 'clean editorial composition,' 'premium photorealistic lighting,' and 'subtle depth.' Add details about subjects or context but avoid any text or logos to keep the image versatile. Examples illustrate how to combine these terms to achieve polished and professional visuals.",
+      "items": [
+        "social media ad creative",
+        "clean editorial composition",
+        "premium photorealistic lighting",
+        "subtle depth",
+        "realistic materials, no text, no logos"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Hero images for Instagram and Facebook ads that grab attention.",
+        "Thumbnail graphics for YouTube ads and TikTok sponsored posts.",
+        "Visual content for influencer endorsement campaigns and brand storytelling."
+      ]
+    },
+    {
+      "type": "creativeVariations",
+      "title": "Creative Variations",
+      "body": "To inject originality and reduce repetitive outcomes, consider varying elements such as lighting (golden hour, soft diffused, high contrast), color schemes (monochromatic, vibrant primaries, muted pastels), or composition (close-ups, wide shots, flat lays). Incorporate diverse subjects like people, products, or abstract backgrounds to create unique ad creatives while maintaining the core keyword style.",
+      "items": [
+        "Experiment with warm vs. cool lighting for mood shifts.",
+        "Vary poses and diversity in subject selection.",
+        "Alternate color palettes from bold to subtle tones.",
+        "Try different perspectives, including aerial or eye-level views.",
+        "Integrate dynamic vs. static compositions."
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start by briefing your project requirements clearly, emphasizing the need for polished, adaptable images suitable for multiple social channels. Use the 'Social Media Ad Creative' keyword to guide initial AI generations. Select output that best fits your brand tone and platform specifications, then fine-tune or upscale as needed. Finally, integrate images into your marketing assets, ensuring consistency and adherence to the style without additional text overlays on the image itself.",
+      "items": [
+        "Define campaign objectives and target platform.",
+        "Generate images with the keyword and optional descriptors.",
+        "Review selections for composition and lighting quality.",
+        "Refine selected images through iteration or enhancement.",
+        "Deploy images directly or prepare for graphic design overlay."
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "items": [
+        "Commercial Product Photography",
+        "Digital Marketing Visuals",
+        "Branding Composition"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "When using various AI image models, maintain clear, concise language emphasizing composition and lighting quality. Avoid model-specific syntax or shorthand to keep portability high. Use descriptive adjectives like 'premium,' 'realistic,' and 'editorial' that most models recognize. Exclude text or logo requests explicitly. Consider adding style influences (e.g., 'modern photography style') compatible across systems to achieve consistent high-quality outputs.",
+      "items": [
+        "Use universal descriptive language over platform-specific tags.",
+        "Avoid mentions of proprietary features or tokens.",
+        "Emphasize clarity: 'clean composition,' 'refined lighting.'",
+        "Explicitly state 'no text, no logos' for image cleanliness.",
+        "Incorporate neutral style references to improve cross-model consistency."
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "Can I use images generated with this prompt for commercial advertising?",
+      "answer": "Yes, images created using the 'Social Media Ad Creative' prompt are designed with commercial use in mind, making them suitable for digital marketing campaigns and social media advertisements."
+    },
+    {
+      "question": "Will these images include text or logos by default?",
+      "answer": "No, the prompt specifically excludes text, logos, and watermarks to ensure the images remain versatile and adaptable to various brand needs."
+    }
+  ]
+  },
+  {
+    title: "Website Hero Background",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Website Hero Background: Key AI Image Prompt Keyword",
+    metaDescription: "Discover how to create effective website hero backgrounds with AI image prompts. Learn definitions, visual traits, and best uses for commercial designs.",
+    heroImage: keywordHero("website-hero-background", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "Website Hero Background refers to large, visually compelling images placed prominently at the top of a website's landing page. In AI image prompts, including this keyword directs the model to generate high-impact, wide-format, and clean images suitable as attention-grabbing website headers or banners. It changes an AI prompt by emphasizing a composition ideal for modern digital interfaces, often focusing on clarity, subtle depth, and polished aesthetics without text or logos.",
+    visualCharacteristics: [
+    "Wide aspect ratio, often panoramic to fit screen widths",
+    "Clean and uncluttered composition with subtle depth and refined lighting",
+    "Realistic materials with premium stock-image quality and no text or branding"
+  ],
+    overview: "Creating a website hero background with AI involves generating a visually striking image that sets the tone for the whole site. These images typically span the full width of the page and must balance aesthetic appeal with clear space for overlaying text or buttons. By guiding AI prompts with the 'Website Hero Background' keyword, designers can generate images that feature clean editorial compositions, realistic lighting, and subtle depth, ensuring they integrate seamlessly into commercial websites. The style emphasizes premium polish similar to high-quality stock photos, removing distractions like text or logos. This approach supports versatile use across various industries, maintaining professionalism and visual harmony.",
+    whatItDoes: "Including 'Website Hero Background' in AI image prompts instructs the model to produce compositions optimized for website header use, which are generally wide and visually engaging. It prioritizes clarity and subtle lighting effects to create depth while avoiding clutter, making the image suitable for overlaying site navigation or headlines. The keyword strengthens the focus on realism and premium finish, producing images that feel refined and editorial rather than busy or illustrative. This helps designers obtain backgrounds that enhance brand messaging without overwhelming the site’s content or user experience, accelerating creative workflows.",
+    bestUseCases: [
+    "E-commerce websites needing clean, appealing banners to showcase products",
+    "Corporate or technology firms requiring modern, professional hero visuals",
+    "Portfolio or personal websites aiming for a minimalist yet polished landing page presence"
+  ],
+    relatedKeywords: [
+    "Website Banner",
+    "Landing Page Background",
+    "Digital Header Image"
+  ],
+    examplePrompt: "website hero background, clean editorial composition, premium stock photo quality, subtle depth, realistic lighting, no text, no logos",
+    promptExamples: [
+    "website hero background, clean editorial composition, premium stock photo quality, subtle depth, realistic lighting, no text, no logos",
+    "modern website hero background, wide aspect ratio, refined lighting, realistic materials, minimalistic design, no watermark",
+    "professional website hero background, soft natural light, polished finish, subtle depth, editorial style, no text or branding"
+  ],
+    commercialApplications: [
+    "Website design agencies delivering ready-to-use hero images",
+    "Stock image providers offering website-specific visuals",
+    "Marketing teams creating consistent brand identity across digital channels"
+  ],
+    adobeStockPotential: "Website hero background images hold strong potential in Adobe Stock’s catalog due to continual demand from web designers and marketers seeking high-quality, versatile visuals. These images must be clean, adaptable to overlays, and visually compelling without distracting elements like text or logos, ensuring broad applicability. Their wide format and polished editorial style appeal to commercial buyers looking for professional assets that speed up project turnaround. By consistently meeting these criteria, contributors can tap into a stable revenue niche serving diverse industries requiring header visuals for digital marketing and branding.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Website Hero Background images serve as the prominent visual headers on websites that capture visitor attention immediately. When used in AI image prompts, this keyword guides the AI to generate images optimized for wide layouts, polished lighting, and simple compositions without distracting text or logos. This helps create versatile backgrounds suitable for overlaying important site elements like navigation and calls to action."
+    },
+    {
+      "type": "visualCharacteristics",
+      "title": "Visual Characteristics",
+      "items": [
+        "Wide and panoramic aspect ratio tailored for screen widths",
+        "Clean and minimal composition with subtle lighting and depth effects",
+        "Realistic textures and materials presented in a premium, editorial style"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To build effective prompts for Website Hero Backgrounds, combine keywords that emphasize composition, lighting, and style. Use phrases like 'clean editorial composition,' 'premium stock photo quality,' and 'no text or logos' to refine output. Ensure aspect ratio or framing aligns with wide banner formats. Here's a reusable pattern:\n\n'[website hero background], [clean minimalist composition], [refined natural or soft lighting], [realistic materials], [no watermark, no text], [premium stock photo style]'."
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "E-commerce homepages showcasing product ranges with approachable imagery",
+        "Corporate or startup websites seeking sleek, trustworthy hero visuals",
+        "Creative portfolios wanting modern, non-distracting landing page backgrounds"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "When working with different AI image models, include clear descriptors of desired style and format since syntax varies. Avoid relying on explicit aspect ratio parameters; instead, describe 'wide panoramic' or 'screen width' in the prompt. Explicitly mention 'no text or logos' and 'premium stock photo style' to reduce unwanted artifacts. Use adjectives like 'clean,' 'refined,' and 'subtle depth' to steer models toward polished outputs appropriate for commercial hero backgrounds."
+    }
+  ],
+    faqs: [
+    {
+      "question": "What is the ideal aspect ratio for a website hero background image?",
+      "answer": "Typically, website hero backgrounds have wide aspect ratios such as 16:9 or wider to span the full width of screens, ensuring the image fits seamlessly as a header or banner on a webpage."
+    },
+    {
+      "question": "Should website hero backgrounds include text or branding?",
+      "answer": "No, to maintain versatility and allow easy overlay of site elements, website hero backgrounds should avoid embedded text, logos, or watermarks."
+    }
+  ]
   }];
