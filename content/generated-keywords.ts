@@ -2288,4 +2288,311 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "No, to maintain versatility and allow easy overlay of site elements, website hero backgrounds should avoid embedded text, logos, or watermarks."
     }
   ]
+  },
+  {
+    title: "Packaging Mockup",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Packaging Mockup: Create Premium Product Presentation Images",
+    metaDescription: "Learn how to create realistic packaging mockup images with AI prompts. Ideal for commercial use in advertising, ecommerce, and branding design.",
+    heroImage: keywordHero("packaging-mockup", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "A packaging mockup is a digital or AI-generated representation of a product's packaging design that showcases how the finished package will appear in real life. Using this keyword in an AI image prompt directs the model to focus on realistic, detailed product containers and their environments, emphasizing materials, lighting, and angles to represent the design attractively without actual production.",
+    visualCharacteristics: [
+    "Realistic materials such as plastic, glass, or cardboard",
+    "Clean, minimalistic backgrounds highlighting the packaging",
+    "Refined lighting and subtle shadowing to enhance depth and texture"
+  ],
+    overview: "Packaging mockups are essential tools in product design and marketing, allowing designers and brands to visualize and present their packaging concepts in a realistic setting before production. When using AI image prompts, including 'packaging mockup' guides the generation process to focus on product boxes, bottles, or containers with attention to accurate textures and lighting. This results in polished, professional images ideal for presentations, ecommerce, or advertisements. The style should emphasize clarity and premium quality, highlighting packaging features without distractions like logos or text, ensuring versatility for various commercial applications.",
+    whatItDoes: "Using the 'packaging mockup' keyword in AI image generation helps produce images that simulate real-world product packaging with authentic materials such as cardstock, plastic, or glass. It directs the AI to apply realistic lighting effects and shadows, creating subtle depth and highlighting the container’s form and surface details. This enhances the image’s commercial appeal by making the packaging appear tangible and premium, suitable for use as hero images or marketing visuals. The prompt encourages clean, editorial compositions free from extraneous elements, focusing solely on the packaging itself.",
+    bestUseCases: [
+    "Presenting new packaging designs to clients or stakeholders",
+    "Creating product images for online stores and ecommerce catalogs",
+    "Developing marketing materials such as hero banners or social media posts"
+  ],
+    relatedKeywords: [
+    "Product Photography",
+    "Branding Presentation",
+    "Label Design Mockup"
+  ],
+    examplePrompt: "\"High-resolution packaging mockup of a matte black skincare bottle on a soft white background, premium lighting, realistic reflections, no text\"",
+    promptExamples: [
+    "\"High-resolution packaging mockup of a matte black skincare bottle on a soft white background, premium lighting, realistic reflections, no text\"",
+    "\"Minimalist packaging mockup featuring a cardboard cereal box with subtle shadows, clean studio setting, refined texture detail\"",
+    "\"Luxury glass perfume bottle packaging mockup with soft diffused lighting, neutral backdrop, showcasing transparent materials\""
+  ],
+    commercialApplications: [
+    "Advertising campaigns showcasing new products",
+    "Ecommerce platforms needing high-quality product images",
+    "Editorial content illustrating packaging trends"
+  ],
+    adobeStockPotential: "Packaging mockups generated with AI hold significant potential for Adobe Stock as they serve multiple commercial needs, from advertising to ecommerce. High-quality mockups help designers and marketers quickly visualize product designs in a realistic way, making them highly desirable stock assets. Images that emphasize clean, editorial style with premium lighting and clear material representation align with Adobe Stock’s standards, increasing marketability and buyer interest.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Packaging mockup refers to a digital or AI-generated image that realistically depicts the packaging of a product. It helps visualize how the product container—such as a box, bottle, or pouch—would look in real life, showcasing materials, lighting, and design details. Incorporating this keyword into AI prompts shifts focus toward creating realistic product containers suitable for presentation purposes."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To create effective packaging mockup prompts, combine the product type, material descriptor, lighting style, and background setting. Use phrases emphasizing realism and premium quality. Common formats include:\n\n- [Product type] packaging mockup\n- Realistic [material] packaging mockup\n- Clean studio lighting on [product] packaging mockup\n- Minimalist background with [product] packaging mockup\n\nExample: “Premium matte paper packaging mockup with soft natural lighting on white background.”",
+      "items": [
+        "[Product type] packaging mockup",
+        "Realistic [material] packaging mockup",
+        "Clean studio lighting on [product] packaging mockup",
+        "Minimalist background with [product] packaging mockup"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "Packaging mockups excel in several scenarios:\n\n- Presenting new product packaging designs professionally to clients or teams.\n- Creating attractive product images for ecommerce platforms and catalogs.\n- Designing marketing materials like banners or social posts emphasizing product packaging.\n\nThese use cases benefit from photorealistic detail and clean composition to highlight packaging features.",
+      "items": [
+        "Client design presentations",
+        "Ecommerce product images",
+        "Marketing banners and social media content"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "body": "Packaging mockups serve many commercial industries such as:\n\n- Advertising agencies creating promotional visuals.\n- Ecommerce businesses needing high-quality product images for listings.\n- Editorial publications showcasing packaging trends or product reviews.\n\nIn each field, realistic packaging mockups elevate the quality of visual content and support brand messaging.",
+      "items": [
+        "Advertising campaigns",
+        "Ecommerce product catalogs",
+        "Editorial and trend publications"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "Typical prompt mistakes include:\n\n- Overloading the prompt with too many details causing muddled images.\n- Using vague material or lighting descriptions leading to unrealistic textures.\n- Including text, logos, or watermarks that clutter the composition.\n\nTo avoid these, keep descriptions focused on realistic materials and clean, simple backgrounds without added graphics. Prioritize lighting and reflection details for premium quality.",
+      "items": [
+        "Avoid excessive prompt complexity",
+        "Specify materials and lighting clearly",
+        "Exclude text and logos for clean images"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How do I ensure my packaging mockup looks realistic in AI image generation?",
+      "answer": "Include specific material descriptions (e.g., matte cardboard, frosted glass), realistic lighting conditions, and clean backgrounds in your prompt. Avoid adding text or logos for a polished presentation look."
+    },
+    {
+      "question": "Can I use packaging mockup images for commercial purposes?",
+      "answer": "Yes, packaging mockup images generated with proper prompts and licenses are ideal for commercial applications such as advertising, ecommerce, and branding presentations."
+    },
+    {
+      "question": "What should I avoid including in packaging mockup prompts?",
+      "answer": "Avoid specifying logos, brand names, or text in your prompts to keep images versatile and clean, which increases usability across multiple commercial contexts."
+    }
+  ]
+  },
+  {
+    title: "Brand Campaign Visual",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Brand Campaign Visual: Key AI Image Prompt Keyword",
+    metaDescription: "Explore the Brand Campaign Visual keyword for AI image prompts. Learn its definition, visual traits, best use cases, and crafting tips to create premium commercial images.",
+    heroImage: keywordHero("brand-campaign-visual", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "A 'Brand Campaign Visual' refers to AI-generated images tailored to represent and communicate a brand’s identity within marketing campaigns. Including this keyword in an AI prompt instructs the model to produce polished, cohesive visuals that embody brand values and aesthetics, typically suitable for commercial marketing use such as advertising materials or website hero images.",
+    visualCharacteristics: [
+    "Clean and modern composition with editorial styling",
+    "Refined lighting emphasizing realistic materials",
+    "No text, logos, or watermarks present, ensuring focus on the visual narrative"
+  ],
+    overview: "Brand Campaign Visual is an essential AI prompt keyword designed to generate high-quality images that effectively portray a brand’s personality and marketing message. These visuals typically feature a clean and sophisticated style, suitable for use in digital advertisements, social media, and corporate presentations. By directing AI models with this keyword, creators obtain images that incorporate subtle depth, premium stock-photo polish, and realistic textures to engage viewers while maintaining brand consistency. This approach helps marketers save time and resources in producing visuals that align tightly with their campaign goals.",
+    whatItDoes: "When the Brand Campaign Visual keyword is included in an AI prompt, it guides the image generation models to focus on vibrant yet professional compositions that highlight a brand’s core identity through color schemes, lighting, and style. It ensures the resulting images avoid distracting elements like text, watermarks, or logos, making them versatile for various commercial applications. This keyword encourages the AI to simulate a premium stock photography aesthetic, producing polished visuals that blend realism with subtle creative enhancements, perfect for market-driven storytelling.",
+    bestUseCases: [
+    "Creating hero images for corporate websites and landing pages",
+    "Designing clean editorial visuals for social media advertising campaigns",
+    "Generating concept imagery for product launch marketing materials"
+  ],
+    relatedKeywords: [
+    "Editorial Composition",
+    "Premium Stock Image",
+    "Commercial Marketing Visual"
+  ],
+    examplePrompt: "Brand Campaign Visual, clean editorial composition, soft natural lighting, premium stock photo quality, subtle depth, realistic texture, no text or logos",
+    promptExamples: [
+    "Brand Campaign Visual, clean editorial composition, soft natural lighting, premium stock photo quality, subtle depth, realistic texture, no text or logos",
+    "Modern brand campaign visual with refined lighting, corporate color palette, minimalist background, editorial style, high detail",
+    "Sleek brand campaign visual, focus on realistic materials and subtle depth, balanced composition, professional marketing aesthetic"
+  ],
+    commercialApplications: [
+    "Digital advertising banners",
+    "Website hero images",
+    "Social media campaign graphics"
+  ],
+    adobeStockPotential: "The Brand Campaign Visual keyword aligns well with Adobe Stock’s premium image standards due to its emphasis on clean, editorial styling and realistic lighting. These qualities resonate with the stock platform’s clientele seeking versatile, high-quality visuals for commercial projects. Images generated with this keyword offer broad applicability, making them suitable for licensing in advertising, corporate branding, and online media content. As a result, such AI-generated content could augment Adobe Stock’s collections by providing fresh, innovative commercial imagery that meets contemporary marketing demands.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "A Brand Campaign Visual in AI image generation refers to images crafted specifically to visually embody and promote a brand's identity within marketing efforts. Adding this keyword to a prompt signals the AI to produce a polished, cohesive image that complements brand aesthetics, often featuring clean design and subtle depth without any intrusive elements like text or logos."
+    },
+    {
+      "type": "visualCharacteristics",
+      "title": "Visual Characteristics",
+      "items": [
+        "Clean, modern editorial composition",
+        "Refined, realistic lighting enhancing material quality",
+        "Absence of text, logos, or watermarks to maintain visual clarity"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To create effective Brand Campaign Visual images, combine the keyword with modifiers emphasizing style and quality. Include terms that specify lighting, depth, and editorial polish to guide the AI precisely. For instance, pairing it with phrases like 'premium stock photo quality' or 'soft natural lighting' sharpens the brand-focused aesthetic.",
+      "items": [
+        "Brand Campaign Visual + clean editorial composition + refined lighting + realistic materials",
+        "Brand Campaign Visual + high detail + minimalist background + corporate color palette",
+        "Brand Campaign Visual + subtle depth + no text or logos + premium stock image style"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Hero images for corporate websites or landing pages",
+        "Visuals for social media advertising and campaigns",
+        "Concept imagery for new product or service launches"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "When using the Brand Campaign Visual keyword across different AI image generation models, be mindful that some models may interpret lighting and material realism differently. It helps to explicitly specify terms like 'refined lighting' or 'realistic textures' to achieve consistent premium results. Avoid relying on restrictive syntax; instead, use clear descriptive phrases to maintain compatibility and stability across various AI platforms."
+    }
+  ],
+    faqs: [
+    {
+      "question": "Can I use the Brand Campaign Visual keyword for non-commercial personal projects?",
+      "answer": "Yes, although the keyword is optimized for commercial-quality images, it can also enhance personal projects by providing polished and cohesive visuals suited to branding or storytelling."
+    },
+    {
+      "question": "Does including Brand Campaign Visual guarantee logo removal?",
+      "answer": "Including this keyword encourages the AI to avoid logos and text, but results may vary; it's advisable to double-check generated images for any unwanted branding elements."
+    }
+  ]
+  },
+  {
+    title: "Chiaroscuro Lighting",
+    category: "Lighting",
+    published: true,
+    seoTitle: "Chiaroscuro Lighting: Mastering Dramatic Light and Shadow",
+    metaDescription: "Discover how chiaroscuro lighting enhances depth and contrast in AI images. Learn formulas, best uses, and pro techniques for striking visuals.",
+    heroImage: keywordHero("chiaroscuro-lighting", "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"),
+    definition: "Chiaroscuro lighting is a technique emphasizing strong contrasts between light and dark areas in an image. Originating from Renaissance art, it creates a dramatic, three-dimensional effect by highlighting shapes and volumes through high-contrast illumination. In AI image prompts, including 'chiaroscuro lighting' instructs the model to apply deep shadows and bright highlights, resulting in moody, cinematic compositions with intensified depth and texture.",
+    visualCharacteristics: [
+    "High contrast between light and shadow",
+    "Dramatic highlights and deep shadows",
+    "Enhanced three-dimensional form and volume"
+  ],
+    overview: "Chiaroscuro lighting is a powerful artistic method used to create striking contrasts between illuminated and shadowed regions within an image. This approach originated in 16th-century painting and remains popular in photography and digital art to evoke drama and emphasize form. In AI-generated imagery, the chiaroscuro effect guides models to produce compositions rich in depth and texture, often with a single directional light source casting pronounced shadows. This lighting style is ideal for portraits, still lifes, and narrative scenes where mood and visual impact are priorities. Understanding chiaroscuro expands an artist's toolkit, enabling controlled manipulation of light to transform flat images into compelling visual stories.",
+    whatItDoes: "When added to AI image prompts, 'chiaroscuro lighting' directs the model to simulate intense contrasts between light and dark zones, creating a sense of volume and atmospheric tension. It alters how shadows fall, often deepening darkness around focal points to draw the viewer's eye. This lighting style enhances textures and contours, making surfaces appear richer and more tactile. It also introduces a dramatic, almost theatrical ambiance that works well for moody, suspenseful, or classical aesthetics. Overall, it transforms ordinary scenes into visually expressive artworks with heightened emotional depth and spatial clarity.",
+    bestUseCases: [
+    "Portraits requiring dramatic emotional impact",
+    "Still life compositions showcasing texture and form",
+    "Cinematic scenes emphasizing mood and narrative tension"
+  ],
+    relatedKeywords: [
+    "Rembrandt Lighting",
+    "Low-Key Lighting",
+    "Ambient Occlusion"
+  ],
+    examplePrompt: "Portrait of an elderly man with chiaroscuro lighting, intense shadows and sharp highlights",
+    promptExamples: [
+    "Portrait of an elderly man with chiaroscuro lighting, intense shadows and sharp highlights",
+    "Still life of fruits and ceramics under chiaroscuro lighting, deep contrast, rich texture",
+    "Film noir style detective scene with chiaroscuro lighting, moody shadows and directional light"
+  ],
+    commercialApplications: [
+    "Advertisement visuals needing dramatic emphasis",
+    "Book covers for mystery or thriller genres",
+    "Editorial portraits with artistic flair"
+  ],
+    adobeStockPotential: "Images featuring chiaroscuro lighting tend to perform well on Adobe Stock due to their dramatic and timeless appeal. Buyers often seek such visuals for artistic editorial content, advertising campaigns that require emotional depth, and cinematic projects. The high-contrast style enhances focal points and adds sophistication to images, making them versatile across creative industries. Stock photos utilizing chiaroscuro can command premium pricing because of their refined mood and technical complexity, appealing to creatives looking for impactful imagery.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Chiaroscuro lighting refers to a technique that emphasizes stark contrasts between light and dark areas within an image. Traditionally used in painting and photography, it gives subjects a three-dimensional appearance by illuminating some regions intensely while casting others in deep shadow. When added to an AI image prompt, it instructs the model to enhance this dramatic contrast effect, creating visually compelling and atmospheric compositions ideal for storytelling and mood.",
+      "items": [
+        "Focuses on high contrast interplay of light and shadow",
+        "Enhances three-dimensional form and depth",
+        "Creates a dramatic, moody atmosphere"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Utilize combinations of lighting-focused keywords to direct AI models effectively. Incorporate terms that define light direction, contrast, and mood for precise chiaroscuro lighting results.",
+      "items": [
+        "Subject (e.g., portrait, still life) + chiaroscuro lighting",
+        "Add descriptors: intense shadows, sharp highlights",
+        "Specify mood: dramatic, moody, cinematic",
+        "Include light source: single directional light, candlelight, window light"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "Chiaroscuro lighting excels in scenarios where contrast and depth heighten the image's impact. Specific applications include:",
+      "items": [
+        "Emotional portraits emphasizing facial features and expression",
+        "Still life art highlighting texture and detail",
+        "Narrative or cinematic scenes requiring atmosphere and tension"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "Skilled prompt writers can refine chiaroscuro effect by combining it with stylistic and technical constraints. Examples:",
+      "items": [
+        "Pairing with Rembrandt Lighting for classic portraiture effects",
+        "Using 'low-key lighting' to deepen shadows further",
+        "Specifying exact light angles to sculpt form",
+        "Incorporating color temperature shifts within shadows and highlights"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "1. Brief with pictured subject and chiaroscuro lighting specification; include desired mood and light direction.\n2. Generate multiple variations emphasizing contrast and shadow interplay.\n3. Select images with balanced light and shadow that best highlight form and texture.\n4. Refine by adjusting prompt with added descriptors (e.g., highlight softness, shadow depth).\n5. Finalize images for editorial or commercial use ensuring consistency and composition quality.",
+      "items": [
+        "Clear briefing with lighting requirements",
+        "Iterative generation and curation",
+        "Prompt refinement targeting contrast and mood"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "Chiaroscuro lighting complements and intersects with several adjacent visual styles and keywords to enhance prompt versatility.",
+      "items": [
+        "Rembrandt Lighting: focused triangular highlight on the cheek",
+        "Low-Key Lighting: predominantly dark compositions with selective illumination",
+        "Ambient Occlusion: subtle shadowing to enhance object contact and depth"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "What does 'chiaroscuro lighting' mean in AI prompts?",
+      "answer": "It instructs the AI to create images with strong contrasts between brightly lit areas and deep shadows, emphasizing dramatic light and depth."
+    },
+    {
+      "question": "Can chiaroscuro lighting be combined with color effects?",
+      "answer": "Yes, pairing chiaroscuro lighting with specific color tones like warm candlelight or cool window light enhances mood and artistic appeal."
+    },
+    {
+      "question": "Is chiaroscuro lighting suitable for all subjects?",
+      "answer": "While most effective for portraits, still life, and cinematic scenes, it may not suit brightly lit or minimalistic compositions requiring uniform lighting."
+    }
+  ]
   }];
