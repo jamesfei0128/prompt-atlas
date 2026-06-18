@@ -292,27 +292,27 @@
     "keyword": "Ambient Light Effects",
     "slug": "ambient-light-effects",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.536Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-18T12:46:30.799Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Soft Shadow Play",
     "slug": "soft-shadow-play",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.536Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-18T12:47:24.216Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Golden Ratio Composition",
     "slug": "golden-ratio-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.536Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-18T12:48:00.056Z",
     "source": "openai-discovery"
   },
   {

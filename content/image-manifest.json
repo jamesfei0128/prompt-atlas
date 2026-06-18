@@ -779,6 +779,30 @@
       "generationPrompt": "A detailed portrait of a person illuminated by chiaroscuro lighting, dramatic contrast between light and shadow, sharp highlights and deep shadows, realistic skin texture, cinematic atmosphere, clean background, 16:9",
       "category": "Lighting",
       "keywordSlug": "chiaroscuro-lighting"
+    },
+    {
+      "filename": "ambient-light-effects.png",
+      "altText": "Indoor scene with soft ambient light creating a warm, natural atmosphere",
+      "imageTitle": "Ambient Light Effects in Interior Scene",
+      "generationPrompt": "A modern living room interior with soft ambient light, gentle shadows, realistic textures, warm color palette, photo-realistic style, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "ambient-light-effects"
+    },
+    {
+      "filename": "soft-shadow-play.png",
+      "altText": "Elegant modern interior softly illuminated with gentle diffused shadows and natural light",
+      "imageTitle": "Soft Shadow Play in a Contemporary Interior Scene",
+      "generationPrompt": "16:9 clean modern living room interior with soft shadow play, natural diffused window light, gentle ambient illumination, realistic materials, refined lighting, subtle depth, premium stock image style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-shadow-play"
+    },
+    {
+      "filename": "golden-ratio-composition.png",
+      "altText": "Elegant modern interior designed with golden ratio composition, featuring balanced spatial arrangement and natural lighting",
+      "imageTitle": "Modern Interior with Golden Ratio Composition",
+      "generationPrompt": "16:9 ultra-realistic image of a modern interior living room designed with golden ratio composition, soft natural light, clean lines, premium materials, subtle depth, no text or logos",
+      "category": "Composition",
+      "keywordSlug": "golden-ratio-composition"
     }
   ]
 }
