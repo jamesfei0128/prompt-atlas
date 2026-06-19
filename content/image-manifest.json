@@ -803,6 +803,30 @@
       "generationPrompt": "16:9 ultra-realistic image of a modern interior living room designed with golden ratio composition, soft natural light, clean lines, premium materials, subtle depth, no text or logos",
       "category": "Composition",
       "keywordSlug": "golden-ratio-composition"
+    },
+    {
+      "filename": "radial-symmetry-composition.png",
+      "altText": "Intricate mandala pattern showcasing radial symmetry with balanced circular elements and vibrant colors",
+      "imageTitle": "Mandala with Radial Symmetry Composition",
+      "generationPrompt": "A highly detailed, colorful mandala pattern with radial symmetry composition, intricate linework, vibrant palette, soft ambient lighting, clean editorial style, no text, no logos, no watermark, 16:9",
+      "category": "Composition",
+      "keywordSlug": "radial-symmetry-composition"
+    },
+    {
+      "filename": "triadic-color-scheme.png",
+      "altText": "Vibrant modern composition showcasing a triadic color scheme of teal, orange, and purple with clean lighting and realistic materials",
+      "imageTitle": "Triadic Color Scheme Example Illustration",
+      "generationPrompt": "A clean editorial composition featuring a triadic color scheme with teal, orange, and purple hues, premium stock-image quality, refined lighting, subtle depth, realistic textures, no text or logos, 16:9 aspect ratio",
+      "category": "Color",
+      "keywordSlug": "triadic-color-scheme"
+    },
+    {
+      "filename": "warm-neutral-palette.png",
+      "altText": "Elegant interior scene featuring warm neutral palette colors and soft natural light",
+      "imageTitle": "Cozy Living Room with Warm Neutral Palette",
+      "generationPrompt": "16:9 image of a cozy modern living room interior, warm neutral palette, soft natural lighting, wooden textures, plush beige sofa, minimalistic design, realistic materials, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "warm-neutral-palette"
     }
   ]
 }
