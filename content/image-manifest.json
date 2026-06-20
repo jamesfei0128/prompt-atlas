@@ -827,6 +827,30 @@
       "generationPrompt": "16:9 image of a cozy modern living room interior, warm neutral palette, soft natural lighting, wooden textures, plush beige sofa, minimalistic design, realistic materials, no text, no logos",
       "category": "Color",
       "keywordSlug": "warm-neutral-palette"
+    },
+    {
+      "filename": "gradient-mesh-coloring.png",
+      "altText": "Close-up of an abstract shape showing smooth gradient mesh coloring with intricate color transitions",
+      "imageTitle": "Abstract Shape with Gradient Mesh Coloring",
+      "generationPrompt": "16:9 image of an abstract curved shape featuring smooth gradient mesh coloring with intricate multidirectional color transitions, soft lighting, realistic material texture, clean background, premium stock style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "gradient-mesh-coloring"
+    },
+    {
+      "filename": "matte-surface-texture.png",
+      "altText": "Close-up of a ceramic object with smooth matte surface texture under soft natural lighting",
+      "imageTitle": "Matte Surface Texture Ceramic Close-up",
+      "generationPrompt": "16:9 close-up image of a ceramic vase with smooth matte surface texture, soft natural lighting, minimal shadows, realistic materials, clean editorial composition, no text, no logos, no watermark",
+      "category": "Texture & Material",
+      "keywordSlug": "matte-surface-texture"
+    },
+    {
+      "filename": "rough-stone-texture.png",
+      "altText": "Close-up of rough stone texture showing grains and cracks with natural lighting",
+      "imageTitle": "Rough Stone Texture Surface Detail",
+      "generationPrompt": "16:9 photo-realistic close-up of rough stone texture surface with visible grains, cracks, natural light and subtle shadows, highly detailed, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-stone-texture"
     }
   ]
 }

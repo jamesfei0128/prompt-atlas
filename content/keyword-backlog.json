@@ -346,27 +346,27 @@
     "keyword": "Gradient Mesh Coloring",
     "slug": "gradient-mesh-coloring",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.536Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-20T11:50:37.981Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Matte Surface Texture",
     "slug": "matte-surface-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.536Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-20T11:51:13.694Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Rough Stone Texture",
     "slug": "rough-stone-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.536Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-20T11:51:38.759Z",
     "source": "openai-discovery"
   },
   {
