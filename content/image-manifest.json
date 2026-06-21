@@ -851,6 +851,30 @@
       "generationPrompt": "16:9 photo-realistic close-up of rough stone texture surface with visible grains, cracks, natural light and subtle shadows, highly detailed, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "rough-stone-texture"
+    },
+    {
+      "filename": "torn-paper-texture.png",
+      "altText": "Close-up of torn paper texture with rough jagged edges and visible fibers",
+      "imageTitle": "Torn Paper Texture Detail",
+      "generationPrompt": "16:9 close-up shot of torn paper edges showing rough jagged texture, visible fibers, natural color tones, soft studio lighting, high resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "torn-paper-texture"
+    },
+    {
+      "filename": "soft-velvet-texture.png",
+      "altText": "Close-up of fabric with rich soft velvet texture showing its plush and smooth surface",
+      "imageTitle": "Soft Velvet Texture Close-up",
+      "generationPrompt": "16:9 close-up shot of luxurious soft velvet fabric, deep rich color, smooth folds, subtle light reflections, realistic tactile texture, clean background, premium stock-image style, refined lighting, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "soft-velvet-texture"
+    },
+    {
+      "filename": "foggy-morning-atmosphere.png",
+      "altText": "Serene landscape of a forest path enveloped in soft early morning fog with diffused light",
+      "imageTitle": "Foggy Morning Forest Path Atmosphere",
+      "generationPrompt": "wide-angle view of a dense forest path shrouded in soft early morning fog, muted green and gray palette, soft diffused lighting, subtle atmospheric haze, realistic materials, premium stock photo style, editorial composition, 16:9",
+      "category": "Atmosphere",
+      "keywordSlug": "foggy-morning-atmosphere"
     }
   ]
 }
