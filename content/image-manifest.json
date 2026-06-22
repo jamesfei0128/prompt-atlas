@@ -875,6 +875,30 @@
       "generationPrompt": "wide-angle view of a dense forest path shrouded in soft early morning fog, muted green and gray palette, soft diffused lighting, subtle atmospheric haze, realistic materials, premium stock photo style, editorial composition, 16:9",
       "category": "Atmosphere",
       "keywordSlug": "foggy-morning-atmosphere"
+    },
+    {
+      "filename": "dusk-twilight-mood.png",
+      "altText": "Scenic landscape under dusk twilight mood with warm orange and cool blue hues blending softly in the sky",
+      "imageTitle": "Dusk Twilight Mood Landscape",
+      "generationPrompt": "16:9 scenic mountain lake reflecting soft blue and orange dusk twilight mood light, smooth gradients in sky, serene atmosphere, realistic style, refined lighting, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "dusk-twilight-mood"
+    },
+    {
+      "filename": "crisp-winter-air-atmosphere.png",
+      "altText": "Snow-covered pine trees under clear blue sky with crisp winter air atmosphere and bright morning light",
+      "imageTitle": "Crisp Winter Air Atmosphere Landscape",
+      "generationPrompt": "16:9 high-resolution image of a snow-covered pine forest under clear blue sky, sharp light with cool blue tones, subtle frost on branches, minimal mist, ultra-realistic materials and textures, clean editorial composition, no text or logos",
+      "category": "Atmosphere",
+      "keywordSlug": "crisp-winter-air-atmosphere"
+    },
+    {
+      "filename": "rain-slicked-pavement-atmosphere.png",
+      "altText": "Urban street at night with rain-slicked pavement reflecting neon lights",
+      "imageTitle": "Rain-Slicked Pavement Atmosphere Urban Night",
+      "generationPrompt": "16:9 photo-realistic city street at night, wet rain-slicked pavement reflecting neon signs, moody cinematic lighting, clean editorial composition, realistic materials, subtle depth, no text or logos",
+      "category": "Atmosphere",
+      "keywordSlug": "rain-slicked-pavement-atmosphere"
     }
   ]
 }
