@@ -427,27 +427,27 @@
     "keyword": "Asymmetrical Balance Composition",
     "slug": "asymmetrical-balance-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-23T12:28:29.312Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Central Focus Composition",
     "slug": "central-focus-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-23T12:29:06.445Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Juxtaposition Visual Style",
     "slug": "juxtaposition-visual-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-23T12:29:46.269Z",
     "source": "openai-discovery"
   },
   {

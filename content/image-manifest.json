@@ -899,6 +899,30 @@
       "generationPrompt": "16:9 photo-realistic city street at night, wet rain-slicked pavement reflecting neon signs, moody cinematic lighting, clean editorial composition, realistic materials, subtle depth, no text or logos",
       "category": "Atmosphere",
       "keywordSlug": "rain-slicked-pavement-atmosphere"
+    },
+    {
+      "filename": "asymmetrical-balance-composition.png",
+      "altText": "Modern editorial style portrait with asymmetrical balance composition and natural lighting",
+      "imageTitle": "Portrait demonstrating asymmetrical balance composition",
+      "generationPrompt": "16:9 portrait of a young woman, natural lighting, asymmetrical balance composition, uneven but harmonious element distribution, clean editorial style, softly blurred background, realistic skin textures, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "asymmetrical-balance-composition"
+    },
+    {
+      "filename": "central-focus-composition.png",
+      "altText": "Symmetrical portrait with a person centered perfectly in the frame showcasing central focus composition",
+      "imageTitle": "Central Focus Composition Example Image",
+      "generationPrompt": "16:9 portrait of a confident young woman, central focus composition, soft sunlight, shallow depth of field, realistic skin textures, clean background, premium editorial style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "central-focus-composition"
+    },
+    {
+      "filename": "juxtaposition-visual-style.png",
+      "altText": "Modern editorial AI-generated image showcasing juxtaposition visual style with contrasting elements and refined lighting",
+      "imageTitle": "Juxtaposition Visual Style in AI Art",
+      "generationPrompt": "16:9 image, a polished editorial composition featuring a striking juxtaposition of a vibrant natural flower next to cold industrial machinery, refined lighting, subtle depth, realistic textures, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "juxtaposition-visual-style"
     }
   ]
 }
