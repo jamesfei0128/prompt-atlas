@@ -923,6 +923,30 @@
       "generationPrompt": "16:9 image, a polished editorial composition featuring a striking juxtaposition of a vibrant natural flower next to cold industrial machinery, refined lighting, subtle depth, realistic textures, no text, no logos",
       "category": "Style",
       "keywordSlug": "juxtaposition-visual-style"
+    },
+    {
+      "filename": "grainy-film-texture-style.png",
+      "altText": "Vintage style black-and-white portrait with grainy film texture effect",
+      "imageTitle": "Vintage Portrait with Grainy Film Texture Style",
+      "generationPrompt": "A 1950s style black-and-white portrait of a jazz musician, soft lighting, moody and textured background, grainy film texture style, 16:9, high resolution, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "grainy-film-texture-style"
+    },
+    {
+      "filename": "flat-graphic-style.png",
+      "altText": "Flat graphic style illustration with clean lines and solid colors",
+      "imageTitle": "Flat Graphic Style Illustration",
+      "generationPrompt": "16:9 modern flat graphic style illustration, minimalist shapes, solid colors, clean lines, no text, no logos, no watermark, editorial composition, refined lighting",
+      "category": "Style",
+      "keywordSlug": "flat-graphic-style"
+    },
+    {
+      "filename": "hand-rendered-illustration-style.png",
+      "altText": "Hand rendered illustration style drawing showing textured pencil strokes and organic lines",
+      "imageTitle": "Hand Rendered Illustration Style Example",
+      "generationPrompt": "A detailed hand rendered illustration of a vintage bicycle, pencil sketch style with textured shading, visible stroke direction, rough paper texture, soft natural lighting, 16:9, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "hand-rendered-illustration-style"
     }
   ]
 }
