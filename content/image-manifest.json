@@ -707,6 +707,270 @@
       "generationPrompt": "16:9 close-up photo of fabric texture showing detailed weave and fibers, soft natural lighting, high resolution, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "fabric-texture"
+    },
+    {
+      "filename": "concrete-texture.png",
+      "altText": "Close-up of detailed rough concrete texture surface with visible cracks and natural gray tone",
+      "imageTitle": "Photorealistic Concrete Texture Surface",
+      "generationPrompt": "A photorealistic close-up of a rough concrete surface texture, showing fine cracks, granular details, and subtle natural gray color variations, soft natural lighting, shallow depth of field, high-resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "concrete-texture"
+    },
+    {
+      "filename": "leather-texture.png",
+      "altText": "Close-up of realistic dark brown leather texture showing natural grain and subtle wrinkles",
+      "imageTitle": "Realistic Dark Brown Leather Texture",
+      "generationPrompt": "16:9 close-up shot of dark brown leather texture with natural grain, subtle wrinkles, soft warm lighting, photorealistic, no text, no logos, no watermark",
+      "category": "Texture & Material",
+      "keywordSlug": "leather-texture"
+    },
+    {
+      "filename": "ceramic-surface.png",
+      "altText": "Close-up of a smooth glossy ceramic surface with delicate glaze reflections under soft natural light",
+      "imageTitle": "Glossy Ceramic Surface Texture",
+      "generationPrompt": "16:9 photo-realistic close-up of a glossy ceramic surface with subtle glaze crackle texture, soft natural lighting, shallow depth of field, realistic reflections, clean background, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "ceramic-surface"
+    },
+    {
+      "filename": "ecommerce-product-shot.png",
+      "altText": "High-quality ecommerce product shot of a leather handbag on a white background with sharp focus and realistic lighting",
+      "imageTitle": "Ecommerce Product Shot of Leather Handbag",
+      "generationPrompt": "16:9 image of a single leather handbag on white background, sharp focus, soft studio lighting, realistic texture, commercial quality, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "ecommerce-product-shot"
+    },
+    {
+      "filename": "social-media-ad-creative.png",
+      "altText": "Modern social media ad creative with clean composition and refined lighting",
+      "imageTitle": "Social Media Ad Creative Image",
+      "generationPrompt": "16:9 clean editorial social media ad creative scene with refined photorealistic lighting, subtle depth, realistic materials, no text, no logos, modern design, premium stock-photo quality",
+      "category": "Commercial Use",
+      "keywordSlug": "social-media-ad-creative"
+    },
+    {
+      "filename": "website-hero-background.png",
+      "altText": "Clean and modern website hero background image with subtle depth and realistic lighting",
+      "imageTitle": "Website Hero Background Example",
+      "generationPrompt": "16:9 clean modern website hero background, wide panoramic composition, refined natural lighting, subtle depth, realistic materials, premium stock photo quality, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "website-hero-background"
+    },
+    {
+      "filename": "packaging-mockup.png",
+      "altText": "Realistic packaging mockup of a matte black bottle on clean white background with premium lighting",
+      "imageTitle": "Matte Black Bottle Packaging Mockup",
+      "generationPrompt": "16:9 realistic packaging mockup of a matte black skincare bottle on a clean white background, premium soft lighting, subtle shadows, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "packaging-mockup"
+    },
+    {
+      "filename": "brand-campaign-visual.png",
+      "altText": "Professional brand campaign image with clean composition and refined lighting",
+      "imageTitle": "Brand Campaign Visual Example",
+      "generationPrompt": "16:9 clean editorial brand campaign visual with refined lighting, realistic materials, subtle depth, premium stock photo style, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "brand-campaign-visual"
+    },
+    {
+      "filename": "chiaroscuro-lighting.png",
+      "altText": "Portrait photograph illuminated with chiaroscuro lighting showing dramatic light and shadow contrast",
+      "imageTitle": "Portrait with Chiaroscuro Lighting Effect",
+      "generationPrompt": "A detailed portrait of a person illuminated by chiaroscuro lighting, dramatic contrast between light and shadow, sharp highlights and deep shadows, realistic skin texture, cinematic atmosphere, clean background, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "chiaroscuro-lighting"
+    },
+    {
+      "filename": "ambient-light-effects.png",
+      "altText": "Indoor scene with soft ambient light creating a warm, natural atmosphere",
+      "imageTitle": "Ambient Light Effects in Interior Scene",
+      "generationPrompt": "A modern living room interior with soft ambient light, gentle shadows, realistic textures, warm color palette, photo-realistic style, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "ambient-light-effects"
+    },
+    {
+      "filename": "soft-shadow-play.png",
+      "altText": "Elegant modern interior softly illuminated with gentle diffused shadows and natural light",
+      "imageTitle": "Soft Shadow Play in a Contemporary Interior Scene",
+      "generationPrompt": "16:9 clean modern living room interior with soft shadow play, natural diffused window light, gentle ambient illumination, realistic materials, refined lighting, subtle depth, premium stock image style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-shadow-play"
+    },
+    {
+      "filename": "golden-ratio-composition.png",
+      "altText": "Elegant modern interior designed with golden ratio composition, featuring balanced spatial arrangement and natural lighting",
+      "imageTitle": "Modern Interior with Golden Ratio Composition",
+      "generationPrompt": "16:9 ultra-realistic image of a modern interior living room designed with golden ratio composition, soft natural light, clean lines, premium materials, subtle depth, no text or logos",
+      "category": "Composition",
+      "keywordSlug": "golden-ratio-composition"
+    },
+    {
+      "filename": "radial-symmetry-composition.png",
+      "altText": "Intricate mandala pattern showcasing radial symmetry with balanced circular elements and vibrant colors",
+      "imageTitle": "Mandala with Radial Symmetry Composition",
+      "generationPrompt": "A highly detailed, colorful mandala pattern with radial symmetry composition, intricate linework, vibrant palette, soft ambient lighting, clean editorial style, no text, no logos, no watermark, 16:9",
+      "category": "Composition",
+      "keywordSlug": "radial-symmetry-composition"
+    },
+    {
+      "filename": "triadic-color-scheme.png",
+      "altText": "Vibrant modern composition showcasing a triadic color scheme of teal, orange, and purple with clean lighting and realistic materials",
+      "imageTitle": "Triadic Color Scheme Example Illustration",
+      "generationPrompt": "A clean editorial composition featuring a triadic color scheme with teal, orange, and purple hues, premium stock-image quality, refined lighting, subtle depth, realistic textures, no text or logos, 16:9 aspect ratio",
+      "category": "Color",
+      "keywordSlug": "triadic-color-scheme"
+    },
+    {
+      "filename": "warm-neutral-palette.png",
+      "altText": "Elegant interior scene featuring warm neutral palette colors and soft natural light",
+      "imageTitle": "Cozy Living Room with Warm Neutral Palette",
+      "generationPrompt": "16:9 image of a cozy modern living room interior, warm neutral palette, soft natural lighting, wooden textures, plush beige sofa, minimalistic design, realistic materials, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "warm-neutral-palette"
+    },
+    {
+      "filename": "gradient-mesh-coloring.png",
+      "altText": "Close-up of an abstract shape showing smooth gradient mesh coloring with intricate color transitions",
+      "imageTitle": "Abstract Shape with Gradient Mesh Coloring",
+      "generationPrompt": "16:9 image of an abstract curved shape featuring smooth gradient mesh coloring with intricate multidirectional color transitions, soft lighting, realistic material texture, clean background, premium stock style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "gradient-mesh-coloring"
+    },
+    {
+      "filename": "matte-surface-texture.png",
+      "altText": "Close-up of a ceramic object with smooth matte surface texture under soft natural lighting",
+      "imageTitle": "Matte Surface Texture Ceramic Close-up",
+      "generationPrompt": "16:9 close-up image of a ceramic vase with smooth matte surface texture, soft natural lighting, minimal shadows, realistic materials, clean editorial composition, no text, no logos, no watermark",
+      "category": "Texture & Material",
+      "keywordSlug": "matte-surface-texture"
+    },
+    {
+      "filename": "rough-stone-texture.png",
+      "altText": "Close-up of rough stone texture showing grains and cracks with natural lighting",
+      "imageTitle": "Rough Stone Texture Surface Detail",
+      "generationPrompt": "16:9 photo-realistic close-up of rough stone texture surface with visible grains, cracks, natural light and subtle shadows, highly detailed, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-stone-texture"
+    },
+    {
+      "filename": "torn-paper-texture.png",
+      "altText": "Close-up of torn paper texture with rough jagged edges and visible fibers",
+      "imageTitle": "Torn Paper Texture Detail",
+      "generationPrompt": "16:9 close-up shot of torn paper edges showing rough jagged texture, visible fibers, natural color tones, soft studio lighting, high resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "torn-paper-texture"
+    },
+    {
+      "filename": "soft-velvet-texture.png",
+      "altText": "Close-up of fabric with rich soft velvet texture showing its plush and smooth surface",
+      "imageTitle": "Soft Velvet Texture Close-up",
+      "generationPrompt": "16:9 close-up shot of luxurious soft velvet fabric, deep rich color, smooth folds, subtle light reflections, realistic tactile texture, clean background, premium stock-image style, refined lighting, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "soft-velvet-texture"
+    },
+    {
+      "filename": "foggy-morning-atmosphere.png",
+      "altText": "Serene landscape of a forest path enveloped in soft early morning fog with diffused light",
+      "imageTitle": "Foggy Morning Forest Path Atmosphere",
+      "generationPrompt": "wide-angle view of a dense forest path shrouded in soft early morning fog, muted green and gray palette, soft diffused lighting, subtle atmospheric haze, realistic materials, premium stock photo style, editorial composition, 16:9",
+      "category": "Atmosphere",
+      "keywordSlug": "foggy-morning-atmosphere"
+    },
+    {
+      "filename": "dusk-twilight-mood.png",
+      "altText": "Scenic landscape under dusk twilight mood with warm orange and cool blue hues blending softly in the sky",
+      "imageTitle": "Dusk Twilight Mood Landscape",
+      "generationPrompt": "16:9 scenic mountain lake reflecting soft blue and orange dusk twilight mood light, smooth gradients in sky, serene atmosphere, realistic style, refined lighting, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "dusk-twilight-mood"
+    },
+    {
+      "filename": "crisp-winter-air-atmosphere.png",
+      "altText": "Snow-covered pine trees under clear blue sky with crisp winter air atmosphere and bright morning light",
+      "imageTitle": "Crisp Winter Air Atmosphere Landscape",
+      "generationPrompt": "16:9 high-resolution image of a snow-covered pine forest under clear blue sky, sharp light with cool blue tones, subtle frost on branches, minimal mist, ultra-realistic materials and textures, clean editorial composition, no text or logos",
+      "category": "Atmosphere",
+      "keywordSlug": "crisp-winter-air-atmosphere"
+    },
+    {
+      "filename": "rain-slicked-pavement-atmosphere.png",
+      "altText": "Urban street at night with rain-slicked pavement reflecting neon lights",
+      "imageTitle": "Rain-Slicked Pavement Atmosphere Urban Night",
+      "generationPrompt": "16:9 photo-realistic city street at night, wet rain-slicked pavement reflecting neon signs, moody cinematic lighting, clean editorial composition, realistic materials, subtle depth, no text or logos",
+      "category": "Atmosphere",
+      "keywordSlug": "rain-slicked-pavement-atmosphere"
+    },
+    {
+      "filename": "asymmetrical-balance-composition.png",
+      "altText": "Modern editorial style portrait with asymmetrical balance composition and natural lighting",
+      "imageTitle": "Portrait demonstrating asymmetrical balance composition",
+      "generationPrompt": "16:9 portrait of a young woman, natural lighting, asymmetrical balance composition, uneven but harmonious element distribution, clean editorial style, softly blurred background, realistic skin textures, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "asymmetrical-balance-composition"
+    },
+    {
+      "filename": "central-focus-composition.png",
+      "altText": "Symmetrical portrait with a person centered perfectly in the frame showcasing central focus composition",
+      "imageTitle": "Central Focus Composition Example Image",
+      "generationPrompt": "16:9 portrait of a confident young woman, central focus composition, soft sunlight, shallow depth of field, realistic skin textures, clean background, premium editorial style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "central-focus-composition"
+    },
+    {
+      "filename": "juxtaposition-visual-style.png",
+      "altText": "Modern editorial AI-generated image showcasing juxtaposition visual style with contrasting elements and refined lighting",
+      "imageTitle": "Juxtaposition Visual Style in AI Art",
+      "generationPrompt": "16:9 image, a polished editorial composition featuring a striking juxtaposition of a vibrant natural flower next to cold industrial machinery, refined lighting, subtle depth, realistic textures, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "juxtaposition-visual-style"
+    },
+    {
+      "filename": "grainy-film-texture-style.png",
+      "altText": "Vintage style black-and-white portrait with grainy film texture effect",
+      "imageTitle": "Vintage Portrait with Grainy Film Texture Style",
+      "generationPrompt": "A 1950s style black-and-white portrait of a jazz musician, soft lighting, moody and textured background, grainy film texture style, 16:9, high resolution, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "grainy-film-texture-style"
+    },
+    {
+      "filename": "flat-graphic-style.png",
+      "altText": "Flat graphic style illustration with clean lines and solid colors",
+      "imageTitle": "Flat Graphic Style Illustration",
+      "generationPrompt": "16:9 modern flat graphic style illustration, minimalist shapes, solid colors, clean lines, no text, no logos, no watermark, editorial composition, refined lighting",
+      "category": "Style",
+      "keywordSlug": "flat-graphic-style"
+    },
+    {
+      "filename": "hand-rendered-illustration-style.png",
+      "altText": "Hand rendered illustration style drawing showing textured pencil strokes and organic lines",
+      "imageTitle": "Hand Rendered Illustration Style Example",
+      "generationPrompt": "A detailed hand rendered illustration of a vintage bicycle, pencil sketch style with textured shading, visible stroke direction, rough paper texture, soft natural lighting, 16:9, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "hand-rendered-illustration-style"
+    },
+    {
+      "filename": "vector-art-style.png",
+      "altText": "Illustration of a modern vector art style cityscape with clean lines and flat colors",
+      "imageTitle": "Vector Art Style Illustration of Cityscape",
+      "generationPrompt": "16:9 vector art style illustration of a modern cityscape, clean smooth lines, flat bright colors, geometric shapes, minimalistic design, no text, no logos, no watermark",
+      "category": "Style",
+      "keywordSlug": "vector-art-style"
+    },
+    {
+      "filename": "crosshatching-texture.png",
+      "altText": "Close-up detailed black and white crosshatching texture with intersecting fine lines",
+      "imageTitle": "Crosshatching Texture Detail Illustration",
+      "generationPrompt": "Close-up detailed black and white crosshatching texture, fine intersecting lines, organic pen and ink style, subtle shading, high resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "crosshatching-texture"
+    },
+    {
+      "filename": "glossy-surface-finish.png",
+      "altText": "High-detail close-up of a product with a glossy surface finish reflecting light",
+      "imageTitle": "Glossy Surface Finish Example",
+      "generationPrompt": "A high-resolution close-up of a luxurious black smartphone with a glossy surface finish, studio lighting emphasizing sharp specular highlights and reflections, realistic texture, premium product photography style, 16:9, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "glossy-surface-finish"
     }
   ]
 }
