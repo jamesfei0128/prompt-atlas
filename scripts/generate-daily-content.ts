@@ -621,8 +621,14 @@ function backgroundForCategory(category: string) {
 }
 
 function runValidation() {
+  console.log("[validate] tsx scripts/generate-keyword-metadata.ts");
+  execFileSync(npmCommand(), ["exec", "--", "tsx", "scripts/generate-keyword-metadata.ts"], { stdio: "inherit" });
   console.log("[validate] npm run images:dry-run");
-  execFileSync("npm", ["run", "images:dry-run"], { stdio: "inherit", shell: process.platform === "win32" });
+  execFileSync(npmCommand(), ["run", "images:dry-run"], { stdio: "inherit" });
+}
+
+function npmCommand() {
+  return process.platform === "win32" ? "npm.cmd" : "npm";
 }
 
 main().catch((error) => {

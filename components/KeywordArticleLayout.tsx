@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { KeywordWithSlug } from "@/content/keywords";
-import { publicImageExists } from "@/lib/images";
 
 type KeywordArticleLayoutProps = {
   keyword: KeywordWithSlug;
@@ -12,7 +11,6 @@ const defaultHeroBackground =
   "radial-gradient(circle at 18% 22%, #ffffff, transparent 30%), linear-gradient(135deg, #edf1ee, #fbfaf7 50%, #eaded6)";
 
 export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticleLayoutProps) {
-  const showImage = publicImageExists(keyword.heroImage?.src);
   const dynamicSections = keyword.articleSections?.filter(
     (section) => section.body || section.items?.length
   );
@@ -33,7 +31,7 @@ export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticl
         className="relative mt-9 aspect-[16/9] overflow-hidden rounded-lg border border-line bg-cover bg-center"
         style={{ background: keyword.heroImage?.background ?? defaultHeroBackground }}
       >
-        {showImage && keyword.heroImage?.src ? (
+        {keyword.heroImage?.src ? (
           <Image
             src={keyword.heroImage.src}
             alt={keyword.heroImage.alt}
@@ -172,7 +170,7 @@ export function KeywordArticleLayout({ keyword, relatedKeywords }: KeywordArticl
                   className="relative mb-4 aspect-[16/9] overflow-hidden rounded-md border border-line bg-cover bg-center"
                   style={{ background: item.heroImage?.background ?? defaultHeroBackground }}
                 >
-                  {publicImageExists(item.heroImage?.src) && item.heroImage?.src ? (
+                  {item.heroImage?.src ? (
                     <Image
                       src={item.heroImage.src}
                       alt={item.heroImage.alt}

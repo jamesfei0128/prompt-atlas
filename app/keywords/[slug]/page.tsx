@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { KeywordArticleLayout } from "@/components/KeywordArticleLayout";
-import { getAutomaticRelatedKeywords, getKeyword, getPublishedKeywords } from "@/lib/data";
+import { getPublishedKeywords } from "@/lib/data";
+import {
+  getAutomaticRelatedKeywordArticles,
+  getKeywordArticle
+} from "@/lib/keyword-articles";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -13,7 +17,7 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const keyword = getKeyword(slug);
+  const keyword = getKeywordArticle(slug);
 
   if (!keyword) {
     return {};
@@ -49,13 +53,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function KeywordPage({ params }: Props) {
   const { slug } = await params;
-  const keyword = getKeyword(slug);
+  const keyword = getKeywordArticle(slug);
 
   if (!keyword) {
     notFound();
   }
 
-  const related = getAutomaticRelatedKeywords(keyword);
+  const related = getAutomaticRelatedKeywordArticles(keyword);
 
   return <KeywordArticleLayout keyword={keyword} relatedKeywords={related} />;
 }

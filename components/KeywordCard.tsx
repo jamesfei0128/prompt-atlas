@@ -1,14 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
-import type { KeywordWithSlug } from "@/content/keywords";
-import { publicImageExists } from "@/lib/images";
+import type { KeywordMetadata } from "@/content/keyword-metadata";
 
 const defaultImageBackground =
   "linear-gradient(135deg, #edf1ee, #fbfaf7 52%, #eaded6)";
 
-export function KeywordCard({ keyword }: { keyword: KeywordWithSlug }) {
-  const showImage = publicImageExists(keyword.heroImage?.src);
-
+export function KeywordCard({ keyword }: { keyword: KeywordMetadata }) {
   return (
     <Link
       href={`/keywords/${keyword.slug}`}
@@ -18,7 +15,7 @@ export function KeywordCard({ keyword }: { keyword: KeywordWithSlug }) {
         className="relative mb-4 aspect-[16/9] overflow-hidden rounded-md border border-line bg-cover bg-center"
         style={{ background: keyword.heroImage?.background ?? defaultImageBackground }}
       >
-        {showImage && keyword.heroImage?.src ? (
+        {keyword.heroImage?.src ? (
           <Image
             src={keyword.heroImage.src}
             alt={keyword.heroImage.alt}

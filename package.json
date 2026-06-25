@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prebuild": "tsx scripts/generate-keyword-metadata.ts",
     "dev": "next dev --webpack",
     "build": "next build --webpack",
     "keywords:discover": "tsx scripts/discover-keywords.ts",
-    "content:auto": "tsx scripts/generate-daily-content.ts",
+    "content:auto": "tsx scripts/generate-daily-content.ts && tsx scripts/generate-keyword-metadata.ts",
     "images:dry-run": "node scripts/generate-keyword-images.mjs --dry-run",
     "images:generate": "node scripts/generate-keyword-images.mjs --generate",
     "start": "next start",
