@@ -481,27 +481,27 @@
     "keyword": "Vector Art Style",
     "slug": "vector-art-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-25T12:12:25.059Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Crosshatching Texture",
     "slug": "crosshatching-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-25T12:13:10.882Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Glossy Surface Finish",
     "slug": "glossy-surface-finish",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-25T12:13:49.549Z",
     "source": "openai-discovery"
   },
   {

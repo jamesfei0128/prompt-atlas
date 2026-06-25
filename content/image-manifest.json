@@ -947,6 +947,30 @@
       "generationPrompt": "A detailed hand rendered illustration of a vintage bicycle, pencil sketch style with textured shading, visible stroke direction, rough paper texture, soft natural lighting, 16:9, no text, no logos",
       "category": "Style",
       "keywordSlug": "hand-rendered-illustration-style"
+    },
+    {
+      "filename": "vector-art-style.png",
+      "altText": "Illustration of a modern vector art style cityscape with clean lines and flat colors",
+      "imageTitle": "Vector Art Style Illustration of Cityscape",
+      "generationPrompt": "16:9 vector art style illustration of a modern cityscape, clean smooth lines, flat bright colors, geometric shapes, minimalistic design, no text, no logos, no watermark",
+      "category": "Style",
+      "keywordSlug": "vector-art-style"
+    },
+    {
+      "filename": "crosshatching-texture.png",
+      "altText": "Close-up detailed black and white crosshatching texture with intersecting fine lines",
+      "imageTitle": "Crosshatching Texture Detail Illustration",
+      "generationPrompt": "Close-up detailed black and white crosshatching texture, fine intersecting lines, organic pen and ink style, subtle shading, high resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "crosshatching-texture"
+    },
+    {
+      "filename": "glossy-surface-finish.png",
+      "altText": "High-detail close-up of a product with a glossy surface finish reflecting light",
+      "imageTitle": "Glossy Surface Finish Example",
+      "generationPrompt": "A high-resolution close-up of a luxurious black smartphone with a glossy surface finish, studio lighting emphasizing sharp specular highlights and reflections, realistic texture, premium product photography style, 16:9, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "glossy-surface-finish"
     }
   ]
 }
