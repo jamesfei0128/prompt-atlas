@@ -2691,5 +2691,1085 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Concrete Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Concrete Texture - Realistic AI Image Prompt Guide",
+    "metaDescription": "Discover how to use the 'Concrete Texture' keyword in AI image prompts for realistic surfaces with fine cracks and roughness. Ideal for design and advertising.",
+    "heroImage": {
+      "src": "/images/keywords/concrete-texture.png",
+      "alt": "Close-up of detailed rough concrete texture surface with visible cracks and natural gray tone",
+      "title": "Photorealistic Concrete Texture Surface",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Using 'Concrete Texture' as a keyword in AI image generation is essential when aiming to simulate authentic concrete surfaces. This texture is characterized by its rough, grainy appearance with fine cracks and natural variations in tone, which contribute to a realistic material effect. Incorporating 'Concrete Texture' enriches scenes by adding depth and tactility, suitable for architectural renders, product backgrounds, or abstract compositions. It helps avoid flat or artificial appearances of concrete elements by instructing the AI to focus on the physical traits of concrete surfaces. This keyword is especially useful when high-fidelity material depiction is required for design presentations or digital art.",
+    "bestUseCases": [
+      "Architectural visualizations needing realistic concrete walls or floors",
+      "Background textures for product photography or digital art",
+      "Design mockups featuring industrial or urban themes"
+    ],
+    "relatedKeywords": [
+      "rough stone texture",
+      "urban facade",
+      "weathered wall"
+    ],
+    "difficulty": "Beginner",
+    "slug": "concrete-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Leather Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Leather Texture: A Guide to Realistic AI Image Prompts",
+    "metaDescription": "Explore how to craft AI prompts for authentic leather textures. Learn definitions, best uses, prompt formulas, advanced techniques, and workflows.",
+    "heroImage": {
+      "src": "/images/keywords/leather-texture.png",
+      "alt": "Close-up of realistic dark brown leather texture showing natural grain and subtle wrinkles",
+      "title": "Realistic Dark Brown Leather Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Leather Texture evokes the visual and tactile qualities of genuine leather surfaces in AI-generated art. It introduces nuanced details like grain, pores, creases, and color variations that make materials appear authentic and luxurious. This texture is widely employed in fashion illustration, interior design renderings, product visualization, and materials studies. By using the leather texture keyword, AI models simulate the complex interplay of light, shadow, and surface imperfections typical in high-quality leather. This enriches compositions with warmth and premium appeal. Its adaptable nature supports everything from rough, distressed hides to smooth, polished finishes, providing versatility across genres and styles.",
+    "bestUseCases": [
+      "Fashion design mockups featuring leather apparel or accessories",
+      "Product visualization for leather goods like bags, shoes, and furniture",
+      "Interior design images showcasing leather upholstery and décor"
+    ],
+    "relatedKeywords": [
+      "Suede Texture",
+      "Fabric Texture",
+      "Metal Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "leather-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Ceramic Surface",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Ceramic Surface Texture – Realistic AI Image Prompt Guide",
+    "metaDescription": "Master Ceramic Surface prompts for AI image generation with expert tips, best use cases, and advanced techniques to create realistic textures and refined lighting.",
+    "heroImage": {
+      "src": "/images/keywords/ceramic-surface.png",
+      "alt": "Close-up of a smooth glossy ceramic surface with delicate glaze reflections under soft natural light",
+      "title": "Glossy Ceramic Surface Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The keyword 'Ceramic Surface' in AI image generation targets a distinct material aesthetic recognizable by its smooth, often glossy finish and subtle textural nuances like glaze or crackle effects. Using this keyword refines renders to showcase the refined, tactile qualities of ceramics. It is essential for creating realistic representations of items like pottery, ceramic tiles, or porcelain wares, especially under nuanced lighting that enhances surface reflections and textures. The effect adds depth and realism, making objects appear tangible and convincing within various artistic or commercial compositions.",
+    "bestUseCases": [
+      "Product visualization of ceramic tableware or decorative objects",
+      "Interior design mood boards featuring tiled surfaces or ceramic flooring",
+      "Artistic close-ups emphasizing texture and material properties"
+    ],
+    "relatedKeywords": [
+      "Glossy Porcelain",
+      "Glazed Tile Texture",
+      "Matte Ceramic"
+    ],
+    "difficulty": "Beginner",
+    "slug": "ceramic-surface",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Ecommerce Product Shot",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Ecommerce Product Shot: Perfect AI Image Prompts for Commercial Use",
+    "metaDescription": "Learn how to create impactful ecommerce product shots with AI prompts. Discover definitions, formulas, best uses, common mistakes, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/ecommerce-product-shot.png",
+      "alt": "High-quality ecommerce product shot of a leather handbag on a white background with sharp focus and realistic lighting",
+      "title": "Ecommerce Product Shot of Leather Handbag",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Ecommerce product shots are essential visuals that present products attractively for online stores, catalogs, and advertisements. Using AI to generate these images requires precise prompts that emphasize clarity, realism, and commercial appeal. These images typically feature a clean background, consistent lighting, and sharp rendering of the product's materials and details to facilitate customer trust and purchase decisions. By mastering how to craft ecommerce product shot prompts, creators can streamline content production, maintain brand consistency, and support sales efforts effectively across digital platforms.",
+    "bestUseCases": [
+      "Online retail product listings needing clean, commercial images",
+      "Marketing materials showcasing product details and textures",
+      "Catalogues and digital brochures requiring consistent product visuals"
+    ],
+    "relatedKeywords": [
+      "Product Photography",
+      "Commercial Product Render",
+      "Studio Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "ecommerce-product-shot",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Social Media Ad Creative",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Social Media Ad Creative: Boost Engagement with AI Imagery",
+    "metaDescription": "Discover how 'Social Media Ad Creative' prompts enhance AI-generated images for effective, modern, and engaging social media ads with polished visual appeal.",
+    "heroImage": {
+      "src": "/images/keywords/social-media-ad-creative.png",
+      "alt": "Modern social media ad creative with clean composition and refined lighting",
+      "title": "Social Media Ad Creative Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Social media advertising demands visuals that are both eye-catching and professional, capturing viewer attention immediately. The 'Social Media Ad Creative' prompt keyword is tailored to guide AI models to generate images with a modern, clean design aesthetic that matches current digital marketing trends. By emphasizing polished lighting, realistic materials, and subtle depth, these prompts produce versatile visuals suitable for various platforms without distractions like text or branding elements. Using this keyword can streamline content creation, helping marketers and designers efficiently create standout ad imagery that resonates with target audiences and drives engagement.",
+    "bestUseCases": [
+      "Creating hero images for Facebook or Instagram ad campaigns.",
+      "Designing visually consistent ad thumbnails for YouTube or TikTok.",
+      "Producing brand-oriented visuals for sponsored content and influencer marketing."
+    ],
+    "relatedKeywords": [
+      "Commercial Product Photography",
+      "Digital Marketing Visuals",
+      "Branding Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "social-media-ad-creative",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Website Hero Background",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Website Hero Background: Key AI Image Prompt Keyword",
+    "metaDescription": "Discover how to create effective website hero backgrounds with AI image prompts. Learn definitions, visual traits, and best uses for commercial designs.",
+    "heroImage": {
+      "src": "/images/keywords/website-hero-background.png",
+      "alt": "Clean and modern website hero background image with subtle depth and realistic lighting",
+      "title": "Website Hero Background Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Creating a website hero background with AI involves generating a visually striking image that sets the tone for the whole site. These images typically span the full width of the page and must balance aesthetic appeal with clear space for overlaying text or buttons. By guiding AI prompts with the 'Website Hero Background' keyword, designers can generate images that feature clean editorial compositions, realistic lighting, and subtle depth, ensuring they integrate seamlessly into commercial websites. The style emphasizes premium polish similar to high-quality stock photos, removing distractions like text or logos. This approach supports versatile use across various industries, maintaining professionalism and visual harmony.",
+    "bestUseCases": [
+      "E-commerce websites needing clean, appealing banners to showcase products",
+      "Corporate or technology firms requiring modern, professional hero visuals",
+      "Portfolio or personal websites aiming for a minimalist yet polished landing page presence"
+    ],
+    "relatedKeywords": [
+      "Website Banner",
+      "Landing Page Background",
+      "Digital Header Image"
+    ],
+    "difficulty": "Beginner",
+    "slug": "website-hero-background",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Packaging Mockup",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Packaging Mockup: Create Premium Product Presentation Images",
+    "metaDescription": "Learn how to create realistic packaging mockup images with AI prompts. Ideal for commercial use in advertising, ecommerce, and branding design.",
+    "heroImage": {
+      "src": "/images/keywords/packaging-mockup.png",
+      "alt": "Realistic packaging mockup of a matte black bottle on clean white background with premium lighting",
+      "title": "Matte Black Bottle Packaging Mockup",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Packaging mockups are essential tools in product design and marketing, allowing designers and brands to visualize and present their packaging concepts in a realistic setting before production. When using AI image prompts, including 'packaging mockup' guides the generation process to focus on product boxes, bottles, or containers with attention to accurate textures and lighting. This results in polished, professional images ideal for presentations, ecommerce, or advertisements. The style should emphasize clarity and premium quality, highlighting packaging features without distractions like logos or text, ensuring versatility for various commercial applications.",
+    "bestUseCases": [
+      "Presenting new packaging designs to clients or stakeholders",
+      "Creating product images for online stores and ecommerce catalogs",
+      "Developing marketing materials such as hero banners or social media posts"
+    ],
+    "relatedKeywords": [
+      "Product Photography",
+      "Branding Presentation",
+      "Label Design Mockup"
+    ],
+    "difficulty": "Beginner",
+    "slug": "packaging-mockup",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Brand Campaign Visual",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Brand Campaign Visual: Key AI Image Prompt Keyword",
+    "metaDescription": "Explore the Brand Campaign Visual keyword for AI image prompts. Learn its definition, visual traits, best use cases, and crafting tips to create premium commercial images.",
+    "heroImage": {
+      "src": "/images/keywords/brand-campaign-visual.png",
+      "alt": "Professional brand campaign image with clean composition and refined lighting",
+      "title": "Brand Campaign Visual Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Brand Campaign Visual is an essential AI prompt keyword designed to generate high-quality images that effectively portray a brand’s personality and marketing message. These visuals typically feature a clean and sophisticated style, suitable for use in digital advertisements, social media, and corporate presentations. By directing AI models with this keyword, creators obtain images that incorporate subtle depth, premium stock-photo polish, and realistic textures to engage viewers while maintaining brand consistency. This approach helps marketers save time and resources in producing visuals that align tightly with their campaign goals.",
+    "bestUseCases": [
+      "Creating hero images for corporate websites and landing pages",
+      "Designing clean editorial visuals for social media advertising campaigns",
+      "Generating concept imagery for product launch marketing materials"
+    ],
+    "relatedKeywords": [
+      "Editorial Composition",
+      "Premium Stock Image",
+      "Commercial Marketing Visual"
+    ],
+    "difficulty": "Beginner",
+    "slug": "brand-campaign-visual",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Chiaroscuro Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Chiaroscuro Lighting: Mastering Dramatic Light and Shadow",
+    "metaDescription": "Discover how chiaroscuro lighting enhances depth and contrast in AI images. Learn formulas, best uses, and pro techniques for striking visuals.",
+    "heroImage": {
+      "src": "/images/keywords/chiaroscuro-lighting.png",
+      "alt": "Portrait photograph illuminated with chiaroscuro lighting showing dramatic light and shadow contrast",
+      "title": "Portrait with Chiaroscuro Lighting Effect",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Chiaroscuro lighting is a powerful artistic method used to create striking contrasts between illuminated and shadowed regions within an image. This approach originated in 16th-century painting and remains popular in photography and digital art to evoke drama and emphasize form. In AI-generated imagery, the chiaroscuro effect guides models to produce compositions rich in depth and texture, often with a single directional light source casting pronounced shadows. This lighting style is ideal for portraits, still lifes, and narrative scenes where mood and visual impact are priorities. Understanding chiaroscuro expands an artist's toolkit, enabling controlled manipulation of light to transform flat images into compelling visual stories.",
+    "bestUseCases": [
+      "Portraits requiring dramatic emotional impact",
+      "Still life compositions showcasing texture and form",
+      "Cinematic scenes emphasizing mood and narrative tension"
+    ],
+    "relatedKeywords": [
+      "Rembrandt Lighting",
+      "Low-Key Lighting",
+      "Ambient Occlusion"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "chiaroscuro-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Ambient Light Effects",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Ambient Light Effects in AI Images: Definition & Best Uses",
+    "metaDescription": "Discover how Ambient Light Effects enhance AI images with subtle, diffused lighting for realistic, mood-rich visuals. Learn prompts and use cases.",
+    "heroImage": {
+      "src": "/images/keywords/ambient-light-effects.png",
+      "alt": "Indoor scene with soft ambient light creating a warm, natural atmosphere",
+      "title": "Ambient Light Effects in Interior Scene",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Ambient Light Effects in AI-generated images create a harmonious and natural lighting environment that enhances realism and mood without overpowering contrasts. This lighting type softly bathes scenes in diffuse light, mimicking the effect of indirect sunlight or overcast skies. By integrating ambient light into prompts, users can achieve visuals that feel authentic and immersive, ideal for scenes requiring subtle illumination or a calm atmosphere. This approach minimizes harsh shadows and bright spots, yielding images with smooth gradations and an understated elegance. The result is a balanced exposure that allows textures and colors to appear true to life, enhancing the viewer’s emotional connection.",
+    "bestUseCases": [
+      "Interior architectural visualizations emphasizing realistic room ambiance",
+      "Product photography mockups requiring soft, glare-free illumination",
+      "Portrait or character renderings aiming for natural, flattering light"
+    ],
+    "relatedKeywords": [
+      "Soft Lighting",
+      "Diffuse Illumination",
+      "Natural Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "ambient-light-effects",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Soft Shadow Play",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Soft Shadow Play: Mastering Subtle Lighting Effects",
+    "metaDescription": "Explore how Soft Shadow Play enhances AI image prompts with gentle, natural shadows for refined lighting and depth. Perfect for realistic compositions.",
+    "heroImage": {
+      "src": "/images/keywords/soft-shadow-play.png",
+      "alt": "Elegant modern interior softly illuminated with gentle diffused shadows and natural light",
+      "title": "Soft Shadow Play in a Contemporary Interior Scene",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Soft Shadow Play enriches AI-generated visuals by introducing diffused shadows that simulate natural lighting conditions. Rather than sharp, stark shadows, this effect ensures that shadows appear smooth and blend seamlessly with illuminated areas. Incorporating Soft Shadow Play into prompts supports a refined, premium look with delicate depth cues. It is ideal for compositions where a gentle atmosphere and realistic lighting nuance are desired, such as portraits, product photography, or serene landscapes. Mastering this technique empowers creators to produce images with a calm, elegant mood and enhanced three-dimensionality.",
+    "bestUseCases": [
+      "Portrait photography with natural, flattering lighting",
+      "Product shots requiring realistic and appealing shadowing",
+      "Interior or architectural renderings showcasing soft ambient light"
+    ],
+    "relatedKeywords": [
+      "Subtle Diffused Lighting",
+      "Natural Ambient Light",
+      "Gentle Contrast"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-shadow-play",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Golden Ratio Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Mastering Golden Ratio Composition in AI Art",
+    "metaDescription": "Explore how Golden Ratio Composition enhances AI-generated images with balanced design and aesthetic appeal. Learn prompt formulas, use cases, and tips.",
+    "heroImage": {
+      "src": "/images/keywords/golden-ratio-composition.png",
+      "alt": "Elegant modern interior designed with golden ratio composition, featuring balanced spatial arrangement and natural lighting",
+      "title": "Modern Interior with Golden Ratio Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Golden Ratio Composition is a classic design technique adapted into AI image creation to improve the balance and flow of visual elements. Utilizing this composition brings a natural harmony to images, often perceived as more beautiful and engaging due to the ratio's deep-rooted presence in nature and classical art. When incorporated into AI prompts, it instructs the model to place key subjects and backgrounds following this mathematical layout, enhancing the viewer's focus and emotional impact. This method benefits various AI-generated artwork genres, from landscapes to product photography, by improving framing without manual adjustments.",
+    "bestUseCases": [
+      "High-end product photography showcasing balanced design and elegance",
+      "Fine art and landscape illustrations emphasizing natural harmony",
+      "Editorial and advertising images needing strong visual focus and classic composition"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Fibonacci Spiral Layout",
+      "Symmetrical Balance"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "golden-ratio-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Radial Symmetry Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Radial Symmetry Composition: Balanced Visual Harmony in AI Art",
+    "metaDescription": "Explore Radial Symmetry Composition in AI image prompts for creating balanced, circular designs ideal for editorial, advertising, and social media visuals.",
+    "heroImage": {
+      "src": "/images/keywords/radial-symmetry-composition.png",
+      "alt": "Intricate mandala pattern showcasing radial symmetry with balanced circular elements and vibrant colors",
+      "title": "Mandala with Radial Symmetry Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Radial Symmetry Composition creates visually striking images by arranging elements around a central axis, producing harmony and balance. This composition technique is especially effective in AI image generation for producing mandala-like designs, floral patterns, or architectural elements that draw the eye inward and convey stability. By integrating radial symmetry into prompts, artists can achieve images that feel cohesive and organized, enhancing aesthetic appeal. This method is widely favored in editorial imagery, decorative art, and visual branding, providing a dynamic yet orderly visual experience.",
+    "bestUseCases": [
+      "Creating mandala and abstract circular patterns for decorative art",
+      "Designing logos and icons with balanced and harmonious structures",
+      "Generating floral or botanical illustrations emphasizing balance and repetition"
+    ],
+    "relatedKeywords": [
+      "Symmetrical Composition",
+      "Circular Pattern",
+      "Mandala Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "radial-symmetry-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Triadic Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Triadic Color Scheme in AI Prompts: Definition & Uses",
+    "metaDescription": "Discover the triadic color scheme for AI image prompts, enhancing vibrant and balanced visuals. Learn formula, best uses, and common pitfalls.",
+    "heroImage": {
+      "src": "/images/keywords/triadic-color-scheme.png",
+      "alt": "Vibrant modern composition showcasing a triadic color scheme of teal, orange, and purple with clean lighting and realistic materials",
+      "title": "Triadic Color Scheme Example Illustration",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The triadic color scheme is a classic color theory concept widely used in art and design, characterized by choosing three colors equally spaced around the color wheel, such as red, yellow, and blue. This approach produces vibrant, balanced images that are visually stimulating yet cohesive. When integrated into AI image generation prompts, directing the model to use a triadic palette influences the overall color composition, encouraging distinct color blocks or gradients that harmonize well. This can be particularly useful for achieving dynamic but balanced aesthetics, making compositions stand out while maintaining visual unity. Triadic schemes often evoke a lively, engaging mood, suitable for varied creative fields including branding, illustration, and editorial design.",
+    "bestUseCases": [
+      "Creating vibrant and balanced graphic designs and illustrations",
+      "Fashion and interior design mood boards requiring harmonious color palettes",
+      "Branding visuals where three standout colors reinforce identity"
+    ],
+    "relatedKeywords": [
+      "Color Harmony",
+      "Complementary Colors",
+      "Color Palette Design"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "triadic-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Warm Neutral Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Warm Neutral Palette: Elegant Color Harmony Guide",
+    "metaDescription": "Discover the Warm Neutral Palette to create balanced, inviting images with earthy tones. Learn definitions, visuals, prompt formulas, and best uses for AI art.",
+    "heroImage": {
+      "src": "/images/keywords/warm-neutral-palette.png",
+      "alt": "Elegant interior scene featuring warm neutral palette colors and soft natural light",
+      "title": "Cozy Living Room with Warm Neutral Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Warm Neutral Palette is a popular color scheme choice in design and AI-generated imagery for its timeless and soothing qualities. This palette combines warm earthy tones with soft neutrals, producing images that feel natural and approachable. Incorporating warm neutrals can enhance mood by bringing subtle warmth and comfort to visuals without overpowering them. When added to AI prompts, it guides the model to emphasize harmonious colors that evoke calmness and sophistication. The palette works well across various genres, including lifestyle, interiors, fashion, and nature themes, helping create polished and refined visuals suitable for editorial or commercial use.",
+    "bestUseCases": [
+      "Lifestyle product photography featuring cozy, natural textures",
+      "Interior design concepts emphasizing warm, inviting room tones",
+      "Editorial visuals needing soft and refined color harmonies"
+    ],
+    "relatedKeywords": [
+      "Earth Tone Colors",
+      "Cozy Color Scheme",
+      "Minimalist Palette"
+    ],
+    "difficulty": "Beginner",
+    "slug": "warm-neutral-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Gradient Mesh Coloring",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Gradient Mesh Coloring: Mastering Rich Color Transitions",
+    "metaDescription": "Explore gradient mesh coloring techniques for AI image prompts. Learn definitions, use cases, and pro tips to create vibrant, realistic color blends.",
+    "heroImage": {
+      "src": "/images/keywords/gradient-mesh-coloring.png",
+      "alt": "Close-up of an abstract shape showing smooth gradient mesh coloring with intricate color transitions",
+      "title": "Abstract Shape with Gradient Mesh Coloring",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Gradient mesh coloring enriches AI-generated images by introducing smooth, multidirectional color blends that mimic real-life shading and lighting nuances. Unlike standard gradients, which follow linear or radial flows, gradient meshes form intricate color maps over an object's surface, allowing fine control over color shifts and highlights. When used in AI prompts, this keyword encourages the model to create images with sophisticated color depth, making visuals feel more natural and textured. This effect is especially powerful in subjects requiring realistic rendering of materials like fabric, skin, or liquid, as well as in abstract compositions demanding refined chromatic transitions.",
+    "bestUseCases": [
+      "Realistic portraiture and detailed skin tone rendering",
+      "Product visualization with nuanced material finishes",
+      "Abstract art or background designs showcasing refined color blends"
+    ],
+    "relatedKeywords": [
+      "Gradient Blending",
+      "Color Transition Mapping",
+      "Mesh Shading"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "gradient-mesh-coloring",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Matte Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Matte Surface Texture: Essential AI Image Prompt Guide",
+    "metaDescription": "Discover how to use 'Matte Surface Texture' in AI image prompts, with formulas, use cases, and tips for refined, realistic matte finishes and textures.",
+    "heroImage": {
+      "src": "/images/keywords/matte-surface-texture.png",
+      "alt": "Close-up of a ceramic object with smooth matte surface texture under soft natural lighting",
+      "title": "Matte Surface Texture Ceramic Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Matte Surface Texture' keyword in AI image generation is fundamental when aiming for realism and subtlety in material appearance. Unlike glossy or reflective surfaces, matte textures offer a restrained light interaction, producing soft shadows and even visual tones. This texture is valued for its fine grain, softness, and understated elegance, making images appear modern and refined. Including this keyword enhances the material rendition of subjects like ceramics, paper, cloth, or painted surfaces, enabling photorealistic or stylized outputs that emphasize tactile qualities without distracting reflections. It's especially effective for editorial visuals, product mockups, and interior materials where controlling reflection is crucial.",
+    "bestUseCases": [
+      "Product visualization for cosmetics and packaging with understated finishes",
+      "Editorial photography mocks emphasizing skin tones and fabric textures",
+      "Interior design renders showcasing matte wall paints and furniture finishes"
+    ],
+    "relatedKeywords": [
+      "Glossy Surface Texture",
+      "Rough Surface Texture",
+      "Soft Light Diffusion"
+    ],
+    "difficulty": "Beginner",
+    "slug": "matte-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rough Stone Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rough Stone Texture: Realistic AI Prompt Keyword Guide",
+    "metaDescription": "Explore the rough stone texture keyword for AI art. Learn definition, prompt formulas, best uses, and tips for realistic stone surface images.",
+    "heroImage": {
+      "src": "/images/keywords/rough-stone-texture.png",
+      "alt": "Close-up of rough stone texture showing grains and cracks with natural lighting",
+      "title": "Rough Stone Texture Surface Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Rough Stone Texture' keyword enhances AI-generated images by simulating the complex irregularities found in natural stone surfaces. This texture adds depth and authenticity to visuals, making materials appear tactile and rugged rather than smooth or artificial. It is especially valuable in rendering natural elements, architectural details, or backgrounds requiring realistic stone appearance. Using precise prompts with this keyword guides AI models toward creating images with detailed stone grains, cracks, and surface imperfections, aligning with authentic rough stone features found in nature or construction materials.",
+    "bestUseCases": [
+      "Architectural visualizations featuring stone walls or facades",
+      "Natural landscape scenes with rocky ground or cliffs",
+      "Product designs showing stone material details such as countertops or tiles"
+    ],
+    "relatedKeywords": [
+      "Granite Texture",
+      "Weathered Rock Surface",
+      "Natural Stone Material"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rough-stone-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Torn Paper Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Torn Paper Texture: Versatile AI Image Prompt Keyword",
+    "metaDescription": "Explore how the Torn Paper Texture keyword enhances AI art with realistic torn edges and rugged details. Perfect for textured, vintage, or craft-inspired designs.",
+    "heroImage": {
+      "src": "/images/keywords/torn-paper-texture.png",
+      "alt": "Close-up of torn paper texture with rough jagged edges and visible fibers",
+      "title": "Torn Paper Texture Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Using the Torn Paper Texture keyword in AI image prompts helps generate visuals that mimic torn paper edges and surfaces. This texture adds depth and realism by introducing naturally imperfect boundaries, often with visible fibers and roughness. It's ideal for creating collage effects, vintage posters, scrapbook aesthetics, or rustic backgrounds. Incorporating torn paper details can lend a tactile and handcrafted feel to digital images, making them stand out with organic imperfection rather than smooth, flat edges.",
+    "bestUseCases": [
+      "Vintage or retro-themed posters and flyers",
+      "Digital scrapbooking and collage artwork",
+      "Backgrounds for craft, stationery, or handmade product promos"
+    ],
+    "relatedKeywords": [
+      "Ripped Edge Texture",
+      "Paper Grain Detail",
+      "Vintage Paper Effect"
+    ],
+    "difficulty": "Beginner",
+    "slug": "torn-paper-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Soft Velvet Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Soft Velvet Texture: AI Image Prompt Keyword Guide",
+    "metaDescription": "Explore how 'Soft Velvet Texture' enhances AI image prompts with realistic, tactile surfaces. Perfect for designers and creators seeking plush visual effects.",
+    "heroImage": {
+      "src": "/images/keywords/soft-velvet-texture.png",
+      "alt": "Close-up of fabric with rich soft velvet texture showing its plush and smooth surface",
+      "title": "Soft Velvet Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Soft velvet texture adds a luxurious and tactile feel to AI-generated images by simulating the fine, dense pile typical of velvet fabric. When included in prompts, it directs AI models to replicate the characteristic softness, subtle sheen, and depth of this material, making visuals appear rich and inviting. This texture is ideal for creating realistic textiles, fashion elements, interior details, and cozy ambiance, infusing images with a quality of warmth and sophistication. The keyword helps achieve nuanced light interactions and surface definition, crucial for premium stock imagery and editorial designs requiring refined material depiction.",
+    "bestUseCases": [
+      "Luxury fashion fabric close-ups",
+      "Interior design textiles and upholstery visuals",
+      "Product shots requiring a plush fabric background"
+    ],
+    "relatedKeywords": [
+      "Lush Fabric Texture",
+      "Plush Textile Surface",
+      "Velvety Material Effect"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-velvet-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Foggy Morning Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Foggy Morning Atmosphere: Creating Moody AI Images",
+    "metaDescription": "Explore how to generate evocative foggy morning atmosphere visuals with AI. Learn definitions, prompt formulas, and best use cases for atmospheric images.",
+    "heroImage": {
+      "src": "/images/keywords/foggy-morning-atmosphere.png",
+      "alt": "Serene landscape of a forest path enveloped in soft early morning fog with diffused light",
+      "title": "Foggy Morning Forest Path Atmosphere",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Foggy mornings are a quintessential atmospheric setting that transforms landscapes and scenes with diffused light and gentle haze. Using \"Foggy Morning Atmosphere\" in AI image prompts guides the model to simulate these unique conditions, creating visuals with muted tones, gentle contrasts, and a dreamy mood. This effect works exceptionally well for nature shots, serene urban scenes, or introspective portraits. Employing this atmosphere enriches storytelling by adding depth and emotion, often implying tranquility, mystery, or a fresh start to the day. The subtlety in light and shadow allows for creative compositions where subjects emerge softly from the mist, fostering a poetic visual narrative.",
+    "bestUseCases": [
+      "Nature photography simulations showing forests or mountains enveloped in fog",
+      "Urban or street scenes early in the morning with diffused lighting",
+      "Concept artworks conveying tranquility, mystery, or nostalgia"
+    ],
+    "relatedKeywords": [
+      "Morning Mist",
+      "Misty Landscape",
+      "Soft Diffused Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "foggy-morning-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Dusk Twilight Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Dusk Twilight Mood: Capturing the Magic of Evening Light",
+    "metaDescription": "Explore the Dusk Twilight Mood keyword to create AI images with soft, warm evening light and serene atmospheres. Ideal for landscapes, portraits, and cinematic scenes.",
+    "heroImage": {
+      "src": "/images/keywords/dusk-twilight-mood.png",
+      "alt": "Scenic landscape under dusk twilight mood with warm orange and cool blue hues blending softly in the sky",
+      "title": "Dusk Twilight Mood Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Dusk Twilight Mood captures the enchanting moments shortly after sunset when natural light softens and the sky transitions into peaceful gradients of blue and orange hues. This keyword enhances AI-generated images by infusing subtle warmth and fading daylight effects, creating contemplative and gentle moods. Its application suits a wide range of subjects from landscapes drenched in pastel skies to intimate portraits highlighted by soft shadows. The mood encourages a sense of calm and introspection, often reflecting the day's end and the approach of night. Using this keyword, artists can simulate realistic twilight lighting with refined contrast and balanced saturation, delivering evocative images with a premium editorial quality.",
+    "bestUseCases": [
+      "Landscape photography showcasing dramatic twilight skies",
+      "Portraits using warm, natural evening glow for softer facial features",
+      "Cinematic scenes requiring tranquil or reflective atmospheric lighting"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Glow",
+      "Sunset Serenity",
+      "Evening Ambient Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "dusk-twilight-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Crisp Winter Air Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Crisp Winter Air Atmosphere: Bring Freshness to AI Images",
+    "metaDescription": "Explore the 'Crisp Winter Air Atmosphere' keyword to create sharp, fresh, and clear winter scenes. Perfect for premium editorial and commercial visuals.",
+    "heroImage": {
+      "src": "/images/keywords/crisp-winter-air-atmosphere.png",
+      "alt": "Snow-covered pine trees under clear blue sky with crisp winter air atmosphere and bright morning light",
+      "title": "Crisp Winter Air Atmosphere Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Crisp Winter Air Atmosphere' keyword is essential for generating AI images that reflect the invigorating qualities of cold winter days. It infuses scenes with clarity and sharpness, often emphasizing cool light and minimal haze to produce a sense of fresh, cool air typical of early winter mornings or snowy landscapes. This atmosphere enhances compositions by adding emotional depth—evoking calmness, freshness, and renewal—while maintaining visual crispness suitable for editorial, advertising, and premium stock imagery. Using this keyword helps achieve refined lighting and realistic material effects without over-saturation or artificial haze.",
+    "bestUseCases": [
+      "Winter outdoor landscapes or nature scenes with clear lighting",
+      "Seasonal advertising campaigns needing a fresh, cool ambience",
+      "Editorial hero images conveying renewal and clarity in cold weather"
+    ],
+    "relatedKeywords": [
+      "Frosty Morning Lighting",
+      "Winter Landscape Serenity",
+      "Icy Blue Color Palette"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "crisp-winter-air-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rain-Slicked Pavement Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Rain-Slicked Pavement Atmosphere: AI Image Prompt Guide",
+    "metaDescription": "Discover how the Rain-Slicked Pavement Atmosphere keyword enhances AI image prompts with realistic wet textures and moody reflections for premium visual storytelling.",
+    "heroImage": {
+      "src": "/images/keywords/rain-slicked-pavement-atmosphere.png",
+      "alt": "Urban street at night with rain-slicked pavement reflecting neon lights",
+      "title": "Rain-Slicked Pavement Atmosphere Urban Night",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Adding the Rain-Slicked Pavement Atmosphere to an AI image prompt transforms scenes into evocative environments that feel freshly rained on. This keyword evokes the sensory experience of wet streets, enhancing contrast and depth through the interplay of light and wet textures. It complements urban night scenes, moody landscapes, and cinematic shots where reflections on pavement add layers of visual interest. This atmosphere enriches storytelling by suggesting recent rain, a cooler temperature, and enhanced color vibrancy from light bouncing off wet surfaces.",
+    "bestUseCases": [
+      "Urban night photography simulations with wet streets",
+      "Cinematic scenes requiring moody, reflective ground surfaces",
+      "Advertising backgrounds emphasizing freshness or rainy day themes"
+    ],
+    "relatedKeywords": [
+      "Neon Glow Reflections",
+      "Moody Urban Nights",
+      "Wet Surfaces Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rain-slicked-pavement-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Asymmetrical Balance Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Asymmetrical Balance Composition in AI Image Prompts",
+    "metaDescription": "Learn how asymmetrical balance composition enhances AI image prompts with dynamic visual harmony and practical usage tips for compelling designs.",
+    "heroImage": {
+      "src": "/images/keywords/asymmetrical-balance-composition.png",
+      "alt": "Modern editorial style portrait with asymmetrical balance composition and natural lighting",
+      "title": "Portrait demonstrating asymmetrical balance composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Asymmetrical balance composition is a powerful design principle that infuses AI-generated images with dynamic harmony and visual interest. Unlike traditional symmetrical layouts, this technique balances elements of varying sizes, colors, or textures to create a cohesive whole without mirroring. Within AI prompting, directing the model to apply asymmetrical balance produces images that feel organic and engaging, often enhancing storytelling and emotional impact. This composition style is widely used in editorial design, contemporary art, and photography to avoid predictability and add depth. For AI creatives, mastering asymmetrical balance opens new pathways to dynamic, polished, and visually compelling imagery.",
+    "bestUseCases": [
+      "Editorial and magazine cover images needing dynamic layouts",
+      "Contemporary art posters and abstract visual designs",
+      "Product photography compositions highlighting asymmetric product features"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Dynamic Symmetry",
+      "Visual Weight Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "asymmetrical-balance-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Central Focus Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Central Focus Composition: Key to Eye-Catching AI Images",
+    "metaDescription": "Learn how Central Focus Composition directs viewer attention with balanced design. Unlock creative prompt formulas and use cases for stunning AI-generated images.",
+    "heroImage": {
+      "src": "/images/keywords/central-focus-composition.png",
+      "alt": "Symmetrical portrait with a person centered perfectly in the frame showcasing central focus composition",
+      "title": "Central Focus Composition Example Image",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Central Focus Composition is a fundamental principle in visual design that directs the viewer's eye instantly to the image's main subject by positioning it at the exact center. This method leverages symmetry and balance to create images that have a strong visual impact and clear storytelling. When used in AI image generation, it ensures the subject dominates the frame and helps achieve polished, editorial-quality images ideal for a wide range of applications. This technique is especially powerful for portraits, product showcases, and conceptual art, where clarity and directness are keys.",
+    "bestUseCases": [
+      "Product photography where the item must stand out distinctly",
+      "Portraits emphasizing the subject’s presence and emotion",
+      "Editorial layouts requiring clean and visually striking covers or featured images"
+    ],
+    "relatedKeywords": [
+      "Symmetrical Balance",
+      "Rule of Thirds",
+      "Minimalist Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "central-focus-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Juxtaposition Visual Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Juxtaposition Visual Style: Definition and Uses in AI Art",
+    "metaDescription": "Explore the Juxtaposition Visual Style in AI image prompts. Learn its traits, prompt formulas, best uses, related styles, and model tips for stunning visuals.",
+    "heroImage": {
+      "src": "/images/keywords/juxtaposition-visual-style.png",
+      "alt": "Modern editorial AI-generated image showcasing juxtaposition visual style with contrasting elements and refined lighting",
+      "title": "Juxtaposition Visual Style in AI Art",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Juxtaposition Visual Style harnesses the power of contrasting elements to create images that capture attention and provoke thought. By intentionally juxtaposing subjects that differ dramatically—whether in theme, color, or scale—artists and AI creators can evoke emotions, highlight dichotomies, or tell complex stories visually. This style is frequently used in editorial and conceptual art to challenge viewers' perceptions. When incorporated into AI prompts, it guides the model to generate images featuring deliberate contrasts, balancing harmony and tension into refined compositions with subtle depth and realistic materials. The approach results in polished, modern visuals suited for impactful presentations and storytelling.",
+    "bestUseCases": [
+      "Editorial illustrations highlighting social or cultural contrasts",
+      "Advertising visuals that rely on striking contrasts to communicate messages",
+      "Conceptual artwork for magazines, posters, and digital campaigns"
+    ],
+    "relatedKeywords": [
+      "Contrast Style",
+      "Conceptual Art",
+      "Surreal Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "juxtaposition-visual-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Grainy Film Texture Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Grainy Film Texture Style: Enhance AI Images with Vintage Film Grain",
+    "metaDescription": "Discover the Grainy Film Texture Style for AI images, adding nostalgic film grain effects that create authentic vintage aesthetics and tactile depth.",
+    "heroImage": {
+      "src": "/images/keywords/grainy-film-texture-style.png",
+      "alt": "Vintage style black-and-white portrait with grainy film texture effect",
+      "title": "Vintage Portrait with Grainy Film Texture Style",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Grainy Film Texture Style is a sought-after effect in AI-generated imagery that recreates the look and feel of old photographic film. By applying this texture, images gain a warm, nostalgic quality and a tangible depth often missing in purely digital creations. This style mimics the grain and noise characteristics inherent in film photography, providing authenticity and artistic flair. It is particularly popular in editorial photography, vintage advertising recreations, and creative portraits. Adding this effect can make modern digital images feel timeless and emotive, bridging classical photographic aesthetics with contemporary AI art generation.",
+    "bestUseCases": [
+      "Portrait photography with vintage or cinematic mood",
+      "Editorial and fashion images requiring retro aesthetic",
+      "Artistic landscapes with nostalgic atmosphere"
+    ],
+    "relatedKeywords": [
+      "Vintage Film Effect",
+      "Analog Photography Style",
+      "Retro Cinematic Look"
+    ],
+    "difficulty": "Beginner",
+    "slug": "grainy-film-texture-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Flat Graphic Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Flat Graphic Style: Clean and Modern AI Image Prompts",
+    "metaDescription": "Explore Flat Graphic Style for AI image prompts. Learn definition, best uses, common mistakes, and professional workflow in clean, modern design.",
+    "heroImage": {
+      "src": "/images/keywords/flat-graphic-style.png",
+      "alt": "Flat graphic style illustration with clean lines and solid colors",
+      "title": "Flat Graphic Style Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Flat Graphic Style is a popular design approach that emphasizes simplicity and clarity. It removes three-dimensional effects like shadows and highlights, focusing on clean, bold shapes and monochromatic or limited color palettes. This style is widely used in digital and print media for its readability and modern aesthetic. When used in AI prompt engineering, it guides the image generation toward compositions that look graphic and stylized rather than photorealistic. This makes it ideal for editorial illustrations, icons, and various branding materials where clarity and impact are essential.",
+    "bestUseCases": [
+      "Editorial illustrations and infographics",
+      "Modern branding and marketing materials",
+      "User interface elements and iconography"
+    ],
+    "relatedKeywords": [
+      "minimalist style",
+      "vector art",
+      "digital illustration"
+    ],
+    "difficulty": "Beginner",
+    "slug": "flat-graphic-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Hand Rendered Illustration Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Hand Rendered Illustration Style: Authentic Artistic AI Prompts",
+    "metaDescription": "Explore the Hand Rendered Illustration Style for AI image creation with expert tips, use cases, and professional workflows to achieve authentic, artistic renders.",
+    "heroImage": {
+      "src": "/images/keywords/hand-rendered-illustration-style.png",
+      "alt": "Hand rendered illustration style drawing showing textured pencil strokes and organic lines",
+      "title": "Hand Rendered Illustration Style Example",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Hand Rendered Illustration Style embraces the charm of traditional artistry by instructing AI models to create images that look hand-drawn. This style adds warmth, character, and individuality to digital art through visual cues typical of manual techniques, such as imperfect lines and subtle textures. It is favored in editorial illustrations, storybook art, and creative branding where a personal, artisanal touch is desired. By focusing on painterly or sketched effects, this approach contrasts stark photorealistic or overly polished AI outputs, offering expressive, tactile imagery that resonates with viewers seeking authenticity.",
+    "bestUseCases": [
+      "Editorial and magazine illustrations needing authentic artistic flair",
+      "Children's book and storybook artwork with handcrafted charm",
+      "Branding and packaging designs requiring unique, handcrafted visuals"
+    ],
+    "relatedKeywords": [
+      "Pencil Sketch Style",
+      "Watercolor Painting Style",
+      "Ink Drawing Style"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "hand-rendered-illustration-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Vector Art Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Vector Art Style: Definition, Uses, and Prompt Tips",
+    "metaDescription": "Explore the Vector Art Style in AI image generation. Learn its definition, visual traits, best use cases, prompt formula, and model-specific tips for stunning vector images.",
+    "heroImage": {
+      "src": "/images/keywords/vector-art-style.png",
+      "alt": "Illustration of a modern vector art style cityscape with clean lines and flat colors",
+      "title": "Vector Art Style Illustration of Cityscape",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Vector Art Style produces images that look like digital illustrations made with graphic design software such as Adobe Illustrator. The style focuses on clarity, precision, and scalability, capturing designs with minimal detail yet high definition. These images avoid texture noise and use solid colors, making them ideal for icons, logos, and infographics. AI models, when prompted correctly, can replicate this by generating artwork with polygonal shapes and smooth curves, delivering a modern, polished aesthetic suitable for professional and commercial uses.",
+    "bestUseCases": [
+      "Logo and brand identity design",
+      "Infographics and educational illustrations",
+      "Icon sets and UI/UX assets"
+    ],
+    "relatedKeywords": [
+      "Flat Design",
+      "Minimalist Illustration",
+      "Geometric Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "vector-art-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Crosshatching Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Crosshatching Texture: Definition & Creative AI Prompt Guide",
+    "metaDescription": "Explore crosshatching texture in AI art prompts. Learn its definition, best uses, prompt formula, and professional workflow for refined image creation.",
+    "heroImage": {
+      "src": "/images/keywords/crosshatching-texture.png",
+      "alt": "Close-up detailed black and white crosshatching texture with intersecting fine lines",
+      "title": "Crosshatching Texture Detail Illustration",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Crosshatching texture is a visual style that emulates hand-drawn shading through intersecting lines, widely used in pen and ink illustrations. When incorporated in AI art prompts, it enhances images with refined shading effects and a tactile quality reminiscent of classical sketching. This texture adds depth by simulating shadows and volume without solid fills, making visuals appear more organic and crafted. Artists and designers leverage crosshatching to achieve nuanced contrast and artistic expressiveness, especially in black-and-white or monochrome compositions. Using this keyword effectively guides AI models to produce images rich in detailed linework and traditional illustrative charm, suitable for creative projects seeking an analog texture feel within digital artworks.",
+    "bestUseCases": [
+      "Black-and-white line art or illustrations needing depth",
+      "Book illustrations or editorial imagery with classic pen-and-ink style",
+      "Graphic design projects requiring tactile, hand-crafted textures"
+    ],
+    "relatedKeywords": [
+      "engraving texture",
+      "stippling texture",
+      "line art texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "crosshatching-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Glossy Surface Finish",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Glossy Surface Finish: Enhance Your AI Image Prompts",
+    "metaDescription": "Learn how to create realistic glossy surface finishes in AI images with tips, prompt formulas, use cases, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/glossy-surface-finish.png",
+      "alt": "High-detail close-up of a product with a glossy surface finish reflecting light",
+      "title": "Glossy Surface Finish Example",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Adding a glossy surface finish to your AI image prompts transforms objects or materials by emphasizing their shiny, smooth qualities. It simulates surfaces like glass, polished metal, lacquered wood, or wet textures. This finish enhances realism by reflecting environmental light and adding depth, often making images appear more vibrant and tactile. Use it to create premium, high-end product renders, detailed textures, or eye-catching editorial visuals where surface quality matters. Glossy finishes can be combined with various materials and lighting setups, giving artists and designers flexibility to achieve the desired mood and style.",
+    "bestUseCases": [
+      "Product visualization for cosmetics, electronics, or luxury goods",
+      "Interior design renders showcasing polished furniture or fixtures",
+      "Editorial and advertising images requiring shiny, attention-grabbing textures"
+    ],
+    "relatedKeywords": [
+      "Reflective Surface",
+      "Polished Metal",
+      "Wet Look"
+    ],
+    "difficulty": "Beginner",
+    "slug": "glossy-surface-finish",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Fabric Weave Pattern",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Fabric Weave Pattern: Texture & Material AI Prompt Guide",
+    "metaDescription": "Discover how to craft stunning AI images with fabric weave patterns. Learn definition, visual traits, prompts, use cases, and pro tips for realistic textures.",
+    "heroImage": {
+      "src": "/images/keywords/fabric-weave-pattern.png",
+      "alt": "Detailed close-up of blue cotton fabric weave pattern showing thread interlacing and texture",
+      "title": "Blue Cotton Fabric Weave Pattern Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Fabric weave patterns provide rich, tactile details in AI-generated images, essential for portraying realistic textiles. Including this keyword enhances the depiction of material texture, surface intricacies, and thread arrangements, which elevate the authenticity of digital fabrics. This texture detail aids artists and designers in producing premium-quality visuals useful for fashion, interiors, and product mockups. Understanding how to prompt these patterns allows for versatility across luxury silks, rugged denims, or cozy woolens in digital art creation.",
+    "bestUseCases": [
+      "Fashion product close-ups highlighting textile details",
+      "Interior design renders focusing on upholstery and curtains",
+      "Advertising visuals requiring realistic fabric textures for authenticity"
+    ],
+    "relatedKeywords": [
+      "Textile Texture",
+      "Thread Detail",
+      "Weaving Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "fabric-weave-pattern",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Smooth Silk Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Smooth Silk Texture: Premium AI Image Prompt Keyword",
+    "metaDescription": "Explore Smooth Silk Texture in AI image prompts. Learn definition, uses, common mistakes, and professional workflows for stunning, realistic silk visuals.",
+    "heroImage": {
+      "src": "/images/keywords/smooth-silk-texture.png",
+      "alt": "Close-up of smooth silk fabric showing glossy texture and elegant folds",
+      "title": "Smooth Silk Texture Fabric Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Using 'Smooth Silk Texture' as a keyword in AI prompts enhances image realism by replicating the distinct tactile and visual properties of silk fabric. This effect includes gentle light reflections, fine surface softness, and natural fold dynamics that emphasize quality and luxury. Including this keyword guides models to generate images with refined lighting and smooth gradients, often used in fashion, interiors, or product visuals where sophisticated fabric appearance is needed. It also adds subtle depth without harsh texture or noise, ensuring elegant and premium aesthetics suitable for editorial and commercial projects.",
+    "bestUseCases": [
+      "Fashion photography mockups emphasizing luxurious garments",
+      "Product visualization for silk bedding, scarves, or upholstery",
+      "Editorial images requiring subtle fabric detail and premium material representation"
+    ],
+    "relatedKeywords": [
+      "Glossy Fabric Texture",
+      "Satin Fabric Texture",
+      "Soft Fabric Detail"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "smooth-silk-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Natural Wood Grain",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Natural Wood Grain Texture for Realistic AI Image Prompts",
+    "metaDescription": "Explore the natural wood grain texture keyword to create realistic wood patterns in AI-generated images. Perfect for texture and material designs.",
+    "heroImage": {
+      "src": "/images/keywords/natural-wood-grain.png",
+      "alt": "Close-up image showing detailed natural wood grain texture with organic lines and knots",
+      "title": "Natural Wood Grain Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Using the 'natural wood grain' keyword in AI prompts enables creators to generate images that showcase the authentic texture and appearance of wood surfaces. This keyword helps emphasize the organic features of wood, including its characteristic rings, knots, and fiber patterns. The result is a realistic depiction often required in product mockups, interior design visualizations, or nature-inspired artworks. Accurately rendering wood grain adds depth and authenticity to images, making them more visually appealing and true to life, which benefits designers and marketers who focus on natural or crafted wooden elements.",
+    "bestUseCases": [
+      "Furniture product showcases featuring detailed textures",
+      "Architectural renders focusing on wooden surfaces",
+      "Background textures for natural or rustic themed graphics"
+    ],
+    "relatedKeywords": [
+      "wood texture",
+      "oak wood",
+      "rustic wood grain"
+    ],
+    "difficulty": "Beginner",
+    "slug": "natural-wood-grain",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

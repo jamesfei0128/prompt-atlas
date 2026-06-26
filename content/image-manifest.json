@@ -971,6 +971,30 @@
       "generationPrompt": "A high-resolution close-up of a luxurious black smartphone with a glossy surface finish, studio lighting emphasizing sharp specular highlights and reflections, realistic texture, premium product photography style, 16:9, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "glossy-surface-finish"
+    },
+    {
+      "filename": "fabric-weave-pattern.png",
+      "altText": "Detailed close-up of blue cotton fabric weave pattern showing thread interlacing and texture",
+      "imageTitle": "Blue Cotton Fabric Weave Pattern Texture",
+      "generationPrompt": "16:9 close-up of blue cotton fabric weave pattern, detailed thread texture, soft natural lighting, realistic textile material, premium stock image quality, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "fabric-weave-pattern"
+    },
+    {
+      "filename": "smooth-silk-texture.png",
+      "altText": "Close-up of smooth silk fabric showing glossy texture and elegant folds",
+      "imageTitle": "Smooth Silk Texture Fabric Close-Up",
+      "generationPrompt": "16:9 close-up of luxurious smooth silk fabric, soft flowing folds, delicate light reflections, premium texture, clean background, realistic lighting, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "smooth-silk-texture"
+    },
+    {
+      "filename": "natural-wood-grain.png",
+      "altText": "Close-up image showing detailed natural wood grain texture with organic lines and knots",
+      "imageTitle": "Natural Wood Grain Texture Close-up",
+      "generationPrompt": "16:9 close-up shot of natural wood grain texture on oak surface, soft natural lighting, realistic organic wood pattern, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "natural-wood-grain"
     }
   ]
 }
