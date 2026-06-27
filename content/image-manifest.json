@@ -995,6 +995,30 @@
       "generationPrompt": "16:9 close-up shot of natural wood grain texture on oak surface, soft natural lighting, realistic organic wood pattern, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "natural-wood-grain"
+    },
+    {
+      "filename": "studio-product-photography.png",
+      "altText": "Close-up product shot of a modern electronic gadget in a studio setting with soft lighting and white background",
+      "imageTitle": "Studio Product Photography Example Image",
+      "generationPrompt": "16:9 close-up of a sleek electronic gadget on a clean white seamless background, studio product photography style, soft diffused lighting, sharp focus, realistic material textures, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "studio-product-photography"
+    },
+    {
+      "filename": "corporate-presentation-design.png",
+      "altText": "Modern corporate presentation design with clean layout and realistic material textures",
+      "imageTitle": "Corporate Presentation Design AI Concept",
+      "generationPrompt": "16:9 image of a modern corporate presentation design template on a digital screen, clean minimalistic layout, neutral corporate colors, refined soft lighting, subtle depth, realistic materials, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "corporate-presentation-design"
+    },
+    {
+      "filename": "mobile-app-hero-image.png",
+      "altText": "Modern clean mobile app hero image showcasing sleek smartphone UI with realistic lighting",
+      "imageTitle": "Mobile App Hero Image with Clean UI on Smartphone",
+      "generationPrompt": "16:9 mobile app hero image, clean user interface on modern smartphone, premium stock photo quality, refined natural lighting, realistic materials, editorial composition, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "mobile-app-hero-image"
     }
   ]
 }

@@ -3771,5 +3771,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Studio Product Photography",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Studio Product Photography: Essential AI Prompt Guide",
+    "metaDescription": "Explore how to craft AI image prompts for studio product photography with refined lighting and clean compositions, ideal for commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/studio-product-photography.png",
+      "alt": "Close-up product shot of a modern electronic gadget in a studio setting with soft lighting and white background",
+      "title": "Studio Product Photography Example Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Studio product photography is a popular keyword in AI-generated imagery for showcasing products in a professional, high-quality manner. It emphasizes clarity, precise lighting, and minimalistic composition to reproduce the polished look of commercial studio shots. Using this keyword helps to create images perfect for advertising, ecommerce, and editorial uses where the product's details and features need to stand out precisely and attractively. The style typically involves neutral backgrounds, soft shadows, and realistic textures, ensuring the product is the visual focus without any distractions or stylization that could detract from its presentation.",
+    "bestUseCases": [
+      "Ecommerce product listings requiring clean, detailed imagery",
+      "Advertising campaigns showcasing products with premium polish",
+      "Editorial content needing high-quality product visuals for magazines"
+    ],
+    "relatedKeywords": [
+      "Clean Product Shot",
+      "Editorial Product Photography",
+      "Commercial Product Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "studio-product-photography",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Corporate Presentation Design",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Corporate Presentation Design – AI Image Prompt Guide",
+    "metaDescription": "Explore Corporate Presentation Design keyword for AI image prompts. Learn definitions, formulas, best uses, creative variations, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/corporate-presentation-design.png",
+      "alt": "Modern corporate presentation design with clean layout and realistic material textures",
+      "title": "Corporate Presentation Design AI Concept",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Corporate Presentation Design as a keyword guides AI models to generate images resembling professional slideshow designs used in business meetings and corporate communications. These images highlight a balance of clarity and elegance, often featuring well-organized text placeholders, charts, and graphical elements with a polished style. Using this keyword helps produce visuals that carry a premium editorial feel without clutter or excessive artistic flair, making them fit for corporate branding, consultancy reports, and executive summaries. This facilitates designers and marketers in quickly accessing fitting inspirational content or base imagery for branding and presentation projects.",
+    "bestUseCases": [
+      "Modern company pitch deck cover images for startup fundraising",
+      "Internal corporate training slideshow templates",
+      "Annual report visuals for consulting firms"
+    ],
+    "relatedKeywords": [
+      "Business Slide Design",
+      "Modern Presentation Layout",
+      "Professional Infographic Style"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "corporate-presentation-design",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Mobile App Hero Image",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Mobile App Hero Image: Premium AI Prompt Keyword Guide",
+    "metaDescription": "Discover how to create stunning mobile app hero images using AI prompts with clean, modern style perfect for commercial use and editorial design.",
+    "heroImage": {
+      "src": "/images/keywords/mobile-app-hero-image.png",
+      "alt": "Modern clean mobile app hero image showcasing sleek smartphone UI with realistic lighting",
+      "title": "Mobile App Hero Image with Clean UI on Smartphone",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Mobile App Hero Images serve as the primary visual representation of a mobile app and are vital in marketing campaigns, app store listings, and promotional content. Using this keyword in AI image generation helps produce premium, polished visuals that highlight app interfaces or thematic concepts in a modern and engaging style. These images prioritize clarity, subtle depth effects, and premium stock photo quality to create professional assets suitable for commercial use. The style avoids text elements and branding overlays, making the images versatile for various editorial and advertising contexts.",
+    "bestUseCases": [
+      "App store feature banners and thumbnails",
+      "Website hero sections for app landing pages",
+      "Marketing materials like email headers and social posts"
+    ],
+    "relatedKeywords": [
+      "UI Moodboard",
+      "App Interface Close-up",
+      "Digital Product Showcase"
+    ],
+    "difficulty": "Beginner",
+    "slug": "mobile-app-hero-image",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
