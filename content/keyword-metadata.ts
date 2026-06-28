@@ -3861,5 +3861,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Book Cover Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Book Cover Layout: Crafting Stunning AI-Generated Covers",
+    "metaDescription": "Discover how the Book Cover Layout keyword shapes AI-generated images for premium, clean, editorial book designs. Perfect for commercial uses.",
+    "heroImage": {
+      "src": "/images/keywords/book-cover-layout.png",
+      "alt": "Clean and balanced book cover layout with realistic paper texture and subtle depth",
+      "title": "Professional Book Cover Layout Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "The Book Cover Layout keyword is essential for generating AI images tailored to book cover design, emphasizing aesthetic balance and editorial clarity. It enables creators and designers to visualize potential cover concepts that appeal to publishers and readers alike, incorporating premium visuals without text or distractions. This keyword enhances image quality by directing attention to the spatial relationship between cover elements, such as title areas, central themes, and background textures, framed with refined lighting effects. It supports the creation of versatile designs suitable for various genres and professional commercial uses, streamlining the creative process in digital publishing and marketing.",
+    "bestUseCases": [
+      "Designing conceptual book cover prototypes for fiction or non-fiction",
+      "Creating editorial hero images for publishing blogs or marketing content",
+      "Generating commercial stock images for book distribution platforms and online catalogs"
+    ],
+    "relatedKeywords": [
+      "Editorial Composition",
+      "Premium Stock Image",
+      "Clean Editorial"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "book-cover-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Backlit Silhouette Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Backlit Silhouette Lighting: Definition and Usage in AI Art",
+    "metaDescription": "Discover backlit silhouette lighting in AI image prompts, its visual impact, and how to craft stunning images with advanced techniques and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/backlit-silhouette-lighting.png",
+      "alt": "Backlit silhouette of a person against a glowing sunset background",
+      "title": "Dramatic Backlit Silhouette Lighting Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Backlit silhouette lighting creates dramatic imagery by placing the primary light source behind the subject, effectively hiding most or all of the subject's front details and emphasizing its outline. This technique adds mood and mystery to images, making objects or figures appear as bold, graphic shapes against luminous backgrounds. When incorporated into AI prompts, it guides the model toward producing compositions with strong contrast and minimal front-facing detail, perfect for evocative storytelling and artistic expression.",
+    "bestUseCases": [
+      "Creating striking portrait or figure compositions with dramatic outlines",
+      "Designing moody wildlife imagery emphasizing animal shapes",
+      "Enhancing conceptual or fantasy illustrations with mysterious silhouette effects"
+    ],
+    "relatedKeywords": [
+      "Silhouette Lighting",
+      "Rim Lighting",
+      "High Contrast Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "backlit-silhouette-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Colored Shadow Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Colored Shadow Lighting: Enhance AI Images with Vibrant Shadows",
+    "metaDescription": "Discover how Colored Shadow Lighting transforms AI image prompts by adding dynamic, vibrant shadows for premium visual impact. Learn use cases and tips.",
+    "heroImage": {
+      "src": "/images/keywords/colored-shadow-lighting.png",
+      "alt": "Portrait with colored shadow lighting in vibrant magenta and cyan hues",
+      "title": "Colored Shadow Lighting portrait effect",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Colored Shadow Lighting is a lighting technique used in AI image generation to impart shadows with distinct, rich colors instead of traditional grayscale. This effect introduces an exciting visual dynamic, creating contrasts or harmonies with the subject and background lighting. It particularly elevates images by adding depth, dimensionality, and a premium editorial feel, often used in fashion photography, product shots, or artistic portraits. The presence of colored shadows can simulate complex lighting setups or surreal atmospheres, making prompts more expressive and engaging for both creative professionals and enthusiasts.",
+    "bestUseCases": [
+      "Creative fashion photography emphasizing artistic lighting",
+      "Product visuals needing striking, dramatic effects",
+      "Surreal or conceptual portraits with enhanced mood"
+    ],
+    "relatedKeywords": [
+      "vibrant lighting",
+      "multi-colored shadows",
+      "dramatic lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "colored-shadow-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

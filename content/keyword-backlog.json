@@ -562,27 +562,27 @@
     "keyword": "Book Cover Layout",
     "slug": "book-cover-layout",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-28T11:40:53.749Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Backlit Silhouette Lighting",
     "slug": "backlit-silhouette-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-28T11:41:34.697Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Colored Shadow Lighting",
     "slug": "colored-shadow-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-06-28T11:42:08.149Z",
     "source": "openai-discovery"
   },
   {

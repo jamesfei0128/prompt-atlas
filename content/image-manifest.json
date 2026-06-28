@@ -1019,6 +1019,30 @@
       "generationPrompt": "16:9 mobile app hero image, clean user interface on modern smartphone, premium stock photo quality, refined natural lighting, realistic materials, editorial composition, no text, no logos, no watermark",
       "category": "Commercial Use",
       "keywordSlug": "mobile-app-hero-image"
+    },
+    {
+      "filename": "book-cover-layout.png",
+      "altText": "Clean and balanced book cover layout with realistic paper texture and subtle depth",
+      "imageTitle": "Professional Book Cover Layout Example",
+      "generationPrompt": "Aspect ratio 16:9, clean book cover layout, editorial composition, realistic paper textures, soft subtle lighting, premium stock-image polish, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "book-cover-layout"
+    },
+    {
+      "filename": "backlit-silhouette-lighting.png",
+      "altText": "Backlit silhouette of a person against a glowing sunset background",
+      "imageTitle": "Dramatic Backlit Silhouette Lighting Example",
+      "generationPrompt": "16:9 composition of a person standing in silhouette with strong backlighting from a vibrant sunset, soft glowing edges, high contrast between subject and bright orange sky, clean editorial style, no text, no logos, no watermark",
+      "category": "Lighting",
+      "keywordSlug": "backlit-silhouette-lighting"
+    },
+    {
+      "filename": "colored-shadow-lighting.png",
+      "altText": "Portrait with colored shadow lighting in vibrant magenta and cyan hues",
+      "imageTitle": "Colored Shadow Lighting portrait effect",
+      "generationPrompt": "16:9 portrait of a young person with colored shadow lighting in magenta and cyan, studio background, soft focus, premium editorial style, realistic skin textures, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "colored-shadow-lighting"
     }
   ]
 }
