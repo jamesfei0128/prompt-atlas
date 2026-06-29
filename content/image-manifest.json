@@ -1043,6 +1043,30 @@
       "generationPrompt": "16:9 portrait of a young person with colored shadow lighting in magenta and cyan, studio background, soft focus, premium editorial style, realistic skin textures, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "colored-shadow-lighting"
+    },
+    {
+      "filename": "specular-highlight-lighting.png",
+      "altText": "Close-up shot of a glossy red apple with bright specular highlight lighting emphasizing its smooth surface",
+      "imageTitle": "Glossy red apple with specular highlight lighting",
+      "generationPrompt": "A close-up photo-realistic image of a glossy red apple with bright specular highlight lighting reflecting on its smooth surface, subtle depth, clean composition, premium stock style, 16:9 aspect ratio, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "specular-highlight-lighting"
+    },
+    {
+      "filename": "light-painting-technique.png",
+      "altText": "Dynamic light trails created using the Light Painting Technique for AI-generated vibrant night scene",
+      "imageTitle": "AI Generated Light Painting Technique Example",
+      "generationPrompt": "16:9 vibrant urban night scene with dynamic light painting technique, colorful flowing light trails weaving through cityscape, illuminated reflections on wet surfaces, cinematic lighting, photorealistic, clean editorial style, no text or logos",
+      "category": "Lighting",
+      "keywordSlug": "light-painting-technique"
+    },
+    {
+      "filename": "high-key-background-lighting.png",
+      "altText": "Portrait of a woman with bright, soft, high key background lighting producing an airy and clean aesthetic",
+      "imageTitle": "Portrait with High Key Background Lighting",
+      "generationPrompt": "16:9 photo of a smiling woman with soft, bright, high key background lighting, minimal shadows, light airy mood, clean white backdrop, realistic skin tone, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "high-key-background-lighting"
     }
   ]
 }

@@ -3951,5 +3951,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Specular Highlight Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Specular Highlight Lighting: Enhance Realism in AI Images",
+    "metaDescription": "Discover how Specular Highlight Lighting adds realistic reflections and glossy effects in AI image generation for stunning visual depth and material authenticity.",
+    "heroImage": {
+      "src": "/images/keywords/specular-highlight-lighting.png",
+      "alt": "Close-up shot of a glossy red apple with bright specular highlight lighting emphasizing its smooth surface",
+      "title": "Glossy red apple with specular highlight lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Specular Highlight Lighting plays a crucial role in rendering images with realistic shininess and depth by simulating light's direct reflections on surfaces. When incorporated into AI image prompts, it guides the model to focus on creating small, bright spots or streaks of light that mimic how light behaves on polished objects like metals, glass, or wet surfaces. This lighting effect adds visual richness, conveys surface properties, and elevates the overall realism of computer-generated images. Designers and artists leverage specular highlights to make materials pop and to direct viewer attention to key image areas. Understanding how to prompt effectively for specular highlights is essential for producing premium-quality renders and photographic styles.",
+    "bestUseCases": [
+      "Product photography of glossy or polished items like jewelry or electronics",
+      "Environmental concept art featuring wet or reflective surfaces",
+      "Portraits or fashion imagery emphasizing skin luminance or shiny fabric textures"
+    ],
+    "relatedKeywords": [
+      "Glossy Surface Lighting",
+      "Reflections and Refractions",
+      "Studio Lighting Effects"
+    ],
+    "difficulty": "Beginner",
+    "slug": "specular-highlight-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Light Painting Technique",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Light Painting Technique in AI Image Prompts",
+    "metaDescription": "Explore the Light Painting Technique keyword, its uses in AI image prompts, and how to craft stunning lighting effects for creative image generation.",
+    "heroImage": {
+      "src": "/images/keywords/light-painting-technique.png",
+      "alt": "Dynamic light trails created using the Light Painting Technique for AI-generated vibrant night scene",
+      "title": "AI Generated Light Painting Technique Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Light Painting Technique is a powerful keyword in AI image generation that mimics the real-world photographic method of painting with light during long exposures. By incorporating this keyword into prompts, users can evoke dramatic, ethereal lighting effects that add movement and vibrancy to images. This technique is particularly effective for creating dynamic scenes featuring motion, abstract light art, or futuristic aesthetics. Using the Light Painting Technique keyword enables creators to explore an innovative lighting style that transforms ordinary settings into visually captivating compositions with glowing and fluid light elements.",
+    "bestUseCases": [
+      "Creating dynamic night photography-style visuals with light trails",
+      "Designing abstract or futuristic artworks featuring illuminated patterns",
+      "Enhancing portraits or scenes with creative lighting effects for editorial imagery"
+    ],
+    "relatedKeywords": [
+      "Light Trails",
+      "Long Exposure",
+      "Neon Glow"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "light-painting-technique",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "High Key Background Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "High Key Background Lighting: Brighten Your AI Image Prompts",
+    "metaDescription": "Discover how high key background lighting enhances AI image generation with bright, soft illumination for a clean, airy look in photos and designs.",
+    "heroImage": {
+      "src": "/images/keywords/high-key-background-lighting.png",
+      "alt": "Portrait of a woman with bright, soft, high key background lighting producing an airy and clean aesthetic",
+      "title": "Portrait with High Key Background Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "High key background lighting is a crucial concept in visual arts and photography that has been effectively incorporated into AI image generation. By emphasizing strong, uniform illumination, this lighting style reduces shadows and creates a minimal contrast environment that lends a clean, elegant aesthetic to images. When used in AI prompts, it signals the model to brighten the scene, focusing on light tones and softer shadows. This technique is widely appreciated for its ability to highlight subjects distinctly against an uncluttered, bright backdrop, making the image feel fresh and inviting. High key lighting is particularly popular in fashion, portrait, and product photography and translates well to digital art and design.",
+    "bestUseCases": [
+      "Fashion and beauty portraits highlighting skin tone and texture",
+      "E-commerce product shots demanding clear, distraction-free backgrounds",
+      "Editorial images with a fresh, modern, and uplifting mood"
+    ],
+    "relatedKeywords": [
+      "soft lighting",
+      "white background",
+      "diffused light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "high-key-background-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
