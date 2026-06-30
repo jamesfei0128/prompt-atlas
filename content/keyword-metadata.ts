@@ -4041,5 +4041,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Negative Space Usage",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Mastering Negative Space Usage in AI Image Prompts",
+    "metaDescription": "Explore how to skillfully use negative space in AI image prompts to create balanced, compelling compositions with modern, clean visuals.",
+    "heroImage": {
+      "src": "/images/keywords/negative-space-usage.png",
+      "alt": "Minimalist portrait featuring ample negative space with clean white background and soft lighting",
+      "title": "Minimalist Portrait with Negative Space",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Negative space usage in AI-generated images is a powerful compositional tool that enhances visual impact by balancing filled and unfilled areas within the frame. By thoughtfully incorporating empty spaces around key elements, artists and designers can guide the viewer's eye, create breathing room, and elevate the subject's importance. When integrated into AI prompts, specifying negative space helps produce cleaner, more refined images that align with modern editorial and premium stock aesthetics. This technique promotes minimal distractions and supports sophisticated, polished results well-suited for professional use and commercial applications.",
+    "bestUseCases": [
+      "Hero images for websites emphasizing clean modern aesthetics",
+      "Editorial photography and product shots needing clear focus",
+      "Branding visuals that rely on minimalism and spatial balance"
+    ],
+    "relatedKeywords": [
+      "Minimalism",
+      "Rule of Thirds",
+      "Symmetry"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "negative-space-usage",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Visual Hierarchy Principles",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Visual Hierarchy Principles: Mastering Composition in AI Image Prompts",
+    "metaDescription": "Learn how Visual Hierarchy Principles enhance AI image prompts for balanced, impactful compositions. Ideal for designers and digital artists.",
+    "heroImage": {
+      "src": "/images/keywords/visual-hierarchy-principles.png",
+      "alt": "Composition demonstrating visual hierarchy principles with balanced focal points and contrast",
+      "title": "Visual Hierarchy Principles in AI-Generated Image Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Visual Hierarchy Principles fundamentally shape how elements within an image are perceived and prioritized. By applying these principles in AI-generated images, prompt writers can ensure the composition directs the viewer's gaze naturally, improving clarity and emotional impact. Effective hierarchy balances size, color contrast, brightness, and positioning to create focal points and guide the eye smoothly. Understanding this concept benefits creators aiming for professional-quality compositions, enhancing storytelling through visual prioritization.",
+    "bestUseCases": [
+      "Creating editorial magazine covers with clear subject emphasis",
+      "Designing product showcase images where attention guides to the item",
+      "Developing social media visuals that highlight calls to action visually"
+    ],
+    "relatedKeywords": [
+      "Composition Balance",
+      "Focal Point Emphasis",
+      "Contrast Control"
+    ],
+    "difficulty": "Beginner",
+    "slug": "visual-hierarchy-principles",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Diagonal Movement Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Diagonal Movement Composition in AI Image Prompts",
+    "metaDescription": "Learn how to enhance your AI-generated images using diagonal movement composition for dynamic and engaging visuals in designs and photography.",
+    "heroImage": {
+      "src": "/images/keywords/diagonal-movement-composition.png",
+      "alt": "Dynamic landscape with diagonal movement composition of winding river and sunlight",
+      "title": "Landscape featuring diagonal movement composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Diagonal Movement Composition is a fundamental visual technique that introduces dynamic tension and energy into an image by positioning significant elements along diagonal lines or paths. This compositional style breaks away from static horizontal or vertical layouts, capturing the viewer’s attention and guiding their gaze fluidly from one area of the image to another. In AI image generation, specifying diagonal movement composition prompts the model to produce visuals that emphasize these diagonals, enhancing the storytelling and emotional impact of the image. This makes it particularly useful in creating images with a sense of action, depth, or perspective, often yielding more visually compelling results.",
+    "bestUseCases": [
+      "Action photography or sports illustrations requiring a sense of motion",
+      "Architectural and interior designs emphasizing depth and spatial dynamics",
+      "Advertising visuals where dynamic energy and viewer engagement are key"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Leading Lines Composition",
+      "Dynamic Symmetry Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "diagonal-movement-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

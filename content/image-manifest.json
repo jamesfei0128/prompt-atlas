@@ -1067,6 +1067,30 @@
       "generationPrompt": "16:9 photo of a smiling woman with soft, bright, high key background lighting, minimal shadows, light airy mood, clean white backdrop, realistic skin tone, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "high-key-background-lighting"
+    },
+    {
+      "filename": "negative-space-usage.png",
+      "altText": "Minimalist portrait featuring ample negative space with clean white background and soft lighting",
+      "imageTitle": "Minimalist Portrait with Negative Space",
+      "generationPrompt": "16:9 composition of a minimalist portrait with ample white negative space, soft diffused lighting, clean studio background, premium stock photo style, realistic skin tones, subtle depth, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "negative-space-usage"
+    },
+    {
+      "filename": "visual-hierarchy-principles.png",
+      "altText": "Composition demonstrating visual hierarchy principles with balanced focal points and contrast",
+      "imageTitle": "Visual Hierarchy Principles in AI-Generated Image Composition",
+      "generationPrompt": "A clean editorial composition displaying visual hierarchy principles, featuring a sharply focused main subject centered with bright lighting, contrasted against a softly blurred neutral background, subtle shadows creating depth, realistic materials, no text, no logos, no watermark, 16:9",
+      "category": "Composition",
+      "keywordSlug": "visual-hierarchy-principles"
+    },
+    {
+      "filename": "diagonal-movement-composition.png",
+      "altText": "Dynamic landscape with diagonal movement composition of winding river and sunlight",
+      "imageTitle": "Landscape featuring diagonal movement composition",
+      "generationPrompt": "16:9 dynamic outdoor landscape, winding river creating diagonal movement composition, warm sunlight casting diagonal shadows, realistic materials, refined lighting, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "diagonal-movement-composition"
     }
   ]
 }
