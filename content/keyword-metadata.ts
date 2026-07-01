@@ -4131,5 +4131,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Layered Depth Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Layered Depth Composition: Mastering Spatial Storytelling in AI Art",
+    "metaDescription": "Explore Layered Depth Composition to create images with clear foreground, midground, and background separation, enhancing realism and immersion in AI-generated art.",
+    "heroImage": {
+      "src": "/images/keywords/layered-depth-composition.png",
+      "alt": "AI-generated image showing a landscape with distinct foreground, midground, and background layers demonstrating layered depth composition",
+      "title": "Layered Depth Composition in AI-Generated Landscape",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Layered Depth Composition is a fundamental concept in visual arts that translates exceptionally well to AI-generated images. By specifying this technique in your prompt, you encourage the AI to arrange scene components in a three-dimensional manner, mimicking human depth perception. This method avoids flatness and clutter often found in AI images by distinguishing spatial planes. It improves storytelling by directing attention through prioritized layers, enhancing viewer engagement and realism. Commonly seen in landscape, architectural, and cinematic imagery, it offers clarity and focus in complex scenes. Applying layered depth results in premium visuals suitable for editorial, marketing, and creative projects requiring polished, immersive compositions.",
+    "bestUseCases": [
+      "Cinematic scenes with dramatic perspective for storytelling",
+      "Landscape photography recreations with clear visual planes",
+      "Architectural visualizations emphasizing structure depth"
+    ],
+    "relatedKeywords": [
+      "Atmospheric Perspective",
+      "Foreground Emphasis",
+      "Spatial Hierarchy"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "layered-depth-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Minimal Text Overlay Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Minimal Text Overlay Style: Clean & Modern AI Image Prompts",
+    "metaDescription": "Discover the Minimal Text Overlay Style for AI images: sleek, subtle text integration enhancing visuals with elegance and clarity. Ideal for editorial and commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/minimal-text-overlay-style.png",
+      "alt": "A sleek editorial portrait with a minimal white text overlay in modern sans-serif font",
+      "title": "Minimal Text Overlay Style Editorial Portrait",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Minimal Text Overlay Style is popular for creating refined and elegant visuals where text enhances but does not overpower the imagery. By restricting text quantity and styling it simply, this style lends itself well to modern editorial layouts, social media graphics, and promotional materials. It helps maintain the viewer’s focus on the image’s core subject while offering essential contextual or branding information. This approach is highly valued in AI-generated content for producing polished, professional-looking images that remain versatile across platforms and purposes.",
+    "bestUseCases": [
+      "Social media posts requiring clean, readable messaging layered over photos",
+      "Editorial article hero images that need subtle textual context",
+      "Branding visuals where minimal logos or taglines complement the main image"
+    ],
+    "relatedKeywords": [
+      "Clean Typography",
+      "Editorial Style",
+      "Subtle Overlay"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimal-text-overlay-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Flat Design Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Flat Design Style: Clean Minimalist Visuals for Modern AI Art",
+    "metaDescription": "Explore Flat Design Style, a clean and minimalist visual approach ideal for UI, icons, and infographics. Learn prompt formulas and best uses for AI image generation.",
+    "heroImage": {
+      "src": "/images/keywords/flat-design-style.png",
+      "alt": "Example of Flat Design Style showing simple geometric icons with bold colors and clean edges",
+      "title": "Flat Design Style Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Flat Design Style simplifies visual elements by stripping down imagery to essential shapes and colors, lending itself to clarity and legibility. It's widely used in user interfaces, infographics, and branding where straightforward communication is key. AI image models interpreting this style produce images with sharp lines, uniform hues, and a graphic feel that avoids photorealism, making it perfect for scalable and versatile visuals that maintain impact across platforms.",
+    "bestUseCases": [
+      "User interfaces and app iconography",
+      "Infographics and educational illustrations",
+      "Branding assets and marketing visuals"
+    ],
+    "relatedKeywords": [
+      "Minimalist Style",
+      "Vector Art",
+      "Line Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "flat-design-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

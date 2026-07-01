@@ -1091,6 +1091,30 @@
       "generationPrompt": "16:9 dynamic outdoor landscape, winding river creating diagonal movement composition, warm sunlight casting diagonal shadows, realistic materials, refined lighting, no text, no logos",
       "category": "Composition",
       "keywordSlug": "diagonal-movement-composition"
+    },
+    {
+      "filename": "layered-depth-composition.png",
+      "altText": "AI-generated image showing a landscape with distinct foreground, midground, and background layers demonstrating layered depth composition",
+      "imageTitle": "Layered Depth Composition in AI-Generated Landscape",
+      "generationPrompt": "16:9 photorealistic landscape with a winding river in foreground, dense forest midground, misty mountains background, layered depth composition, warm morning light, subtle atmospheric haze, high resolution, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "layered-depth-composition"
+    },
+    {
+      "filename": "minimal-text-overlay-style.png",
+      "altText": "A sleek editorial portrait with a minimal white text overlay in modern sans-serif font",
+      "imageTitle": "Minimal Text Overlay Style Editorial Portrait",
+      "generationPrompt": "A clean editorial portrait of a person with minimal white text overlay in modern sans-serif font on bottom right, subtle natural lighting, premium stock image quality, realistic materials, 16:9 ratio, no logos, no watermarks",
+      "category": "Style",
+      "keywordSlug": "minimal-text-overlay-style"
+    },
+    {
+      "filename": "flat-design-style.png",
+      "altText": "Example of Flat Design Style showing simple geometric icons with bold colors and clean edges",
+      "imageTitle": "Flat Design Style Illustration",
+      "generationPrompt": "16:9 illustration of a minimalist cityscape in flat design style, bold solid colors, simple geometric shapes, clean edges, no gradients, no text, no logos, subtle depth",
+      "category": "Style",
+      "keywordSlug": "flat-design-style"
     }
   ]
 }
