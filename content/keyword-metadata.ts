@@ -4221,5 +4221,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Monoline Icon Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Monoline Icon Style: Clean and Modern Line Art Design",
+    "metaDescription": "Discover Monoline Icon Style, a minimalist line art technique perfect for modern icons and branding. Learn usage tips, prompt formulas, and professional workflow.",
+    "heroImage": {
+      "src": "/images/keywords/monoline-icon-style.png",
+      "alt": "Example of monoline icon style showing simple, uniform single-weight line art icons on a white background",
+      "title": "Monoline Icon Style Line Art Icons",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Monoline Icon Style is a popular visual approach that uses single-weight lines to construct simple and elegant illustrations or icons. This style avoids line thickness variation, gradients, or complex textures, resulting in a modern, crisp aesthetic. It’s widely used in digital product design, branding, and editorial contexts, especially to communicate ideas efficiently with minimal visual clutter. When incorporated into AI image prompts, this keyword guides the model to produce artwork that resembles vector line icons often used in user interfaces, signage, and infographics. The style’s consistency allows easy scalability and integration across different mediums.",
+    "bestUseCases": [
+      "User interface icon sets for web and mobile apps",
+      "Minimalist branding and logo design elements",
+      "Editorial illustrations and infographics needing clear symbolism"
+    ],
+    "relatedKeywords": [
+      "line art",
+      "minimalist icon style",
+      "flat design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "monoline-icon-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Hand Lettered Typography Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Hand Lettered Typography Style: Elegant Custom Lettering for AI Art",
+    "metaDescription": "Explore the hand lettered typography style in AI prompts to create unique, artistic lettering effects perfect for branding, packaging, and editorial design.",
+    "heroImage": {
+      "src": "/images/keywords/hand-lettered-typography-style.png",
+      "alt": "Artistic hand lettered typography style with elegant brush strokes and decorative flourishes on a textured background",
+      "title": "Hand Lettered Typography Style Artwork",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Hand lettered typography style is a popular artistic approach that emphasizes the uniqueness and handcrafted appearance of lettering. When incorporated into AI image generation prompts, it encourages the AI to produce text or lettering that looks as if it were skillfully drawn by hand using pens, brushes, or markers. This style gives the resulting images a personal and creative touch that standard digital typography often lacks. Designers use hand lettering to evoke authenticity, warmth, and an artisanal feel, making it ideal for branding, product labels, and editorial compositions. By specifying hand lettered typography in prompts, you bring character and charm to your AI-created visuals, ensuring they stand out with a custom-crafted vibe.",
+    "bestUseCases": [
+      "Brand logos and identity designs needing a warm, handcrafted look",
+      "Packaging and product labels where artisanal appeal is desired",
+      "Editorial and social media graphics requiring unique, eye-catching typography"
+    ],
+    "relatedKeywords": [
+      "Calligraphy Style",
+      "Script Typography",
+      "Brush Stroke Letters"
+    ],
+    "difficulty": "Beginner",
+    "slug": "hand-lettered-typography-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Geometric Pattern Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Geometric Pattern Style: Guide to AI Image Prompt Keyword",
+    "metaDescription": "Explore the Geometric Pattern Style keyword for AI image prompts. Learn definitions, formulas, use cases, and pro tips for clean, modern designs.",
+    "heroImage": {
+      "src": "/images/keywords/geometric-pattern-style.png",
+      "alt": "Abstract seamless geometric pattern of repeating hexagons and triangles in pastel colors with sharp edges and soft lighting",
+      "title": "Geometric Pattern Style Abstract Design",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Geometric Pattern Style in AI image generation harnesses the power of simple yet striking shapes to create visually compelling designs. This style is characterized by the careful arrangement of shapes such as triangles, squares, circles, and hexagons to form patterns that emphasize symmetry, repetition, and rhythm. It is widely used in contemporary art, branding, textile design, and digital interfaces to communicate clarity and modernity. When incorporated in AI prompts, it guides the model toward generating imagery that feels ordered, minimalistic, and balanced, making it ideal for editorial visuals and product backgrounds where a subtle but engaging backdrop is needed.",
+    "bestUseCases": [
+      "Minimalistic branding and logo backgrounds",
+      "Textile and wallpaper design mockups",
+      "Editorial layouts and social media backgrounds"
+    ],
+    "relatedKeywords": [
+      "Minimalist Style",
+      "Abstract Pattern Style",
+      "Tessellation Pattern"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "geometric-pattern-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

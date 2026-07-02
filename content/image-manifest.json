@@ -1115,6 +1115,30 @@
       "generationPrompt": "16:9 illustration of a minimalist cityscape in flat design style, bold solid colors, simple geometric shapes, clean edges, no gradients, no text, no logos, subtle depth",
       "category": "Style",
       "keywordSlug": "flat-design-style"
+    },
+    {
+      "filename": "monoline-icon-style.png",
+      "altText": "Example of monoline icon style showing simple, uniform single-weight line art icons on a white background",
+      "imageTitle": "Monoline Icon Style Line Art Icons",
+      "generationPrompt": "16:9 composition of monoline icon style icons, consistent single-weight lines, minimalist geometric shapes, clean vector line art on white background, no text, no logos, no watermark",
+      "category": "Style",
+      "keywordSlug": "monoline-icon-style"
+    },
+    {
+      "filename": "hand-lettered-typography-style.png",
+      "altText": "Artistic hand lettered typography style with elegant brush strokes and decorative flourishes on a textured background",
+      "imageTitle": "Hand Lettered Typography Style Artwork",
+      "generationPrompt": "A high resolution image of hand lettered typography style with elegant brush strokes and decorative flourishes on a subtle textured background, realistic materials, refined lighting, editorial composition, no text, no logos, 16:9",
+      "category": "Style",
+      "keywordSlug": "hand-lettered-typography-style"
+    },
+    {
+      "filename": "geometric-pattern-style.png",
+      "altText": "Abstract seamless geometric pattern of repeating hexagons and triangles in pastel colors with sharp edges and soft lighting",
+      "imageTitle": "Geometric Pattern Style Abstract Design",
+      "generationPrompt": "16:9 seamless pattern of hexagons and triangles in pastel colors, clean crisp lines, symmetrical tessellation, soft natural lighting, premium stock image style, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "geometric-pattern-style"
     }
   ]
 }
