@@ -1139,6 +1139,30 @@
       "generationPrompt": "16:9 seamless pattern of hexagons and triangles in pastel colors, clean crisp lines, symmetrical tessellation, soft natural lighting, premium stock image style, no text, no logos",
       "category": "Style",
       "keywordSlug": "geometric-pattern-style"
+    },
+    {
+      "filename": "monotone-blue-palette.png",
+      "altText": "AI generated serene landscape using monotone blue palette with soft lighting",
+      "imageTitle": "Serene Landscape in Monotone Blue Palette",
+      "generationPrompt": "16:9 serene natural landscape with mountains and lake, monotone blue palette, soft diffuse lighting, photorealistic, modern minimalism, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "monotone-blue-palette"
+    },
+    {
+      "filename": "earthy-warm-tones.png",
+      "altText": "Cozy interior scene bathed in earthy warm tones with terracotta walls and warm wooden furniture",
+      "imageTitle": "Warm Earthy Tones Interior Design",
+      "generationPrompt": "16:9 image of a cozy living room bathed in earthy warm tones with terracotta walls, wooden furniture, soft natural lighting, photorealistic, clean editorial composition, realistic materials, subtle depth, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "earthy-warm-tones"
+    },
+    {
+      "filename": "rough-canvas-texture.png",
+      "altText": "Close-up view of rough canvas texture showing a coarse woven fabric surface with natural off-white fibers and subtle light shadows",
+      "imageTitle": "Rough Canvas Texture Detail",
+      "generationPrompt": "16:9 close-up shot of rough canvas texture with visible coarse weave, natural fibers, subtle shadows, soft diffused lighting, photorealistic, high detail, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-canvas-texture"
     }
   ]
 }

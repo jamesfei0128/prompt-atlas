@@ -4311,5 +4311,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Monotone Blue Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Monotone Blue Palette: Elegant AI Image Coloring Technique",
+    "metaDescription": "Discover the Monotone Blue Palette for AI images. Learn how to create serene, cohesive blue-toned visuals with clear prompt formulas and use cases.",
+    "heroImage": {
+      "src": "/images/keywords/monotone-blue-palette.png",
+      "alt": "AI generated serene landscape using monotone blue palette with soft lighting",
+      "title": "Serene Landscape in Monotone Blue Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Monotone Blue Palette is a specialized coloring style used in AI-generated imagery that embraces blue tones exclusively, from pale icy blues to deep navy. This approach simplifies color complexity while adding a sophisticated, calming atmosphere to an image. It is ideal for creative projects necessitating mood-driven visuals or stylistic consistency. Incorporating this palette into prompts helps artists, designers, and marketers create images that evoke tranquility, stability, and trustworthiness. The technique fits a variety of themes including landscapes, portraits, and abstract compositions, providing a modern, refined aesthetic that stands out due to its monochromatic elegance.",
+    "bestUseCases": [
+      "Branding visuals emphasizing trust and professionalism",
+      "Editorial images featuring calm, reflective scenes",
+      "Abstract or minimalist art focusing on tonal harmony"
+    ],
+    "relatedKeywords": [
+      "Monochrome Palette",
+      "Blue Tone Mood",
+      "Minimalist Color Scheme"
+    ],
+    "difficulty": "Beginner",
+    "slug": "monotone-blue-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Earthy Warm Tones",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Earthy Warm Tones: Enhance Your AI Image Prompts",
+    "metaDescription": "Discover how to use Earthy Warm Tones in AI prompts to create warm, natural, and inviting imagery with subtle depth and realistic textures.",
+    "heroImage": {
+      "src": "/images/keywords/earthy-warm-tones.png",
+      "alt": "Cozy interior scene bathed in earthy warm tones with terracotta walls and warm wooden furniture",
+      "title": "Warm Earthy Tones Interior Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using Earthy Warm Tones in AI image generation brings a cozy and organic aesthetic to your visuals. This color keyword shifts the palette toward natural and muted warm colors that recall the earth's rich textures, often creating a calm and inviting mood. Ideal for images that require realistic materials and depth, these tones lend a premium, editorial polish without harsh contrasts. When combined with refined lighting and subtle depth, images gain a tactile, authentic feel, suitable for editorial hero imagery or sophisticated product presentations.",
+    "bestUseCases": [
+      "Lifestyle product photography featuring natural or handmade goods",
+      "Editorial fashion spreads emphasizing autumn or rustic themes",
+      "Interior design visuals focused on cozy, organic, or sustainable materials"
+    ],
+    "relatedKeywords": [
+      "Warm Neutrals",
+      "Rustic Aesthetic",
+      "Natural Textures"
+    ],
+    "difficulty": "Beginner",
+    "slug": "earthy-warm-tones",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rough Canvas Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rough Canvas Texture – Premium AI Image Prompt Keyword",
+    "metaDescription": "Explore the Rough Canvas Texture keyword for AI image generation. Learn definition, best use cases, prompt formulas, and professional workflows to create realistic textured images.",
+    "heroImage": {
+      "src": "/images/keywords/rough-canvas-texture.png",
+      "alt": "Close-up view of rough canvas texture showing a coarse woven fabric surface with natural off-white fibers and subtle light shadows",
+      "title": "Rough Canvas Texture Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Rough Canvas Texture describes the distinct appearance of coarse woven fabric, typically made from natural fibers like cotton or linen. This texture is characterized by a pronounced weave pattern and a tactile, uneven surface. When used in AI image prompts, it enhances realism by simulating the physical characteristics of canvas materials often seen in paintings, upholstery, or artistic backgrounds. It helps bring a natural, handcrafted feel to digital images, enriching their visual depth and authenticity. This texture suits creative projects aiming to blend digital art with organic elements, serving as a compelling backdrop or detail layer.",
+    "bestUseCases": [
+      "Creating realistic art canvases for digital paintings or illustrations",
+      "Designing artistic backgrounds with tactile fabric surfaces",
+      "Enhancing product mockups with textured fabric materials"
+    ],
+    "relatedKeywords": [
+      "Coarse Fabric Texture",
+      "Canvas Weave Detail",
+      "Textured Backgrounds"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rough-canvas-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
