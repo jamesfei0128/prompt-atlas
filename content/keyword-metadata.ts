@@ -4401,5 +4401,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Chalkboard Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Chalkboard Surface Texture: Essential AI Image Prompt Guide",
+    "metaDescription": "Explore how to create realistic chalkboard surface textures in AI image prompts with definitions, formulas, best uses, tips, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/chalkboard-surface-texture.png",
+      "alt": "Close-up of chalkboard surface texture showing matte dark background with chalk smudges and subtle scratches",
+      "title": "Chalkboard Surface Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Chalkboard Surface Texture captures the unique look and feel of traditional blackboards commonly used in classrooms. It combines dark, matte backgrounds with subtle surface grains and visible chalk-related markings like smudges and partial rubbings. This texture adds tactility and context to illustrations, educational materials, design projects, or product simulations involving chalkboards. When integrated into AI image prompts, it guides the AI to emphasize realistic surface details and material qualities, avoiding overly smooth or flat rendering. This results in images that evoke familiarity and authenticity, making them ideal for conveying variety in textural compositions or thematic classroom scenarios.",
+    "bestUseCases": [
+      "Educational illustrations featuring classroom settings and blackboards.",
+      "Design mockups requiring realistic textured backgrounds with chalk effects.",
+      "Product visuals simulating chalkboard packaging or promotional materials."
+    ],
+    "relatedKeywords": [
+      "Blackboard Chalk Writing",
+      "Matte Surface Texture",
+      "Classroom Interior Details"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "chalkboard-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Cracked Paint Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Cracked Paint Texture: Essential AI Prompt Keyword Guide",
+    "metaDescription": "Master the cracked paint texture keyword for AI image generation. Learn definitions, prompt formulas, use cases, industry applications, and avoid common mistakes.",
+    "heroImage": {
+      "src": "/images/keywords/cracked-paint-texture.png",
+      "alt": "Close-up of cracked paint texture on weathered wooden surface under natural light",
+      "title": "Cracked Paint Texture on Aged Wood",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The cracked paint texture keyword enhances AI-generated images by adding a distinctive aged or weathered surface effect commonly seen on old walls, furniture, or vehicles. This texture introduces visual complexity and an organic feel, making scenes appear more realistic or artistically rich. By emphasizing imperfections, it invokes a tactile dimension that conveys history, decay, or rustic charm. Using this keyword allows creators to explore themes of time passage or urban aesthetics in digital art, photography-inspired visuals, or realistic product renders.",
+    "bestUseCases": [
+      "Creating aged or vintage furniture visuals for interior design concepts",
+      "Producing urban decay scenes featuring weathered walls and street art",
+      "Enhancing product mockups with realistic distressed paint finishes"
+    ],
+    "relatedKeywords": [
+      "peeling paint texture",
+      "weathered surface texture",
+      "distressed paint detail"
+    ],
+    "difficulty": "Beginner",
+    "slug": "cracked-paint-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Concrete Wall Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Concrete Wall Texture: Realistic AI Image Prompt Guide",
+    "metaDescription": "Explore how to create realistic concrete wall textures with AI prompts. Learn key traits, prompt formulas, and top use cases for textured images.",
+    "heroImage": {
+      "src": "/images/keywords/concrete-wall-texture.png",
+      "alt": "Close-up detailed texture of a rough gray concrete wall with subtle cracks and stains",
+      "title": "Realistic Concrete Wall Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Concrete wall textures are a popular element in AI-generated imagery, valued for their ability to add a rugged, industrial feel to backgrounds and surfaces. This texture closely mimics the real-world appearance of concrete, featuring a mix of gray hues, roughness, and often subtle imperfections like streaks or cracks. When used in AI prompts, it directs image generators to emphasize materiality and structural realism, making it indispensable for architectural visualizations, graphic designs, and product backgrounds that require a tactile, authentic look. This keyword enhances the visual depth and lends an understated rawness to compositions, without drawing focus away from the main subject.",
+    "bestUseCases": [
+      "Architectural visualizations needing realistic wall surfaces",
+      "Industrial-style product photography backgrounds",
+      "Urban-themed graphic designs requiring textural depth"
+    ],
+    "relatedKeywords": [
+      "rusted metal texture",
+      "exposed brick wall",
+      "grunge surface texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "concrete-wall-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

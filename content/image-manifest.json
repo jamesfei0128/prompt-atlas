@@ -1163,6 +1163,30 @@
       "generationPrompt": "16:9 close-up shot of rough canvas texture with visible coarse weave, natural fibers, subtle shadows, soft diffused lighting, photorealistic, high detail, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "rough-canvas-texture"
+    },
+    {
+      "filename": "chalkboard-surface-texture.png",
+      "altText": "Close-up of chalkboard surface texture showing matte dark background with chalk smudges and subtle scratches",
+      "imageTitle": "Chalkboard Surface Texture Close-Up",
+      "generationPrompt": "A close-up photo-realistic image of a chalkboard surface texture with matte black finish, subtle chalk smudges, light scratch marks, soft diffuse natural lighting, high resolution, no text, no logos, no watermark, realistic materials, 16:9 aspect ratio",
+      "category": "Texture & Material",
+      "keywordSlug": "chalkboard-surface-texture"
+    },
+    {
+      "filename": "cracked-paint-texture.png",
+      "altText": "Close-up of cracked paint texture on weathered wooden surface under natural light",
+      "imageTitle": "Cracked Paint Texture on Aged Wood",
+      "generationPrompt": "16:9 close-up photo of cracked paint texture on old wooden surface, detailed fissures and peeling, soft natural lighting, photorealistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "cracked-paint-texture"
+    },
+    {
+      "filename": "concrete-wall-texture.png",
+      "altText": "Close-up detailed texture of a rough gray concrete wall with subtle cracks and stains",
+      "imageTitle": "Realistic Concrete Wall Texture Close-Up",
+      "generationPrompt": "16:9 aspect ratio photo of a detailed concrete wall texture with rough surface, subtle cracks, natural gray tones, soft side lighting, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "concrete-wall-texture"
     }
   ]
 }
