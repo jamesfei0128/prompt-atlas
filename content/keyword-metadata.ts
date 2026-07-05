@@ -4491,5 +4491,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Soft Matte Paper Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Soft Matte Paper Texture: Premium AI Image Prompt Keyword",
+    "metaDescription": "Explore the Soft Matte Paper Texture keyword to create realistic, refined textures in AI images and elevate your designs with subtle depth and smooth surfaces.",
+    "heroImage": {
+      "src": "/images/keywords/soft-matte-paper-texture.png",
+      "alt": "Close-up of soft matte paper texture showing fine smooth surface and subtle grain under natural light",
+      "title": "Soft Matte Paper Texture Detail in Editorial Style",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Soft Matte Paper Texture is a specialized prompt keyword that helps artists and designers generate images featuring realistic, tactile paper surfaces with a matte finish. This texture is characterized by subdued reflections and a soft, natural look that avoids glare or shine. Using this keyword in AI prompts supports creations such as book covers, packaging mockups, stationery backgrounds, and fine art prints where the paper quality matters. The resulting images carry a premium aesthetic, imitating high-quality paper stock that is often sought after in print-design visualizations and marketing materials. Overall, employing Soft Matte Paper Texture enriches an AI image with subtle tactile cues contributing to a refined, understated finish.",
+    "bestUseCases": [
+      "Designing product mockups with natural paper finishes like invitations and greeting cards",
+      "Creating editorial and book cover images that highlight paper quality",
+      "Generating backgrounds or overlays for lifestyle and stationery branding visuals"
+    ],
+    "relatedKeywords": [
+      "matte finish",
+      "paper grain texture",
+      "premium paper surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-matte-paper-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Studio Lighting Setup Guide",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Studio Lighting Setup Guide for AI Image Prompts",
+    "metaDescription": "Discover how to use 'Studio Lighting Setup Guide' in AI image prompts to create professional, realistic lighting effects for stunning editorial and commercial images.",
+    "heroImage": {
+      "src": "/images/keywords/studio-lighting-setup-guide.png",
+      "alt": "Professional studio lighting setup illuminating a model with soft shadows and even highlights",
+      "title": "Studio Lighting Setup Guide Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "In AI image generation, incorporating 'Studio Lighting Setup Guide' helps emulate the controlled lighting environment typical of photography studios. This setup ensures subjects are well-defined with nuanced shadows and highlights, enhancing realism and artistic quality. Professional studio lighting involves key light, fill light, and backlight positioned strategically to model the subject beautifully. When used as a prompt keyword, it communicates to the AI how to place such lighting, resulting in images that appear polished and editorial-grade. This is essential for generating product shots, portraits, or commercial visuals that require a premium look.",
+    "bestUseCases": [
+      "Professional portrait photography and headshots",
+      "E-commerce product photography with clear details",
+      "Editorial fashion shoots requiring polished lighting"
+    ],
+    "relatedKeywords": [
+      "Professional Lighting Techniques",
+      "Softbox Lighting Effects",
+      "Portrait Lighting Setup"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "studio-lighting-setup-guide",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Natural Window Light Usage",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Natural Window Light Usage: Essential Guide for AI Image Prompts",
+    "metaDescription": "Discover how to use Natural Window Light in AI image prompts to create soft, realistic lighting with depth. Learn best practices, visuals, and tips here.",
+    "heroImage": {
+      "src": "/images/keywords/natural-window-light-usage.png",
+      "alt": "Cozy interior softly illuminated by warm natural window light highlighting textures and shadows",
+      "title": "Interior Scene with Natural Window Light",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Utilizing Natural Window Light in AI-generated images enhances realism by replicating the nuanced qualities of daylight entering an indoor space. This approach creates subtle contrasts between illuminated areas and shadows, adding dimensionality and mood. The lighting often produces warm tones and soft shadows that reveal textures and form delicately, making portraits, still lifes, and interiors appear inviting and authentic. Prompting with this keyword guides AI models to focus on lighting interplay shaped by window light, fostering images that feel naturally composed and comfortable.",
+    "bestUseCases": [
+      "Portraits with soft, flattering indoor lighting",
+      "Still life compositions emphasizing texture and warmth",
+      "Architectural and interior photography showcasing natural ambiance"
+    ],
+    "relatedKeywords": [
+      "Soft Natural Light",
+      "Interior Photography Lighting",
+      "Window Shadow Patterns"
+    ],
+    "difficulty": "Beginner",
+    "slug": "natural-window-light-usage",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

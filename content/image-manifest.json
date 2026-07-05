@@ -1187,6 +1187,30 @@
       "generationPrompt": "16:9 aspect ratio photo of a detailed concrete wall texture with rough surface, subtle cracks, natural gray tones, soft side lighting, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "concrete-wall-texture"
+    },
+    {
+      "filename": "soft-matte-paper-texture.png",
+      "altText": "Close-up of soft matte paper texture showing fine smooth surface and subtle grain under natural light",
+      "imageTitle": "Soft Matte Paper Texture Detail in Editorial Style",
+      "generationPrompt": "16:9 close-up of soft matte paper texture background with subtle fine grain, warm diffused sunlight, clean editorial style, realistic materials",
+      "category": "Texture & Material",
+      "keywordSlug": "soft-matte-paper-texture"
+    },
+    {
+      "filename": "studio-lighting-setup-guide.png",
+      "altText": "Professional studio lighting setup illuminating a model with soft shadows and even highlights",
+      "imageTitle": "Studio Lighting Setup Guide Example",
+      "generationPrompt": "16:9 photo of a model in a modern studio with softbox lighting, key light from left, fill light from right, subtle backlight, soft shadows, clean background, realistic materials, editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "studio-lighting-setup-guide"
+    },
+    {
+      "filename": "natural-window-light-usage.png",
+      "altText": "Cozy interior softly illuminated by warm natural window light highlighting textures and shadows",
+      "imageTitle": "Interior Scene with Natural Window Light",
+      "generationPrompt": "16:9 cozy indoor scene with soft warm natural window light streaming through large window, subtle shadows cast by window frame, realistic materials and textures, clean modern interior design, premium editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "natural-window-light-usage"
     }
   ]
 }
