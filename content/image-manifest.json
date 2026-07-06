@@ -1211,6 +1211,30 @@
       "generationPrompt": "16:9 cozy indoor scene with soft warm natural window light streaming through large window, subtle shadows cast by window frame, realistic materials and textures, clean modern interior design, premium editorial style, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "natural-window-light-usage"
+    },
+    {
+      "filename": "artificial-light-balancing.png",
+      "altText": "Photorealistic interior scene showing balanced artificial lighting with soft shadows and warm/cool light interplay",
+      "imageTitle": "Artificial Light Balancing Example",
+      "generationPrompt": "Interior living room scene with balanced artificial lighting, warm lamps and cool LED light sources, soft realistic shadows, premium stock-image quality, clean editorial composition, no text or logos, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "artificial-light-balancing"
+    },
+    {
+      "filename": "overhead-lighting-technique.png",
+      "altText": "Photo-realistic interior scene with overhead lighting casting natural shadows",
+      "imageTitle": "Interior Scene Featuring Overhead Lighting Technique",
+      "generationPrompt": "A modern minimalist living room illuminated by overhead lighting, soft shadows cast directly below furniture and objects, clean editorial composition, photorealistic materials, no text, no logos, no watermark, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "overhead-lighting-technique"
+    },
+    {
+      "filename": "flickering-light-effect.png",
+      "altText": "Interior scene illuminated by a warm flickering candlelight creating soft dynamic shadows",
+      "imageTitle": "Flickering Light Effect in Atmospheric Interior Setting",
+      "generationPrompt": "16:9 composition of a cozy room lit by flickering candlelight, warm tones casting soft shadows, realistic materials, refined lighting, no text, no logos, no watermark, clean editorial style",
+      "category": "Lighting",
+      "keywordSlug": "flickering-light-effect"
     }
   ]
 }

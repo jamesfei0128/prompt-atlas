@@ -778,27 +778,27 @@
     "keyword": "Artificial Light Balancing",
     "slug": "artificial-light-balancing",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.537Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-06T13:38:18.418Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Overhead Lighting Technique",
     "slug": "overhead-lighting-technique",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.538Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-06T13:39:33.157Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Flickering Light Effect",
     "slug": "flickering-light-effect",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.538Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-06T13:40:49.872Z",
     "source": "openai-discovery"
   },
   {
@@ -1653,6 +1653,321 @@
     "category": "Atmosphere",
     "status": "pending",
     "createdAt": "2026-06-22T15:12:33.625Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Split Lighting Portrait",
+    "slug": "split-lighting-portrait",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Ambient Glow",
+    "slug": "soft-ambient-glow",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Volumetric Light Beams",
+    "slug": "volumetric-light-beams",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rotational Symmetry Layout",
+    "slug": "rotational-symmetry-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Visual Weight Balance",
+    "slug": "visual-weight-balance",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Color Saturation Control",
+    "slug": "color-saturation-control",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vibrant Contrast Hues",
+    "slug": "vibrant-contrast-hues",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Granular Surface Texture",
+    "slug": "granular-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Woven Fabric Detail",
+    "slug": "woven-fabric-detail",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Patina Metal Finish",
+    "slug": "patina-metal-finish",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Isometric Graphic Style",
+    "slug": "isometric-graphic-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flat Minimalist Design",
+    "slug": "flat-minimalist-design",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.107Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Calm Serene Mood",
+    "slug": "calm-serene-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "E-Commerce Banner Layout",
+    "slug": "e-commerce-banner-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Stock Photo Editorial Use",
+    "slug": "stock-photo-editorial-use",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Reflected Light Technique",
+    "slug": "reflected-light-technique",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Subtle Rim Lighting",
+    "slug": "subtle-rim-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Directional Top Lighting",
+    "slug": "directional-top-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Symmetry And Balance",
+    "slug": "symmetry-and-balance",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Monochrome Warm Palette",
+    "slug": "monochrome-warm-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Duotone Contrast Palette",
+    "slug": "duotone-contrast-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Earthy Palette",
+    "slug": "natural-earthy-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Smooth Marble Texture",
+    "slug": "smooth-marble-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Distressed Paper Texture",
+    "slug": "distressed-paper-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Hand Drawn Sketch Style",
+    "slug": "hand-drawn-sketch-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vintage Linework Style",
+    "slug": "vintage-linework-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Tranquil Misty Atmosphere",
+    "slug": "tranquil-misty-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Bright Cheerful Mood",
+    "slug": "bright-cheerful-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Social Media Profile Photo",
+    "slug": "social-media-profile-photo",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Print Editorial Layout",
+    "slug": "print-editorial-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Dynamic Range Lighting",
+    "slug": "high-dynamic-range-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Diagonal Flow Composition",
+    "slug": "diagonal-flow-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Textured Background Layer",
+    "slug": "textured-background-layer",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Saturated Color Splash",
+    "slug": "saturated-color-splash",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Plasticized Surface Texture",
+    "slug": "plasticized-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-06T13:37:18.108Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }

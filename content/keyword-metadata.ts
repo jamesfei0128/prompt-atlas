@@ -4581,5 +4581,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Artificial Light Balancing",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Artificial Light Balancing: Mastering AI Image Lighting",
+    "metaDescription": "Explore Artificial Light Balancing in AI prompts to create perfectly lit images with natural harmony between light sources. Learn formulas and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/artificial-light-balancing.png",
+      "alt": "Photorealistic interior scene showing balanced artificial lighting with soft shadows and warm/cool light interplay",
+      "title": "Artificial Light Balancing Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Artificial Light Balancing is a key technique for AI-generated images that simulates the harmonious interplay of multiple artificial lighting sources. Proper balancing ensures the scene does not appear overly exposed, flat, or unevenly lit. This approach helps AI models render depth, texture, and mood accurately, making visuals suitable for professional uses like advertising, interior design, and editorial photography. By emphasizing control over light color temperature, intensity, and angle, this keyword enhances realism and artistic quality in artificial light environments.",
+    "bestUseCases": [
+      "Interior product photography with multiple light fixtures",
+      "Portraits using studio flash combined with practical lamps",
+      "Advertising visuals requiring controlled, professional lighting"
+    ],
+    "relatedKeywords": [
+      "Dynamic Lighting",
+      "Soft Shadows",
+      "Color Temperature Control"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "artificial-light-balancing",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Overhead Lighting Technique",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Overhead Lighting Technique: Mastering Top-Down Illumination",
+    "metaDescription": "Explore the overhead lighting technique in AI image prompts to create realistic, premium visuals with top-down light sources. Ideal for editorial and commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/overhead-lighting-technique.png",
+      "alt": "Photo-realistic interior scene with overhead lighting casting natural shadows",
+      "title": "Interior Scene Featuring Overhead Lighting Technique",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Using the overhead lighting technique in AI image generation adds a realistic and professional quality to images by simulating light coming from above the subject. This lighting style emphasizes the contours and shapes by casting natural shadows beneath objects, enhancing visual depth and dimensionality. It is frequently used in editorial photography, product displays, and interior visuals to create a refined mood and clarity. Incorporating overhead lighting into your prompts helps produce images with clean, premium aesthetics that suit commercial and artistic purposes alike.",
+    "bestUseCases": [
+      "Product photography with natural shadow definition",
+      "Editorial portraits emphasizing facial structure",
+      "Interior scenes showcasing architectural detail"
+    ],
+    "relatedKeywords": [
+      "Directional Lighting",
+      "Softbox Lighting",
+      "Backlighting Technique"
+    ],
+    "difficulty": "Beginner",
+    "slug": "overhead-lighting-technique",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Flickering Light Effect",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Flickering Light Effect: Enhance AI Images with Dynamic Lighting",
+    "metaDescription": "Discover how the Flickering Light Effect keyword enriches AI image prompts with dynamic, realistic lighting. Learn best uses, prompt formulas, and expert tips.",
+    "heroImage": {
+      "src": "/images/keywords/flickering-light-effect.png",
+      "alt": "Interior scene illuminated by a warm flickering candlelight creating soft dynamic shadows",
+      "title": "Flickering Light Effect in Atmospheric Interior Setting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Flickering Light Effect brings a unique atmospheric depth to AI-generated images by simulating light sources that pulse or flutter, such as candles, neon signs, or fires. This effect adds realism and drama by replicating natural light instability, often used to evoke ambiance, tension, or warmth. Applying this keyword transforms static lighting into visually engaging dynamics, enhancing storytelling in both photography-style renders and illustrative scenes.",
+    "bestUseCases": [
+      "Cinematic scenes with moody ambiance and natural light fluctuations",
+      "Product shots featuring candles, lamps, or campfires to showcase warmth",
+      "Nighttime urban photography emphasizing neon and streetlight variations"
+    ],
+    "relatedKeywords": [
+      "Dynamic Lighting",
+      "Candlelight Glow",
+      "Neon Light Effect"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "flickering-light-effect",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
