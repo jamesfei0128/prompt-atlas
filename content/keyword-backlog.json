@@ -805,27 +805,27 @@
     "keyword": "Rainy Day Mood",
     "slug": "rainy-day-mood",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.538Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-07T16:41:22.315Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Sunset Glow Atmosphere",
     "slug": "sunset-glow-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.538Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-07T16:42:17.393Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Mystic Forest Atmosphere",
     "slug": "mystic-forest-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.538Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-07T16:43:05.839Z",
     "source": "openai-discovery"
   },
   {

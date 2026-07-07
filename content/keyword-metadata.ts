@@ -4671,5 +4671,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Rainy Day Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Rainy Day Mood: Crafting Atmospheric AI Image Prompts",
+    "metaDescription": "Explore how to create evocative AI images using the Rainy Day Mood keyword. Learn definitions, prompt formulas, best use cases, and style tips.",
+    "heroImage": {
+      "src": "/images/keywords/rainy-day-mood.png",
+      "alt": "A moody urban street scene under rain with wet reflective pavements and diffused lighting",
+      "title": "Rainy Day Mood Urban Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Rainy Day Mood keyword enables AI image generators to craft scenes imbued with the ambiance of rainfall and its associated emotions. Including this keyword results in imagery where wet streets reflect city lights, characters might wear raincoats or hold umbrellas, and environments appear misty or gray. This atmosphere often conveys feelings of nostalgia, introspection, or tranquility. By integrating Rainy Day Mood, artists can shift the mood of their work towards more introspective or cinematic visuals. This keyword is especially useful for illustrating stories, editorial content, or artistic portraits where mood and environment play significant roles. Its subtle cues subtly influence lighting, color grading, and texture to evoke a realistic rainy setting.",
+    "bestUseCases": [
+      "Illustrations or concept art requiring melancholic, introspective environments",
+      "Editorial photography-style images portraying urban life under rain",
+      "Cinematic backgrounds for storytelling, particularly dramas or romantic scenes"
+    ],
+    "relatedKeywords": [
+      "Overcast Sky",
+      "Moody Lighting",
+      "Wet Street Reflections"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rainy-day-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Sunset Glow Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Sunset Glow Atmosphere: Enhance AI Images with Warm Evening Light",
+    "metaDescription": "Discover how to use the 'Sunset Glow Atmosphere' keyword to bring warm, golden light and vibrant skies to AI-generated images for emotional and natural ambiance.",
+    "heroImage": {
+      "src": "/images/keywords/sunset-glow-atmosphere.png",
+      "alt": "Scenic landscape with warm orange and pink sunset glow atmosphere illuminating mountains and clouds",
+      "title": "Sunset Glow Atmosphere Scene with Vibrant Sky and Warm Lighting",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Sunset Glow Atmosphere' keyword is used in AI image generation to evoke the distinctive lighting and coloration seen during the sunset hour. This effect creates rich, warm tones that enhance mood and beauty, often bathing scenes in orange, pink, and purple shades. It adds depth through long shadows and soft light transitions, lending images a natural and emotive ambiance. Incorporating this atmosphere is especially effective for outdoor scenes, portraits, or landscapes where golden-hour light can accentuate texture and color. By specifying this keyword, users guide AI models to prioritize visually compelling warm hues and glow effects, resulting in images that feel both realistic and artistically vibrant.",
+    "bestUseCases": [
+      "Outdoor portrait photography emphasizing warm skin tones and dramatic lighting",
+      "Landscape images showcasing glowing skies and enhanced natural colors at golden hour",
+      "Product photography or scenes requiring warm, inviting ambiance to evoke emotion"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Lighting",
+      "Warm Ambient Light",
+      "Dusk Sky Glow"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "sunset-glow-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Mystic Forest Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Mystic Forest Atmosphere: Enhance AI Images with Enigmatic Woods",
+    "metaDescription": "Discover how the Mystic Forest Atmosphere keyword transforms AI image prompts with magical woods, ethereal lighting, and captivating natural mystique.",
+    "heroImage": {
+      "src": "/images/keywords/mystic-forest-atmosphere.png",
+      "alt": "Enigmatic dense forest bathed in soft mist and glowing light creating a mystic forest atmosphere",
+      "title": "Mystic Forest Atmosphere with Soft Mist and Ethereal Light",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Mystic Forest Atmosphere keyword brings an enchanting, otherworldly vibe to AI-generated images by conjuring scenes rich with natural mystery and subdued lighting. This atmosphere typically involves densely packed trees interspersed with mist or gentle fog that softens the scene and creates a sense of depth and intrigue. Light often filters through the canopy in dappled or diffuse beams that highlight textures and shadows, lending a dreamlike quality. Artists and creators use this atmosphere to evoke emotion, suggest fantasy realms, or produce contemplative natural landscapes. When added to an AI image prompt, it shifts the focus to mood over detail and sophistication over simplicity, making the scene feel immersive and timeless.",
+    "bestUseCases": [
+      "Concept art for fantasy games or films needing immersive woodland settings",
+      "Book covers for fantasy or mystery novels requiring enigmatic natural backgrounds",
+      "Website hero images or banners promoting nature retreats or meditation apps"
+    ],
+    "relatedKeywords": [
+      "Enchanted Woods",
+      "Foggy Woodland",
+      "Ethereal Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "mystic-forest-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
