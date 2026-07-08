@@ -1259,6 +1259,30 @@
       "generationPrompt": "16:9 hyper-realistic image of dense ancient forest with thick green foliage and moss, subtle mist drifting between tall trees, soft ethereal light rays filtering through canopy, tranquil and magical ambiance, premium stock image quality, no text, no logos, no watermark",
       "category": "Atmosphere",
       "keywordSlug": "mystic-forest-atmosphere"
+    },
+    {
+      "filename": "urban-night-atmosphere.png",
+      "altText": "Nighttime urban street with glowing neon signs and wet pavement reflecting light",
+      "imageTitle": "Urban Night Atmosphere City Street",
+      "generationPrompt": "16:9 photo-realistic nighttime city street scene with urban night atmosphere, neon signs illuminating wet pavement, reflections and shadows, detailed architectural elements, cinematic lighting, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "urban-night-atmosphere"
+    },
+    {
+      "filename": "calm-beach-atmosphere.png",
+      "altText": "Serene calm beach atmosphere with gentle waves, soft pastel sky, and empty sandy shore at morning light",
+      "imageTitle": "Calm Beach Atmosphere - Serene Morning Shoreline",
+      "generationPrompt": "16:9 photorealistic calm beach atmosphere, soft morning light casting warm pastel hues on gentle waves, empty sandy beach stretching into horizon, clear tranquil sky, minimalistic composition, subtle depth, high resolution, natural textures, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "calm-beach-atmosphere"
+    },
+    {
+      "filename": "editorial-lifestyle-photography.png",
+      "altText": "Young woman reading a book in a sunlit café, candid editorial lifestyle photography style",
+      "imageTitle": "Candid Editorial Lifestyle Photograph of Woman Reading in Café",
+      "generationPrompt": "16:9 image of a young woman reading a book in a bright, modern café with soft natural light, candid editorial lifestyle photography style, warm tones, realistic textures, magazine-quality composition, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "editorial-lifestyle-photography"
     }
   ]
 }

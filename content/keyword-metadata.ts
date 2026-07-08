@@ -4761,5 +4761,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Urban Night Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Urban Night Atmosphere: Capturing Lively Cityscape Moods",
+    "metaDescription": "Explore the Urban Night Atmosphere keyword for AI image prompts. Learn how to create vibrant, moody city nightscapes with refined lighting and realistic details.",
+    "heroImage": {
+      "src": "/images/keywords/urban-night-atmosphere.png",
+      "alt": "Nighttime urban street with glowing neon signs and wet pavement reflecting light",
+      "title": "Urban Night Atmosphere City Street",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Urban Night Atmosphere keyword evokes the unique and dynamic visual qualities of nighttime cityscapes. Images generated with this prompt typically emphasize artificial lighting sources such as street lamps, neon signs, and vehicle lights that bring vibrancy and energy to urban environments after sunset. This keyword helps AI models to focus on intricate lighting contrasts, reflections on wet streets or glass, and discreet human activity that define cities at night. It is ideal for producing evocative and realistic city scenes that convey mood, depth, and texture essential for editorial and commercial visuals.",
+    "bestUseCases": [
+      "Editorial photography backgrounds for articles on urban life, nightlife, and culture",
+      "Advertising visuals for products related to technology, fashion, or nightlife events",
+      "Stock images for websites or apps requiring realistic city night scenes"
+    ],
+    "relatedKeywords": [
+      "Neon City Lights",
+      "Rainy Cityscape",
+      "Nighttime Street Scene"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "urban-night-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Calm Beach Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Calm Beach Atmosphere: Perfect AI Image Prompt Keyword",
+    "metaDescription": "Explore how 'Calm Beach Atmosphere' enhances AI image prompts. Learn visual traits, best uses, prompt formulas, and industry applications for serene beach scenes.",
+    "heroImage": {
+      "src": "/images/keywords/calm-beach-atmosphere.png",
+      "alt": "Serene calm beach atmosphere with gentle waves, soft pastel sky, and empty sandy shore at morning light",
+      "title": "Calm Beach Atmosphere - Serene Morning Shoreline",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Using the 'Calm Beach Atmosphere' keyword in AI image prompts directs the model to depict serene and peaceful beach scenes. This atmosphere is defined by soft lighting, subdued color palettes often featuring gentle blues and warm beiges, and minimal activity or dynamic motion. It reduces visual noise and prioritizes elements that signal tranquility, such as calm water surfaces, empty beaches, and clear skies at dawn or dusk. This keyword is ideal when crafting images that aim to evoke relaxation, peacefulness, and contemplative moods associated with seaside escapes. It contrasts strongly with more energetic beach atmospheres like vibrant sunsets or crowded vacations, focusing instead on calmness and subtle beauty.",
+    "bestUseCases": [
+      "Background images for wellness or meditation apps",
+      "Editorial content illustrating peaceful seaside retreats",
+      "Product backgrounds for beach-related lifestyle brands"
+    ],
+    "relatedKeywords": [
+      "Serene Ocean View",
+      "Tranquil Seaside",
+      "Peaceful Shoreline"
+    ],
+    "difficulty": "Beginner",
+    "slug": "calm-beach-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Editorial Lifestyle Photography",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Editorial Lifestyle Photography - AI Image Prompt Keyword Guide",
+    "metaDescription": "Discover how to create stunning editorial lifestyle photography with AI prompts. Learn definitions, formulas, use cases, and industry applications for commercial visual content.",
+    "heroImage": {
+      "src": "/images/keywords/editorial-lifestyle-photography.png",
+      "alt": "Young woman reading a book in a sunlit café, candid editorial lifestyle photography style",
+      "title": "Candid Editorial Lifestyle Photograph of Woman Reading in Café",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Editorial lifestyle photography combines the authenticity of candid moments with the polish of professional editorial imagery. It focuses on telling relatable stories through visuals, often featuring people engaged in daily activities but styled and lit with attention to detail. Using this keyword in AI image prompts shifts outputs towards well-composed scenes that feel natural yet visually sophisticated. This style is ideal for commercial clients who want to connect emotionally with their audience through believable, aspirational imagery. The prompt encourages a blend of realism and artistry, ensuring images are both genuine and visually compelling for magazines, advertising, and social media content.",
+    "bestUseCases": [
+      "Creating magazine-style feature images depicting everyday life moments",
+      "Producing authentic brand storytelling visuals for lifestyle product campaigns",
+      "Generating social media content that resonates with audiences through relatable, polished imagery"
+    ],
+    "relatedKeywords": [
+      "cinematic lifestyle photography",
+      "modern editorial portrait",
+      "natural light lifestyle"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "editorial-lifestyle-photography",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
