@@ -859,27 +859,27 @@
     "keyword": "Advertising Print Layout",
     "slug": "advertising-print-layout",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-09T15:06:28.538Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-09T12:26:08.287Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Rembrandt Lighting Technique",
     "slug": "rembrandt-lighting-technique",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.826Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-09T12:26:43.329Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Soft Diffused Lighting",
     "slug": "soft-diffused-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-09T12:27:20.095Z",
     "source": "openai-discovery"
   },
   {

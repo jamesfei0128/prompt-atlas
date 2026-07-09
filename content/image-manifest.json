@@ -1283,6 +1283,30 @@
       "generationPrompt": "16:9 image of a young woman reading a book in a bright, modern café with soft natural light, candid editorial lifestyle photography style, warm tones, realistic textures, magazine-quality composition, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "editorial-lifestyle-photography"
+    },
+    {
+      "filename": "advertising-print-layout.png",
+      "altText": "Clean and balanced advertising print layout with refined lighting and realistic textures",
+      "imageTitle": "Advertising Print Layout - Premium Commercial Visual",
+      "generationPrompt": "16:9 aspect ratio image featuring a clean advertising print layout, editorial composition with balanced negative space, refined natural lighting highlighting realistic paper and fabric textures, subtle depth of field, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "advertising-print-layout"
+    },
+    {
+      "filename": "rembrandt-lighting-technique.png",
+      "altText": "Portrait of a person illuminated with Rembrandt lighting technique showcasing a distinct triangular light patch on the cheek",
+      "imageTitle": "Portrait with classic Rembrandt lighting",
+      "generationPrompt": "16:9 photo-realistic close-up portrait of a person, Rembrandt lighting technique, soft warm key light from side, distinct triangular highlight on cheek beneath eye, strong shadows creating depth, cinematic and dramatic mood, high resolution, realistic skin texture, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "rembrandt-lighting-technique"
+    },
+    {
+      "filename": "soft-diffused-lighting.png",
+      "altText": "Portrait of woman with soft diffused lighting producing gentle shadows and natural skin tones",
+      "imageTitle": "Soft Diffused Lighting Portrait Example",
+      "generationPrompt": "16:9 portrait of a young woman lit by soft diffused lighting, smooth skin texture, natural colors, studio background, premium photography style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-diffused-lighting"
     }
   ]
 }

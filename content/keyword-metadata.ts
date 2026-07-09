@@ -4851,5 +4851,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Advertising Print Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Advertising Print Layout: Master AI Image Composition",
+    "metaDescription": "Discover how 'Advertising Print Layout' enhances AI image prompts for clean, premium commercial visuals with refined lighting and realistic materials.",
+    "heroImage": {
+      "src": "/images/keywords/advertising-print-layout.png",
+      "alt": "Clean and balanced advertising print layout with refined lighting and realistic textures",
+      "title": "Advertising Print Layout - Premium Commercial Visual",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Advertising Print Layout is a crucial concept for designers aiming to create visually striking print ads. When used in AI image prompts, it guides the system to generate images that mimic professional advertising layouts, emphasizing clarity, visual hierarchy, and premium quality. This results in images with clean editorial compositions, subtle depth effects, and realistic materials, perfectly suited for commercial projects requiring a polished and trustworthy look. The style is typically free of distracting text or watermarks, ensuring versatility for multiple uses such as article heroes or thumbnail cards.",
+    "bestUseCases": [
+      "Creating hero images for marketing articles",
+      "Designing thumbnail visuals for ad campaigns",
+      "Developing premium stock photos for commercial use"
+    ],
+    "relatedKeywords": [
+      "Editorial Composition",
+      "Premium Stock Photo",
+      "Commercial Advertising"
+    ],
+    "difficulty": "Beginner",
+    "slug": "advertising-print-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rembrandt Lighting Technique",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Rembrandt Lighting Technique for AI Image Prompts",
+    "metaDescription": "Master the Rembrandt lighting technique keyword to create dramatic and realistic portraits in AI image generation. Learn formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/rembrandt-lighting-technique.png",
+      "alt": "Portrait of a person illuminated with Rembrandt lighting technique showcasing a distinct triangular light patch on the cheek",
+      "title": "Portrait with classic Rembrandt lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Rembrandt lighting technique is a foundational portrait lighting method originating from the Old Master painter Rembrandt Harmenszoon van Rijn. In AI-generated images, this technique adds a cinematic and three-dimensional quality by highlighting a small illuminated triangle beneath the eye on the shadowed side of the face. Artists and photographers often use Rembrandt lighting to evoke drama, depth, and a classic aesthetic. Including this keyword in AI image prompts instructs models to replicate the lighting angle and shadow play, making portraits more visually compelling and lifelike. This effect enhances textures and contours, perfect for expressive character studies and refined editorial photography simulations.",
+    "bestUseCases": [
+      "Dramatic portrait photography simulations for editorial use",
+      "Character concept art needing realistic 3D facial lighting",
+      "Fine art-style portraits featuring classical lighting aesthetics"
+    ],
+    "relatedKeywords": [
+      "Chiaroscuro Lighting",
+      "Butterfly Lighting",
+      "Split Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rembrandt-lighting-technique",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Soft Diffused Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Soft Diffused Lighting: Essential Guide for AI Image Prompts",
+    "metaDescription": "Learn how to use soft diffused lighting in AI image prompts for realistic, gentle illumination. Discover formulas, use cases, advanced tips, and workflows.",
+    "heroImage": {
+      "src": "/images/keywords/soft-diffused-lighting.png",
+      "alt": "Portrait of woman with soft diffused lighting producing gentle shadows and natural skin tones",
+      "title": "Soft Diffused Lighting Portrait Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Soft diffused lighting is a popular lighting technique used to create visually appealing images with gentle, even illumination. This lighting style reduces harsh shadows and highlights, producing a smooth transition of light on subjects and backgrounds. In AI-generated imagery, specifying soft diffused lighting helps to evoke a natural, calming mood, making subjects appear more realistic and intricate details visible without stark contrast. It is commonly used in portraiture, product photography, and editorial imagery to deliver a polished, premium look. Leveraging soft diffused lighting enhances an image’s depth and material realism, ensuring a refined and aesthetically balanced output.",
+    "bestUseCases": [
+      "Portraits highlighting natural skin tones with gentle shadows",
+      "Product photography showcasing texture without glare",
+      "Editorial and lifestyle images requiring a soft, premium aesthetic"
+    ],
+    "relatedKeywords": [
+      "Soft Lighting",
+      "Natural Light",
+      "Ambient Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-diffused-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
