@@ -4941,5 +4941,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "High Key Lighting Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "High Key Lighting Setup: Bright, Clean, and Soft Light Technique",
+    "metaDescription": "Discover the High Key Lighting Setup for AI images. Learn its definition, visual traits, prompt formulas, best use cases, creative variations, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/high-key-lighting-setup.png",
+      "alt": "Portrait of a smiling woman under high key lighting setup with soft shadows and a bright white background",
+      "title": "Portrait with High Key Lighting Setup",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "High Key Lighting Setup transforms the mood and clarity of an image by emphasizing brightness and reducing harsh shadows. This style is known for its airy, clean, and polished aesthetic that enhances softness and detail. In AI image generation, specifying a high key lighting setup helps evoke feelings of freshness, positivity, and elegance, making images appear bright and inviting. It effectively highlights textures and color purity without dramatic shadows, which suits product photography, portraits, and editorial uses where a crisp, premium look is desired. Understanding and applying high key lighting keywords in prompts ensure consistent outputs aligned with this visual ethos.",
+    "bestUseCases": [
+      "Product photography showcasing white or pastel-colored items",
+      "Portraits emphasizing soft, flawless skin and bright expressions",
+      "Editorial and commercial imagery requiring a fresh, minimalistic aesthetic"
+    ],
+    "relatedKeywords": [
+      "soft lighting",
+      "studio lighting setup",
+      "diffused light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "high-key-lighting-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Natural Window Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Natural Window Lighting: Enhance AI Images with Soft Ambient Light",
+    "metaDescription": "Discover how to use Natural Window Lighting in AI image prompts to create realistic, inviting scenes with soft, diffused daylight. Perfect for portraits and interiors.",
+    "heroImage": {
+      "src": "/images/keywords/natural-window-lighting.png",
+      "alt": "Modern interior room illuminated by soft natural window lighting casting gentle shadows",
+      "title": "Soft daylight entering room through window",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Natural Window Lighting is a popular lighting technique that mimics the ambient daylight streaming through windows, offering a natural and realistic illumination style in AI-generated images. It emphasizes soft shadows and highlights that define form and texture without harsh contrasts, making scenes appear inviting and warm. This lighting enhances photographic aesthetics, especially for indoor portraits, still lifes, and architectural visualizations, by adding depth and subtle color shifts. Using this keyword in AI prompts guides the image generation to prioritize delicate lighting effects and realistic shadow play reminiscent of early morning or late afternoon light filtering through windowpanes.",
+    "bestUseCases": [
+      "Indoor portrait photography emphasizing natural skin tones and warm ambiance",
+      "Architectural visualization showcasing interior spaces with daylight illumination",
+      "Still life compositions featuring subtle shadow interplay and soft color gradients"
+    ],
+    "relatedKeywords": [
+      "Soft Ambient Lighting",
+      "Golden Hour Lighting",
+      "Indoor Natural Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "natural-window-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Volumetric Light Rays",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Volumetric Light Rays: Enhance AI Images with Atmospheric Lighting",
+    "metaDescription": "Discover how volumetric light rays add depth and atmosphere to AI images. Learn prompt formulas, best uses, and pro tips for stunning lighting effects.",
+    "heroImage": {
+      "src": "/images/keywords/volumetric-light-rays.png",
+      "alt": "Forest scene with sun volumetric light rays piercing through tall pine trees and mist",
+      "title": "Volumetric Light Rays in Forest Atmosphere",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Volumetric light rays serve as a compelling lighting effect in AI-generated images, offering a sense of realism and spatial depth by mimicking how light interacts with particles in the air. Incorporating this keyword in prompts helps create scenes lit through fog, dust, or haze where beams of light are visible, producing cinematic or ethereal atmospheres. Common in landscape photography, interiors with windows, and dramatic portraits, volumetric light rays enhance storytelling by emphasizing ambient conditions or time of day. This effect can elevate compositions by adding subtle guiding lines that direct viewers’ attention and foster a mood of mystery, tranquility, or awe.",
+    "bestUseCases": [
+      "Nature and forest scenes with sunbeams filtering through trees",
+      "Interior shots with sunlight streaming through windows or blinds",
+      "Dramatic portraits or fantasy scenes emphasizing mood and emotion"
+    ],
+    "relatedKeywords": [
+      "God rays",
+      "Atmospheric lighting",
+      "Light scattering"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "volumetric-light-rays",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

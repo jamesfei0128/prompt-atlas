@@ -1307,6 +1307,30 @@
       "generationPrompt": "16:9 portrait of a young woman lit by soft diffused lighting, smooth skin texture, natural colors, studio background, premium photography style, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "soft-diffused-lighting"
+    },
+    {
+      "filename": "high-key-lighting-setup.png",
+      "altText": "Portrait of a smiling woman under high key lighting setup with soft shadows and a bright white background",
+      "imageTitle": "Portrait with High Key Lighting Setup",
+      "generationPrompt": "16:9 portrait of a smiling woman, high key lighting setup, soft shadows, bright and airy, white background, clean editorial style, premium stock-image polish, refined lighting, subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Lighting",
+      "keywordSlug": "high-key-lighting-setup"
+    },
+    {
+      "filename": "natural-window-lighting.png",
+      "altText": "Modern interior room illuminated by soft natural window lighting casting gentle shadows",
+      "imageTitle": "Soft daylight entering room through window",
+      "generationPrompt": "16:9 modern minimalist interior with soft natural window lighting, gentle shadows cast by sunlight through large window, warm and neutral tones, realistic materials, clean composition, ambient daylight, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "natural-window-lighting"
+    },
+    {
+      "filename": "volumetric-light-rays.png",
+      "altText": "Forest scene with sun volumetric light rays piercing through tall pine trees and mist",
+      "imageTitle": "Volumetric Light Rays in Forest Atmosphere",
+      "generationPrompt": "16:9 cinematic forest scene with volumetric light rays piercing through dense mist and tall pine trees, warm golden sunlight, realistic lighting, photorealistic, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "volumetric-light-rays"
     }
   ]
 }

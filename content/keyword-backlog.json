@@ -886,27 +886,27 @@
     "keyword": "High Key Lighting Setup",
     "slug": "high-key-lighting-setup",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-10T12:19:26.356Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Natural Window Lighting",
     "slug": "natural-window-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-10T12:20:07.272Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Volumetric Light Rays",
     "slug": "volumetric-light-rays",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-10T12:20:54.035Z",
     "source": "openai-discovery"
   },
   {
