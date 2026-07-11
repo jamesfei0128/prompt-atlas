@@ -5031,5 +5031,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Directional Side Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Directional Side Lighting: Enhancing AI Image Prompts",
+    "metaDescription": "Learn how directional side lighting transforms AI image prompts with realistic shadows and depth. Perfect for editorial, commercial, and creative projects.",
+    "heroImage": {
+      "src": "/images/keywords/directional-side-lighting.png",
+      "alt": "Portrait of woman lit by warm directional side lighting creating soft shadows and depth",
+      "title": "Portrait with Directional Side Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Directional side lighting is a powerful lighting technique widely used in photography and digital art to add dimensionality and mood. In the context of AI image generation, specifying directional side lighting shapes how the model simulates light interaction with subjects and environments. This lighting style creates pronounced contrasts between illuminated and shaded areas, resulting in images with realistic depth and enhanced visual interest. It is especially effective for emphasizing textures and defining shapes in portraits, still life, architectural renders, and product shots. Using this lighting approach in AI prompts helps generate more polished and professional visuals suitable for editorial and commercial use.",
+    "bestUseCases": [
+      "Portrait photography and character renders requiring mood and texture",
+      "Product visualization for ecommerce showcasing material details",
+      "Architectural and interior designs emphasizing form and spatial depth"
+    ],
+    "relatedKeywords": [
+      "dramatic lighting",
+      "rim lighting",
+      "soft shadows"
+    ],
+    "difficulty": "Beginner",
+    "slug": "directional-side-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Golden Hour Soft Light",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Golden Hour Soft Light - Enhance AI Images with Warm Glow",
+    "metaDescription": "Discover how Golden Hour Soft Light transforms AI-generated images with warm, diffused lighting. Learn best practices, prompt formulas, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/golden-hour-soft-light.png",
+      "alt": "Portrait of a woman illuminated by warm golden hour soft light with gentle shadows",
+      "title": "Golden Hour Soft Light AI Image Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Golden Hour Soft Light captures the magical lighting conditions during the early morning or late afternoon sun. This natural lighting style is prized for its warm colors and flattering softness, often leading to images that feel intimate and aesthetically pleasing. When incorporated into AI prompts, it helps generate scenes with realistic ambient and directional light that evokes emotion and depth. This lighting style works well across portraiture, landscapes, and still-life imagery, providing a premium and elegant look. It subtly enhances textures and materials without harsh contrasts or glare, offering a polished and professional finish suitable for editorial and commercial use.",
+    "bestUseCases": [
+      "Portrait photography simulating natural golden hour lighting",
+      "Outdoor landscapes with warm, atmospheric tones",
+      "Product shots emphasizing material texture under soft light"
+    ],
+    "relatedKeywords": [
+      "Warm Ambient Light",
+      "Sunset Glow",
+      "Soft Natural Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "golden-hour-soft-light",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Hard Shadow Contrast",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Hard Shadow Contrast: Enhance Lighting in AI Images",
+    "metaDescription": "Explore Hard Shadow Contrast effects in AI image generation. Learn its definition, prompt formulas, best uses, workflows, related styles, and tips for high-quality visuals.",
+    "heroImage": {
+      "src": "/images/keywords/hard-shadow-contrast.png",
+      "alt": "Portrait showing hard shadow contrast with sharp, bold shadows and dramatic lighting",
+      "title": "Portrait with Hard Shadow Contrast Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Hard Shadow Contrast is a lighting effect that dramatically defines shadows with crisp, sharp edges and pronounced contrast between light and dark areas. In AI-generated images, incorporating this characteristic elevates the visual impact by adding dimensionality and emphasizing surface textures. It is particularly useful in highlighting form, structure, and materials, creating a striking and refined appearance. By controlling this effect through prompts, artists and designers can guide AI models to produce compositions with cinematic or editorial lighting moods, enhancing realism or artistic expression without soft or diffuse shading.",
+    "bestUseCases": [
+      "Product photography showcasing texture and form with dramatic lighting",
+      "Editorial portraits emphasizing facial features and strong moods",
+      "Architectural renders highlighting structural details and shadow play"
+    ],
+    "relatedKeywords": [
+      "Directional Lighting",
+      "High Contrast Lighting",
+      "Chiaroscuro"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "hard-shadow-contrast",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
