@@ -5121,5 +5121,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Backlit Rim Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Backlit Rim Lighting: Definition and Prompt Guide",
+    "metaDescription": "Discover Backlit Rim Lighting for AI image prompts. Learn its visual traits, prompt formulas, best use cases, and creative variations for stunning lighting effects.",
+    "heroImage": {
+      "src": "/images/keywords/backlit-rim-lighting.png",
+      "alt": "Portrait of a woman with backlit rim lighting highlighting her hair and shoulders against a dark background",
+      "title": "Backlit Rim Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Backlit Rim Lighting offers a striking way to emphasize shapes and contours by placing light sources behind the subject. This technique casts a luminous halo or rim around the edges, enabling clear subject separation from backgrounds even if they are dimly lit. In AI-generated images, prompts including this term encourage models to simulate realistic lighting setups that heighten drama, depth, and visual interest. Artists and photographers often use this style to evoke mood or highlight subject textures through translucent or reflective surfaces. Incorporating Backlit Rim Lighting in image generation can instantly transform compositions, lending premium polish suitable for editorial, cinematic, and commercial visuals.",
+    "bestUseCases": [
+      "Portraits needing dramatic subject-background separation.",
+      "Product shots emphasizing shape and texture.",
+      "Nature photography featuring translucent leaves or insects."
+    ],
+    "relatedKeywords": [
+      "rim lighting",
+      "backlighting",
+      "glowing outline"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "backlit-rim-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Moody Atmospheric Fog",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Moody Atmospheric Fog: Enhance AI Images with Depth & Ambiance",
+    "metaDescription": "Discover how 'Moody Atmospheric Fog' adds depth, atmosphere, and emotion to AI-generated images. Learn prompt formulas, use cases, workflows, and style tips.",
+    "heroImage": {
+      "src": "/images/keywords/moody-atmospheric-fog.png",
+      "alt": "Landscape scene shrouded in dense moody atmospheric fog with soft muted lighting",
+      "title": "Moody Atmospheric Fog Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Moody Atmospheric Fog is a valuable keyword in AI image generation that transforms scenes by adding layers of soft, diffused fog with a melancholic or mysterious feel. This effect helps create emotional resonance, making images appear more cinematic and immersive. By muting colors and balancing light diffusion, it can enhance environments such as landscapes, urban streets, or interiors, providing a feeling of depth and atmosphere. This keyword is popular among creatives seeking to evoke emotions like solitude, contemplation, or suspense. Including it in prompts modifies the AI's rendering behavior to emphasize fog details that support these moods while maintaining realistic textures and lighting.",
+    "bestUseCases": [
+      "Creating cinematic landscapes with moody weather effects",
+      "Designing atmospheric urban or rural scenes for storytelling",
+      "Producing evocative backgrounds for book covers or film posters"
+    ],
+    "relatedKeywords": [
+      "Cinematic Fog",
+      "Mystical Mist",
+      "Soft Light Diffusion"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "moody-atmospheric-fog",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Warm Cozy Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Warm Cozy Atmosphere: Creating Inviting AI Image Scenes",
+    "metaDescription": "Discover how to craft a warm cozy atmosphere in AI image prompts for inviting, comfortable visuals. Perfect for interiors, lifestyle, and seasonal themes.",
+    "heroImage": {
+      "src": "/images/keywords/warm-cozy-atmosphere.png",
+      "alt": "A living room with warm cozy atmosphere featuring soft glowing fireplace, plush cushions, and wooden textures",
+      "title": "Warm Cozy Atmosphere in Interior Design",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "A warm cozy atmosphere in imagery conveys a sense of intimate comfort and welcoming ambiance. This mood is achieved through a combination of warm color schemes, gentle lighting, and details that suggest relaxation and homeliness. AI prompts utilizing these elements guide image generators to produce scenes that feel inviting and lived-in, often including features like softly glowing lights, plush textiles, and organic materials. Whether depicting a snug living room, a peaceful reading nook, or a softly lit café, the warm cozy atmosphere creates emotional resonance by appealing to the universal desire for comfort and security.",
+    "bestUseCases": [
+      "Interior design mood boards showcasing inviting living spaces",
+      "Seasonal marketing visuals for autumn and winter collections",
+      "Lifestyle imagery for cafes, bookshops, or wellness environments"
+    ],
+    "relatedKeywords": [
+      "Soft Warm Lighting",
+      "Comforting Texture",
+      "Intimate Interior"
+    ],
+    "difficulty": "Beginner",
+    "slug": "warm-cozy-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

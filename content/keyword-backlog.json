@@ -940,27 +940,27 @@
     "keyword": "Backlit Rim Lighting",
     "slug": "backlit-rim-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-12T11:04:18.297Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Moody Atmospheric Fog",
     "slug": "moody-atmospheric-fog",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-12T11:04:54.831Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Warm Cozy Atmosphere",
     "slug": "warm-cozy-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-12T11:05:30.996Z",
     "source": "openai-discovery"
   },
   {

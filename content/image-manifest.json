@@ -1355,6 +1355,30 @@
       "generationPrompt": "16:9 portrait of a young woman with strong directional light casting sharp, hard-edged shadows on face and background, cinematic mood, high detail, realistic skin texture, editorial style lighting, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "hard-shadow-contrast"
+    },
+    {
+      "filename": "backlit-rim-lighting.png",
+      "altText": "Portrait of a woman with backlit rim lighting highlighting her hair and shoulders against a dark background",
+      "imageTitle": "Backlit Rim Lighting Portrait",
+      "generationPrompt": "16:9 portrait of a woman with backlit rim lighting, dark background, glowing edges outlining hair and shoulders, soft focus, premium editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "backlit-rim-lighting"
+    },
+    {
+      "filename": "moody-atmospheric-fog.png",
+      "altText": "Landscape scene shrouded in dense moody atmospheric fog with soft muted lighting",
+      "imageTitle": "Moody Atmospheric Fog Landscape",
+      "generationPrompt": "16:9 wide-angle photo of a dense moody atmospheric fog enveloping a pine forest at dawn, soft diffused lighting, muted earthy color palette, cinematic composition, high detail, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "moody-atmospheric-fog"
+    },
+    {
+      "filename": "warm-cozy-atmosphere.png",
+      "altText": "A living room with warm cozy atmosphere featuring soft glowing fireplace, plush cushions, and wooden textures",
+      "imageTitle": "Warm Cozy Atmosphere in Interior Design",
+      "generationPrompt": "16:9 interior living room scene with warm cozy atmosphere, soft glowing fireplace light, plush cushions, wooden furniture, warm color palette, diffused lighting, realistic materials, no text, no logos, no watermark",
+      "category": "Atmosphere",
+      "keywordSlug": "warm-cozy-atmosphere"
     }
   ]
 }
