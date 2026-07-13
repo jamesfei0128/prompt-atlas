@@ -5211,5 +5211,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Urban Nighttime Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Urban Nighttime Mood: AI Image Prompt Keyword Guide",
+    "metaDescription": "Discover how to craft AI prompts using 'Urban Nighttime Mood' to create atmospheric cityscapes with refined lighting and realistic textures.",
+    "heroImage": {
+      "src": "/images/keywords/urban-nighttime-mood.png",
+      "alt": "A cinematic urban cityscape at night with glowing streetlamps and reflective wet pavement",
+      "title": "Urban Nighttime Mood Cityscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Urban Nighttime Mood focuses on capturing the unique ambiance present in cityscapes after sunset. This keyword emphasizes subtle lighting contrasts between artificial light sources and shadows, while showcasing realistic textures such as wet streets or glass surfaces. It conveys a quiet, contemplative, or energetic vibe depending on composition, making it ideal for cinematic, editorial, or conceptual visuals. Using this keyword enhances the emotional resonance of urban scenes and highlights the beauty found in nighttime environments.",
+    "bestUseCases": [
+      "Cinematic cityscape backgrounds for films or games",
+      "Editorial images that convey urban lifestyle or night culture",
+      "Promotional visuals for nightlife venues, concerts, or events"
+    ],
+    "relatedKeywords": [
+      "Neon Cityscape",
+      "Rainy Night Scene",
+      "Moody Urban Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "urban-nighttime-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rainy Wet Pavement Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Rainy Wet Pavement Mood: Creating Atmospheric AI Images",
+    "metaDescription": "Explore the Rainy Wet Pavement Mood for AI image prompts. Learn definitions, prompt formulas, use cases, and advanced techniques to evoke moody urban atmospheres.",
+    "heroImage": {
+      "src": "/images/keywords/rainy-wet-pavement-mood.png",
+      "alt": "Street scene at night with wet rainy pavement reflecting city lights creating a moody atmosphere",
+      "title": "Rainy Wet Pavement Mood urban night scene",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Rainy Wet Pavement Mood is a powerful atmospheric keyword used in AI image generation to create scenes that convey the essence of urban environments touched by rain. This mood adds complexity through reflections on wet asphalt, enhancing depth and realism. Images generated with this prompt frequently feature subtle glows from streetlights or neon signs diffused by moisture, combined with a cooler or desaturated color scheme. This mood can imbue scenes with feelings ranging from peaceful solitude to cinematic melancholy, making it ideal for editorial, cinematic, or artistic imagery.",
+    "bestUseCases": [
+      "Urban photography mockups showcasing reflective streets",
+      "Movie or game concept art requiring moody rainy environments",
+      "Editorial and fashion shoots with dramatic weather-driven backdrops"
+    ],
+    "relatedKeywords": [
+      "Neon Glow Nightscape",
+      "Moody Urban Atmosphere",
+      "Rainfall Effects"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rainy-wet-pavement-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Dreamlike Ethereal Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Dreamlike Ethereal Atmosphere: AI Image Prompt Keyword Guide",
+    "metaDescription": "Explore how to create dreamlike ethereal atmospheres with AI image prompts. Learn definitions, formulas, use cases, and pro tips for stunning visuals.",
+    "heroImage": {
+      "src": "/images/keywords/dreamlike-ethereal-atmosphere.png",
+      "alt": "Soft dreamy portrait with ethereal glowing light and delicate pastel haze",
+      "title": "Dreamlike Ethereal Atmosphere Soft Portrait",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Dreamlike Ethereal Atmosphere keyword is a powerful tool for AI image creators aiming for subtle surrealism and poetic visuals. It shapes compositions that evoke feelings of calm, wonder, and mystique by leveraging soft-focused light effects and muted colors. This atmosphere works well to transform ordinary scenes into evocative dreamscapes or fantasy realms. By integrating it in your prompts, you guide the AI to soften edges, add translucency, and produce delicate gradations of light and shadow, making images ideal for editorial hero shots, conceptual art, or mood-driven backgrounds.",
+    "bestUseCases": [
+      "Creating dreamy portrait photography with soft light effects",
+      "Designing fantasy or surreal landscape backgrounds",
+      "Producing ethereal editorial images for magazines or digital media"
+    ],
+    "relatedKeywords": [
+      "Soft Glowing Light",
+      "Mystical Haze",
+      "Surreal Pastel Tones"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "dreamlike-ethereal-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

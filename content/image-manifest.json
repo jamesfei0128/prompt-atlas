@@ -1379,6 +1379,30 @@
       "generationPrompt": "16:9 interior living room scene with warm cozy atmosphere, soft glowing fireplace light, plush cushions, wooden furniture, warm color palette, diffused lighting, realistic materials, no text, no logos, no watermark",
       "category": "Atmosphere",
       "keywordSlug": "warm-cozy-atmosphere"
+    },
+    {
+      "filename": "urban-nighttime-mood.png",
+      "altText": "A cinematic urban cityscape at night with glowing streetlamps and reflective wet pavement",
+      "imageTitle": "Urban Nighttime Mood Cityscape",
+      "generationPrompt": "16:9 image of a modern city street at night, neon lights reflecting on wet pavement, glowing streetlamps, moody urban nighttime atmosphere, realistic textures, clean composition, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "urban-nighttime-mood"
+    },
+    {
+      "filename": "rainy-wet-pavement-mood.png",
+      "altText": "Street scene at night with wet rainy pavement reflecting city lights creating a moody atmosphere",
+      "imageTitle": "Rainy Wet Pavement Mood urban night scene",
+      "generationPrompt": "16:9 image of an urban street at night with wet pavement reflecting neon lights and street lamps, moody atmosphere, realistic textures, soft ambient lighting, cinematic style, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "rainy-wet-pavement-mood"
+    },
+    {
+      "filename": "dreamlike-ethereal-atmosphere.png",
+      "altText": "Soft dreamy portrait with ethereal glowing light and delicate pastel haze",
+      "imageTitle": "Dreamlike Ethereal Atmosphere Soft Portrait",
+      "generationPrompt": "16:9 portrait of a woman bathed in soft glowing light, surrounded by subtle pastel mist and delicate haze, dreamlike ethereal atmosphere, gentle bloom, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "dreamlike-ethereal-atmosphere"
     }
   ]
 }

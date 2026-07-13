@@ -967,27 +967,27 @@
     "keyword": "Urban Nighttime Mood",
     "slug": "urban-nighttime-mood",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-13T12:26:05.842Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Rainy Wet Pavement Mood",
     "slug": "rainy-wet-pavement-mood",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-13T12:26:49.618Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Dreamlike Ethereal Atmosphere",
     "slug": "dreamlike-ethereal-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.827Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-13T12:27:36.530Z",
     "source": "openai-discovery"
   },
   {
