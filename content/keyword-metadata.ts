@@ -5301,5 +5301,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Misty Morning Fog",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Misty Morning Fog: Atmospheric AI Image Prompt Guide",
+    "metaDescription": "Discover how to create stunning AI images with the keyword 'Misty Morning Fog.' Learn its definition, prompt formulas, best use cases, related styles, and model-specific tips.",
+    "heroImage": {
+      "src": "/images/keywords/misty-morning-fog.png",
+      "alt": "Serene landscape featuring soft misty morning fog with diffused light and muted colors",
+      "title": "Misty Morning Fog over a calm forest clearing",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The keyword \"Misty Morning Fog\" captures the quintessential elements of early day foggy atmospheres, offering artists and designers a tool to create images rich in mood and texture. When included in AI prompts, it guides models to simulate the delicate layering of moisture in the air, resulting in soft glows and natural gradients that reduce sharpness and contrast. This effect can transform ordinary scenes by introducing a tranquil, almost dreamy quality that resonates with viewers seeking serenity. The subtle light scattering and nuanced depth cues help generate images ideal for nature photography, serene landscapes, and evocative editorial visuals. Whether for creative projects or commercial photography, the 'Misty Morning Fog' keyword unlocks a distinct atmosphere that enriches visual storytelling.",
+    "bestUseCases": [
+      "Creating peaceful nature landscapes at dawn with soft fog",
+      "Designing moody, atmospheric backgrounds for editorial visuals",
+      "Generating serene urban scenes with diffused morning light"
+    ],
+    "relatedKeywords": [
+      "Foggy Forest",
+      "Early Morning Light",
+      "Atmospheric Depth"
+    ],
+    "difficulty": "Beginner",
+    "slug": "misty-morning-fog",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Calm Peaceful Environment",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Calm Peaceful Environment – AI Image Prompt Guide",
+    "metaDescription": "Discover how to use the Calm Peaceful Environment keyword to create serene, soothing AI-generated images. Tips, prompt formulas, and professional workflows included.",
+    "heroImage": {
+      "src": "/images/keywords/calm-peaceful-environment.png",
+      "alt": "Serene natural landscape with soft sunlight and gentle stream",
+      "title": "Calm Peaceful Environment Visual Representation",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Using the 'Calm Peaceful Environment' keyword in AI image prompts helps produce images that communicate a sense of tranquility and well-being. This keyword guides the AI to prioritize soft light, natural and uncluttered scenes, and harmonious color palettes such as soft blues, greens, or warm earth tones. It is ideal for compositions depicting serene landscapes, quiet interiors, or soothing abstract backgrounds. Incorporating this keyword ensures the generated images are inviting and restful, suitable for wellness, meditation, or lifestyle themes. Overall, it adjusts the image's mood towards peacefulness by influencing elements like lighting, color, and spatial arrangement to reduce visual chaos and encourage contemplation.",
+    "bestUseCases": [
+      "Wellness and meditation app backgrounds",
+      "Lifestyle blogs or editorial spreads focused on relaxation",
+      "Environmental or travel websites highlighting serene destinations"
+    ],
+    "relatedKeywords": [
+      "Tranquil Landscape",
+      "Serene Interior",
+      "Soothing Nature Scene"
+    ],
+    "difficulty": "Beginner",
+    "slug": "calm-peaceful-environment",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Surreal Fantasy Scene",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Surreal Fantasy Scene: AI Image Prompt Keyword Guide",
+    "metaDescription": "Discover how to create captivating surreal fantasy scenes with AI prompts. Learn definitions, visual traits, best uses, and tips for stunning, imaginative artwork.",
+    "heroImage": {
+      "src": "/images/keywords/surreal-fantasy-scene.png",
+      "alt": "Surreal fantasy scene with floating islands, mystical creatures, and glowing twilight sky",
+      "title": "Surreal Fantasy Scene with Floating Islands and Mystical Creatures",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Surreal Fantasy Scene prompts transport viewers into imaginative worlds where reality bends and extraordinary elements coexist in harmony. These scenes often feature magical landscapes, ethereal lighting, and fantastical creatures that challenge the laws of physics and logic. Using surreal fantasy in AI art generation allows creators to explore abstract concepts, emotional depths, and symbolic imagery in visually compelling ways. This keyword helps steer models towards crafting otherworldly visuals that feel both mystical and thought-provoking, ideal for storytelling, game design, or artistic expression. The balance between fantasy and surrealism ensures a unique, memorable atmosphere, drawing audiences into a vividly creative experience.",
+    "bestUseCases": [
+      "Concept art for fantasy films or video games",
+      "Book covers and illustrations for speculative fiction",
+      "Inspirational visuals for advertising and social media campaigns"
+    ],
+    "relatedKeywords": [
+      "Dreamlike Atmosphere",
+      "Mystical Landscape",
+      "Fantasy Creature"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "surreal-fantasy-scene",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

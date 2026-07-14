@@ -1403,6 +1403,30 @@
       "generationPrompt": "16:9 portrait of a woman bathed in soft glowing light, surrounded by subtle pastel mist and delicate haze, dreamlike ethereal atmosphere, gentle bloom, no text, no logos",
       "category": "Atmosphere",
       "keywordSlug": "dreamlike-ethereal-atmosphere"
+    },
+    {
+      "filename": "misty-morning-fog.png",
+      "altText": "Serene landscape featuring soft misty morning fog with diffused light and muted colors",
+      "imageTitle": "Misty Morning Fog over a calm forest clearing",
+      "generationPrompt": "Wide-angle view of a tranquil early morning forest landscape covered in soft misty morning fog, gentle diffused sunlight filtering through tall trees, muted color tones, atmospheric depth, realistic textures, clean editorial style, no text, no logos, no watermark, 16:9",
+      "category": "Atmosphere",
+      "keywordSlug": "misty-morning-fog"
+    },
+    {
+      "filename": "calm-peaceful-environment.png",
+      "altText": "Serene natural landscape with soft sunlight and gentle stream",
+      "imageTitle": "Calm Peaceful Environment Visual Representation",
+      "generationPrompt": "16:9 serene natural landscape, soft golden hour light filtering through green trees, gentle flowing stream, minimalist composition, realistic textures, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "calm-peaceful-environment"
+    },
+    {
+      "filename": "surreal-fantasy-scene.png",
+      "altText": "Surreal fantasy scene with floating islands, mystical creatures, and glowing twilight sky",
+      "imageTitle": "Surreal Fantasy Scene with Floating Islands and Mystical Creatures",
+      "generationPrompt": "16:9 surreal fantasy scene with floating islands, mystical creatures under glowing twilight sky, ethereal mist, highly detailed textures, cinematic lighting, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "surreal-fantasy-scene"
     }
   ]
 }
