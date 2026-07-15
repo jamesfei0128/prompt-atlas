@@ -5391,5 +5391,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Rule Of Thirds Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Rule of Thirds Composition: Essential Guide for AI Image Prompts",
+    "metaDescription": "Discover how the Rule of Thirds Composition enhances AI image prompts with balanced visuals, plus formula, tips, and professional workflow insights.",
+    "heroImage": {
+      "src": "/images/keywords/rule-of-thirds-composition.png",
+      "alt": "Landscape photograph with mountain sunset composed using Rule of Thirds grid",
+      "title": "Mountain Sunset Using Rule of Thirds Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Rule of Thirds Composition is widely used in photography, design, and art to create engaging and balanced visuals. By mentally dividing images into thirds horizontally and vertically, this approach directs both human observers and AI models to position important subjects where the eye naturally gravitates. Incorporating this rule into AI prompts helps produce images that feel organized and pleasing without appearing overly static. It works well across portrait, landscape, and product imagery, guiding the AI to arrange elements thoughtfully for maximum impact.",
+    "bestUseCases": [
+      "Portrait photography and character renders",
+      "Landscape and nature scenes with horizon alignment",
+      "Product photography showcasing items with focal clarity"
+    ],
+    "relatedKeywords": [
+      "Golden Ratio Composition",
+      "Symmetry Composition",
+      "Leading Lines Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rule-of-thirds-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Symmetrical Balance Design",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Symmetrical Balance Design: Definition and Prompt Guide",
+    "metaDescription": "Explore Symmetrical Balance Design in AI art with clear definitions, visual traits, prompt formulas, and best use cases for stunning balanced compositions.",
+    "heroImage": {
+      "src": "/images/keywords/symmetrical-balance-design.png",
+      "alt": "Modern interior design with symmetrical balance showcasing mirror-like arrangement and refined lighting",
+      "title": "Symmetrical Balance Design in Modern Interior",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Symmetrical Balance Design is a foundational principle in visual composition, emphasizing harmony and equilibrium by mirroring elements across a central line. When incorporated into AI image prompts, it guides the model to generate images that feel orderly and balanced, appealing especially to designs that require calmness and formal structure. This design approach is commonly applied in architecture, product photography, and graphic design to evoke stability and professionalism. By using symmetrical balance, AI-generated images achieve a refined aesthetic often valued in editorial and commercial visuals, enhancing clarity and visual impact with polished, realistic materials and subtle depth.",
+    "bestUseCases": [
+      "Product photography showcasing items with mirrored placement for e-commerce",
+      "Architectural or interior design visuals emphasizing formal symmetry",
+      "Editorial hero images requiring clear, balanced compositions"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Golden Ratio Design",
+      "Asymmetrical Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "symmetrical-balance-design",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Diagonal Movement Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Diagonal Movement Layout: Enhance Dynamic Composition in AI Images",
+    "metaDescription": "Explore the Diagonal Movement Layout, a dynamic composition technique for AI-generated images that guides viewers' eyes with energetic diagonal lines.",
+    "heroImage": {
+      "src": "/images/keywords/diagonal-movement-layout.png",
+      "alt": "Dynamic composition showing a person in motion arranged with diagonal movement layout",
+      "title": "Diagonal Movement Layout in Dynamic Photography",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Diagonal Movement Layout is a popular visual strategy in creative imagery that infuses energy and direction into a composition. By aligning main subjects, backgrounds, or elements along diagonal axes, AI-generated images achieve a feeling of flow and progression that captures viewers' attention. This approach contrasts with static horizontal or vertical layouts by introducing tension and rhythm. Using this layout in AI prompts, artists and designers can create more engaging visuals for editorial, advertising, and artistic uses where motion and storytelling are key.",
+    "bestUseCases": [
+      "Editorial photography and magazine covers featuring dynamic subject placement",
+      "Advertising visuals requiring energetic and directional flow",
+      "Digital artwork portraying action scenes or storytelling through composition"
+    ],
+    "relatedKeywords": [
+      "Leading Lines",
+      "Dynamic Composition",
+      "Rule of Thirds"
+    ],
+    "difficulty": "Beginner",
+    "slug": "diagonal-movement-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

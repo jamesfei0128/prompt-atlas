@@ -1427,6 +1427,30 @@
       "generationPrompt": "16:9 surreal fantasy scene with floating islands, mystical creatures under glowing twilight sky, ethereal mist, highly detailed textures, cinematic lighting, no text, no logos",
       "category": "Atmosphere",
       "keywordSlug": "surreal-fantasy-scene"
+    },
+    {
+      "filename": "rule-of-thirds-composition.png",
+      "altText": "Landscape photograph with mountain sunset composed using Rule of Thirds grid",
+      "imageTitle": "Mountain Sunset Using Rule of Thirds Composition",
+      "generationPrompt": "16:9 high-resolution photo of a mountain sunset, Rule of Thirds composition, vibrant orange and purple sky, realistic textures, soft lighting, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "rule-of-thirds-composition"
+    },
+    {
+      "filename": "symmetrical-balance-design.png",
+      "altText": "Modern interior design with symmetrical balance showcasing mirror-like arrangement and refined lighting",
+      "imageTitle": "Symmetrical Balance Design in Modern Interior",
+      "generationPrompt": "16:9 image of a modern living room with symmetrical balance design, clean editorial composition, premium lighting, realistic materials, subtle depth, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "symmetrical-balance-design"
+    },
+    {
+      "filename": "diagonal-movement-layout.png",
+      "altText": "Dynamic composition showing a person in motion arranged with diagonal movement layout",
+      "imageTitle": "Diagonal Movement Layout in Dynamic Photography",
+      "generationPrompt": "16:9 photo of a dancer captured in motion, emphasizing diagonal movement layout, clean editorial style, premium stock image quality, refined lighting with subtle depth, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "diagonal-movement-layout"
     }
   ]
 }
