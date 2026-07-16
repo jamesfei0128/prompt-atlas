@@ -5481,5 +5481,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Layered Depth Perspective",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Layered Depth Perspective: Mastering 3D Composition in AI Art",
+    "metaDescription": "Discover how Layered Depth Perspective enhances AI-generated images with realistic spatial layers, boosting composition and visual storytelling.",
+    "heroImage": {
+      "src": "/images/keywords/layered-depth-perspective.png",
+      "alt": "AI-generated image demonstrating Layered Depth Perspective with clear foreground, middle ground, and background layers",
+      "title": "Layered Depth Perspective Example Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Layered Depth Perspective is an effective compositional tool in AI imagery that introduces realistic spatial layering to enhance depth perception. By instructing models to arrange elements across multiple planes, it helps mimic how human eyes perceive space, making images appear more three-dimensional and engaging. This technique guides AI to produce subtle variations in detail, lighting, and focus among layers, adding complexity and visual interest without clutter. Whether illustrating landscapes, architectural scenes, or complex narratives, using Layered Depth Perspective enriches image storytelling and elevates the quality of outputs beyond flat, two-dimensional visuals.",
+    "bestUseCases": [
+      "Landscape and nature scenes requiring convincing depth and spatial layering",
+      "Architectural visualizations emphasizing spatial relationships and depth",
+      "Narrative or cinematic compositions with dynamic foreground and background interplay"
+    ],
+    "relatedKeywords": [
+      "Atmospheric Perspective",
+      "Foreground Focus",
+      "Spatial Hierarchy"
+    ],
+    "difficulty": "Beginner",
+    "slug": "layered-depth-perspective",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Negative Space Techniques",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Mastering Negative Space Techniques in AI Image Prompts",
+    "metaDescription": "Learn how negative space techniques enhance AI-generated images with clear definitions, visual traits, prompt formulas, and best use cases for creatives.",
+    "heroImage": {
+      "src": "/images/keywords/negative-space-techniques.png",
+      "alt": "Example of negative space technique with a solitary subject and clean background",
+      "title": "Negative Space Techniques in AI Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Negative space techniques are a fundamental compositional tool used to create balance and draw an audience's attention to the subject by embedding meaningful empty space around it. When applied in AI image generation, specifying negative space cues can lead to clean, organized visuals that feel spacious and intentional rather than cluttered. This approach helps guide AI models to distinguish foreground elements from backgrounds effectively, enhancing readability and artistry. Negative space also allows for subtle storytelling, as the voids themselves contribute to the overall message or mood.",
+    "bestUseCases": [
+      "Editorial layouts requiring clean, readable imagery",
+      "Product photography backgrounds emphasizing the item",
+      "Minimalist art posters and promotional materials"
+    ],
+    "relatedKeywords": [
+      "Minimalist Composition",
+      "Silhouette Art",
+      "Balanced Layout"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "negative-space-techniques",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Centered Focus Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Centered Focus Composition: Mastering Visual Balance in AI Images",
+    "metaDescription": "Discover how Centered Focus Composition enhances AI-generated images with balanced subjects, ideal for impactful design and editorial visuals.",
+    "heroImage": {
+      "src": "/images/keywords/centered-focus-composition.png",
+      "alt": "Portrait of a professional woman centered on a clean background with refined lighting",
+      "title": "Centered Focus Composition Portrait",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Centered Focus Composition is a fundamental technique in visual art and photography where the main subject is aligned precisely at the center of the frame. This method draws the viewer's eye directly to the focal point, emphasizing clarity and simplicity. In AI image generation, including terms related to 'centered focus' guides the model to replicate this balanced layout. This composition is effective for portraits, product shots, and editorial imagery where impact and emphasis are key. Centered framing exudes a formal, stable aesthetic and reduces visual clutter, making it ideal for high-quality, professional visuals guided by refined lighting and realistic materials.",
+    "bestUseCases": [
+      "Editorial portraits and headshots emphasizing the individual",
+      "Product photography for e-commerce listings needing clear, isolated focus",
+      "Thumbnail images for articles or content previews requiring immediate subject clarity"
+    ],
+    "relatedKeywords": [
+      "Symmetrical Composition",
+      "Rule of Thirds Composition",
+      "Minimalist Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "centered-focus-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

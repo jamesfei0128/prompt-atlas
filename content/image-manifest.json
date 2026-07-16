@@ -1451,6 +1451,30 @@
       "generationPrompt": "16:9 photo of a dancer captured in motion, emphasizing diagonal movement layout, clean editorial style, premium stock image quality, refined lighting with subtle depth, realistic materials, no text, no logos",
       "category": "Composition",
       "keywordSlug": "diagonal-movement-layout"
+    },
+    {
+      "filename": "layered-depth-perspective.png",
+      "altText": "AI-generated image demonstrating Layered Depth Perspective with clear foreground, middle ground, and background layers",
+      "imageTitle": "Layered Depth Perspective Example Composition",
+      "generationPrompt": "16:9 image of a serene forest scene showing layered depth perspective with detailed foreground ferns, mid-ground tall trees partially obscured by light mist, and a soft, hazy mountain range background under warm sunlight, realistic materials, subtle natural lighting, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "layered-depth-perspective"
+    },
+    {
+      "filename": "negative-space-techniques.png",
+      "altText": "Example of negative space technique with a solitary subject and clean background",
+      "imageTitle": "Negative Space Techniques in AI Composition",
+      "generationPrompt": "16:9 image of a single prominent object centered with abundant clean negative space around it, minimalist style, soft natural lighting, photorealistic materials, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "negative-space-techniques"
+    },
+    {
+      "filename": "centered-focus-composition.png",
+      "altText": "Portrait of a professional woman centered on a clean background with refined lighting",
+      "imageTitle": "Centered Focus Composition Portrait",
+      "generationPrompt": "16:9 portrait of a professional woman centered against a soft white background, refined lighting, realistic skin texture, clean editorial composition, subtle depth, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "centered-focus-composition"
     }
   ]
 }
