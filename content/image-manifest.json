@@ -1475,6 +1475,30 @@
       "generationPrompt": "16:9 portrait of a professional woman centered against a soft white background, refined lighting, realistic skin texture, clean editorial composition, subtle depth, no text, no logos",
       "category": "Composition",
       "keywordSlug": "centered-focus-composition"
+    },
+    {
+      "filename": "minimalist-design-style.png",
+      "altText": "Minimalist design style interior with clean lines, neutral colors, and ample negative space",
+      "imageTitle": "Minimalist Design Style Interior",
+      "generationPrompt": "16:9 image of a minimalist design style interior, clean lines, neutral color palette, ample negative space, soft natural lighting, modern furniture, realistic materials, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "minimalist-design-style"
+    },
+    {
+      "filename": "maximalist-visual-style.png",
+      "altText": "An intricate maximalist interior filled with colorful patterns, layered textures, and abundant decorative objects under warm natural light",
+      "imageTitle": "Maximalist Visual Style Interior Scene",
+      "generationPrompt": "16:9 detailed interior scene in maximalist visual style, featuring layered colorful textiles, ornate furniture, diverse decorative objects, warm natural lighting, rich textures, realistic materials, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "maximalist-visual-style"
+    },
+    {
+      "filename": "brutalist-graphic-style.png",
+      "altText": "Brutalist Graphic Style AI generated image showcasing bold geometric shapes and textured concrete surfaces under stark lighting",
+      "imageTitle": "Brutalist Graphic Style AI Illustration",
+      "generationPrompt": "16:9 brutalist graphic style, bold geometric shapes, raw concrete textures, harsh directional light, minimal monochrome palette, editorial composition, realistic materials, no text, no logos, no watermark",
+      "category": "Style",
+      "keywordSlug": "brutalist-graphic-style"
     }
   ]
 }

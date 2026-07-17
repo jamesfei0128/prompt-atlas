@@ -5571,5 +5571,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Minimalist Design Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Minimalist Design Style: Clean, Modern, and Timeless Aesthetic",
+    "metaDescription": "Explore the minimalist design style in AI image prompts. Learn definition, visual traits, prompt formulas, best use cases, related styles, and model tips.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-design-style.png",
+      "alt": "Minimalist design style interior with clean lines, neutral colors, and ample negative space",
+      "title": "Minimalist Design Style Interior",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Minimalist design style is a popular artistic approach that strips visuals down to their fundamental components. It values functionality, clarity, and subtlety rather than embellishment. When used in AI image generation, it leads to creations with harmonious balance, simplicity, and impact. Minimalism favors sleek geometry, reduced ornamentation, and neutral or pastel color schemes. This style communicates sophistication and modern elegance, making it well suited for branding, editorial illustrations, product visuals, and architectural imagery. Adopting minimalist design in prompts guides AI to focus on essential shapes and textures, delivering images with visual calm and refined aesthetics.",
+    "bestUseCases": [
+      "Modern branding and logo design visuals",
+      "Editorial images emphasizing clarity and focus",
+      "Product packaging mockups with clean aesthetics"
+    ],
+    "relatedKeywords": [
+      "Modern Design Style",
+      "Scandinavian Style",
+      "Contemporary Minimalism"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-design-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Maximalist Visual Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Maximalist Visual Style: Bold & Detailed AI Image Prompts",
+    "metaDescription": "Discover the Maximalist Visual Style for AI image prompts: definition, formula, use cases, industry applications, common mistakes, and expert techniques.",
+    "heroImage": {
+      "src": "/images/keywords/maximalist-visual-style.png",
+      "alt": "An intricate maximalist interior filled with colorful patterns, layered textures, and abundant decorative objects under warm natural light",
+      "title": "Maximalist Visual Style Interior Scene",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Maximalist Visual Style embraces complexity and abundance, celebrating the idea that 'more is more.' Unlike minimalist aesthetics that focus on simplicity and negative space, maximalism fills the frame with rich patterns, vivid colors, and diverse visual motifs. When used in AI prompts, this style influences the model to produce images that are dynamic, captivating, and full of personality. It suits artists, designers, and marketers looking to communicate opulence, eclectic taste, or energetic narratives through imagery. The style thrives on harmonious chaos and invites creative layering of unexpected elements, making each composition visually stimulating and memorable.",
+    "bestUseCases": [
+      "Creating vibrant editorial illustrations filled with detailed elements",
+      "Designing visually rich packaging or product advertisements",
+      "Generating elaborate interior decor concepts with layered objects"
+    ],
+    "relatedKeywords": [
+      "ornate style",
+      "baroque aesthetic",
+      "detailed composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "maximalist-visual-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Brutalist Graphic Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Brutalist Graphic Style: Bold AI Image Prompts Made Simple",
+    "metaDescription": "Discover how to use Brutalist Graphic Style in AI prompts for impactful, edgy visuals. Learn definitions, formulas, use cases, and advanced tips.",
+    "heroImage": {
+      "src": "/images/keywords/brutalist-graphic-style.png",
+      "alt": "Brutalist Graphic Style AI generated image showcasing bold geometric shapes and textured concrete surfaces under stark lighting",
+      "title": "Brutalist Graphic Style AI Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Brutalist Graphic Style channels the architectural Brutalism movement into graphic design and AI-generated imagery. This style emphasizes structural honesty, simplicity, and stark, unornamented forms. When used as a keyword in AI prompts, it guides image generation towards designs that are bold, edgy, and visually striking with minimal frivolity. Ideal for projects that want to convey strength, modernity, and a no-nonsense attitude, Brutalist Graphic Style is distinct from more decorative or soft aesthetic prompts. It helps create a commanding presence with clear lines and unrefined textures, perfect for editorial layouts, posters, or digital art with an avant-garde edge.",
+    "bestUseCases": [
+      "Editorial posters and covers with an urban, raw aesthetic",
+      "Branding visuals for tech or industrial companies",
+      "Digital art compositions emphasizing form and texture"
+    ],
+    "relatedKeywords": [
+      "Minimalist Graphic Style",
+      "Industrial Design Style",
+      "Monochrome Graphic Style"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "brutalist-graphic-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
