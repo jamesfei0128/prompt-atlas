@@ -1499,6 +1499,30 @@
       "generationPrompt": "16:9 brutalist graphic style, bold geometric shapes, raw concrete textures, harsh directional light, minimal monochrome palette, editorial composition, realistic materials, no text, no logos, no watermark",
       "category": "Style",
       "keywordSlug": "brutalist-graphic-style"
+    },
+    {
+      "filename": "retro-vintage-style.png",
+      "altText": "Vintage style living room interior with retro furniture and muted warm lighting",
+      "imageTitle": "Retro Vintage Style Interior Design",
+      "generationPrompt": "16:9 image of a cozy living room designed in Retro Vintage Style with muted warm pastel colors, classic mid-century furniture, soft lighting, film grain texture, clean editorial composition, premium stock-image quality, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "retro-vintage-style"
+    },
+    {
+      "filename": "modern-bauhaus-influence.png",
+      "altText": "Modern Bauhaus-inspired minimalist interior with geometric furniture and natural light",
+      "imageTitle": "Modern Bauhaus Influence Interior Design",
+      "generationPrompt": "16:9 photo of a minimalist interior with geometric Bauhaus-style furniture, soft natural lighting, primary color accents in red and blue, clean lines, balanced composition, realistic materials, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "modern-bauhaus-influence"
+    },
+    {
+      "filename": "flat-graphic-design.png",
+      "altText": "Colorful flat graphic design style illustration with simple geometric shapes and bold colors",
+      "imageTitle": "Flat Graphic Design Illustration with Bold Colors",
+      "generationPrompt": "16:9 composition of a flat graphic design style illustration featuring bold solid colors, simple geometric shapes, clean lines, no shadows, no gradients, minimalistic and modern aesthetic, digital art, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "flat-graphic-design"
     }
   ]
 }

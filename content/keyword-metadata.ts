@@ -5661,5 +5661,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Retro Vintage Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Retro Vintage Style AI Image Prompt Guide",
+    "metaDescription": "Explore how to create retro vintage style AI images with classic aesthetics. Learn visual traits, prompt formulas, best uses, and pro workflows.",
+    "heroImage": {
+      "src": "/images/keywords/retro-vintage-style.png",
+      "alt": "Vintage style living room interior with retro furniture and muted warm lighting",
+      "title": "Retro Vintage Style Interior Design",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Retro Vintage Style captures the essence of eras past, typically the 1950s through the 1970s, using iconic design traits that evoke nostalgia and warmth. By incorporating this style into AI image prompts, creators can produce images that appear timeless and charming, reflecting the aesthetics popular in mid-century advertising, fashion, and interior decor. The style applies to various subjects, including portraits, product visuals, and environments, often featuring subtle aging effects and color palettes unique to the period. This approach is ideal when a classic, sentimental tone is desired that contrasts with modern minimalism or hyperrealism.",
+    "bestUseCases": [
+      "Creating nostalgic advertising or poster visuals for brands seeking classic appeal",
+      "Designing editorial hero images or thumbnails with a retro theme for fashion and lifestyle content",
+      "Producing stylized portraits or scenes evocative of historical eras for storytelling or branding"
+    ],
+    "relatedKeywords": [
+      "Mid-Century Modern",
+      "Film Grain Effect",
+      "Classic Typography"
+    ],
+    "difficulty": "Beginner",
+    "slug": "retro-vintage-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Modern Bauhaus Influence",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Modern Bauhaus Influence: A Guide for AI Image Prompts",
+    "metaDescription": "Explore the Modern Bauhaus Influence style in AI image prompts with definitions, formulas, use cases, and advanced techniques for refined designs.",
+    "heroImage": {
+      "src": "/images/keywords/modern-bauhaus-influence.png",
+      "alt": "Modern Bauhaus-inspired minimalist interior with geometric furniture and natural light",
+      "title": "Modern Bauhaus Influence Interior Design",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Modern Bauhaus Influence brings the legendary design ethos of the early 20th century into a contemporary context, making it a popular style choice for AI-generated visuals. It emphasizes minimalism, function, and simplicity, combining geometric clarity with modern materials and lighting. This results in images that feel structured yet fresh, suitable for editorial, architectural, and product visualization. Unlike traditional decorative styles, Bauhaus-inspired prompts prioritize usability and form, lending themselves well to sleek, professional outputs that communicate clarity and sophistication without excessive detail.",
+    "bestUseCases": [
+      "Architectural visualization with minimalist interiors and furniture",
+      "Modern product mockups emphasizing form and function",
+      "Editorial images for design magazines and technology articles"
+    ],
+    "relatedKeywords": [
+      "Geometric Minimalism",
+      "Contemporary Modernism",
+      "Functional Design"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "modern-bauhaus-influence",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Flat Graphic Design",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Flat Graphic Design: Clean Modern Style for AI Image Prompts",
+    "metaDescription": "Discover Flat Graphic Design style in AI prompts: clear definition, visual traits, prompt formulas, use cases, and pro tips for best results.",
+    "heroImage": {
+      "src": "/images/keywords/flat-graphic-design.png",
+      "alt": "Colorful flat graphic design style illustration with simple geometric shapes and bold colors",
+      "title": "Flat Graphic Design Illustration with Bold Colors",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Flat Graphic Design is a popular style that emphasizes simplicity and clarity. It avoids complex textures, realistic lighting, or three-dimensional effects. Instead, it focuses on clear lines, crisp edges, and vibrant color palettes to communicate ideas effectively and aesthetically. When used in AI image prompts, it helps generate visually clean, easily recognizable subjects suitable for icons, interface elements, and editorial illustrations. This style aligns perfectly with modern digital and branding trends, providing a fresh and approachable look that appeals broadly.",
+    "bestUseCases": [
+      "Creating user interface (UI) elements and app icons",
+      "Designing educational and infographic illustrations",
+      "Producing marketing materials with clean, bold visuals"
+    ],
+    "relatedKeywords": [
+      "Minimalist Design",
+      "Vector Art",
+      "Isometric Illustration"
+    ],
+    "difficulty": "Beginner",
+    "slug": "flat-graphic-design",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

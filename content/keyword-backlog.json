@@ -1102,27 +1102,27 @@
     "keyword": "Retro Vintage Style",
     "slug": "retro-vintage-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.828Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-18T10:55:52.482Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Modern Bauhaus Influence",
     "slug": "modern-bauhaus-influence",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.828Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-18T10:56:33.353Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Flat Graphic Design",
     "slug": "flat-graphic-design",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.828Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-18T10:57:08.634Z",
     "source": "openai-discovery"
   },
   {
@@ -1968,6 +1968,348 @@
     "category": "Texture & Material",
     "status": "pending",
     "createdAt": "2026-07-06T13:37:18.108Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Softbox Lighting Setup",
+    "slug": "softbox-lighting-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.911Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Hour Color Grading",
+    "slug": "golden-hour-color-grading",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.911Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Reflective Surface Texture",
+    "slug": "reflective-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.911Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Mood Board Creation Tips",
+    "slug": "mood-board-creation-tips",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.911Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Symmetrical Balance Composition",
+    "slug": "symmetrical-balance-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Grainy Film Overlay Texture",
+    "slug": "grainy-film-overlay-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Brand Identity Visuals",
+    "slug": "brand-identity-visuals",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Muted Pastel Color Scheme",
+    "slug": "muted-pastel-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Negative Space Layout",
+    "slug": "negative-space-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Photography Guidelines",
+    "slug": "product-photography-guidelines",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Contrast Lighting Setup",
+    "slug": "high-contrast-lighting-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vibrant Accent Color Palette",
+    "slug": "vibrant-accent-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Wood Grain Surface Texture",
+    "slug": "wood-grain-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Social Media Visual Strategy",
+    "slug": "social-media-visual-strategy",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Analogous Warm Color Scheme",
+    "slug": "analogous-warm-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Dynamic Triangular Composition",
+    "slug": "dynamic-triangular-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "E-Commerce Visual Optimization",
+    "slug": "e-commerce-visual-optimization",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rembrandt Light Setup",
+    "slug": "rembrandt-light-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Muted Earth Tone Palette",
+    "slug": "muted-earth-tone-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Spiral Composition",
+    "slug": "golden-spiral-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Ring Light Portrait Setup",
+    "slug": "ring-light-portrait-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Bright Primary Colors Palette",
+    "slug": "bright-primary-colors-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Symmetrical Framing Composition",
+    "slug": "symmetrical-framing-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Packaging Design Visuals",
+    "slug": "packaging-design-visuals",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Reflector Lighting",
+    "slug": "natural-reflector-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Muted Color Palette",
+    "slug": "soft-muted-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Centered Focus Layout",
+    "slug": "centered-focus-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Woven Fabric Material Texture",
+    "slug": "woven-fabric-material-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Diffused Daylight Lighting",
+    "slug": "diffused-daylight-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Fibonacci Sequence Composition",
+    "slug": "fibonacci-sequence-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Metallic Foil Texture",
+    "slug": "metallic-foil-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pastel Gradient Color Scheme",
+    "slug": "pastel-gradient-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Spatial Composition",
+    "slug": "minimalist-spatial-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rough Concrete Surface Texture",
+    "slug": "rough-concrete-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Visual Storytelling Strategy",
+    "slug": "visual-storytelling-strategy",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Fill Light Setup",
+    "slug": "soft-fill-light-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Saturation Color Palette",
+    "slug": "high-saturation-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Asymmetrical Visual Balance",
+    "slug": "asymmetrical-visual-balance",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-18T10:55:14.912Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }
