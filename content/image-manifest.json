@@ -1523,6 +1523,30 @@
       "generationPrompt": "16:9 composition of a flat graphic design style illustration featuring bold solid colors, simple geometric shapes, clean lines, no shadows, no gradients, minimalistic and modern aesthetic, digital art, no text, no logos",
       "category": "Style",
       "keywordSlug": "flat-graphic-design"
+    },
+    {
+      "filename": "soft-pastel-color-palette.png",
+      "altText": "Elegant flat lay of objects featuring a soft pastel color palette with muted pink, lavender, and cream hues",
+      "imageTitle": "Soft Pastel Color Palette Example",
+      "generationPrompt": "a clean editorial flat lay photo of delicate objects arranged on a white surface in a soft pastel color palette, including pale pinks, lavender, mint green, soft lighting, subtle shadows, premium stock image quality, realistic materials, no text, no logos, no watermark, 16:9",
+      "category": "Color",
+      "keywordSlug": "soft-pastel-color-palette"
+    },
+    {
+      "filename": "deep-jewel-tones.png",
+      "altText": "Luxury portrait featuring deep jewel tones in rich emerald green and sapphire blue",
+      "imageTitle": "Luxury Portrait in Deep Jewel Tones",
+      "generationPrompt": "A highly detailed 16:9 portrait of a person illuminated with deep jewel tones, rich emerald green and sapphire blue lighting, soft shadows, premium editorial style, clean background, realistic skin textures, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "deep-jewel-tones"
+    },
+    {
+      "filename": "earthy-warm-color-scheme.png",
+      "altText": "Interior room with earthy warm color scheme, featuring terracotta walls, wooden furniture, and soft natural lighting",
+      "imageTitle": "Cozy Living Room with Earthy Warm Color Palette",
+      "generationPrompt": "16:9 photo of cozy living room interior with earthy warm color scheme, terracotta walls, wooden furniture, soft natural lighting, textured fabrics, realistic materials, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "earthy-warm-color-scheme"
     }
   ]
 }

@@ -5751,5 +5751,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Soft Pastel Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Soft Pastel Color Palette: Gentle Hues for Elegant AI Art",
+    "metaDescription": "Discover the Soft Pastel Color Palette for AI image prompts. Learn definition, prompt formulas, best uses, workflows, and style tips to create subtle, elegant visuals.",
+    "heroImage": {
+      "src": "/images/keywords/soft-pastel-color-palette.png",
+      "alt": "Elegant flat lay of objects featuring a soft pastel color palette with muted pink, lavender, and cream hues",
+      "title": "Soft Pastel Color Palette Example",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Soft Pastel Color Palette embodies a range of delicate and subdued colors that convey tranquility and subtlety. When directing AI models, mentioning this palette guides the generation toward gentle gradations and harmonious blends of pale pinks, blues, lavenders, and creams. This palette is often employed to produce images with a dreamy, refined aesthetic, fitting for designs needing understated elegance or a nostalgic feel. The softness reduces visual noise and enhances compositions focused on mood rather than bold contrasts.",
+    "bestUseCases": [
+      "Editorial lifestyle photography with a delicate mood",
+      "Spring or baby-themed illustrations with gentle tones",
+      "Minimalist product shots highlighting elegance"
+    ],
+    "relatedKeywords": [
+      "Muting Tone",
+      "Dreamy Lighting",
+      "Minimalist Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-pastel-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Deep Jewel Tones",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Deep Jewel Tones: Rich Color Palette for AI Image Prompts",
+    "metaDescription": "Explore deep jewel tones in AI image prompts to create vivid, luxurious visuals. Learn definitions, characteristics, and creative uses for premium imagery.",
+    "heroImage": {
+      "src": "/images/keywords/deep-jewel-tones.png",
+      "alt": "Luxury portrait featuring deep jewel tones in rich emerald green and sapphire blue",
+      "title": "Luxury Portrait in Deep Jewel Tones",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Deep jewel tones are a color category that draws inspiration from the vibrant and saturated hues of gemstones such as emeralds, sapphires, rubies, and amethysts. Using these colors in AI-generated images results in visuals that feel elegant, deep, and luxurious. The intense saturation combined with a natural richness adds emotional depth and visual interest without overwhelming the composition. This palette is especially effective for creating sophisticated editorial portraits, stylish fashion imagery, and premium product photography. By specifying 'deep jewel tones' in prompts, artists and creators can reliably evoke a refined atmosphere with distinctive, eye-catching colors.",
+    "bestUseCases": [
+      "Luxury fashion and editorial portraits with eye-catching color accents",
+      "High-end product photography showcasing rich textures and materials",
+      "Interior design concepts emphasizing moody, elegant atmospheres"
+    ],
+    "relatedKeywords": [
+      "Rich Saturated Colors",
+      "Gemstone Palette",
+      "Mood Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "deep-jewel-tones",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Earthy Warm Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Earthy Warm Color Scheme: Rich Natural Tones for AI Imagery",
+    "metaDescription": "Explore the Earthy Warm Color Scheme for AI image prompts—definition, formula, use cases, advanced tips, and workflow for stunning natural-toned visuals.",
+    "heroImage": {
+      "src": "/images/keywords/earthy-warm-color-scheme.png",
+      "alt": "Interior room with earthy warm color scheme, featuring terracotta walls, wooden furniture, and soft natural lighting",
+      "title": "Cozy Living Room with Earthy Warm Color Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Earthy Warm Color Scheme is a popular choice for artists and designers aiming to create images that feel natural, comforting, and connected to the environment. By focusing on warm, muted earth tones, this scheme lends a timeless aesthetic suited for a variety of subjects, including landscapes, portraits, interiors, and product shots. Using this palette in AI image prompts can help achieve visuals that emphasize quiet warmth and natural beauty, often evoking rustic charm or bohemian moods. It's well-suited for editorial photography, lifestyle branding, and environmental themes, enhancing images with a sophisticated yet approachable mood.",
+    "bestUseCases": [
+      "Lifestyle photography showcasing cozy interiors and rustic decor",
+      "Portraits with warm ambient lighting and natural backgrounds",
+      "Product shots featuring artisan or organic goods emphasizing natural quality"
+    ],
+    "relatedKeywords": [
+      "Warm Rustic Palette",
+      "Terracotta Hues",
+      "Natural Brown Tones"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "earthy-warm-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
