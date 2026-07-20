@@ -5841,5 +5841,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Monochromatic Blue Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Monochromatic Blue Palette: Crafting Cohesive AI Images",
+    "metaDescription": "Explore how the Monochromatic Blue Palette style enhances AI-generated images with unified blue tones, creating visually pleasing and versatile designs.",
+    "heroImage": {
+      "src": "/images/keywords/monochromatic-blue-palette.png",
+      "alt": "Artistic AI-generated image showcasing a monochromatic blue palette with gradient shades and soft lighting",
+      "title": "Monochromatic Blue Palette AI Illustration",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using a Monochromatic Blue Palette in AI image generation focuses on deploying only blue hues within the composition. This technique results in images that appear cohesive and unified, emphasizing mood and atmosphere through color consistency. Blue tones evoke calm, trust, and professionalism, making this palette versatile for numerous visual contexts. By instructing AI prompts to apply this palette, designers gain refined control over color ambiance, ensuring that the final image communicates desired emotional undertones or branding colors effectively.",
+    "bestUseCases": [
+      "Corporate branding visuals requiring professional, trustworthy moods",
+      "Editorial illustrations focused on calm and reflective themes",
+      "Website and app UI backgrounds promoting a clean, cohesive user experience"
+    ],
+    "relatedKeywords": [
+      "Cool Tone Palette",
+      "Monochromatic Green Palette",
+      "Duotone Blue Effect"
+    ],
+    "difficulty": "Beginner",
+    "slug": "monochromatic-blue-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Triadic Color Harmonies",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Triadic Color Harmonies in AI Image Prompts",
+    "metaDescription": "Explore how triadic color harmonies enhance AI image prompts with vibrant, balanced palettes for striking visuals. Learn formulas and applications.",
+    "heroImage": {
+      "src": "/images/keywords/triadic-color-harmonies.png",
+      "alt": "Abstract composition showcasing triadic color harmony with vibrant orange, green, and violet hues",
+      "title": "Triadic Color Harmony Abstract Art",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Triadic color harmonies provide a powerful method to generate visually striking AI images with balanced contrast. By selecting three colors evenly distributed on the color wheel, this technique injects vibrancy and diversity into the palette while maintaining harmony. When included in AI image prompts, it helps produce compositions that pop with color but remain cohesive, suitable for a wide range of creative projects. This approach avoids monotone or clashing visuals and offers a natural yet exciting look. Understanding and applying triadic color harmonies in prompts empowers creators to craft images that stand out with rich, lively color schemes across digital art, design mockups, and branding visuals.",
+    "bestUseCases": [
+      "Branding and logo design concepts needing bold yet balanced colors",
+      "Editorial illustrations requiring dynamic, colorful visuals",
+      "Fashion and product photography mockups emphasizing color contrast"
+    ],
+    "relatedKeywords": [
+      "Complementary Color Schemes",
+      "Analogous Color Harmonies",
+      "Color Theory Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "triadic-color-harmonies",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Analogous Color Schemes",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Analogous Color Schemes: Guide to Harmonious AI Image Prompts",
+    "metaDescription": "Discover how using analogous color schemes in AI image prompts creates harmonious, visually appealing images. Learn tips, formulas, and best uses.",
+    "heroImage": {
+      "src": "/images/keywords/analogous-color-schemes.png",
+      "alt": "Colorful abstract digital artwork showing smooth color transitions in an analogous color scheme featuring blue, teal, and green hues",
+      "title": "Analogous Color Scheme Abstract Artwork",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Analogous color schemes bring a visually pleasing harmony to AI-generated images by combining hues that neighbor each other on the color wheel. This creates images with gentle transitions and a cohesive mood, avoiding stark contrasts. When used in prompts, this scheme helps produce illustrations, photography-style renders, or digital art that feel naturally balanced—ideal for themes that require softness or unity like nature scenes, interiors, or fashion visuals. This approach makes images feel comfortable and inviting without overwhelming the viewer.",
+    "bestUseCases": [
+      "Interior design concepts focusing on harmonious room palettes",
+      "Nature photography or landscapes emphasizing natural color flow",
+      "Fashion or makeup visuals showcasing coordinated color arrangements"
+    ],
+    "relatedKeywords": [
+      "Complementary Color Schemes",
+      "Monochromatic Color Palettes",
+      "Triadic Color Schemes"
+    ],
+    "difficulty": "Beginner",
+    "slug": "analogous-color-schemes",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

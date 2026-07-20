@@ -1547,6 +1547,30 @@
       "generationPrompt": "16:9 photo of cozy living room interior with earthy warm color scheme, terracotta walls, wooden furniture, soft natural lighting, textured fabrics, realistic materials, no text, no logos",
       "category": "Color",
       "keywordSlug": "earthy-warm-color-scheme"
+    },
+    {
+      "filename": "monochromatic-blue-palette.png",
+      "altText": "Artistic AI-generated image showcasing a monochromatic blue palette with gradient shades and soft lighting",
+      "imageTitle": "Monochromatic Blue Palette AI Illustration",
+      "generationPrompt": "16:9 composition featuring a modern abstract scene rendered exclusively in various blue hues with subtle lighting and smooth tonal transitions, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "monochromatic-blue-palette"
+    },
+    {
+      "filename": "triadic-color-harmonies.png",
+      "altText": "Abstract composition showcasing triadic color harmony with vibrant orange, green, and violet hues",
+      "imageTitle": "Triadic Color Harmony Abstract Art",
+      "generationPrompt": "16:9 digital artwork illustrating triadic color harmony with vibrant orange, green, and violet, smooth gradients, subtle depth, realistic material textures, clean composition, modern editorial style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "triadic-color-harmonies"
+    },
+    {
+      "filename": "analogous-color-schemes.png",
+      "altText": "Colorful abstract digital artwork showing smooth color transitions in an analogous color scheme featuring blue, teal, and green hues",
+      "imageTitle": "Analogous Color Scheme Abstract Artwork",
+      "generationPrompt": "16:9 high-resolution digital art, focus on smooth analogous color transitions using blues, teals, and greens, soft lighting, clean background, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "analogous-color-schemes"
     }
   ]
 }

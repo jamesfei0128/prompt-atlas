@@ -1156,27 +1156,27 @@
     "keyword": "Monochromatic Blue Palette",
     "slug": "monochromatic-blue-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.828Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-20T15:18:53.844Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Triadic Color Harmonies",
     "slug": "triadic-color-harmonies",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.828Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-20T15:19:34.127Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Analogous Color Schemes",
     "slug": "analogous-color-schemes",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-10T12:49:10.828Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-20T15:20:24.487Z",
     "source": "openai-discovery"
   },
   {
