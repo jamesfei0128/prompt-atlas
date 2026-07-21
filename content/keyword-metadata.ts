@@ -5931,5 +5931,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Brushed Metal Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Brushed Metal Texture: Premium AI Image Prompt Guide",
+    "metaDescription": "Discover how to create realistic brushed metal textures with AI. Learn prompt formulas, best uses, advanced tips, and pro workflows for stunning results.",
+    "heroImage": {
+      "src": "/images/keywords/brushed-metal-texture.png",
+      "alt": "Close-up of brushed metal texture with fine linear grooves and satin finish",
+      "title": "Brushed Metal Texture with Fine Linear Strokes",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Brushed Metal Texture in AI art generation captures the distinctive look of metal surfaces treated by abrasive brushing, which creates smooth, parallel lines affecting how light reflects. It's a popular material finish in industrial design, consumer electronics, and architectural elements, lending a premium, tactile quality to images. Using this texture in AI prompts ensures realistic rendering of metal objects with nuanced light interplay and surface depth. This texture enhances visual interest while maintaining subtlety, making it ideal for product visualizations, backgrounds, and stylized concept art. By controlling this parameter, creators can elevate the authenticity and sophistication of metallic materials within their compositions.",
+    "bestUseCases": [
+      "Product visualization for electronics and appliances with metallic casings",
+      "Architectural renderings featuring metal paneling or fixtures",
+      "Background or surface textures in graphic design and digital art"
+    ],
+    "relatedKeywords": [
+      "Matte Metal",
+      "Metallic Sheen",
+      "Industrial Surface Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "brushed-metal-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Smooth Silk Fabric Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Smooth Silk Fabric Texture - Luxurious, Soft Material AI Prompts",
+    "metaDescription": "Explore smooth silk fabric texture prompts to create realistic, elegant silk images with refined lighting and premium polish for editorial and commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/smooth-silk-fabric-texture.png",
+      "alt": "Close-up of smooth silk fabric texture showing glossy surface and elegant folds",
+      "title": "Elegant smooth silk fabric texture with subtle highlights",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Smooth silk fabric texture is prized for its elegant appearance and soft touch, making it a favored material in fashion, interiors, and luxury goods. In AI image generation, this keyword triggers the creation of images showcasing silk's signature sheen, fluid motion, and delicate surface details. When used in prompts, it helps produce visuals with refined lighting that emphasize silk’s smoothness and reflective quality. This texture enhances images requiring a premium, sophisticated look by mimicking silk’s characteristic glow and tactile softness, suitable for editorial hero shots, product photography simulations, and stylized compositions.",
+    "bestUseCases": [
+      "Fashion product visualization showcasing silk garments",
+      "Interior design mood boards with silk upholstery or drapery",
+      "Luxury branding visuals for cosmetics or accessories"
+    ],
+    "relatedKeywords": [
+      "luxurious satin fabric texture",
+      "fine woven silk pattern",
+      "glossy fabric reflections"
+    ],
+    "difficulty": "Beginner",
+    "slug": "smooth-silk-fabric-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Rough Stone Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rough Stone Surface Texture: AI Image Prompt Guide",
+    "metaDescription": "Explore creating realistic rough stone surface texture in AI images. Learn definition, visual traits, prompt formulas, and best use cases for stunning textures.",
+    "heroImage": {
+      "src": "/images/keywords/rough-stone-surface-texture.png",
+      "alt": "Close-up detailed rough stone surface texture showing coarse grain and natural cracks",
+      "title": "Rough Stone Surface Texture - Detailed Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'rough stone surface texture' keyword enriches AI-generated images by emphasizing the coarse and uneven qualities of stone materials. Incorporating this into prompts directs the AI to produce surfaces with natural irregularities, such as grains, cracks, and rugged edges, which simulate real-world rough stone. This texture adds depth and realism, making visuals suitable for architectural renders, backgrounds, or tactile material studies. By mastering this keyword, creators can enhance visual storytelling where material authenticity plays a key role in immersion or aesthetic appeal.",
+    "bestUseCases": [
+      "Architectural visualizations needing realistic stone walls or surfaces",
+      "Game environment textures for rugged outdoor scenes",
+      "Product mockups featuring natural material backgrounds"
+    ],
+    "relatedKeywords": [
+      "cracked stone texture",
+      "weathered rock surface",
+      "granite stone texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rough-stone-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

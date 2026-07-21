@@ -1571,6 +1571,30 @@
       "generationPrompt": "16:9 high-resolution digital art, focus on smooth analogous color transitions using blues, teals, and greens, soft lighting, clean background, no text, no logos",
       "category": "Color",
       "keywordSlug": "analogous-color-schemes"
+    },
+    {
+      "filename": "brushed-metal-texture.png",
+      "altText": "Close-up of brushed metal texture with fine linear grooves and satin finish",
+      "imageTitle": "Brushed Metal Texture with Fine Linear Strokes",
+      "generationPrompt": "16:9 close-up of brushed stainless steel surface with fine linear grooves, soft diffuse lighting, subtle reflections, photorealistic, premium stock image style, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "brushed-metal-texture"
+    },
+    {
+      "filename": "smooth-silk-fabric-texture.png",
+      "altText": "Close-up of smooth silk fabric texture showing glossy surface and elegant folds",
+      "imageTitle": "Elegant smooth silk fabric texture with subtle highlights",
+      "generationPrompt": "16:9 photo-realistic close-up of smooth silk fabric texture with flowing folds, soft natural lighting, detailed surface reflections, high resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "smooth-silk-fabric-texture"
+    },
+    {
+      "filename": "rough-stone-surface-texture.png",
+      "altText": "Close-up detailed rough stone surface texture showing coarse grain and natural cracks",
+      "imageTitle": "Rough Stone Surface Texture - Detailed Close-up",
+      "generationPrompt": "16:9 close-up of rough stone surface texture, detailed coarse grain, natural lighting, photorealistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-stone-surface-texture"
     }
   ]
 }
