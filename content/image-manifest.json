@@ -1595,6 +1595,30 @@
       "generationPrompt": "16:9 close-up of rough stone surface texture, detailed coarse grain, natural lighting, photorealistic, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "rough-stone-surface-texture"
+    },
+    {
+      "filename": "cracked-paint-wall-texture.png",
+      "altText": "close-up of a cracked paint wall texture showing detailed paint cracks and peeling surface",
+      "imageTitle": "Cracked Paint Wall Texture Detail",
+      "generationPrompt": "16:9 close-up of a cracked paint wall texture with realistic lighting, soft shadows, photorealistic detail, high resolution, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "cracked-paint-wall-texture"
+    },
+    {
+      "filename": "leather-grain-texture.png",
+      "altText": "Close-up detailed leather grain texture showing natural irregular patterns under warm lighting",
+      "imageTitle": "Detailed Leather Grain Texture Close-up",
+      "generationPrompt": "16:9 close-up of detailed natural leather grain texture with warm studio lighting, realistic material, premium stock photo style, soft shadows, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "leather-grain-texture"
+    },
+    {
+      "filename": "glass-reflection-effects.png",
+      "altText": "Close-up view of a transparent glass bottle with natural reflection effects and subtle lighting on a clean background",
+      "imageTitle": "Glass Reflection Effects on Transparent Bottle",
+      "generationPrompt": "A crystal-clear glass bottle with sharp and soft reflections, subtle highlights, studio lighting, minimalistic white background, realistic materials, premium stock-photo style, 16:9",
+      "category": "Texture & Material",
+      "keywordSlug": "glass-reflection-effects"
     }
   ]
 }

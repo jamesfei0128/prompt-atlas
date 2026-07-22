@@ -6021,5 +6021,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Cracked Paint Wall Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Cracked Paint Wall Texture: Realistic AI Image Guide",
+    "metaDescription": "Explore how to create cracked paint wall textures in AI images with realistic, premium stock-quality results. Perfect for textures and materials.",
+    "heroImage": {
+      "src": "/images/keywords/cracked-paint-wall-texture.png",
+      "alt": "close-up of a cracked paint wall texture showing detailed paint cracks and peeling surface",
+      "title": "Cracked Paint Wall Texture Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Cracked paint wall texture is a highly sought-after element in digital art and design for its ability to convey urban decay, vintage charm, or neglected environments. When applied to AI image generation, this keyword guides models to create detailed and photorealistic renderings of distressed wall surfaces marked by peeling, cracking, and flaking paint. These textures can evoke strong visual interest and tactile realism, ideal for use in backgrounds, material references, or concept art. Incorporating cracked paint enhances an image’s authenticity by simulating natural deterioration effects often seen in outdoor or abandoned settings, influencing the mood with aged aesthetics and weathered charm.",
+    "bestUseCases": [
+      "Backgrounds for urban or abandoned scene concept art",
+      "Material references for 3D modeling and texturing projects",
+      "Design elements in vintage or grunge-style graphic layouts"
+    ],
+    "relatedKeywords": [
+      "peeling paint texture",
+      "weathered wall texture",
+      "distressed plaster texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "cracked-paint-wall-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Leather Grain Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Leather Grain Texture: AI Image Prompt Guide for Realistic Materials",
+    "metaDescription": "Explore how to use 'Leather Grain Texture' in AI prompts to create realistic and premium leather surface images for various creative and commercial uses.",
+    "heroImage": {
+      "src": "/images/keywords/leather-grain-texture.png",
+      "alt": "Close-up detailed leather grain texture showing natural irregular patterns under warm lighting",
+      "title": "Detailed Leather Grain Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Using 'Leather Grain Texture' in AI image prompts allows creators to generate images with highly detailed and realistic leather surfaces. This keyword enhances the tactile quality of materials depicted, making them appear more authentic and premium. The characteristic grain patterns convey luxury and craftsmanship, useful for designs needing sophisticated material representation. When combined with appropriate lighting and composition, this texture can create visually rich images suitable for product visualization, fashion editorials, or interior design concepts. Mastery of this keyword helps artists achieve depth and realism in their material renderings, appealing to audiences seeking visually convincing visuals.",
+    "bestUseCases": [
+      "Creating realistic product mockups featuring leather goods like bags, shoes, or furniture",
+      "Fashion editorial visuals requiring detailed material aesthetics and tactile surfaces",
+      "Interior design renderings showcasing leather upholstery or accents with authentic textures"
+    ],
+    "relatedKeywords": [
+      "Leather Surface Detail",
+      "Tactile Material Texture",
+      "Natural Leather Pattern"
+    ],
+    "difficulty": "Beginner",
+    "slug": "leather-grain-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Glass Reflection Effects",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Glass Reflection Effects: Enhance Realism in AI Images",
+    "metaDescription": "Discover how Glass Reflection Effects transform AI images with realistic glass surfaces and reflections. Learn tips, best uses, and advanced prompt techniques.",
+    "heroImage": {
+      "src": "/images/keywords/glass-reflection-effects.png",
+      "alt": "Close-up view of a transparent glass bottle with natural reflection effects and subtle lighting on a clean background",
+      "title": "Glass Reflection Effects on Transparent Bottle",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Glass Reflection Effects bring a premium realism to AI-generated images by simulating the natural behavior of light on glass materials. This keyword enhances textures and surfaces, making objects appear polished and three-dimensional with believable reflections and refractions that respond to environmental lighting. Using these effects can elevate images from flat or artificial to lifelike visuals suitable for professional design, marketing, and artistic projects. By incorporating Glass Reflection Effects in prompts, creators can achieve sophisticated renderings of windows, glassware, bottles, and architectural elements with convincing material qualities.",
+    "bestUseCases": [
+      "Product visualization showcasing glass bottles, windows, or screens with realistic reflections",
+      "Architectural renders highlighting glass facades, windows, and interior partitions",
+      "Editorial and advertising imagery requiring premium, polished glass surfaces"
+    ],
+    "relatedKeywords": [
+      "Reflective Surfaces",
+      "Transparent Materials",
+      "Light Refraction Effects"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "glass-reflection-effects",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
