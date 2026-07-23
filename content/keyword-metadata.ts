@@ -6111,5 +6111,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Glossy Plastic Surface",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Glossy Plastic Surface Texture for AI Image Prompts",
+    "metaDescription": "Explore how 'Glossy Plastic Surface' enhances AI-generated images with realistic shine and texture. Learn prompt formulas, use cases, and pro tips here.",
+    "heroImage": {
+      "src": "/images/keywords/glossy-plastic-surface.png",
+      "alt": "Close-up view of an object with a glossy plastic surface showing smooth, reflective texture and bright highlights",
+      "title": "Glossy Plastic Surface Render",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Adding 'Glossy Plastic Surface' in AI prompts introduces a sleek, shiny material effect that mimics polished plastic. This texture conveys a modern, manufactured feel, often used to depict objects with synthetic coatings or stylish packaging. The characteristic shine results from simulated light reflections, creating distinct highlight spots and smooth gradients that emphasize surface smoothness. This keyword helps differentiate images by adding an artificial luster, elevating the material realism in digital renders and creative compositions.",
+    "bestUseCases": [
+      "Product design mockups showcasing plastic materials",
+      "Packaging visuals emphasizing clean, reflective surfaces",
+      "Futuristic or sci-fi objects with synthetic finishes"
+    ],
+    "relatedKeywords": [
+      "Reflective Surface",
+      "Plastic Material",
+      "Synthetic Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "glossy-plastic-surface",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Paper Fiber Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Paper Fiber Texture: Enhance Realistic Textures in AI Art",
+    "metaDescription": "Explore how to use Paper Fiber Texture in AI image prompts for natural, detailed backgrounds and surfaces. Learn prompt formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/paper-fiber-texture.png",
+      "alt": "Close-up detail of paper showing intricate fiber texture with soft natural lighting",
+      "title": "Paper Fiber Texture Close-Up with Soft Light",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Paper Fiber Texture in AI-generated images enhances realism by simulating the microscopic fibers found in physical paper. This texture adds subtle detail and tactile qualities to artwork, making backgrounds or materials appear organic and handcrafted. When included in prompts, it helps models focus on delicate and uneven surfaces rather than flat or overly smooth ones. This keyword is especially useful in designs needing authenticity or vintage aesthetics, offering an alternative to digital or synthetic textures. It works well combined with lighting descriptions to highlight the tactile aspects of the fibers and create refined editorial visuals.",
+    "bestUseCases": [
+      "Background textures for editorial or book layouts",
+      "Close-up still life compositions featuring paper or fabric surfaces",
+      "Vintage-themed graphics requiring natural, tactile detail"
+    ],
+    "relatedKeywords": [
+      "Handmade Paper Texture",
+      "Natural Fiber Texture",
+      "Vintage Paper Grain"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "paper-fiber-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Textured Canvas Material",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Textured Canvas Material: Enhance Realism in AI Images",
+    "metaDescription": "Discover how the textured canvas material keyword adds realistic fabric texture and depth to AI-generated images. Perfect for digital artists and designers.",
+    "heroImage": {
+      "src": "/images/keywords/textured-canvas-material.png",
+      "alt": "Close-up view of textured canvas material showing visible weave and fabric texture",
+      "title": "Textured Canvas Material Close-up Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Using the textured canvas material keyword in AI image generation simulates the look and feel of real canvas fabric, widely appreciated in art and design fields. It brings a traditional, handcrafted quality to digital images, making them appear as if printed or painted on a physical canvas. This effect improves the sensory richness and realism of images, especially paintings, portraits, or background textures. Digital artists and content creators can use this keyword to add authentic fabric texture without manually editing textures, saving time while enhancing visual appeal.",
+    "bestUseCases": [
+      "Creating realistic digital paintings or portraits",
+      "Designing textured backgrounds for graphic art",
+      "Simulating fabric surfaces in product visualization"
+    ],
+    "relatedKeywords": [
+      "rough paper texture",
+      "oil painting texture",
+      "fabric weave material"
+    ],
+    "difficulty": "Beginner",
+    "slug": "textured-canvas-material",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

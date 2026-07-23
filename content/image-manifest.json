@@ -1619,6 +1619,30 @@
       "generationPrompt": "A crystal-clear glass bottle with sharp and soft reflections, subtle highlights, studio lighting, minimalistic white background, realistic materials, premium stock-photo style, 16:9",
       "category": "Texture & Material",
       "keywordSlug": "glass-reflection-effects"
+    },
+    {
+      "filename": "glossy-plastic-surface.png",
+      "altText": "Close-up view of an object with a glossy plastic surface showing smooth, reflective texture and bright highlights",
+      "imageTitle": "Glossy Plastic Surface Render",
+      "generationPrompt": "16:9 highly detailed close-up of an object with glossy plastic surface, smooth reflections, bright specular highlights, precise studio lighting, modern clean background, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "glossy-plastic-surface"
+    },
+    {
+      "filename": "paper-fiber-texture.png",
+      "altText": "Close-up detail of paper showing intricate fiber texture with soft natural lighting",
+      "imageTitle": "Paper Fiber Texture Close-Up with Soft Light",
+      "generationPrompt": "A close-up image of handmade paper showing detailed visible fiber texture, soft natural light casting subtle shadows, warm off-white color, premium stock image quality, realistic materials, subtle depth, clean editorial composition, no text, no logos, no watermark, 16:9",
+      "category": "Texture & Material",
+      "keywordSlug": "paper-fiber-texture"
+    },
+    {
+      "filename": "textured-canvas-material.png",
+      "altText": "Close-up view of textured canvas material showing visible weave and fabric texture",
+      "imageTitle": "Textured Canvas Material Close-up Texture",
+      "generationPrompt": "16:9 close-up of a fine textured canvas fabric surface with natural soft lighting, realistic fiber weave detail, matte finish, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "textured-canvas-material"
     }
   ]
 }
