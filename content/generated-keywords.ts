@@ -14319,4 +14319,300 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Generally no, but it may require higher detail settings to fully capture fine texture intricacies in some AI models."
     }
   ]
+  },
+  {
+    title: "Stock Image Marketing Use",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Stock Image Marketing Use: Boost Your AI Image Prompts",
+    metaDescription: "Explore how 'Stock Image Marketing Use' refines AI image prompts for commercial marketing visuals with clean, professional, and versatile styles.",
+    heroImage: keywordHero("stock-image-marketing-use", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "'Stock Image Marketing Use' refers to incorporating elements and styles into AI image prompts that produce visuals suitable for commercial marketing contexts. It guides the AI to generate polished, versatile images that can be used in advertisements, promotional materials, and brand presentations, emphasizing clarity, professionalism, and broad appeal. Using this keyword in AI prompts adjusts the tone and composition to fit marketing standards, making the images immediately relevant and useful for business purposes.",
+    visualCharacteristics: [
+    "Clean editorial composition with balanced elements",
+    "Premium stock-image polish and refined lighting",
+    "Subtle depth with realistic materials and no over-embellishment"
+  ],
+    overview: "Incorporating the keyword 'Stock Image Marketing Use' into your AI image prompts ensures the generated visuals are optimized for commercial marketing applications. This keyword steers the AI towards producing images that embody clarity, professionalism, and adaptability—qualities essential for effective marketing content. It emphasizes a modern, polished aesthetic with clean compositions and realistic textures, suitable for hero images, website banners, or promotional materials. Utilizing this keyword helps designers and marketers quickly obtain images that resonate with target audiences and align with brand standards, eliminating the need for extensive post-processing or adjustments.",
+    whatItDoes: "The 'Stock Image Marketing Use' keyword tunes AI image generation toward creating visuals that meet marketing requirements. It adjusts the style to feature refined lighting, subtle depth, and realistic materials, resulting in professional and trustworthy imagery. This keyword influences the image's composition to be clean and editorial, omitting distracting elements such as text, logos, or watermarks, which can limit use in commercial settings. It effectively transforms generic AI-generated images into ones that serve as versatile assets for promotional campaigns, website design, and advertisements, saving valuable time for creatives.",
+    bestUseCases: [
+    "Corporate website hero images and banners",
+    "Product advertisements and promotional campaigns",
+    "Social media marketing visuals and digital ads"
+  ],
+    relatedKeywords: [
+    "Commercial Photography Style",
+    "Editorial Stock Image",
+    "Branding Visuals"
+  ],
+    examplePrompt: "A clean, modern office workspace with natural lighting, premium stock-image style, marketing use",
+    promptExamples: [
+    "A clean, modern office workspace with natural lighting, premium stock-image style, marketing use",
+    "High-resolution image of diverse professionals collaborating in a bright conference room, marketing stock image polish",
+    "Sleek product showcase with realistic materials and subtle depth, editorial composition for marketing"
+  ],
+    commercialApplications: [
+    "Advertising campaigns across digital and print",
+    "Marketing brochures and sales materials",
+    "Corporate presentations and branding assets"
+  ],
+    adobeStockPotential: "Images generated with the 'Stock Image Marketing Use' keyword align well with Adobe Stock's content guidelines, which favor clean, professional, and versatile imagery that can be used across commercial contexts. These visuals meet high-quality standards with refined lighting and realistic textures while avoiding watermarks or logos, making them ideal candidates for stock image licensing. Leveraging this keyword in your AI prompts can help produce imagery that performs effectively on Adobe Stock and similar platforms, broadening your commercial reach and potential sales.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "'Stock Image Marketing Use' in AI image prompting refers to crafting descriptions that guide the AI to generate images suitable for commercial marketing contexts. This involves emphasizing clean, professional aesthetics with polished lighting and realistic textures, ensuring images are versatile and free of distracting elements like text or logos. It changes the prompt by adding cues that prioritize marketable, broadly appealing visuals fitting for advertising and promotional use."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To effectively incorporate 'Stock Image Marketing Use' into your AI prompts, use a combination of descriptors that highlight professionalism and clarity. For example:",
+      "items": [
+        "[Subject description], clean editorial composition, premium stock-image polish, refined lighting, subtle depth, realistic materials, no text, no logos, marketing use",
+        "[Scene or product], modern, commercial stock photo style, bright natural lighting, balanced composition, marketing use",
+        "[People or objects], professional environment, crisp details, subtle depth of field, marketing stock image quality"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Creating hero images for corporate websites that require a polished look",
+        "Generating product advertisement visuals that emphasize clarity and professionalism",
+        "Designing social media marketing content that needs versatile, high-quality stock images"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "items": [
+        "Commercial Photography Style",
+        "Editorial Stock Image",
+        "Branding Visuals"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "When using modern AI image generation models, keep prompts clear and focused on desired attributes without relying on complex syntax. Emphasize elements like 'clean editorial composition' and 'premium stock-image polish' to guide the model toward marketing-appropriate visuals. Avoid ambiguous or conflicting style instructions, and include exclusion terms like 'no text, no logos, no watermark' to maintain commercial usability. Testing variations around lighting and composition descriptors can help fine-tune results for specific marketing needs."
+    }
+  ],
+    faqs: [
+    {
+      "question": "What does 'Stock Image Marketing Use' add to an AI image prompt?",
+      "answer": "It guides the AI to produce clean, professional images suitable for commercial marketing by emphasizing polished lighting, realistic materials, and clear compositions without distracting elements."
+    },
+    {
+      "question": "Can images generated with this keyword be used commercially?",
+      "answer": "Yes, images produced with 'Stock Image Marketing Use' are tailored to meet commercial use standards, making them ideal for advertising, branding, and promotional purposes."
+    }
+  ]
+  },
+  {
+    title: "Ecommerce Product Photography",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Ecommerce Product Photography: AI Prompt Keyword Guide",
+    metaDescription: "Master ecommerce product photography prompts for AI image generation with tips, formulas, and workflow to create polished commercial visuals.",
+    heroImage: keywordHero("ecommerce-product-photography", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "Ecommerce Product Photography refers to AI image prompts focused on generating high-quality, clear, and realistic images of products intended for online retail environments. Incorporating this keyword in AI prompts ensures the output features clean backgrounds, accurate textures, and sharp presentation that highlight the product's details and appeal, mimicking professional commercial photography.",
+    visualCharacteristics: [
+    "Clean, distraction-free backgrounds",
+    "Sharp focus on product details and textures",
+    "Balanced, premium lighting emphasizing realism"
+  ],
+    overview: "Ecommerce Product Photography as an AI prompt keyword is essential for creating appealing product images suitable for online stores and catalogs. It guides the AI to render products with clarity and a commercial polish that enhances their attractiveness to potential buyers. This style emphasizes minimalistic compositions and true-to-life textures, ensuring products appear tangible and appealing on digital platforms. Using this keyword helps content creators, marketers, and designers rapidly produce consistent, high-quality product imagery without a physical photoshoot.",
+    whatItDoes: "When added to an AI prompt, Ecommerce Product Photography influences the output to adopt characteristics typical of professional product shoots: clean and neutral backgrounds to remove distractions, precise and enhanced lighting to showcase textures and colors, and composition focused entirely on the product. This results in images that look polished, trustworthy, and optimized for ecommerce use, boosting consumer confidence and engagement on commercial platforms. It streamlines image creation workflows for digital catalogs and advertising campaigns.",
+    bestUseCases: [
+    "Creating product thumbnails for online stores and marketplaces",
+    "Visualizing product variations for digital design and marketing materials",
+    "Generating catalog images for promotional flyers and web banners"
+  ],
+    relatedKeywords: [
+    "Studio Lighting",
+    "Minimalist Product Shot",
+    "Commercial Advertising"
+  ],
+    examplePrompt: "\"A sleek wireless headphone on a white seamless background, ecommerce product photography, realistic textures, soft shadows, sharp focus\"",
+    promptExamples: [
+    "\"A sleek wireless headphone on a white seamless background, ecommerce product photography, realistic textures, soft shadows, sharp focus\"",
+    "\"Minimalist ceramic coffee mug isolated on clean gray backdrop, high detail, ecommerce product photography style, subtle reflections\"",
+    "\"Modern smart watch with black strap displayed on white glossy surface, ecommerce product photography, professional lighting, crystal-clear details\""
+  ],
+    commercialApplications: [
+    "Online retail product listings",
+    "Digital marketing campaigns",
+    "Print and digital catalog creation"
+  ],
+    adobeStockPotential: "Ecommerce Product Photography prompts produce images highly suitable for Adobe Stock due to their commercial clarity, neutral backgrounds, and versatile compositions that fit many product categories. Such images meet stock photo standards, appealing to businesses and marketers seeking plug-and-play visuals for ecommerce platforms. Their realistic quality and attention to detail enhance licensing appeal, making them a dependable asset for commercial stock collections.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Ecommerce Product Photography in AI prompts directs image generation toward creating realistic and appealing images suitable for online retail. It ensures products are the visual focus with uncluttered backgrounds and enhanced detail presentation, mimicking professional product photos used in e-commerce catalogs. This keyword adjusts composition, lighting, and texture emphasis to highlight the product's features effectively."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use structured phrases to build your prompt around ecommerce product photography. Example formula:\n\n\"[Product description], ecommerce product photography, clean/neutral background, high resolution, sharp focus on details, soft shadows, balanced lighting\".\n\nVariations can specify color schemes or textures, like \"white seamless background\" or \"reflective surface\" for different effects.",
+      "items": [
+        "Product description (e.g., 'stainless steel watch')",
+        "ecommerce product photography",
+        "neutral or seamless background",
+        "lighting descriptors (soft shadows, balanced lighting)",
+        "focus detail (sharp focus, high resolution)"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "Ecommerce Product Photography prompts excel in producing images tailored for commercial contexts where product clarity and appeal are paramount. Good use cases include digital product catalogs requiring consistent style, marketing materials showcasing product variations, and online store thumbnails where clean, distraction-free visuals drive purchasing decisions.",
+      "items": [
+        "Online store product thumbnails",
+        "Marketing and catalog visuals",
+        "Product variant presentations"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "Refine ecommerce product photography prompts with advanced adjustments: specify material textures using terms like \"matte finish\" or \"glossy surface,\" control lighting direction for depth, add constraints like \"shadowless background\" or \"360-degree view composite\" for dynamic presentation. Incorporate style blending, e.g., combining this keyword with \"high-key lighting\" or \"minimalist composition\" to achieve nuanced visuals suitable for luxury or modern product lines.",
+      "items": [
+        "Specify material texture (matte, glossy)",
+        "Adjust lighting direction and quality",
+        "Add compositional constraints (shadowless, seamless)",
+        "Combine with related styles (high-key, minimalist)",
+        "Request multi-angle or 360-degree views"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "A streamlined workflow for ecommerce product photography AI images involves: 1) defining the product details and intended usage, 2) crafting an AI prompt using the ecommerce product photography keyword and relevant descriptors, 3) generating multiple image variants to compare compositions and lighting, 4) selecting images with optimal clarity and style consistency, and 5) refining selected outputs with slight prompt adjustments or post-processing for final polish. This ensures consistent, professional-grade images suitable for commercial deployment.",
+      "items": [
+        "Define product and use case",
+        "Create detailed ecommerce photo prompt",
+        "Generate multiple variations",
+        "Select best quality images",
+        "Refine with prompt tweaks or editing"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "Ecommerce Product Photography pairs well with styles emphasizing clarity and minimalism. Related PromptAtlas keywords include Studio Lighting for enhanced illumination control, Minimalist Product Shot for stripped-back compositions, and Commercial Advertising for dynamic, sales-oriented visuals. These styles complement and expand the range of viable ecommerce visuals, adapting to various branding needs.",
+      "items": [
+        "Studio Lighting",
+        "Minimalist Product Shot",
+        "Commercial Advertising"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "What makes ecommerce product photography different from other AI photography styles?",
+      "answer": "It focuses specifically on clear, realistic, and distraction-free product images optimized for online retail, highlighting product details with neutral backgrounds and professional lighting."
+    },
+    {
+      "question": "Can I use ecommerce product photography prompts for non-commercial projects?",
+      "answer": "Yes, but the style emphasizes commercial appeal and clarity, which may be more polished than some artistic or experimental uses."
+    }
+  ]
+  },
+  {
+    title: "Split Lighting Technique",
+    category: "Lighting",
+    published: true,
+    seoTitle: "Split Lighting Technique: Master Portrait Lighting in AI Images",
+    metaDescription: "Learn the split lighting technique to create dramatic, high-contrast portraits using AI image prompts. Perfect for striking and moody effects.",
+    heroImage: keywordHero("split-lighting-technique", "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"),
+    definition: "Split lighting technique in AI image generation refers to a lighting setup where the subject's face or object is evenly divided into a well-lit side and a shadowed side. This creates strong contrast, emphasizing facial structure and depth. In AI prompts, including 'split lighting' directs the model to apply this dramatic half-lit style, changing the mood and visual impact of the image.",
+    visualCharacteristics: [
+    "Sharp division between light and shadow on the subject’s face",
+    "Strong contrast emphasizing contours and textures",
+    "Creates a moody, dramatic atmosphere with one half brightly lit and the other in shadow"
+  ],
+    overview: "Split lighting is a classic photographic lighting technique widely used for portraits to craft dramatic and intense images. When applied in AI image prompts, it guides the generation to simulate this lighting style by illuminating one half of the subject brightly while casting the other half in shadow. This technique enhances depth and character, often lending a mysterious or serious tone to portraits. It is especially effective for emphasizing facial features, textures, and emotional expressions. Utilizing split lighting in AI art allows creators to generate compelling, high-contrast images that stand out in editorial, commercial, or artistic contexts.",
+    whatItDoes: "In AI image generation, applying the split lighting technique fundamentally changes the light distribution on the subject, directing the AI to render one half of the face or object in strong illumination and the other half in deep shadow. This contrast heightens the three-dimensional illusion and adds emotional weight to the image. It helps define shape and form through chiaroscuro effects, making subjects appear more sculptural and visually striking. The technique also influences mood, often conveying intensity, drama, or mystery, which can be harnessed to create compelling narratives within portraits or product visuals.",
+    bestUseCases: [
+    "Dramatic portrait photography highlighting character and mood",
+    "Product shots needing textured emphasis and dimensionality",
+    "Editorial imagery conveying intensity or storytelling through light"
+  ],
+    relatedKeywords: [
+    "dramatic lighting",
+    "chiaroscuro",
+    "low-key lighting"
+  ],
+    examplePrompt: "Portrait of a person with split lighting, half face illuminated, high contrast, dramatic shadows",
+    promptExamples: [
+    "Portrait of a person with split lighting, half face illuminated, high contrast, dramatic shadows",
+    "Close-up of a leather jacket under split lighting, highlighting texture and depth",
+    "Moody editorial portrait with intense split lighting, strong shadows on one side of the face"
+  ],
+    commercialApplications: [
+    "Advertising campaigns featuring bold, emotive portraiture",
+    "Ecommerce product photography emphasizing texture and shape",
+    "Editorial and magazine covers needing eye-catching visuals"
+  ],
+    adobeStockPotential: "Split lighting technique images have strong commercial appeal on stock platforms like Adobe Stock due to their dramatic and premium aesthetics. Such images serve well for advertising, editorial features, and product promotions where mood and texture are essential. The high contrast and depth achievable with split lighting cater to buyers seeking impactful visuals that convey intensity and professionalism. Including this technique in AI-generated images increases their uniqueness and usability across diverse creative projects, enhancing potential sales and licensing opportunities.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Split lighting in AI image prompts is a lighting effect where the subject's face or object is divided into a well-lit half and a heavily shadowed half. This technique creates strong contrast and sharp division of light, emphasizing the subject's three-dimensional form and adding dramatic mood. Including 'split lighting' in AI prompts instructs the model to simulate this impactful lighting style, ideal for portraits and textured subjects."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use combinations like:\n- \"[subject], split lighting, high contrast, dramatic shadows\"\n- \"portrait with split lighting, one side illuminated, moody atmosphere\"\n- \"product shot, split lighting emphasizing texture and depth\"\nInserting modifiers such as 'intense', 'shadowed', 'half face lit' helps refine the lighting's sharp division and mood.",
+      "items": [
+        "[subject], split lighting, high contrast, dramatic shadows",
+        "portrait with split lighting, one side illuminated, moody atmosphere",
+        "product shot, split lighting emphasizing texture and depth"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Dramatic portraits to emphasize facial structure and emotion",
+        "Product photography requiring texture and dimensional emphasis",
+        "Editorial images needing a moody or intense atmosphere"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "body": "Split lighting is widely applicable across multiple commercial sectors. In advertising, it enhances portrait ads by creating emotional and attention-grabbing visuals. Ecommerce benefits from the technique by highlighting product contours and textures, offering a tactile sense to buyers. Editorial and magazine photography use split lighting to craft storytelling images with depth and character, making covers or feature spreads stand out. Social media influencers leverage this lighting style for striking profile images that convey professionalism and mood.",
+      "items": [
+        "Advertising – emotive, bold portraiture for campaigns",
+        "Ecommerce – textured product shots with depth",
+        "Editorial – storytelling portraits with dramatic mood"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "A frequent error is instructing ‘split lighting’ without clarifying the desired intensity or subject, resulting in uneven or muddy shadows that lack dramatic impact. Overusing modifiers like 'dark' or 'shadow' can cause the shadowed half to lose detail, making the image flat or unrealistic. Including vague lighting terms may create generic or diffused lighting rather than a sharp split. To avoid this, specify 'high contrast', 'sharp division', or 'one side illuminated' along with split lighting for clear directional control.",
+      "items": [
+        "Not specifying contrast level, resulting in weak lighting split",
+        "Using vague lighting terms diluting the dramatic effect",
+        "Overdarkening shadows and losing detail on shadow side"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does split lighting affect the mood of an AI-generated portrait?",
+      "answer": "Split lighting creates a striking contrast between light and shadow, making the portrait appear more dramatic, intense, or mysterious. This strong division adds emotional depth and focuses attention on facial structure and expression."
+    },
+    {
+      "question": "Can split lighting be used for subjects other than portraits?",
+      "answer": "Yes, split lighting effectively accentuates textures and shapes in objects or products by illuminating one side and shadowing the other, adding dimensionality and visual interest."
+    }
+  ]
   }];

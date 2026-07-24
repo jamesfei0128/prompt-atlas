@@ -1643,6 +1643,30 @@
       "generationPrompt": "16:9 close-up of a fine textured canvas fabric surface with natural soft lighting, realistic fiber weave detail, matte finish, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "textured-canvas-material"
+    },
+    {
+      "filename": "stock-image-marketing-use.png",
+      "altText": "Professional stock image style marketing visual with clean composition and refined lighting",
+      "imageTitle": "Stock Image Marketing Use Example",
+      "generationPrompt": "A modern corporate office environment with diverse professionals collaborating, clean editorial composition, premium stock-image polish, refined lighting, realistic materials, no text, no logos, marketing use, 16:9",
+      "category": "Commercial Use",
+      "keywordSlug": "stock-image-marketing-use"
+    },
+    {
+      "filename": "ecommerce-product-photography.png",
+      "altText": "Ecommerce product photography of a modern product with clean background and soft balanced lighting",
+      "imageTitle": "Ecommerce Product Photography Example",
+      "generationPrompt": "A high-resolution image of a modern wireless headphone on a white seamless background, ecommerce product photography style, sharp focus on product details, soft balanced studio lighting, realistic textures, no text or logos, 16:9",
+      "category": "Commercial Use",
+      "keywordSlug": "ecommerce-product-photography"
+    },
+    {
+      "filename": "split-lighting-technique.png",
+      "altText": "Portrait using split lighting technique with one half of the face bright and the other in shadow",
+      "imageTitle": "Portrait with Split Lighting Technique",
+      "generationPrompt": "a portrait of a person illuminated by split lighting, one side of the face brightly lit, the other side in deep shadow, high contrast, dramatic and moody atmosphere, realistic skin texture, sharp light division, studio setting, 16:9 ratio",
+      "category": "Lighting",
+      "keywordSlug": "split-lighting-technique"
     }
   ]
 }
