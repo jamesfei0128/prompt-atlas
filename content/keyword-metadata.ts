@@ -6291,5 +6291,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Golden Ratio Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Golden Ratio Layout: Perfect Composition in AI Image Prompts",
+    "metaDescription": "Discover how the Golden Ratio Layout enhances AI image prompts with balanced, harmonious compositions for premium, modern designs.",
+    "heroImage": {
+      "src": "/images/keywords/golden-ratio-layout.png",
+      "alt": "Modern editorial photograph using golden ratio layout with balanced lighting and spatial harmony",
+      "title": "Golden Ratio Layout Editorial Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Golden Ratio Layout is a timeless compositional principle found in nature, art, and design, used to establish visually harmonious and aesthetically compelling images. Applying this concept to AI image generation helps create compositions where the subject placement and background elements follow the golden section, improving viewer engagement and creating a sense of balance and flow. This layout is especially favored in editorial photography, branding visuals, and architectural renders to evoke sophistication and natural beauty. By including the Golden Ratio Layout keyword in your prompts, you encourage AI models to prioritize this balanced and elegant arrangement, enhancing the professional quality of outputs.",
+    "bestUseCases": [
+      "Editorial photography layouts emphasizing natural focal points",
+      "Brand design concepts requiring harmonious element arrangement",
+      "Architectural visualizations showcasing balanced spatial depth"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Spiral Composition",
+      "Symmetrical Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "golden-ratio-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Symmetrical Visual Balance",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Symmetrical Visual Balance in AI Image Composition",
+    "metaDescription": "Explore how symmetrical visual balance enhances AI image prompts for clean, harmonious designs. Learn formulas, use cases, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/symmetrical-visual-balance.png",
+      "alt": "Example of symmetrical visual balance in a modern editorial AI-generated image with mirrored architectural elements and refined lighting",
+      "title": "Symmetrical Visual Balance in AI Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Symmetrical visual balance is a fundamental principle of composition that guides AI image generation toward harmonious and stable designs. By specifying this keyword, users encourage the visual content to be evenly arranged on both sides of a central axis, which can evoke feelings of calmness and structure. This approach suits a range of imagery, from portraits and architecture to product photography, giving a refined and polished look. When applied in prompts, it helps achieve clean editorial styles with subtle depth and premium polish, making the results ideal for hero images or thumbnails in a modern content library.",
+    "bestUseCases": [
+      "Product photography with mirrored reflections",
+      "Portraits emphasizing formal poses",
+      "Architectural and interior design visualization"
+    ],
+    "relatedKeywords": [
+      "rule of thirds",
+      "central composition",
+      "minimalist design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "symmetrical-visual-balance",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Triadic Color Harmony",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Triadic Color Harmony: Enhance AI Art with Balanced Color Schemes",
+    "metaDescription": "Discover Triadic Color Harmony in AI art prompts. Learn how to use vibrant, balanced three-color schemes for striking, harmonious images.",
+    "heroImage": {
+      "src": "/images/keywords/triadic-color-harmony.png",
+      "alt": "Illustration demonstrating triadic color harmony with three balanced vibrant colors in a digital artwork",
+      "title": "Digital Artwork Featuring Triadic Color Harmony",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Triadic Color Harmony offers AI artists a powerful tool to create vibrant and balanced images by leveraging three colors equally spaced around the color wheel. This color scheme is known for producing striking yet harmonious compositions, making it ideal for colorful illustrations that maintain visual equilibrium. Including 'triadic color harmony' in your AI prompt encourages the model to incorporate this classic palette principle, resulting in images that pop with life but remain visually comfortable. This technique enhances themes ranging from nature scenes to abstract art and graphic design, providing a versatile framework for compelling color use.",
+    "bestUseCases": [
+      "Branding and logo design needing impactful color schemes",
+      "Illustrations or digital paintings requiring vibrant but balanced palettes",
+      "Editorial and advertising visuals demanding energetic yet harmonious colors"
+    ],
+    "relatedKeywords": [
+      "Color Theory",
+      "Complementary Colors",
+      "Color Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "triadic-color-harmony",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

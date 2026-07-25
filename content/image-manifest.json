@@ -1667,6 +1667,30 @@
       "generationPrompt": "a portrait of a person illuminated by split lighting, one side of the face brightly lit, the other side in deep shadow, high contrast, dramatic and moody atmosphere, realistic skin texture, sharp light division, studio setting, 16:9 ratio",
       "category": "Lighting",
       "keywordSlug": "split-lighting-technique"
+    },
+    {
+      "filename": "golden-ratio-layout.png",
+      "altText": "Modern editorial photograph using golden ratio layout with balanced lighting and spatial harmony",
+      "imageTitle": "Golden Ratio Layout Editorial Composition",
+      "generationPrompt": "16:9 modern editorial style, balanced composition using golden ratio layout, refined natural lighting, subtle depth, realistic materials, neutral background, high detail, clean design, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "golden-ratio-layout"
+    },
+    {
+      "filename": "symmetrical-visual-balance.png",
+      "altText": "Example of symmetrical visual balance in a modern editorial AI-generated image with mirrored architectural elements and refined lighting",
+      "imageTitle": "Symmetrical Visual Balance in AI Composition",
+      "generationPrompt": "16:9 modern clean editorial composition showing symmetrical visual balance, mirroring architectural elements on both sides, refined lighting with subtle depth, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "symmetrical-visual-balance"
+    },
+    {
+      "filename": "triadic-color-harmony.png",
+      "altText": "Illustration demonstrating triadic color harmony with three balanced vibrant colors in a digital artwork",
+      "imageTitle": "Digital Artwork Featuring Triadic Color Harmony",
+      "generationPrompt": "16:9 bright digital artwork showcasing triadic color harmony with vivid red, blue, and yellow colors, premium stock-image polish, clean editorial style, refined lighting, subtle depth, realistic materials, no text or logos",
+      "category": "Color",
+      "keywordSlug": "triadic-color-harmony"
     }
   ]
 }
