@@ -6381,5 +6381,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Tonal Contrast Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Tonal Contrast Palette: Enhance Depth and Mood in AI Images",
+    "metaDescription": "Discover how the Tonal Contrast Palette keyword shapes AI-generated images by emphasizing balanced light and dark values, adding visual depth and mood.",
+    "heroImage": {
+      "src": "/images/keywords/tonal-contrast-palette.png",
+      "alt": "Architectural exterior with tonal contrast palette showing strong light and shadow interplay",
+      "title": "Tonal Contrast Palette in Modern Architecture Photography",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using a Tonal Contrast Palette in AI image generation helps create compositions with clear differentiation of light and dark areas, which emphasizes structure and mood. This approach intensifies the visual impact by focusing on brightness contrasts rather than just color hues, enabling images with dramatic or refined atmospheres. As a color keyword, it guides AI models to adjust tone values cohesively, producing images that feel dynamic and balanced at once.",
+    "bestUseCases": [
+      "Architectural photography emphasizing structural shadows",
+      "Portraits aiming for dramatic lighting and depth",
+      "Product images showcasing texture and form with clarity"
+    ],
+    "relatedKeywords": [
+      "High Contrast Lighting",
+      "Monochrome Palette",
+      "Chiaroscuro Effects"
+    ],
+    "difficulty": "Beginner",
+    "slug": "tonal-contrast-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Weathered Wood Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Weathered Wood Texture: Realistic AI Image Prompt Guide",
+    "metaDescription": "Discover how to create realistic weathered wood textures with AI prompts. Learn visual traits, prompt formulas, use cases, and pro tips for stunning textures.",
+    "heroImage": {
+      "src": "/images/keywords/weathered-wood-texture.png",
+      "alt": "Close-up of detailed weathered wood texture showing cracked grain and faded paint in natural light",
+      "title": "Weathered Wood Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Weathered wood texture is prized in design and digital art for conveying authenticity and natural aging. It evokes warmth and rustic charm by representing wood that has been exposed to sun, rain, and wind over time. When used in AI prompt engineering, incorporating 'weathered wood texture' guides image generation models to produce materials that look tactile and imperfect, often featuring grain irregularities, color variations, and surface damage. This texture works well for backgrounds, architectural visualization, product packaging, and artistic projects where natural, worn aesthetics are desired, adding depth and storytelling potential to digital imagery.",
+    "bestUseCases": [
+      "Rustic interior design visualizations and architectural renders",
+      "Product backgrounds requiring natural or aged wood aesthetics",
+      "Graphic design elements for vintage-themed posters or packaging"
+    ],
+    "relatedKeywords": [
+      "Rustic Wood Texture",
+      "Distressed Wood",
+      "Aged Wood Surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "weathered-wood-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Velvet Fabric Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Velvet Fabric Texture: Luxurious Softness in AI Art",
+    "metaDescription": "Explore Velvet Fabric Texture in AI prompts for rich, soft, and elegant visuals. Learn how to evoke its lush look in your image creations.",
+    "heroImage": {
+      "src": "/images/keywords/velvet-fabric-texture.png",
+      "alt": "Close-up image showing rich velvet fabric texture with deep folds and subtle highlights",
+      "title": "Velvet Fabric Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Velvet Fabric Texture is a highly valued keyword in AI image creation, known for adding a touch of luxury and tactile richness. Its unique surface combines densely packed fibers that catch light gently, creating a depth that transforms flat colors into dynamic, sumptuous visuals. When AI models recognize the velvet texture prompt, they generate images showcasing soft highlights and shadows along with a fabric's signature pile, making it ideal for realistic fashion designs, interior decor visuals, and product textures. This keyword elevates images by introducing delicate, realistic fabric details that convey comfort and elegance, apt for editorial and commercial uses.",
+    "bestUseCases": [
+      "Fashion photography mockups featuring luxurious garments",
+      "Interior design visualizations showcasing velvet upholstery",
+      "Product presentations emphasizing tactile quality"
+    ],
+    "relatedKeywords": [
+      "Silk Fabric Texture",
+      "Satin Fabric Texture",
+      "Suede Fabric Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "velvet-fabric-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

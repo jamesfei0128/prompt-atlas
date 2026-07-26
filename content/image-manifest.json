@@ -1691,6 +1691,30 @@
       "generationPrompt": "16:9 bright digital artwork showcasing triadic color harmony with vivid red, blue, and yellow colors, premium stock-image polish, clean editorial style, refined lighting, subtle depth, realistic materials, no text or logos",
       "category": "Color",
       "keywordSlug": "triadic-color-harmony"
+    },
+    {
+      "filename": "tonal-contrast-palette.png",
+      "altText": "Architectural exterior with tonal contrast palette showing strong light and shadow interplay",
+      "imageTitle": "Tonal Contrast Palette in Modern Architecture Photography",
+      "generationPrompt": "16:9 photo of a modern building exterior, strong tonal contrast palette with clear light and shadow areas, realistic materials, subtle depth, refined lighting, clean composition, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "tonal-contrast-palette"
+    },
+    {
+      "filename": "weathered-wood-texture.png",
+      "altText": "Close-up of detailed weathered wood texture showing cracked grain and faded paint in natural light",
+      "imageTitle": "Weathered Wood Texture Close-up",
+      "generationPrompt": "16:9 photo-realistic close-up of weathered wood texture, cracked grain, faded paint, natural soft sunlight, rustic atmosphere, high detail, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "weathered-wood-texture"
+    },
+    {
+      "filename": "velvet-fabric-texture.png",
+      "altText": "Close-up image showing rich velvet fabric texture with deep folds and subtle highlights",
+      "imageTitle": "Velvet Fabric Texture Close-up",
+      "generationPrompt": "16:9 image of luxurious deep red velvet fabric texture with soft lighting emphasizing plush piles and folds, realistic textile detail, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "velvet-fabric-texture"
     }
   ]
 }
