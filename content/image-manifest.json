@@ -1715,6 +1715,30 @@
       "generationPrompt": "16:9 image of luxurious deep red velvet fabric texture with soft lighting emphasizing plush piles and folds, realistic textile detail, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "velvet-fabric-texture"
+    },
+    {
+      "filename": "morning-sunlight-atmosphere.png",
+      "altText": "Sunlit landscape scene with warm morning sunlight atmosphere casting soft golden light and elongated shadows over natural surroundings",
+      "imageTitle": "Morning Sunlight Atmosphere Illustration",
+      "generationPrompt": "A peaceful outdoor scene illuminated by morning sunlight atmosphere, soft warm golden light, long gentle shadows, natural textures, realistic materials, clean composition, no text, no logos, 16:9 aspect ratio",
+      "category": "Atmosphere",
+      "keywordSlug": "morning-sunlight-atmosphere"
+    },
+    {
+      "filename": "overcast-sky-mood.png",
+      "altText": "Softly lit landscape under an overcast sky with muted colors and gentle shadows",
+      "imageTitle": "Overcast Sky Mood Landscape",
+      "generationPrompt": "16:9 realistic landscape photo under overcast sky mood, soft and diffused lighting, muted color palette, subtle atmospheric haze, no text or logos",
+      "category": "Atmosphere",
+      "keywordSlug": "overcast-sky-mood"
+    },
+    {
+      "filename": "warm-ambient-glow.png",
+      "altText": "Interior living room softly illuminated by warm ambient glow with modern decor",
+      "imageTitle": "Cozy Modern Living Room with Warm Ambient Glow",
+      "generationPrompt": "16:9 photo of a modern living room illuminated by warm ambient glow, soft and diffused golden light, subtle shadows, premium editorial style, natural textures, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "warm-ambient-glow"
     }
   ]
 }

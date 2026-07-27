@@ -1345,27 +1345,27 @@
     "keyword": "Morning Sunlight Atmosphere",
     "slug": "morning-sunlight-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-27T12:50:02.963Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Overcast Sky Mood",
     "slug": "overcast-sky-mood",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-27T12:50:49.511Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Warm Ambient Glow",
     "slug": "warm-ambient-glow",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-27T12:51:36.585Z",
     "source": "openai-discovery"
   },
   {

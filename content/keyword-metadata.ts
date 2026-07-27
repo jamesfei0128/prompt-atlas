@@ -6471,5 +6471,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Morning Sunlight Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Morning Sunlight Atmosphere: Enhance AI Images with Warm Natural Light",
+    "metaDescription": "Discover how 'Morning Sunlight Atmosphere' transforms AI-generated images with warm, soft natural light. Learn formula prompts, best applications, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/morning-sunlight-atmosphere.png",
+      "alt": "Sunlit landscape scene with warm morning sunlight atmosphere casting soft golden light and elongated shadows over natural surroundings",
+      "title": "Morning Sunlight Atmosphere Illustration",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Morning Sunlight Atmosphere' keyword brings a distinctive mood to AI-generated images by simulating the unique lighting found during sunrise hours. This atmosphere bathes scenes in soft golden tones, creating natural warmth and subtle shadow play that enhances textures and depth. It's particularly effective in landscapes, architectural shots, and portraits, where the interplay between light and early morning freshness conveys optimism, tranquility, and renewal. Using this keyword helps shift an image's palette toward warm ambers and gentle highlights, contributing to compelling compositions with emotional resonance and visual balance.",
+    "bestUseCases": [
+      "Architectural photography during sunrise to highlight building textures",
+      "Outdoor portraiture capturing warm, flattering natural light",
+      "Nature and landscape scenes showcasing morning dew and golden hour beauty"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Lighting",
+      "Soft Natural Light",
+      "Early Morning Landscape"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "morning-sunlight-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Overcast Sky Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Overcast Sky Mood: Enhance AI Images with Soft Natural Lighting",
+    "metaDescription": "Discover how 'Overcast Sky Mood' enriches AI image prompts with realistic soft lighting, muted tones, and atmospheric effects for editorial and commercial visuals.",
+    "heroImage": {
+      "src": "/images/keywords/overcast-sky-mood.png",
+      "alt": "Softly lit landscape under an overcast sky with muted colors and gentle shadows",
+      "title": "Overcast Sky Mood Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Overcast Sky Mood' keyword is essential for generating AI images that simulate the soft, evenly distributed light characteristic of cloudy days. Unlike direct sunlight, overcast lighting reduces strong shadows and bright reflections, allowing subjects to appear evenly lit with a flattering, natural softness. This mood is valuable for creating serene, introspective scenes in landscapes, portraits, and urban environments. It lends itself well to editorial and commercial imagery requiring a refined, premium look without the starkness of harsh light, making compositions feel calm, balanced, and authentic.",
+    "bestUseCases": [
+      "Creating moody landscape or urban photography with soft lighting",
+      "Portraits needing flattering, evenly distributed natural light",
+      "Product shots where minimized glare and reflections are desired"
+    ],
+    "relatedKeywords": [
+      "Soft Natural Light",
+      "Cloudy Atmosphere",
+      "Muted Color Palette"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "overcast-sky-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Warm Ambient Glow",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Warm Ambient Glow: Enhance AI Image Lighting Effects",
+    "metaDescription": "Discover how to use 'Warm Ambient Glow' in AI image prompts to create inviting, softly lit visuals with premium realism and subtle depth.",
+    "heroImage": {
+      "src": "/images/keywords/warm-ambient-glow.png",
+      "alt": "Interior living room softly illuminated by warm ambient glow with modern decor",
+      "title": "Cozy Modern Living Room with Warm Ambient Glow",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "In AI-generated imagery, the \"Warm Ambient Glow\" keyword is used to simulate cozy, inviting lighting environments characterized by soft, warm illumination that enriches the visual texture and mood. This lighting effect mimics natural golden-hour sunlight or artificial sources like incandescent lamps, casting gentle gradients of warm light that add emotional warmth and realism without overpowering highlights or harsh contrasts. The resulting images often convey feelings of comfort, intimacy, or nostalgia and are especially valuable in editorial, lifestyle, and interior design visuals. Incorporating this prompt keyword encourages AI models to focus on warm tones and a balanced ambient light distribution, making it ideal for enhancing the aesthetic appeal of portraits, product shots, and environmental scenes with a premium, polished finish.",
+    "bestUseCases": [
+      "Interior design visualizations emphasizing cozy atmospheres",
+      "Lifestyle photography with warm, inviting moods",
+      "Product shots needing enhanced texture and sumptuous lighting"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Lighting",
+      "Soft Diffused Light",
+      "Cozy Interior Glow"
+    ],
+    "difficulty": "Beginner",
+    "slug": "warm-ambient-glow",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
