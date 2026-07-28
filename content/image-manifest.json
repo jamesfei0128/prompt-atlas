@@ -1739,6 +1739,30 @@
       "generationPrompt": "16:9 photo of a modern living room illuminated by warm ambient glow, soft and diffused golden light, subtle shadows, premium editorial style, natural textures, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "warm-ambient-glow"
+    },
+    {
+      "filename": "vignette-framing-technique.png",
+      "altText": "Portrait with vignette framing technique showing soft dark edges emphasizing central face",
+      "imageTitle": "Example of Vignette Framing Technique in Portrait Photography",
+      "generationPrompt": "16:9 highly detailed portrait of a woman, soft dark vignette framing around edges, cinematic lighting, realistic skin texture, shallow depth of field, professional studio quality, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "vignette-framing-technique"
+    },
+    {
+      "filename": "textured-paper-background.png",
+      "altText": "Close-up of textured paper background showing fibers and subtle lighting",
+      "imageTitle": "Textured Paper Background with Fine Grain Texture",
+      "generationPrompt": "16:9 image of a close-up textured paper background, natural off-white color with soft light revealing fibers and subtle shadows, realistic materials, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "textured-paper-background"
+    },
+    {
+      "filename": "ink-wash-texture.png",
+      "altText": "Elegant ink wash texture with soft brush strokes and tonal gradients",
+      "imageTitle": "Ink Wash Texture Artistic Style Illustration",
+      "generationPrompt": "A minimalist landscape rendered in traditional East Asian ink wash style with fluid, soft brush strokes and subtle tonal variations, clean composition, realistic materials, refined lighting, 16:9 aspect ratio, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "ink-wash-texture"
     }
   ]
 }

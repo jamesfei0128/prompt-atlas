@@ -6561,5 +6561,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Vignette Framing Technique",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Vignette Framing Technique: Enhance Your AI Image Composition",
+    "metaDescription": "Discover the Vignette Framing Technique for AI image prompts. Learn how to create focused and dynamic compositions with expert prompt formulas and use cases.",
+    "heroImage": {
+      "src": "/images/keywords/vignette-framing-technique.png",
+      "alt": "Portrait with vignette framing technique showing soft dark edges emphasizing central face",
+      "title": "Example of Vignette Framing Technique in Portrait Photography",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Vignette Framing Technique is widely used in photography and digital art to subtly guide the viewer's eye toward the main subject. When incorporated into AI image prompts, it suggests the system to create imagery where the edges are softened, darkened, or less detailed, enhancing central focus and depth perception. This approach elevates the visual impact, especially in portraits, still-life, or scene compositions requiring a mood or intimate feel. Employing vignetting in AI-generated images creates a professional, polished look by framing the scene organically, subtly isolating subjects without the need for harsh borders or cropping.",
+    "bestUseCases": [
+      "Portrait photography and character studies to highlight expressions",
+      "Product shots emphasizing the item by softening background distractions",
+      "Mood-driven environmental scenes with natural focus and intimacy"
+    ],
+    "relatedKeywords": [
+      "Soft Focus",
+      "Spotlight Effect",
+      "Depth of Field"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "vignette-framing-technique",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Textured Paper Background",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Textured Paper Background - Premium AI Image Prompt Keyword",
+    "metaDescription": "Discover how the 'Textured Paper Background' keyword enhances AI-generated images with realistic materials and subtle depth, perfect for creative and commercial uses.",
+    "heroImage": {
+      "src": "/images/keywords/textured-paper-background.png",
+      "alt": "Close-up of textured paper background showing fibers and subtle lighting",
+      "title": "Textured Paper Background with Fine Grain Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Adding the 'Textured Paper Background' keyword to an AI-generated image prompt introduces a tactile and organic feel, mimicking the subtle fibers and natural imperfections of real paper. It optimizes visual depth and material realism, making backgrounds appear authentic and refined. This effect is particularly useful in artistic, editorial, or product-related images where a clean yet textural backdrop is desired. By specifying this texture, users can elevate the image's material presentation, avoiding flat or digital-only appearances. The result is a premium stock-image-quality background with sophisticated lighting and nuanced detail that enhances focus on the main subject without distraction.",
+    "bestUseCases": [
+      "Artistic and fine art prints requiring natural material backgrounds",
+      "Product photography mockups to highlight items with elegant textured backdrops",
+      "Editorial layouts and magazine covers needing clean yet tactile backgrounds"
+    ],
+    "relatedKeywords": [
+      "Paper Grain Texture",
+      "Handmade Paper Effect",
+      "Natural Fiber Surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "textured-paper-background",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Ink Wash Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Ink Wash Texture: Enhance AI Art with Traditional Brushwork",
+    "metaDescription": "Discover how to use 'Ink Wash Texture' in AI image prompts to create elegant brushstroke effects, perfect for artistic and design projects.",
+    "heroImage": {
+      "src": "/images/keywords/ink-wash-texture.png",
+      "alt": "Elegant ink wash texture with soft brush strokes and tonal gradients",
+      "title": "Ink Wash Texture Artistic Style Illustration",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Ink Wash Texture is a powerful prompt keyword that infuses AI-generated images with the aesthetic qualities of traditional ink wash paintings. This technique draws from historic East Asian art, emphasizing natural brush strokes, tonal gradations, and subtle texture, lending images an artistic and sophisticated feel. When applied in AI prompts, it helps digital creations transcend flatness by simulating the irregularity and beauty of hand-applied ink. This makes it ideal for artists, designers, and illustrators seeking to combine digital precision with the poetry of classic brushwork in their projects.",
+    "bestUseCases": [
+      "Creating atmospheric backgrounds for book covers or editorial designs",
+      "Designing intricate textures in concept art and illustrations with a hand-crafted feel",
+      "Generating cultural or historical art pieces inspired by East Asian aesthetics"
+    ],
+    "relatedKeywords": [
+      "brush stroke texture",
+      "watercolor texture",
+      "grayscale ink effect"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "ink-wash-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
