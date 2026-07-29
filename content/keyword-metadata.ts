@@ -6651,5 +6651,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Soft Focus Background",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Soft Focus Background: Enhance Composition with Gentle Blur",
+    "metaDescription": "Learn how 'Soft Focus Background' creates subtle depth and refined ambiance in AI image prompts. Perfect for editorial and premium stock images.",
+    "heroImage": {
+      "src": "/images/keywords/soft-focus-background.png",
+      "alt": "Portrait of a woman with a softly blurred background creating elegant depth",
+      "title": "Soft Focus Background Example Portrait",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "In AI image generation, the 'Soft Focus Background' effect helps create compelling compositions by gently blurring background areas while keeping foreground subjects sharp and detailed. This technique mimics professional photography, where lens aperture settings are used to isolate the subject from distracting elements. Adding this keyword enhances the image's mood and depth, giving it a polished, premium look suitable for editorial layouts, product shots, or portraits. It balances subtlety in lighting and texture while maintaining natural materials and colors, ensuring the image remains believable and sophisticated.",
+    "bestUseCases": [
+      "Portrait photography and editorial headshots needing subject emphasis",
+      "Product images where the item stands out against minimal distractions",
+      "Lifestyle and nature scenes requiring gentle atmospheric depth"
+    ],
+    "relatedKeywords": [
+      "Shallow Depth of Field",
+      "Bokeh Background",
+      "Subtle Ambient Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-focus-background",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Bright Pastel Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Bright Pastel Palette: Definition and Best AI Prompt Uses",
+    "metaDescription": "Explore the Bright Pastel Palette keyword for AI image prompts. Learn definitions, prompt formulas, use cases, and industry applications for vibrant, soft color schemes.",
+    "heroImage": {
+      "src": "/images/keywords/bright-pastel-palette.png",
+      "alt": "Interior design photo showcasing bright pastel palette colors in modern living room",
+      "title": "Modern Living Room with Bright Pastel Palette Colors",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Bright Pastel Palette is a popular choice in AI-generated imagery for creating visuals that combine softness with energy. These palettes blend traditional pastels—colors with low saturation and high lightness—with increased brightness to keep the colors gentle yet eye-catching. This balance serves to evoke feelings of calmness infused with optimism, making the color scheme widely favored in advertising, editorial spreads, and social media visuals. When used in AI image prompts, it steers the model to generate harmonious color compositions that are neither dull nor harsh, ideal for modern and clean aesthetics.",
+    "bestUseCases": [
+      "Branding and packaging designs for wellness or beauty products",
+      "Children's book illustrations with cheerful atmospheres",
+      "Social media graphics promoting lifestyle and fashion trends"
+    ],
+    "relatedKeywords": [
+      "Soft Pastel Colors",
+      "Vibrant Color Schemes",
+      "Light and Airy"
+    ],
+    "difficulty": "Beginner",
+    "slug": "bright-pastel-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Monochromatic Red Tones",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Monochromatic Red Tones: Elevate AI Image Color Palette",
+    "metaDescription": "Explore Monochromatic Red Tones in AI image prompts—definition, visual traits, prompt formulas, best uses, creative tweaks, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/monochromatic-red-tones.png",
+      "alt": "Editorial portrait in monochromatic red tones with soft lighting",
+      "title": "Monochromatic Red Tones Editorial Portrait",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Monochromatic Red Tones is a powerful color approach in AI image generation that emphasizes various shades, tints, and tones of red exclusively. This technique reinforces emotional impact, typically evoking passion, warmth, or intensity, depending on the red variations used. By focusing on a single color family, it simplifies the visual narrative and heightens composition cohesion. Designers and creators leverage this color scheme to create striking editorial images, fashion visuals, or conceptual art where red's symbolic power is essential. Using Monochromatic Red Tones in AI prompts helps achieve images with a unified palette that feels refined and emotionally charged.",
+    "bestUseCases": [
+      "Editorial fashion shoots emphasizing emotional storytelling through color",
+      "Branding visuals for companies with red-centric color identities",
+      "Artistic portraits or still life focusing on mood and color harmony"
+    ],
+    "relatedKeywords": [
+      "Monochromatic Blue Tones",
+      "Warm Color Palette",
+      "High Contrast Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "monochromatic-red-tones",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

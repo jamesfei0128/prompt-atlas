@@ -1763,6 +1763,30 @@
       "generationPrompt": "A minimalist landscape rendered in traditional East Asian ink wash style with fluid, soft brush strokes and subtle tonal variations, clean composition, realistic materials, refined lighting, 16:9 aspect ratio, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "ink-wash-texture"
+    },
+    {
+      "filename": "soft-focus-background.png",
+      "altText": "Portrait of a woman with a softly blurred background creating elegant depth",
+      "imageTitle": "Soft Focus Background Example Portrait",
+      "generationPrompt": "16:9 image of a woman smiling in natural light, sharp focus on face, with soft focus background featuring subtle bokeh, warm ambient light, clean editorial style, realistic materials, premium stock image quality, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "soft-focus-background"
+    },
+    {
+      "filename": "bright-pastel-palette.png",
+      "altText": "Interior design photo showcasing bright pastel palette colors in modern living room",
+      "imageTitle": "Modern Living Room with Bright Pastel Palette Colors",
+      "generationPrompt": "16:9 a modern living room interior with bright pastel palette colors, soft natural lighting, refined materials, clean editorial composition, subtle depth, premium stock-image quality, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "bright-pastel-palette"
+    },
+    {
+      "filename": "monochromatic-red-tones.png",
+      "altText": "Editorial portrait in monochromatic red tones with soft lighting",
+      "imageTitle": "Monochromatic Red Tones Editorial Portrait",
+      "generationPrompt": "16:9 editorial style portrait of a young woman using monochromatic red tones, soft diffused lighting, high detail, clean composition, realistic materials, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "monochromatic-red-tones"
     }
   ]
 }
