@@ -1787,6 +1787,30 @@
       "generationPrompt": "16:9 editorial style portrait of a young woman using monochromatic red tones, soft diffused lighting, high detail, clean composition, realistic materials, no text, no logos",
       "category": "Color",
       "keywordSlug": "monochromatic-red-tones"
+    },
+    {
+      "filename": "rustic-metal-texture.png",
+      "altText": "Close-up of rustic metal texture showing rust, scratches, and weathered patina",
+      "imageTitle": "Rustic Metal Texture Close-Up",
+      "generationPrompt": "16:9 close-up of rusty and scratched metal surface with patina, warm natural lighting, high detail, realistic textures, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rustic-metal-texture"
+    },
+    {
+      "filename": "color-blocking-layout.png",
+      "altText": "Vibrant color blocking layout composition with bold, distinct color sections",
+      "imageTitle": "Color Blocking Layout Composition with Bold Colors",
+      "generationPrompt": "16:9 vibrant, modern color blocking layout with large solid color blocks, clean editorial style, refined lighting, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "color-blocking-layout"
+    },
+    {
+      "filename": "dynamic-asymmetric-layout.png",
+      "altText": "Modern editorial photo with dynamic asymmetric layout, clean composition, refined lighting",
+      "imageTitle": "Dynamic Asymmetric Layout in Modern Editorial Style",
+      "generationPrompt": "a high-end editorial photograph with dynamic asymmetric layout, clean white background, refined soft lighting, realistic textures, subtle depth, no text, no logos, no watermark, 16:9",
+      "category": "Composition",
+      "keywordSlug": "dynamic-asymmetric-layout"
     }
   ]
 }

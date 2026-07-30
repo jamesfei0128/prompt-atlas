@@ -1426,27 +1426,27 @@
     "keyword": "Rustic Metal Texture",
     "slug": "rustic-metal-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-30T11:45:39.347Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Color Blocking Layout",
     "slug": "color-blocking-layout",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-30T11:46:16.435Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Dynamic Asymmetric Layout",
     "slug": "dynamic-asymmetric-layout",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-30T11:47:00.958Z",
     "source": "openai-discovery"
   },
   {
@@ -2310,6 +2310,339 @@
     "category": "Composition",
     "status": "pending",
     "createdAt": "2026-07-18T10:55:14.912Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Softbox Lighting Technique",
+    "slug": "softbox-lighting-technique",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.891Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Volumetric Lighting Effects",
+    "slug": "volumetric-lighting-effects",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Warm Backlighting Style",
+    "slug": "warm-backlighting-style",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Window Light Quality",
+    "slug": "natural-window-light-quality",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Low Angle Lighting",
+    "slug": "low-angle-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Silhouette Composition",
+    "slug": "silhouette-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Triangle Composition",
+    "slug": "golden-triangle-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Monochrome Color Palette",
+    "slug": "monochrome-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pastel Color Harmonies",
+    "slug": "pastel-color-harmonies",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Gradient Sky Colors",
+    "slug": "gradient-sky-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Duochrome Contrast Palette",
+    "slug": "duochrome-contrast-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Organic Fabric Texture",
+    "slug": "organic-fabric-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rough Canvas Surface",
+    "slug": "rough-canvas-surface",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Polished Stone Material",
+    "slug": "polished-stone-material",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Translucent Plastic Texture",
+    "slug": "translucent-plastic-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Embossed Leather Texture",
+    "slug": "embossed-leather-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Misty Forest Atmosphere",
+    "slug": "misty-forest-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cozy Indoor Warmth",
+    "slug": "cozy-indoor-warmth",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.892Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Editorial Fashion Layout",
+    "slug": "editorial-fashion-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Showcase Setup",
+    "slug": "product-showcase-setup",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Social Media Banner Design",
+    "slug": "social-media-banner-design",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Website Hero Image Style",
+    "slug": "website-hero-image-style",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Event Poster Composition",
+    "slug": "event-poster-composition",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "App Interface Background",
+    "slug": "app-interface-background",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cinematic Color Grading",
+    "slug": "cinematic-color-grading",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vintage Film Grain Style",
+    "slug": "vintage-film-grain-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Painterly Brushstroke Style",
+    "slug": "painterly-brushstroke-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Line Art Illustration Style",
+    "slug": "line-art-illustration-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Icon Set Design",
+    "slug": "minimalist-icon-set-design",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Hand Drawn Cartoon Style",
+    "slug": "hand-drawn-cartoon-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Backscatter Lighting Effect",
+    "slug": "backscatter-lighting-effect",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Tonal Contrast Composition",
+    "slug": "tonal-contrast-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Texture Overlay Technique",
+    "slug": "texture-overlay-technique",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Haze Depth Effect",
+    "slug": "haze-depth-effect",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Color Temperature Adjustment",
+    "slug": "color-temperature-adjustment",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Lifestyle Photography",
+    "slug": "product-lifestyle-photography",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Sequential Image Layout",
+    "slug": "sequential-image-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-07-30T11:44:58.893Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }

@@ -6741,5 +6741,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Rustic Metal Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rustic Metal Texture: Enhance AI Art with Weathered Metal Surfaces",
+    "metaDescription": "Explore how Rustic Metal Texture enriches AI-generated images with authentic weathered metal look, ideal for industrial and vintage designs.",
+    "heroImage": {
+      "src": "/images/keywords/rustic-metal-texture.png",
+      "alt": "Close-up of rustic metal texture showing rust, scratches, and weathered patina",
+      "title": "Rustic Metal Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Using the Rustic Metal Texture keyword in AI image generation prompts enables artists and designers to depict materials that evoke a tactile sense of history and industrial age charm. The effect mimics the natural aging process on metals, featuring oxidation, pitting, and surface irregularities, which deliver a realistic and visually compelling finish. This texture works well in designs requiring an authentic vintage or handcrafted aesthetic, often used to contrast smoother, newer materials or to emphasize material quality and environment. Incorporating this keyword enhances the feel of depth and realism, making digital renders more tangible and atmospheric for editorial, product visualization, and concept art contexts.",
+    "bestUseCases": [
+      "Product packaging and branding visuals with industrial or handmade appeal",
+      "Backgrounds and props in historical or steampunk-themed digital art",
+      "Textile or furniture mockups requiring aged metal hardware or accents"
+    ],
+    "relatedKeywords": [
+      "weathered metal texture",
+      "oxidized metal surface",
+      "vintage metal finish"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rustic-metal-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Color Blocking Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Color Blocking Layout: Bold and Modern Composition Technique",
+    "metaDescription": "Explore color blocking layout in AI image prompts. Learn its definition, visual traits, prompt formulas, best uses, and creative variations.",
+    "heroImage": {
+      "src": "/images/keywords/color-blocking-layout.png",
+      "alt": "Vibrant color blocking layout composition with bold, distinct color sections",
+      "title": "Color Blocking Layout Composition with Bold Colors",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Color blocking layout is a popular compositional technique that emphasizes the use of large, solid-color sections placed adjacent to each other to create striking, clean images. In AI image generation, incorporating color blocking layouts helps achieve modern, editorial-style visuals characterized by minimalism and vibrant contrast. This style is widely used in fashion, graphic design, and advertising to draw the viewer's eye and create memorable, bold imagery. By specifying color blocking layout in prompts, users can steer AI models to focus on geometric organization of colors, resulting in polished images with refined lighting and subtle depth while maintaining simplicity and clarity.",
+    "bestUseCases": [
+      "Fashion editorial photoshoots emphasizing colorful outfits and backgrounds",
+      "Graphic design mockups showcasing branding or packaging concepts",
+      "Advertising visuals focusing on product features with bold, contrasting backgrounds"
+    ],
+    "relatedKeywords": [
+      "Geometric Composition",
+      "Minimalist Design",
+      "Editorial Photography"
+    ],
+    "difficulty": "Beginner",
+    "slug": "color-blocking-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Dynamic Asymmetric Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Dynamic Asymmetric Layout: Creating Engaging AI Compositions",
+    "metaDescription": "Learn how to craft dynamic asymmetric layouts in AI image prompts for compelling, modern compositions with clean editorial style and refined lighting.",
+    "heroImage": {
+      "src": "/images/keywords/dynamic-asymmetric-layout.png",
+      "alt": "Modern editorial photo with dynamic asymmetric layout, clean composition, refined lighting",
+      "title": "Dynamic Asymmetric Layout in Modern Editorial Style",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Dynamic asymmetric layouts break away from the predictability of centered designs by introducing imbalance that attracts the viewer's eye across the composition. This style is widely used in editorial design, advertising, and digital media to convey energy, modernity, and sophistication. By emphasizing contrast and selective clustering, the layout guides attention strategically without relying on rigid balance. In AI image generation, specifying dynamic asymmetric layout in your prompt encourages the model to produce visually compelling scenes with elements arranged unevenly yet harmoniously, enhancing the overall narrative or mood of the image. This approach works particularly well for premium stock images and design headlines where a clean, polished look with subtle depth is desired.",
+    "bestUseCases": [
+      "Editorial photography with modern, cutting-edge aesthetics",
+      "Advertising campaigns requiring eye-catching but elegant layouts",
+      "Website hero images emphasizing clarity with dynamic spatial composition"
+    ],
+    "relatedKeywords": [
+      "Editorial Composition",
+      "Rule of Thirds",
+      "Modern Minimalism"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "dynamic-asymmetric-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
