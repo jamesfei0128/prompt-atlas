@@ -16554,4 +16554,365 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Yes, including dynamic asymmetric layout can make product images more visually engaging by creating an energetic composition that draws viewer attention without feeling static."
     }
   ]
+  },
+  {
+    title: "Frosted Glass Surface",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Frosted Glass Surface: Texture & Material for Realistic AI Images",
+    metaDescription: "Explore how to create stunning AI images with frosted glass surface texture. Learn prompt formulas, best uses, advanced tips, and professional workflows.",
+    heroImage: keywordHero("frosted-glass-surface", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "A frosted glass surface refers to glass that has been textured to diffuse light, creating a translucent, matte finish that obscures clear visibility. In AI image prompts, specifying 'frosted glass surface' adds a realistic, semi-opaque texture that softens reflections and modifies the interaction between light and the glass, contributing to a refined and modern aesthetic.",
+    visualCharacteristics: [
+    "Softened, blurred transparency that diffuses light",
+    "Matte, semi-opaque texture with subtle surface roughness",
+    "Muted reflections and gentle light scattering across the glass"
+  ],
+    overview: "Frosted glass surfaces are widely used in modern design to provide privacy without sacrificing natural light. When incorporated into AI image prompts, this texture lends a subtle, elegant diffusion effect that replicates real-world glass treatments. It enhances scenes requiring sophisticated material realism and refined lighting. The frosted finish creates soft visual layers, allowing light to scatter gently and producing an inviting atmosphere. This texture works well in architecture, product design, and abstract compositions, adding depth while maintaining clarity of shape and color. Using this keyword correctly guides AI models to render nuanced glass surfaces with premium polish and tactile authenticity.",
+    whatItDoes: "Including 'frosted glass surface' in an AI image prompt instructs the model to apply a specific translucent texture that diffuses light and partially obscures details behind the glass. This effect changes the interaction of light and reflection compared to clear glass, resulting in a softer, more matte appearance. It enhances material realism by simulating fine surface textures that scatter light subtly rather than reflecting sharply. This keyword helps achieve a refined, elegant look in generated images and avoids the overly glossy or flat appearance sometimes seen with generic glass descriptions. The resulting images convey tactile quality and nuanced visual depth suitable for editorial, product, or architectural imagery.",
+    bestUseCases: [
+    "Architectural visuals featuring privacy glass windows or partitions",
+    "Product photography showcasing cosmetics or tech devices with frosted glass elements",
+    "Abstract backgrounds or compositions requiring subtle light diffusion and texture"
+  ],
+    relatedKeywords: [
+    "matte glass texture",
+    "translucent surfaces",
+    "diffused light effects"
+  ],
+    examplePrompt: "Modern office interior with frosted glass surface windows, soft natural light, clean lines",
+    promptExamples: [
+    "Modern office interior with frosted glass surface windows, soft natural light, clean lines",
+    "Minimalist perfume bottle on frosted glass surface, premium lighting, sharp focus",
+    "Abstract composition with layered frosted glass surfaces, diffused pastel lighting"
+  ],
+    commercialApplications: [
+    "Advertising visuals for luxury products with frosted glass packaging",
+    "Architectural visualization of modern interiors using privacy glass",
+    "Stock photography packs for designers needing subtle textured glass backgrounds"
+  ],
+    adobeStockPotential: "Frosted glass surface imagery is highly valuable for premium stock photo libraries like Adobe Stock due to its broad applicability in commercial and editorial projects. These images appeal to architects, interior designers, product marketers, and digital artists who frequently request sophisticated glass textures conveying luxury and privacy. The visual subtlety and realistic light diffusion boost image quality, making such renders ideal hero shots or backgrounds. Additionally, the keyword’s versatility allows artists to produce diverse variations catering to multiple industries, reinforcing consistent demand and strong sales potential on stock platforms.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Frosted glass surface describes glass that has been treated or textured to obscure visibility while transmitting light diffusely. This creates a matte, semi-opaque finish instead of clear transparency. In AI imagery, adding this keyword guides the model to simulate that signature texture, affecting how light scatters and reflections appear. It replaces the usual sharp reflections and clarity of clear glass with a softened, blurred visual effect. Beginners should understand this changes the material realism with subtle surface detail and light diffusion, producing a more tactile and refined glass appearance."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "items": [
+        "[subject] on/in frosted glass surface with soft diffused lighting",
+        "Close-up of [object] reflecting on frosted glass surface, subtle matte texture",
+        "Abstract composition with layered frosted glass surfaces, gentle light scattering"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Privacy glass panels in modern architectural renderings",
+        "Product shots featuring frosted glass packaging or decor elements",
+        "Backgrounds and abstracts requiring diffused light and subtle textures"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "For experienced prompt writers, combine 'frosted glass surface' with modifiers specifying light quality, color temperature, or environment reflections to achieve nuanced effects. Use constraints like 'soft shadows' and 'natural backlighting' to enhance realism. Pair with complementary materials such as brushed metal or matte ceramics to create sophisticated compositions. Try alternating density terms like 'lightly frosted' versus 'heavily frosted' to control translucency intensity and visual layering.",
+      "items": [
+        "Combine with natural or ambient lighting descriptors",
+        "Use modifiers for frost density: lightly frosted, heavily frosted",
+        "Pair with complementary materials like brushed metal or matte stone",
+        "Add reflections or refractions with subtle ambient colors",
+        "Control shadow softness to emphasize texture depth"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start your workflow by defining the intended scene's mood and purpose — whether architectural, product-focused, or abstract. Include 'frosted glass surface' early in your prompts to fix the core texture. Generate multiple variations adjusting light direction and frost intensity parameters. Select images showcasing realistic light diffusion and desirable blur levels. Refine outputs by reiterating prompt precision, experimenting with modifiers such as glossiness and shadow softness until premium quality and composition coherence are achieved. Finally, perform post-processing to enhance contrast subtly while preserving texture authenticity.",
+      "items": [
+        "Brief scene purpose and desired mood",
+        "Include 'frosted glass surface' early in prompts",
+        "Generate varied lighting and frost intensity versions",
+        "Select images with optimal light diffusion and texture",
+        "Refine prompts iteratively and enhance outputs post-generation"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "items": [
+        "Matte & soft-focus textures",
+        "Translucent and semi-opaque materials",
+        "Minimalist modern architectural aesthetics"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "When working with contemporary AI image generation models, use clear, descriptive language emphasizing texture and light interaction rather than relying on obscure jargon. Avoid syntax that may be unstable across model versions, such as overly nested brackets or rare tokens. Incorporate simple adjectives like 'frosted,' 'matte,' and 'diffused light' to steer models effectively. Testing prompt iterations helps find optimal phrasing due to subtle differences in model training data and token recognition, ensuring consistent results without model-specific dependencies.",
+      "items": [
+        "Use straightforward adjectives like 'frosted' and 'diffused'",
+        "Avoid complex or unstable syntax structures",
+        "Test variations for best model response",
+        "Describe light and material effects explicitly",
+        "Ensure prompts are portable across AI models"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does a frosted glass surface differ from clear glass in AI prompts?",
+      "answer": "In AI prompts, specifying 'frosted glass surface' tells the model to apply a translucent, matte texture that diffuses light and obscures visibility behind the glass, unlike clear glass which is fully transparent with sharp reflections."
+    },
+    {
+      "question": "Can frosted glass surfaces be combined with other materials in a prompt?",
+      "answer": "Yes, frosted glass surfaces pair well with materials like brushed metal, wood, and matte ceramics to add tactile richness and visual contrast in compositions."
+    }
+  ]
+  },
+  {
+    title: "Dramatic Shadow Play",
+    category: "Lighting",
+    published: true,
+    seoTitle: "Dramatic Shadow Play: Master Lighting for Striking AI Images",
+    metaDescription: "Explore how to use dramatic shadow play in AI image prompts to create bold, high-contrast lighting effects that add depth and emotion to visuals.",
+    heroImage: keywordHero("dramatic-shadow-play", "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"),
+    definition: "Dramatic shadow play refers to the creative use of strong, contrasting shadows and highlights in an image to emphasize depth, form, and mood. In AI image prompts, it directs the generation model to simulate light sources casting dark shadows with sharp edges or patterns, intensifying visual tension and dimensionality.",
+    visualCharacteristics: [
+    "High-contrast lighting with deep shadows",
+    "Sharp-edged shadows creating patterns or shapes",
+    "Enhanced depth and form through chiaroscuro effects"
+  ],
+    overview: "Dramatic shadow play is a powerful lighting technique that leverages stark contrasts between light and dark areas to draw attention and evoke emotion. By guiding AI to create strong directional lighting accompanied by pronounced shadows, images gain a sculptural and dynamic quality. This technique helps emphasize textures, enhance spatial depth, and create visually compelling compositions that stand out. In AI-generated art, incorporating shadow play opens up creative possibilities for storytelling, mood setting, and artistic expression, especially in portraiture, architectural photography, and fine art visuals.",
+    whatItDoes: "Using the dramatic shadow play keyword in AI image prompts signals the model to simulate intense directional lighting that casts deep, often sharp, shadows. It enhances three-dimensionality by mirroring natural or staged lighting setups where shadows sculpt form. This results in images with pronounced contrasts and visually arresting shadow patterns, adding emotional weight or mystery. It guides the AI away from flat, evenly lit scenes towards ones exhibiting chiaroscuro—highlighting texture, contours, and ambient mood through interplay of light and darkness.",
+    bestUseCases: [
+    "Portrait photography emphasizing facial features through shadows",
+    "Architectural scenes showcasing structural depth and geometry",
+    "Still life imagery highlighting texture and form with chiaroscuro"
+  ],
+    relatedKeywords: [
+    "Chiaroscuro Lighting",
+    "High Contrast Lighting",
+    "Directional Lighting"
+  ],
+    examplePrompt: "Portrait of a person illuminated by a single directional light source, dramatic shadow play, high contrast, deep shadows accentuating facial contours, cinematic lighting",
+    promptExamples: [
+    "Portrait of a person illuminated by a single directional light source, dramatic shadow play, high contrast, deep shadows accentuating facial contours, cinematic lighting",
+    "Modern building exterior at golden hour with dramatic shadow play, strong sunlight casting sharp shadows, emphasizing geometry and depth, realistic materials",
+    "Still life composition with fruits and textured fabrics, dramatic shadow play creating striking shadow patterns, rich contrast, subdued background"
+  ],
+    commercialApplications: [
+    "Advertising visuals requiring emotional or moody lighting",
+    "Editorial portraits enhancing character and narrative",
+    "Interior and architecture marketing highlighting design features"
+  ],
+    adobeStockPotential: "Images using dramatic shadow play have strong potential on Adobe Stock due to their striking visual appeal and emotional depth. Their cinematic quality attracts buyers in advertising, editorial, and design sectors seeking impactful, artsy images. Well-crafted shadow play images tend to stand out in portfolios and searches, often fitting high-end campaigns or conceptual projects that demand bold lighting contrasts. Incorporating refined shadow play increases commercial value and versatility across creative industries.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Dramatic shadow play is a lighting technique that emphasizes shadows to create strong contrasts, highlight shapes, and convey mood within an image. When added to an AI prompt, it cues the model to render distinct shadows cast by one or more intense light sources, boosting visual interest and depth. This effect mimics styles seen in film noir, fine art, and theatrical photography, where shadows are integral to composition rather than incidental.",
+      "items": [
+        "Emphasizes bold shadow and highlight contrasts",
+        "Mimics chiaroscuro lighting style",
+        "Enhances depth and drama in images"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use the following patterns to integrate dramatic shadow play effectively:\n\n- \"[subject], dramatic shadow play, high contrast lighting, deep sharp shadows\"\n- \"[scene], single directional light source casting long bold shadows, chiaroscuro effect\"\n- \"[composition], intense light and shadow interplay, emphasizes texture and form\"\n- \"[object/scene], cinematic lighting with pronounced shadow patterns, moody atmosphere\"\n\nCombine with terms like \"hard light,\" \"spotlight,\" or \"low key lighting\" to refine results.",
+      "items": [
+        "[subject], dramatic shadow play, high contrast lighting, deep sharp shadows",
+        "[scene], single directional light source casting long bold shadows, chiaroscuro effect",
+        "[composition], intense light and shadow interplay, emphasizes texture and form"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Portrait photography emphasizing mood through shadowed facial contours",
+        "Architectural visuals highlighting geometric depth and form",
+        "Still life compositions with textured objects and rich light-shadow patterns"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "Common errors when using dramatic shadow play in AI prompts include insufficiently specifying light source direction, resulting in flat or unrealistic shadows. Overusing vague terms like \"dark shadows\" without context can produce muddy or grainy images. Conversely, forcing shadows without harmonizing ambient light may create unnatural or harsh contrasts that distract from the subject. To avoid these issues, clearly define light angles, shadow sharpness, and lighting intensity, balancing contrast for realistic yet dramatic effects.",
+      "items": [
+        "Omitting light source direction leads to flat shadows",
+        "Using generic 'dark shadows' without specificity causes muddy effects",
+        "Overdoing shadow contrast leads to unnatural harshness",
+        "Ignoring ambient light balance reduces realism"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "For experienced prompt writers, layering dramatic shadow play with modifiers can enhance artistic control. Combine it with \"colored gels on light sources\" to introduce tinted shadows or highlights. Use constraints like \"soft edge shadows with high contrast areas\" to blend drama with subtlety. Layer multiple directional lights with varying intensities for complex shadow interplay. Incorporate environmental factors such as \"light filtering through blinds\" or \"dappled shadows from foliage\" to create intricate, textured lighting scenarios reflecting natural conditions.",
+      "items": [
+        "Add colored gel lighting for tinted shadow effects",
+        "Specify shadow edge softness for nuanced contrast",
+        "Layer multiple directional lights for complex shadow patterns",
+        "Include environmental shadow sources like blinds or foliage"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start by clearly briefing the desired mood and lighting style to align expectations with dramatic shadow play. Generate initial images emphasizing directional lighting and shadow strength. Evaluate candidates for shadow clarity, subject emphasis, and naturalism. Select the best renders, then refine prompts to adjust shadow crispness, light positioning, or color temperature. Iteratively fine-tune until achieving balanced, dynamic images that maintain realism while maximizing shadow impact. Use post-generation tools if needed for fine shadow enhancements or cleanup.",
+      "items": [
+        "Brief mood and lighting style emphasizing dramatic shadows",
+        "Generate images with specified shadow intensity and direction",
+        "Review and select images for shadow sharpness and composition",
+        "Refine prompts iteratively to adjust lighting and shadow qualities",
+        "Apply minor post-editing to perfect shadow realism"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "items": [
+        "Chiaroscuro Lighting — high-contrast interplay of light and shadow",
+        "High Contrast Lighting — emphasizing tonal difference and bold shadows",
+        "Directional Lighting — lighting coming from a specific angle to cast defined shadows"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "When prompting for dramatic shadow play across AI models, avoid overly generic terms and instead anchor shadows with defined light sources and modifiers. Use explicit phrases like \"sharp shadows from a single point light\" or \"low key lighting emphasizing shadow contours.\" Specify shadow softness or hardness to control edge definition, and mention environmental context to guide realistic shadow casting. Remember most models respond better to concrete lighting adjectives than abstract concepts, improving consistency and visual clarity across outputs.",
+      "items": [
+        "Specify light source direction for precise shadow casting",
+        "Use terms like 'hard' or 'soft' shadows to control shadow edges",
+        "Anchor shadows to environmental context (e.g., blinds, foliage)",
+        "Avoid vague shadow descriptions; be concrete and descriptive"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does dramatic shadow play differ from regular shadow effects in AI images?",
+      "answer": "Dramatic shadow play specifically emphasizes strong contrasts and defined, often sharp shadows to create mood and depth, whereas regular shadow effects may be subtle or incidental without impacting the image's emotional tone or composition significantly."
+    },
+    {
+      "question": "Can dramatic shadow play be combined with colorful lighting effects?",
+      "answer": "Yes, combining dramatic shadow play with colored gels or tinted lighting can create visually striking images where shadows carry hues, adding complexity and artistic flair to the composition."
+    },
+    {
+      "question": "What subjects benefit most from dramatic shadow play?",
+      "answer": "Portraits, architectural scenes, and still life compositions especially gain impact from dramatic shadow play, as the technique accentuates contours, textures, and shapes that define these subjects."
+    }
+  ]
+  },
+  {
+    title: "Muted Neutral Palette",
+    category: "Color",
+    published: true,
+    seoTitle: "Muted Neutral Palette: Elegant, Soft, and Versatile Color Harmony",
+    metaDescription: "Explore the Muted Neutral Palette in AI image prompts, its definition, best use cases, prompt formulas, and professional workflow for refined, understated designs.",
+    heroImage: keywordHero("muted-neutral-palette", "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"),
+    definition: "The Muted Neutral Palette refers to a color scheme composed of subdued, desaturated tones including soft grays, beige, taupe, cream, and gentle browns. In AI image prompts, including this keyword adjusts the color mood toward calm, understated, and sophisticated visuals by emphasizing low saturation and balanced brightness, creating a timeless, elegant atmosphere.",
+    visualCharacteristics: [
+    "Soft, desaturated colors without strong contrasts",
+    "Predominantly beige, gray, cream, and muted earthy tones",
+    "Creates a calm, elegant, and understated appearance"
+  ],
+    overview: "The Muted Neutral Palette is an essential color theme used widely in design, photography, and digital imagery to produce a subtle, refined look. These colors lack vivid saturation and strong contrasts, resulting in images that feel calm, natural, and versatile. In AI-driven image generation, specifying a Muted Neutral Palette guides the model to avoid vibrant, saturated colors, focusing on softness and timelessness. It supports creating visuals that blend seamlessly in editorial, fashion, interior, and product contexts where sophistication and neutrality are paramount. This palette is particularly suited for minimalist compositions where color draws attention without overwhelming the scene.",
+    whatItDoes: "When used as an AI prompt keyword, the Muted Neutral Palette instructs the image generation model to favor desaturated, soft colors over vivid or bright hues. This changes the mood by removing intensity and adding subtlety, often enhancing textures, shadows, and natural lighting effects. The palette harmonizes elements within an image to look balanced and cohesive, fitting modern aesthetics that seek elegance without flamboyance. It helps produce realistic materials—like linen, wood, or stone—in calming tones, making the images ideal for environments that require neutral backdrops or understated elegance.",
+    bestUseCases: [
+    "Interior design mood boards showcasing Scandinavian or minimalist styles",
+    "Fashion editorials with soft, natural lighting and earthy tones",
+    "Product photography emphasizing natural materials and understated elegance"
+  ],
+    relatedKeywords: [
+    "Soft Pastel Palette",
+    "Earth Tone Palette",
+    "Minimalist Color Scheme"
+  ],
+    examplePrompt: "A cozy living room with muted neutral palette, linen sofa, soft natural light, textured wool rug",
+    promptExamples: [
+    "A cozy living room with muted neutral palette, linen sofa, soft natural light, textured wool rug",
+    "Editorial fashion portrait, muted neutral tone outfit, soft beige background, subtle depth of field",
+    "Minimalist workspace with muted neutral palette, wooden desk, cream walls, gentle morning sunlight"
+  ],
+    commercialApplications: [
+    "Branding for luxury goods emphasizing understated elegance",
+    "Website design needing calm and harmonious color schemes",
+    "Advertising imagery for natural skincare or wellness products"
+  ],
+    adobeStockPotential: "Images using a Muted Neutral Palette have strong potential for Adobe Stock due to high demand for refined, versatile visuals. Buyers from lifestyle, interior design, and fashion industries seek images with soft, neutral tones for editorial and commercial use. Such palettes adapt well to diverse applications, including web banners, social media, and product placements. The understated colors ensure images complement a broad range of content without clashing, boosting their stock image appeal and usability across different market sectors.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "The Muted Neutral Palette is a color scheme characterized by soft, desaturated hues like beige, taupe, cream, and gentle grays. It reduces the intensity of colors to create subtle and elegant imagery. Adding this keyword to your AI image prompt signals the model to use these understated shades, generating visuals that feel calm and sophisticated—ideal for minimalistic and timeless design aesthetics.",
+      "items": [
+        "Subdued, low saturation tones",
+        "Colors include soft beige, cream, taupe, gray",
+        "Creates a calm and elegant atmosphere"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Here are reusable prompt patterns incorporating the Muted Neutral Palette to craft images with understated elegance:",
+      "items": [
+        "'<subject>, muted neutral palette, soft lighting, minimal shadows'",
+        "'<environment> with muted neutral palette, natural textures, subtle depth'",
+        "'<fashion style>, muted neutral palette, gentle contrast, realistic materials'",
+        "'Editorial style portrait, muted neutral palette, shallow focus, natural background'"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "The Muted Neutral Palette excels in scenarios where soft, refined visuals are desired. It showcases beauty through subtlety, making it ideal for:",
+      "items": [
+        "Interior design concepts in minimalist or Scandinavian styles",
+        "Fashion photography emphasizing natural tones and fabric textures",
+        "Product presentations requiring a calm, neutral backdrop"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "A streamlined process to create polished images with a Muted Neutral Palette includes:",
+      "items": [
+        "Brief the AI with clear subject and add 'muted neutral palette' for color guidance",
+        "Generate multiple options to explore variations in lighting and composition",
+        "Select images exhibiting balanced, soft tones and appropriate texture detail",
+        "Refine selected images by enhancing subtle shadows or highlights while maintaining color muteness",
+        "Use output in editorial layouts or marketing materials needing understated elegance"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "Complementary or adjacent visual directions and keywords to combine or explore alongside the Muted Neutral Palette include:",
+      "items": [
+        "Soft Pastel Palette – introduces gentle color accents with muted softness",
+        "Earth Tone Palette – emphasizes natural browns and greens in similar muted styles",
+        "Minimalist Color Scheme – focuses on simplicity with restrained use of color"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does the Muted Neutral Palette affect the mood of an image?",
+      "answer": "This palette creates a calm, understated, and elegant mood by using low saturation colors that avoid strong contrasts, making images feel timeless and refined."
+    },
+    {
+      "question": "Can I combine Muted Neutral Palette with vibrant colors in AI prompts?",
+      "answer": "Yes, but blending muted neutrals with vibrant colors can shift the overall mood. For a cohesive look, use vibrant accents sparingly within a primarily muted neutral scheme."
+    }
+  ]
   }];

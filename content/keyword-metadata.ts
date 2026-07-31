@@ -6831,5 +6831,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Frosted Glass Surface",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Frosted Glass Surface: Texture & Material for Realistic AI Images",
+    "metaDescription": "Explore how to create stunning AI images with frosted glass surface texture. Learn prompt formulas, best uses, advanced tips, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/frosted-glass-surface.png",
+      "alt": "Modern interior with frosted glass surface window softly diffusing natural light",
+      "title": "Frosted Glass Surface Texture in Modern Design",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Frosted glass surfaces are widely used in modern design to provide privacy without sacrificing natural light. When incorporated into AI image prompts, this texture lends a subtle, elegant diffusion effect that replicates real-world glass treatments. It enhances scenes requiring sophisticated material realism and refined lighting. The frosted finish creates soft visual layers, allowing light to scatter gently and producing an inviting atmosphere. This texture works well in architecture, product design, and abstract compositions, adding depth while maintaining clarity of shape and color. Using this keyword correctly guides AI models to render nuanced glass surfaces with premium polish and tactile authenticity.",
+    "bestUseCases": [
+      "Architectural visuals featuring privacy glass windows or partitions",
+      "Product photography showcasing cosmetics or tech devices with frosted glass elements",
+      "Abstract backgrounds or compositions requiring subtle light diffusion and texture"
+    ],
+    "relatedKeywords": [
+      "matte glass texture",
+      "translucent surfaces",
+      "diffused light effects"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "frosted-glass-surface",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Dramatic Shadow Play",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Dramatic Shadow Play: Master Lighting for Striking AI Images",
+    "metaDescription": "Explore how to use dramatic shadow play in AI image prompts to create bold, high-contrast lighting effects that add depth and emotion to visuals.",
+    "heroImage": {
+      "src": "/images/keywords/dramatic-shadow-play.png",
+      "alt": "Portrait with dramatic shadow play lighting casting sharp, high contrast shadows across the face",
+      "title": "Portrait Featuring Dramatic Shadow Play Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Dramatic shadow play is a powerful lighting technique that leverages stark contrasts between light and dark areas to draw attention and evoke emotion. By guiding AI to create strong directional lighting accompanied by pronounced shadows, images gain a sculptural and dynamic quality. This technique helps emphasize textures, enhance spatial depth, and create visually compelling compositions that stand out. In AI-generated art, incorporating shadow play opens up creative possibilities for storytelling, mood setting, and artistic expression, especially in portraiture, architectural photography, and fine art visuals.",
+    "bestUseCases": [
+      "Portrait photography emphasizing facial features through shadows",
+      "Architectural scenes showcasing structural depth and geometry",
+      "Still life imagery highlighting texture and form with chiaroscuro"
+    ],
+    "relatedKeywords": [
+      "Chiaroscuro Lighting",
+      "High Contrast Lighting",
+      "Directional Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "dramatic-shadow-play",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Muted Neutral Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Muted Neutral Palette: Elegant, Soft, and Versatile Color Harmony",
+    "metaDescription": "Explore the Muted Neutral Palette in AI image prompts, its definition, best use cases, prompt formulas, and professional workflow for refined, understated designs.",
+    "heroImage": {
+      "src": "/images/keywords/muted-neutral-palette.png",
+      "alt": "Modern interior scene decorated using a muted neutral palette featuring soft beige, taupe, and cream tones with natural light",
+      "title": "Muted Neutral Palette in Contemporary Interior Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Muted Neutral Palette is an essential color theme used widely in design, photography, and digital imagery to produce a subtle, refined look. These colors lack vivid saturation and strong contrasts, resulting in images that feel calm, natural, and versatile. In AI-driven image generation, specifying a Muted Neutral Palette guides the model to avoid vibrant, saturated colors, focusing on softness and timelessness. It supports creating visuals that blend seamlessly in editorial, fashion, interior, and product contexts where sophistication and neutrality are paramount. This palette is particularly suited for minimalist compositions where color draws attention without overwhelming the scene.",
+    "bestUseCases": [
+      "Interior design mood boards showcasing Scandinavian or minimalist styles",
+      "Fashion editorials with soft, natural lighting and earthy tones",
+      "Product photography emphasizing natural materials and understated elegance"
+    ],
+    "relatedKeywords": [
+      "Soft Pastel Palette",
+      "Earth Tone Palette",
+      "Minimalist Color Scheme"
+    ],
+    "difficulty": "Beginner",
+    "slug": "muted-neutral-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

@@ -1453,27 +1453,27 @@
     "keyword": "Frosted Glass Surface",
     "slug": "frosted-glass-surface",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-31T11:52:23.821Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Dramatic Shadow Play",
     "slug": "dramatic-shadow-play",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-31T11:53:06.783Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Muted Neutral Palette",
     "slug": "muted-neutral-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-07-31T11:53:46.595Z",
     "source": "openai-discovery"
   },
   {

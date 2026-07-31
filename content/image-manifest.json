@@ -1811,6 +1811,30 @@
       "generationPrompt": "a high-end editorial photograph with dynamic asymmetric layout, clean white background, refined soft lighting, realistic textures, subtle depth, no text, no logos, no watermark, 16:9",
       "category": "Composition",
       "keywordSlug": "dynamic-asymmetric-layout"
+    },
+    {
+      "filename": "frosted-glass-surface.png",
+      "altText": "Modern interior with frosted glass surface window softly diffusing natural light",
+      "imageTitle": "Frosted Glass Surface Texture in Modern Design",
+      "generationPrompt": "16:9 image of a modern architectural interior featuring a large frosted glass surface window with soft diffused natural light, clean minimalist design, premium stock-image polish, subtle depth, realistic materials, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "frosted-glass-surface"
+    },
+    {
+      "filename": "dramatic-shadow-play.png",
+      "altText": "Portrait with dramatic shadow play lighting casting sharp, high contrast shadows across the face",
+      "imageTitle": "Portrait Featuring Dramatic Shadow Play Lighting",
+      "generationPrompt": "16:9 portrait photo under a single directional spotlight, dramatic shadow play with sharp, deep shadows on face, high contrast, cinematic mood, realistic skin texture, clean editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "dramatic-shadow-play"
+    },
+    {
+      "filename": "muted-neutral-palette.png",
+      "altText": "Modern interior scene decorated using a muted neutral palette featuring soft beige, taupe, and cream tones with natural light",
+      "imageTitle": "Muted Neutral Palette in Contemporary Interior Design",
+      "generationPrompt": "16:9 image of a modern living room scene with muted neutral palette colors including beige, taupe, and cream; soft natural lighting; realistic textures on fabrics and furniture; clean editorial composition; no text, no logos",
+      "category": "Color",
+      "keywordSlug": "muted-neutral-palette"
     }
   ]
 }
