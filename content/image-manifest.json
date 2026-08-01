@@ -1835,6 +1835,30 @@
       "generationPrompt": "16:9 image of a modern living room scene with muted neutral palette colors including beige, taupe, and cream; soft natural lighting; realistic textures on fabrics and furniture; clean editorial composition; no text, no logos",
       "category": "Color",
       "keywordSlug": "muted-neutral-palette"
+    },
+    {
+      "filename": "flat-vector-style.png",
+      "altText": "Flat vector style illustration of a modern woman using laptop with bright solid colors and clean shapes",
+      "imageTitle": "Flat Vector Style Illustration",
+      "generationPrompt": "16:9 image of a modern woman working on laptop in flat vector style, bright solid colors, clean shapes, minimal shading, editorial composition, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "flat-vector-style"
+    },
+    {
+      "filename": "oil-paint-texture.png",
+      "altText": "Artwork showcasing rich oil paint texture with visible thick brushstrokes and layered pigments",
+      "imageTitle": "Oil Paint Texture Artistic Brushwork Illustration",
+      "generationPrompt": "16:9 image of a classic oil painting style portrait featuring thick visible brushstrokes, rich layered pigment textures, soft natural lighting, warm color palette, realistic oil paint texture, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "oil-paint-texture"
+    },
+    {
+      "filename": "underexposed-mood-lighting.png",
+      "altText": "Portrait illuminated with underexposed mood lighting showing deep shadows and cinematic ambiance",
+      "imageTitle": "Underexposed Mood Lighting Portrait",
+      "generationPrompt": "A cinematic portrait of a person under underexposed mood lighting, featuring deep shadows, soft highlights, subtle depth, realistic skin texture, studio setting, 16:9 composition, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "underexposed-mood-lighting"
     }
   ]
 }

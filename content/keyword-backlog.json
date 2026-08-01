@@ -1480,27 +1480,27 @@
     "keyword": "Flat Vector Style",
     "slug": "flat-vector-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.624Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-01T11:10:26.855Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Oil Paint Texture",
     "slug": "oil-paint-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.625Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-01T11:11:06.320Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Underexposed Mood Lighting",
     "slug": "underexposed-mood-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.625Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-01T11:11:47.012Z",
     "source": "openai-discovery"
   },
   {

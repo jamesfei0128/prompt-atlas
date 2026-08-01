@@ -6921,5 +6921,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Flat Vector Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Flat Vector Style: Clean and Modern AI Image Prompts",
+    "metaDescription": "Discover how to use the Flat Vector Style keyword for crisp, minimalist AI images. Perfect for editorial and commercial designs with precise prompt formulas.",
+    "heroImage": {
+      "src": "/images/keywords/flat-vector-style.png",
+      "alt": "Flat vector style illustration of a modern woman using laptop with bright solid colors and clean shapes",
+      "title": "Flat Vector Style Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Flat Vector Style keyword directs AI models to create images resembling digital vector illustrations common in modern graphic design. This style forgoes complex textures and photographic realism in favor of smooth, flat areas of color and sharp edges, making images visually striking and easily scalable. The resulting art is ideal for icons, infographics, editorial illustrations, and interfaces that demand clarity and simplicity. It aligns well with contemporary branding aesthetics and enhances readability in digital and print applications.",
+    "bestUseCases": [
+      "Editorial illustrations for articles and blogs",
+      "UI/UX icons and interface assets",
+      "Infographics and animated explainer graphics"
+    ],
+    "relatedKeywords": [
+      "Minimalist Art",
+      "Line Art",
+      "Geometric Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "flat-vector-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Oil Paint Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Oil Paint Texture: Enhance AI Art with Realistic Brushstrokes",
+    "metaDescription": "Explore how to use the 'Oil Paint Texture' keyword in AI image prompts to create rich, tactile artworks. Learn best practices, advanced techniques, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/oil-paint-texture.png",
+      "alt": "Artwork showcasing rich oil paint texture with visible thick brushstrokes and layered pigments",
+      "title": "Oil Paint Texture Artistic Brushwork Illustration",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "In AI image generation, incorporating the 'Oil Paint Texture' keyword transforms the visual output by imparting a handcrafted artistic quality typical of oil paintings. This texture evokes the physicality of layered paint and distinct brushwork, providing images that appear rich, deep, and textured rather than flat or overly polished. Its use is valuable for artists, designers, and content creators seeking to add classic fine art aesthetics or realistic painterly effects to portraits, landscapes, still lifes, and abstract artworks. By emphasizing brushstroke dynamics and color depth, the oil paint texture enhances visual storytelling and emotional resonance.",
+    "bestUseCases": [
+      "Creating fine art-style portrait illustrations with classical aesthetics",
+      "Designing textured backgrounds for editorial and book cover art",
+      "Generating painterly landscapes and still lifes with authentic brushwork"
+    ],
+    "relatedKeywords": [
+      "impasto",
+      "brushstroke detail",
+      "painterly style"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "oil-paint-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Underexposed Mood Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Underexposed Mood Lighting: Enhance AI Image Atmosphere",
+    "metaDescription": "Discover how underexposed mood lighting transforms AI images with subtle shadows and ambiance. Learn prompt formulas, best uses, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/underexposed-mood-lighting.png",
+      "alt": "Portrait illuminated with underexposed mood lighting showing deep shadows and cinematic ambiance",
+      "title": "Underexposed Mood Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Underexposed mood lighting is a creative lighting technique used in AI-generated images to evoke atmosphere through reduced exposure and enhanced shadows. By controlling brightness and contrast, it crafts visually compelling scenes that feel intimate, mysterious, or cinematic. In AI prompts, this concept helps guide models toward dimmer settings where textures and shapes are subtly revealed without harsh lighting, often highlighting emotional depth or storytelling elements. Professionals leverage underexposed lighting to produce moody portraits, dramatic environments, or evocative still lifes, making it essential for users aiming to add artistic depth and ambience to their digital creations.",
+    "bestUseCases": [
+      "Creating cinematic or moody portraits emphasizing emotion.",
+      "Designing atmospheric interiors or night scenes with subtle lighting.",
+      "Crafting promotional imagery for mysterious or dramatic storytelling."
+    ],
+    "relatedKeywords": [
+      "low key lighting",
+      "cinematic lighting",
+      "dramatic shadow"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "underexposed-mood-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
