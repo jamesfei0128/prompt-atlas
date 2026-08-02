@@ -1859,6 +1859,30 @@
       "generationPrompt": "A cinematic portrait of a person under underexposed mood lighting, featuring deep shadows, soft highlights, subtle depth, realistic skin texture, studio setting, 16:9 composition, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "underexposed-mood-lighting"
+    },
+    {
+      "filename": "natural-skin-tone-palette.png",
+      "altText": "Close-up portrait highlighting a diverse range of natural skin tones with soft, realistic lighting",
+      "imageTitle": "Natural Skin Tone Palette Portrait",
+      "generationPrompt": "16:9 portrait of a diverse individual, natural skin tone palette, soft natural lighting, high detail, realistic skin texture, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "natural-skin-tone-palette"
+    },
+    {
+      "filename": "soft-shadow-gradients.png",
+      "altText": "Close-up of a modern ceramic vase illuminated with soft shadow gradients under diffused natural light",
+      "imageTitle": "Modern Ceramic Vase with Soft Shadow Gradients",
+      "generationPrompt": "16:9 photo of a modern ceramic vase on a clean white surface, illuminated by soft shadow gradients with diffused natural light, realistic textures, subtle depth, refined lighting, clean editorial composition, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-shadow-gradients"
+    },
+    {
+      "filename": "radiant-glow-effect.png",
+      "altText": "Portrait of woman bathed in soft radiant glow warm light with realistic skin texture",
+      "imageTitle": "Radiant Glow Effect on Portrait Lighting",
+      "generationPrompt": "16:9 portrait of a woman with radiant glow effect, warm soft lighting, high detail skin texture, realistic materials, subtle depth, clean background, editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "radiant-glow-effect"
     }
   ]
 }

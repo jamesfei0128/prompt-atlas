@@ -7011,5 +7011,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Natural Skin Tone Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Natural Skin Tone Palette for AI Image Prompts",
+    "metaDescription": "Discover how to use the Natural Skin Tone Palette keyword to create realistic, diverse skin tones in AI-generated images with clear, natural color variations.",
+    "heroImage": {
+      "src": "/images/keywords/natural-skin-tone-palette.png",
+      "alt": "Close-up portrait highlighting a diverse range of natural skin tones with soft, realistic lighting",
+      "title": "Natural Skin Tone Palette Portrait",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "In AI image generation, achieving realistic skin colors is essential for portrait authenticity and natural appearance. The Natural Skin Tone Palette keyword guides AI models to use a spectrum of genuine human skin colors, ranging from pale to deep tones with nuanced undertones such as peach, olive, brown, and reddish hints. Integrating this color palette results in images that feel authentic and relatable, making them ideal for editorial portraits, advertising, and character design. By specifying this palette, artists and designers can avoid the pitfalls of artificial or monotone skin colors, ensuring inclusivity and vivid detail in generated imagery.",
+    "bestUseCases": [
+      "Portrait photography simulations with diverse models",
+      "Fashion and beauty editorial images emphasizing natural look",
+      "Character designs requiring ethnically varied, realistic skin colors"
+    ],
+    "relatedKeywords": [
+      "Diverse Skin Tones",
+      "Realistic Portrait Lighting",
+      "Subtle Color Gradients"
+    ],
+    "difficulty": "Beginner",
+    "slug": "natural-skin-tone-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Soft Shadow Gradients",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Soft Shadow Gradients for Natural and Refined Lighting Effects",
+    "metaDescription": "Explore Soft Shadow Gradients to add subtle depth and realistic lighting in AI-generated images. Perfect for modern designs, seamless shading, and elegant visuals.",
+    "heroImage": {
+      "src": "/images/keywords/soft-shadow-gradients.png",
+      "alt": "Close-up of a modern ceramic vase illuminated with soft shadow gradients under diffused natural light",
+      "title": "Modern Ceramic Vase with Soft Shadow Gradients",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Soft Shadow Gradients introduce nuanced shading that elevates AI-generated images through natural, gentle light transitions. Instead of stark shadows and high contrast, this lighting style produces sophisticated visuals with a premium feel, ideal for editorial and commercial artwork. By specifying this effect in prompts, creators achieve images with refined lighting that highlight textures and shapes gracefully. This enhances realism and adds visual interest without overpowering the subject matter, supporting modern, clean compositions favored in digital design and advertising.",
+    "bestUseCases": [
+      "Product photography to showcase texture and form with subtle shading",
+      "Portraits where gentle light transitions enhance skin tones and facial features",
+      "Editorial and lifestyle imagery requiring elegant, natural lighting that doesn't distract"
+    ],
+    "relatedKeywords": [
+      "Ambient Lighting",
+      "Diffused Shadows",
+      "Soft Lighting Effects"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-shadow-gradients",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Radiant Glow Effect",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Radiant Glow Effect: Enhance Lighting in AI Image Prompts",
+    "metaDescription": "Discover the Radiant Glow Effect in AI image generation. Learn its definition, visual traits, best use cases, creative variations, and tips for stunning light enhancements.",
+    "heroImage": {
+      "src": "/images/keywords/radiant-glow-effect.png",
+      "alt": "Portrait of woman bathed in soft radiant glow warm light with realistic skin texture",
+      "title": "Radiant Glow Effect on Portrait Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Radiant Glow Effect is a popular keyword in AI-generated imagery for its ability to create captivating lighting that enhances the mood and realism of digital compositions. By incorporating this effect in prompts, users encourage the model to simulate light that softly radiates, producing a luminous aura around objects or environments. This effect can transform flat or dull scenes into vibrant, atmospheric visuals that feel warm and inviting. It is particularly valuable in scenes featuring candles, neon signs, sunsets, or magical elements where the glow enriches the overall narrative of the image. The effect works well complementing realistic materials and natural lighting setups, contributing to images that are both eye-catching and emotionally engaging.",
+    "bestUseCases": [
+      "Portraits requiring soft, flattering light to enhance skin tones",
+      "Product images needing attractive, attention-grabbing highlights",
+      "Fantasy or magical scenes where glowing elements create atmosphere"
+    ],
+    "relatedKeywords": [
+      "Soft Light Effect",
+      "Ambient Glow",
+      "Luminous Highlights"
+    ],
+    "difficulty": "Beginner",
+    "slug": "radiant-glow-effect",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
