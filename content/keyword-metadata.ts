@@ -7101,5 +7101,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Industrial Concrete Surface",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Industrial Concrete Surface Texture for AI Image Prompts",
+    "metaDescription": "Explore the Industrial Concrete Surface texture keyword for AI image generation with expert prompt formulas, use cases, variations, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/industrial-concrete-surface.png",
+      "alt": "Close-up textured industrial concrete surface showing roughness and natural wear",
+      "title": "Industrial Concrete Surface Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Industrial Concrete Surface textures bring an authentic, utilitarian feel to AI-generated images by emphasizing robust materials commonly found in factories, warehouses, urban outdoors, and architectural structures. Using this keyword results in imagery that features realistic, textured gray concrete surfaces showcasing toughness and industrial character. This texture serves well for backgrounds, flooring, walls, or construction elements, providing visual depth and a strong material presence distinct from smooth or polished surfaces. It suits modern and minimalistic design themes that highlight raw materiality and functional aesthetics.",
+    "bestUseCases": [
+      "Architectural visualization backgrounds showcasing industrial design",
+      "Product photography staging using concrete surfaces as minimalistic bases",
+      "Urban or industrial-themed editorial illustrations and ads"
+    ],
+    "relatedKeywords": [
+      "Raw Concrete Texture",
+      "Urban Wall Surface",
+      "Architectural Concrete Detail"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "industrial-concrete-surface",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Circular Composition Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Circular Composition Layout in AI Image Prompts",
+    "metaDescription": "Learn how to use Circular Composition Layout in AI prompts for balanced and engaging images. Explore definitions, best uses, creative variations, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/circular-composition-layout.png",
+      "alt": "Editorial hero image showing a balanced circular composition layout with subjects arranged in a radial pattern and refined lighting",
+      "title": "Circular Composition Layout Editorial Image",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Circular Composition Layout is essential for artists and designers who want to create images with natural balance and dynamic flow. By structuring elements around a central axis or circle, this composition draws viewers’ attention evenly across the image, often leading them to a central focus. In AI-generated art, specifying circular composition helps produce images with a polished aesthetic and organic movement, suitable for varied creative applications such as editorial visuals, product showcases, and social content. The layout promotes symmetry while still allowing visual complexity and interest, making images feel complete and professionally composed.",
+    "bestUseCases": [
+      "Editorial hero images requiring dynamic yet balanced layouts",
+      "Product photography compositions emphasizing multiple items around a focal product",
+      "Social media visuals designed for engaging and fluid viewer interaction"
+    ],
+    "relatedKeywords": [
+      "Radial Symmetry Composition",
+      "Symmetrical Layout",
+      "Balanced Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "circular-composition-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Minimalist Iconography Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Minimalist Iconography Style: Clean and Impactful AI Image Prompts",
+    "metaDescription": "Explore the Minimalist Iconography Style for AI prompts. Learn its definition, prompt formulas, best use cases, common mistakes, and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-iconography-style.png",
+      "alt": "Minimalist Iconography Style example with simple geometric icons on clean background",
+      "title": "Minimalist Iconography Style Sample",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Minimalist Iconography Style centers on simplifying visuals to their essential forms, making icons instantly recognizable and communicative. This style is widely used in user interfaces, branding, and instructional graphics due to its clarity and universal appeal. When leveraging AI to generate images, using this style keyword helps produce visuals that avoid excessive detail and prioritize clean, bold designs. The style aligns well with modern aesthetic trends favoring functional minimalism and can enhance the effectiveness of icons across digital platforms.",
+    "bestUseCases": [
+      "Designing mobile app icons or UI elements",
+      "Creating instructional or safety signage graphics",
+      "Developing brand logos and symbols requiring clarity"
+    ],
+    "relatedKeywords": [
+      "Flat Design Style",
+      "Geometric Iconography",
+      "Line Art Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-iconography-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

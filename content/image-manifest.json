@@ -1883,6 +1883,30 @@
       "generationPrompt": "16:9 portrait of a woman with radiant glow effect, warm soft lighting, high detail skin texture, realistic materials, subtle depth, clean background, editorial style, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "radiant-glow-effect"
+    },
+    {
+      "filename": "industrial-concrete-surface.png",
+      "altText": "Close-up textured industrial concrete surface showing roughness and natural wear",
+      "imageTitle": "Industrial Concrete Surface Texture",
+      "generationPrompt": "16:9 close-up shot of a rough industrial concrete surface with visible aggregate and cracks, under soft ambient natural lighting, photorealistic, high detail, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "industrial-concrete-surface"
+    },
+    {
+      "filename": "circular-composition-layout.png",
+      "altText": "Editorial hero image showing a balanced circular composition layout with subjects arranged in a radial pattern and refined lighting",
+      "imageTitle": "Circular Composition Layout Editorial Image",
+      "generationPrompt": "16:9 photo-realistic editorial image featuring a balanced circular composition layout with multiple subjects arranged radially around a central focal point, soft natural light, subtle depth of field, clean modern style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "circular-composition-layout"
+    },
+    {
+      "filename": "minimalist-iconography-style.png",
+      "altText": "Minimalist Iconography Style example with simple geometric icons on clean background",
+      "imageTitle": "Minimalist Iconography Style Sample",
+      "generationPrompt": "16:9 composition, minimalist iconography style, simple geometric icons, clean lines, flat colors, negative space, modern digital design, no text, no logos, no watermark",
+      "category": "Style",
+      "keywordSlug": "minimalist-iconography-style"
     }
   ]
 }
