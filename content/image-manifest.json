@@ -1907,6 +1907,30 @@
       "generationPrompt": "16:9 composition, minimalist iconography style, simple geometric icons, clean lines, flat colors, negative space, modern digital design, no text, no logos, no watermark",
       "category": "Style",
       "keywordSlug": "minimalist-iconography-style"
+    },
+    {
+      "filename": "texture-overlay-techniques.png",
+      "altText": "Example of fine textured overlay on a portrait showing fabric weave and soft lighting",
+      "imageTitle": "Texture Overlay Techniques Example",
+      "generationPrompt": "Portrait of a young woman with soft velvet texture overlay, subtle fabric weave, warm natural lighting, hyperrealistic style, detailed skin texture, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "texture-overlay-techniques"
+    },
+    {
+      "filename": "balanced-color-temperature.png",
+      "altText": "Elegant portrait with balanced color temperature showing natural skin tones and neutral lighting",
+      "imageTitle": "Balanced Color Temperature Portrait",
+      "generationPrompt": "16:9 high-resolution portrait, balanced color temperature, natural skin tones, neutral soft lighting, refined details, clean background, premium stock photo style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "balanced-color-temperature"
+    },
+    {
+      "filename": "silhouette-outline-lighting.png",
+      "altText": "Portrait of a female figure illuminated by silhouette outline lighting with glowing rim edges on a dark background",
+      "imageTitle": "Silhouette Outline Lighting portrait with rim glow",
+      "generationPrompt": "16:9 portrait of a lone figure backlit by silhouette outline lighting, glowing rim highlighting edges, dark blurred background, photo-realistic, sharp contrast, subtle depth, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "silhouette-outline-lighting"
     }
   ]
 }

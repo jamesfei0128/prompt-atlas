@@ -7191,5 +7191,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Texture Overlay Techniques",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Texture Overlay Techniques for AI Image Prompts",
+    "metaDescription": "Explore effective Texture Overlay Techniques to enhance your AI image prompts with depth, realism, and artistic detail for premium visuals.",
+    "heroImage": {
+      "src": "/images/keywords/texture-overlay-techniques.png",
+      "alt": "Example of fine textured overlay on a portrait showing fabric weave and soft lighting",
+      "title": "Texture Overlay Techniques Example",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Texture Overlay Techniques are essential for artists and designers using AI image generation to add realistic or stylized surface qualities to their visuals. By specifying textures in a prompt, you can transform flat or generic images into rich, detailed creations that mimic physical materials or artistic effects. These overlays help in achieving mood, authenticity, or unique artistry by adding layers of complexity without altering the core composition. Whether you want a weathered wall effect or a glossy metallic finish, texture overlays deepen the narrative and visual appeal. Understanding how to incorporate texture keywords and their combinations allows for controlled refinement and diverse outputs, making images stand out in editorial, commercial, or creative projects.",
+    "bestUseCases": [
+      "Designing product mockups with realistic material finishes like leather, wood, or metal",
+      "Creating atmospheric backgrounds for editorial illustrations or posters using grunge or paint textures",
+      "Enhancing digital paintings or concept art with tactile effects such as fabric weaves or cracked surfaces"
+    ],
+    "relatedKeywords": [
+      "Surface Detailing",
+      "Material Simulation",
+      "Grunge Effects"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "texture-overlay-techniques",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Balanced Color Temperature",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Balanced Color Temperature: Definition and Prompt Guide",
+    "metaDescription": "Discover how to use 'Balanced Color Temperature' in AI image prompts to achieve harmonious lighting and natural tones in your visuals.",
+    "heroImage": {
+      "src": "/images/keywords/balanced-color-temperature.png",
+      "alt": "Elegant portrait with balanced color temperature showing natural skin tones and neutral lighting",
+      "title": "Balanced Color Temperature Portrait",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Balanced Color Temperature in AI-generated images ensures that lighting appears natural and true-to-life, avoiding overpowering warm or cool tones. This quality impacts the mood and realism of visuals by maintaining a neutral color balance, making images suitable for professional presentations, product photography, and editorial content. By controlling color temperature, artists and creators can highlight details without unnatural tints, producing polished and visually coherent artworks.",
+    "bestUseCases": [
+      "Professional product photography visuals requiring true-to-life colors",
+      "Editorial portraits demanding natural skin tone reproduction",
+      "Interior design imagery showcasing accurate light ambiance and material colors"
+    ],
+    "relatedKeywords": [
+      "Natural Lighting",
+      "Neutral Lighting",
+      "Warm and Cool Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "balanced-color-temperature",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Silhouette Outline Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Silhouette Outline Lighting: Enhance AI Image Prompts with Lighting Effects",
+    "metaDescription": "Discover how Silhouette Outline Lighting transforms AI-generated images with dynamic rim lighting, perfect for creating dramatic silhouettes and depth.",
+    "heroImage": {
+      "src": "/images/keywords/silhouette-outline-lighting.png",
+      "alt": "Portrait of a female figure illuminated by silhouette outline lighting with glowing rim edges on a dark background",
+      "title": "Silhouette Outline Lighting portrait with rim glow",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Silhouette Outline Lighting is a specialized lighting effect that enhances AI-generated images by emphasizing the subject's edges with a glowing rim of light. Commonly used to create dramatic, visually appealing silhouettes, this lighting style accentuates contours and adds striking contrast by brightly outlining the subject against a darker background. In AI image generation, including this keyword can guide the model to apply backlighting or rim lighting techniques, which help separate the subject from the background and add an artistic flair. This approach is widely appreciated in portraiture, product photography, and conceptual art for its ability to convey emotion and focus attention on shape and form.",
+    "bestUseCases": [
+      "Dramatic portrait photography emphasizing facial contours",
+      "Product shots highlighting shape and form distinctly",
+      "Conceptual or fantasy illustrations with moody lighting"
+    ],
+    "relatedKeywords": [
+      "rim lighting",
+      "backlighting",
+      "dramatic lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "silhouette-outline-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

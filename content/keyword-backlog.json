@@ -1561,27 +1561,27 @@
     "keyword": "Texture Overlay Techniques",
     "slug": "texture-overlay-techniques",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.625Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-04T11:55:26.381Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Balanced Color Temperature",
     "slug": "balanced-color-temperature",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.625Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-04T11:56:09.613Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Silhouette Outline Lighting",
     "slug": "silhouette-outline-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.625Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-04T11:56:51.410Z",
     "source": "openai-discovery"
   },
   {
