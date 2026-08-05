@@ -1931,6 +1931,30 @@
       "generationPrompt": "16:9 portrait of a lone figure backlit by silhouette outline lighting, glowing rim highlighting edges, dark blurred background, photo-realistic, sharp contrast, subtle depth, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "silhouette-outline-lighting"
+    },
+    {
+      "filename": "rust-texture-effects.png",
+      "altText": "Close-up detailed rust texture effects on corroded metal surface with realistic lighting",
+      "imageTitle": "Rust Texture Effects on Metal Surface",
+      "generationPrompt": "16:9 close-up of metal surface with detailed rust texture effects, natural lighting, high resolution, shallow depth of field, realistic materials, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rust-texture-effects"
+    },
+    {
+      "filename": "elegant-serif-typography-style.png",
+      "altText": "Close-up of elegant serif typography style with refined letterforms on a clean background",
+      "imageTitle": "Elegant Serif Typography Style Visual",
+      "generationPrompt": "16:9 image of elegant serif typography style featuring classic refined serif letters, polished strokes, soft premium lighting, clean editorial composition, subtle depth, realistic material textures, no text overlays, no logos, no watermark, suitable for article hero images",
+      "category": "Style",
+      "keywordSlug": "elegant-serif-typography-style"
+    },
+    {
+      "filename": "strategic-white-space-usage.png",
+      "altText": "Modern, clean workspace with strategic white space showcasing minimalistic composition",
+      "imageTitle": "Strategic White Space Usage in Modern Workspace",
+      "generationPrompt": "16:9, modern minimalistic workspace with a sleek desk and laptop, ample white space around, soft natural lighting, clean editorial composition, premium stock-image quality, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "strategic-white-space-usage"
     }
   ]
 }

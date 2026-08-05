@@ -7281,5 +7281,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Rust Texture Effects",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rust Texture Effects: Enhance AI Images with Realistic Rust",
+    "metaDescription": "Explore how Rust Texture Effects transform AI images with realistic corrosion patterns. Learn prompt formulas, uses, variations, and common pitfalls.",
+    "heroImage": {
+      "src": "/images/keywords/rust-texture-effects.png",
+      "alt": "Close-up detailed rust texture effects on corroded metal surface with realistic lighting",
+      "title": "Rust Texture Effects on Metal Surface",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Rust Texture Effects in AI image generation add a convincing layer of corroded metal appearance. By integrating these effects, creators simulate the natural oxidation process visually, bringing out the aged, worn, and tactile quality of metallic surfaces. This keyword is especially valuable for industrial, steampunk, or vintage designs where authentic material wear enriches realism. The subtle depth and nuanced lighting in rust effects help enhance story elements, making objects appear time-worn or neglected. Ultimately, rust texture prompts empower users to produce compelling, textured imagery that feels grounded in real-world material physics.",
+    "bestUseCases": [
+      "Creating realistic, aged metal surfaces in industrial or steampunk artwork",
+      "Designing detailed backgrounds or objects for video game environments with weathered assets",
+      "Enhancing advertising visuals for products emphasizing vintage or rugged durability"
+    ],
+    "relatedKeywords": [
+      "corroded surfaces",
+      "oxidation patterns",
+      "metal weathering"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rust-texture-effects",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Elegant Serif Typography Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Elegant Serif Typography Style: Timeless and Refined Design",
+    "metaDescription": "Explore the Elegant Serif Typography Style—a classic serif font approach that enhances sophistication and readability in AI-generated designs and images.",
+    "heroImage": {
+      "src": "/images/keywords/elegant-serif-typography-style.png",
+      "alt": "Close-up of elegant serif typography style with refined letterforms on a clean background",
+      "title": "Elegant Serif Typography Style Visual",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Elegant Serif Typography Style integrates classical typographic elements with a sense of grace and luxury. This style emphasizes serif fonts that reveal subtle ornamental strokes and a harmonious structure, evoking tradition, trustworthiness, and sophistication. When used in AI-generated imagery, it sets a tone that is both professional and inviting, suitable for editorial layouts, luxury branding, or high-end packaging. The style avoids overly rigid or modern sans-serif aesthetics, instead focusing on a timeless, readable presentation that complements premium visual content.",
+    "bestUseCases": [
+      "Luxury branding and logo design requiring classic appeal",
+      "Editorial layouts in magazines and high-end publications",
+      "Invitations and event materials with a formal, stylish tone"
+    ],
+    "relatedKeywords": [
+      "Classic Serif Typography",
+      "Luxury Typographic Style",
+      "Refined Serif Design"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "elegant-serif-typography-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Strategic White Space Usage",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Strategic White Space Usage in AI Image Prompts",
+    "metaDescription": "Learn how strategic white space usage enhances AI-generated images with balanced composition and clarity for premium visual impact.",
+    "heroImage": {
+      "src": "/images/keywords/strategic-white-space-usage.png",
+      "alt": "Modern, clean workspace with strategic white space showcasing minimalistic composition",
+      "title": "Strategic White Space Usage in Modern Workspace",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Strategic white space usage is a fundamental aspect of contemporary composition that leverages empty or minimalistic areas to improve image clarity and visual impact in AI-generated art. By emphasizing space around key elements, it guides the AI to produce balanced aesthetics that feel elegant and refined. This technique helps prevent overcrowding, allowing the viewer's eye to rest and naturally focus on important subjects. When integrated thoughtfully in AI prompts, white space enhances storytelling by creating mood and improving the overall legibility of complex scenes. Strategic white space is especially useful in editorial and commercial designs where premium polish and clean visuals are essential.",
+    "bestUseCases": [
+      "Editorial portraits with clean backgrounds",
+      "Product photography emphasizing isolated items",
+      "Modern web and app UI concept visuals"
+    ],
+    "relatedKeywords": [
+      "Minimalist Composition",
+      "Negative Space Focus",
+      "Clean Layout Design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "strategic-white-space-usage",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
