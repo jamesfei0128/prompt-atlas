@@ -1955,6 +1955,30 @@
       "generationPrompt": "16:9, modern minimalistic workspace with a sleek desk and laptop, ample white space around, soft natural lighting, clean editorial composition, premium stock-image quality, no text, no logos",
       "category": "Composition",
       "keywordSlug": "strategic-white-space-usage"
+    },
+    {
+      "filename": "harmonious-color-triads.png",
+      "altText": "Modern editorial image showcasing harmonious color triads with balanced blue, red, and yellow tones in clean, refined lighting",
+      "imageTitle": "Harmonious Color Triads Editorial Composition",
+      "generationPrompt": "A sleek editorial composition featuring harmonious color triads with balanced blue, red, and yellow hues, premium stock-image polish, refined lighting, subtle depth, realistic materials, no text, no logos, no watermark, 16:9 aspect ratio",
+      "category": "Color",
+      "keywordSlug": "harmonious-color-triads"
+    },
+    {
+      "filename": "chalk-texture-background.png",
+      "altText": "Close-up of chalk texture background with powdery and grainy white chalk markings on blackboard surface",
+      "imageTitle": "Chalk Texture Background with Natural Lighting",
+      "generationPrompt": "A close-up view of a chalk texture background showing powdery white chalk dust and grainy surface details on a dark blackboard, soft natural lighting, realistic materials, 16:9 aspect ratio, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "chalk-texture-background"
+    },
+    {
+      "filename": "graphic-line-art-style.png",
+      "altText": "Minimalist graphic line art style illustration with clean black lines",
+      "imageTitle": "Graphic Line Art Style Illustration",
+      "generationPrompt": "16:9 illustration of a simplified human face using black clean lines on a white background, graphic line art style, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "graphic-line-art-style"
     }
   ]
 }

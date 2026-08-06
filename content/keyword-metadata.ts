@@ -7371,5 +7371,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Harmonious Color Triads",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Harmonious Color Triads: Mastering Balanced Color Palettes",
+    "metaDescription": "Discover how harmonious color triads create balanced, vibrant palettes in AI image prompts. Learn formulas, use cases, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/harmonious-color-triads.png",
+      "alt": "Modern editorial image showcasing harmonious color triads with balanced blue, red, and yellow tones in clean, refined lighting",
+      "title": "Harmonious Color Triads Editorial Composition",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Harmonious color triads form a foundational concept in color theory, used to compose striking yet balanced color palettes by selecting three colors spaced evenly around the color wheel (120 degrees apart). In AI image generation, including harmonious color triads in prompts helps produce artworks or designs that display vibrant, dynamic color interplay while maintaining visual balance and unity. This technique prevents color over-saturation or dullness, enabling creation of visuals that feel lively without clashing. It is especially valued in editorial design, branding, digital art, and product visualization where color harmony impacts emotional and aesthetic response.",
+    "bestUseCases": [
+      "Creating vibrant editorial illustrations with balanced colors",
+      "Designing branding assets requiring eye-catching yet harmonious palettes",
+      "Generating digital artwork showcasing dynamic, colorful scenes"
+    ],
+    "relatedKeywords": [
+      "Complementary Colors",
+      "Analogous Colors",
+      "Color Harmony"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "harmonious-color-triads",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Chalk Texture Background",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Chalk Texture Background: A Versatile AI Image Prompt Keyword",
+    "metaDescription": "Discover how 'Chalk Texture Background' enhances AI image prompts with realistic chalk effects, ideal for artistic and design projects. Learn best practices here.",
+    "heroImage": {
+      "src": "/images/keywords/chalk-texture-background.png",
+      "alt": "Close-up of chalk texture background with powdery and grainy white chalk markings on blackboard surface",
+      "title": "Chalk Texture Background with Natural Lighting",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Chalk Texture Background' keyword is a valuable addition to AI image prompting that instructs the model to render backgrounds mimicking chalk surfaces. This texture evokes an organic, handcrafted aesthetic characterized by grainy, dusty finishes with subtle imperfections. Ideal for mimicking blackboards, chalk art, or educational themed visuals, it adds a tactile quality rarely captured in digital images. When included, it helps deepen visual narratives by infusing backgrounds with textural nuance, useful across creative and commercial projects aiming for authenticity or artistic flair.",
+    "bestUseCases": [
+      "Creating educational or classroom-themed designs with authentic chalkboard effects",
+      "Designing artistic posters or social media graphics imitating chalk art",
+      "Crafting backgrounds for product photography or ecommerce displays with a rustic matte look"
+    ],
+    "relatedKeywords": [
+      "chalkboard art",
+      "gritty texture",
+      "powdery surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "chalk-texture-background",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Graphic Line Art Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Graphic Line Art Style: Definition, Uses & Prompt Tips",
+    "metaDescription": "Explore the Graphic Line Art Style for AI image generation. Learn its characteristics, prompt formulas, best use cases, and avoid common mistakes in your creative projects.",
+    "heroImage": {
+      "src": "/images/keywords/graphic-line-art-style.png",
+      "alt": "Minimalist graphic line art style illustration with clean black lines",
+      "title": "Graphic Line Art Style Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Graphic Line Art Style is a visually striking illustration approach emphasizing clarity and simplicity through well-defined lines. It focuses on outlining forms with precision and minimalistic detail, avoiding heavy shading or elaborate color schemes. This style is popular in editorial illustrations, logos, and iconography due to its crisp readability and modern aesthetic. When incorporated into AI image prompts, it directs the model to produce minimalist visuals that can easily adapt to various themes while maintaining a clean, graphic look. Its simplicity makes it versatile for both monochrome and limited color compositions, suitable for branding, presentations, and artistic sketches where impact comes from form rather than texture or color richness.",
+    "bestUseCases": [
+      "Editorial illustrations for magazines and blogs",
+      "Logo and icon design with a clean, modern look",
+      "Instructional graphics and diagrams requiring clear visual hierarchy"
+    ],
+    "relatedKeywords": [
+      "Minimalist Line Drawing",
+      "Monochrome Illustration",
+      "Technical Sketch Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "graphic-line-art-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
