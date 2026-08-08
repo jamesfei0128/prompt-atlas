@@ -1979,6 +1979,30 @@
       "generationPrompt": "16:9 illustration of a simplified human face using black clean lines on a white background, graphic line art style, no text, no logos",
       "category": "Style",
       "keywordSlug": "graphic-line-art-style"
+    },
+    {
+      "filename": "muted-earth-tone-colors.png",
+      "altText": "Interior design showcasing muted earth tone colors with soft natural lighting and organic materials",
+      "imageTitle": "Muted Earth Tone Colors in Interior Design",
+      "generationPrompt": "16:9 photo of a modern living room interior with muted earth tone colors, soft natural light, realistic textures, warm neutral palette, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "muted-earth-tone-colors"
+    },
+    {
+      "filename": "soft-ambient-fog.png",
+      "altText": "Modern landscape with soft ambient fog creating gentle mist and diffused morning light",
+      "imageTitle": "Landscape Featuring Soft Ambient Fog and Diffused Light",
+      "generationPrompt": "16:9 scenic early morning landscape with soft ambient fog gently diffusing sunlight, natural colors, high realism, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "soft-ambient-fog"
+    },
+    {
+      "filename": "split-lighting-portrait.png",
+      "altText": "Portrait of a young woman with half of her face illuminated by split lighting technique, studio background",
+      "imageTitle": "Split Lighting Portrait of Woman with Dramatic Half-Face Illumination",
+      "generationPrompt": "16:9 portrait of a young woman, split lighting portrait, sharp contrast, half face illuminated, studio backdrop, realistic skin texture, cinematic lighting, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "split-lighting-portrait"
     }
   ]
 }

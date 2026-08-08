@@ -1642,27 +1642,27 @@
     "keyword": "Muted Earth Tone Colors",
     "slug": "muted-earth-tone-colors",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.625Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-08T10:20:51.817Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Soft Ambient Fog",
     "slug": "soft-ambient-fog",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-06-22T15:12:33.625Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-08T10:21:43.709Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Split Lighting Portrait",
     "slug": "split-lighting-portrait",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.107Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-08T10:23:40.594Z",
     "source": "openai-discovery"
   },
   {

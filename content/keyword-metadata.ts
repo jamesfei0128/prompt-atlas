@@ -7461,5 +7461,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Muted Earth Tone Colors",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Muted Earth Tone Colors: A Guide for AI Image Prompts",
+    "metaDescription": "Discover how using muted earth tone colors in AI image prompts enhances realism and style. Learn best use cases, common mistakes, and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/muted-earth-tone-colors.png",
+      "alt": "Interior design showcasing muted earth tone colors with soft natural lighting and organic materials",
+      "title": "Muted Earth Tone Colors in Interior Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Muted earth tone colors encapsulate a palette inspired by nature’s subtle and calming shades such as soft browns, gentle greens, warm ochres, and quiet grays. When integrated into AI image prompts, these colors help generate images that feel organic, grounded, and harmonious, making them ideal for designs seeking understated elegance or a natural aesthetic. This approach avoids harsh contrasts and bright tones, providing visuals that are soothing and visually balanced. Such color schemes are especially useful in editorial photography, interior design renderings, and lifestyle imagery, where authenticity and warmth are key. Utilizing these tones can transform generic visuals into cohesive, premium-feeling compositions that align with modern aesthetic trends.",
+    "bestUseCases": [
+      "Editorial photography backgrounds featuring natural settings",
+      "Interior design renders emphasizing warm, cozy atmospheres",
+      "Lifestyle images aiming for authentic, grounded color schemes"
+    ],
+    "relatedKeywords": [
+      "Natural Color Palettes",
+      "Organic Textures",
+      "Warm Neutral Tones"
+    ],
+    "difficulty": "Beginner",
+    "slug": "muted-earth-tone-colors",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Soft Ambient Fog",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Soft Ambient Fog: Enhance Mood with Subtle Atmospheric Effects",
+    "metaDescription": "Discover how 'Soft Ambient Fog' adds depth, mood, and subtle atmosphere to AI-generated images. Learn definition, prompt tips, and best use cases.",
+    "heroImage": {
+      "src": "/images/keywords/soft-ambient-fog.png",
+      "alt": "Modern landscape with soft ambient fog creating gentle mist and diffused morning light",
+      "title": "Landscape Featuring Soft Ambient Fog and Diffused Light",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Soft Ambient Fog is a valuable prompt parameter that adds a subtle layer of atmospheric haze to images, transforming ordinary scenes with gentle diffusion and mood elevation. Unlike heavy fog or thick mist, this effect remains understated, allowing details to remain visible while enriching spatial depth and lighting texture. It evokes quietness and a sense of calm or mystery, making images appear more immersive and realistic. The presence of soft ambient fog interacts with light sources to produce smooth light transitions and a harmonious color palette, ideal for natural landscapes, portraits, or architectural shots. This nuanced atmospheric element helps creative projects achieve a premium, polished aesthetic with realistic environmental ambiance.",
+    "bestUseCases": [
+      "Photography-style landscapes evoking early morning or mystical environments",
+      "Editorial portraits requiring subtle mood enhancement and atmospheric depth",
+      "Interior and architectural visuals needing soft light diffusion and spatial layering"
+    ],
+    "relatedKeywords": [
+      "Morning Mist",
+      "Subtle Haze",
+      "Diffuse Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-ambient-fog",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Split Lighting Portrait",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Split Lighting Portrait: Dramatic Half-Face Illumination",
+    "metaDescription": "Discover how split lighting portrait style creates striking half-lit faces in AI image generation. Learn formulas, uses, and pro tips for vivid results.",
+    "heroImage": {
+      "src": "/images/keywords/split-lighting-portrait.png",
+      "alt": "Portrait of a young woman with half of her face illuminated by split lighting technique, studio background",
+      "title": "Split Lighting Portrait of Woman with Dramatic Half-Face Illumination",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Split lighting portrait is a classic photographic and artistic technique used to create images with striking contrast and depth. By illuminating exactly one side of the face and leaving the other in shadow, it sculpts the subject's features in a bold and attention-grabbing way. This lighting style conveys intensity, mystery, or seriousness, making it a popular choice for dramatic portraiture. When used in AI image prompts, split lighting shifts the generated image's mood and composition to highlight this pronounced half-lit effect, producing portraits with enhanced dimensionality and emotional impact.",
+    "bestUseCases": [
+      "High-contrast editorial portraits evoking intensity or mystery",
+      "Character studies in digital art emphasizing dramatic mood",
+      "Advertising images requiring bold, attention-grabbing facial visuals"
+    ],
+    "relatedKeywords": [
+      "dramatic lighting portrait",
+      "Rembrandt lighting portrait",
+      "low-key portrait"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "split-lighting-portrait",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

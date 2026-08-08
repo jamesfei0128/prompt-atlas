@@ -18914,4 +18914,364 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "While traditionally monochrome, the style can incorporate limited color accents or fill backgrounds with flat colors, as long as the emphasis remains on clear, crisp lines defining the subject."
     }
   ]
+  },
+  {
+    title: "Muted Earth Tone Colors",
+    category: "Color",
+    published: true,
+    seoTitle: "Muted Earth Tone Colors: A Guide for AI Image Prompts",
+    metaDescription: "Discover how using muted earth tone colors in AI image prompts enhances realism and style. Learn best use cases, common mistakes, and advanced techniques.",
+    heroImage: keywordHero("muted-earth-tone-colors", "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"),
+    definition: "Muted earth tone colors refer to subdued hues derived from natural elements like soil, clay, rocks, and foliage. In AI image prompts, specifying these colors helps create realistic, organic, and calming visuals by avoiding overly vibrant or saturated shades. Adding this keyword guides the AI to apply a palette of soft browns, greens, ochres, and grays with low saturation, evoking a natural, earthy atmosphere.",
+    visualCharacteristics: [
+    "Soft, desaturated browns, greens, and ochres",
+    "Warm and cool neutrals blended seamlessly",
+    "Subtle contrast with natural texture emphasis"
+  ],
+    overview: "Muted earth tone colors encapsulate a palette inspired by nature’s subtle and calming shades such as soft browns, gentle greens, warm ochres, and quiet grays. When integrated into AI image prompts, these colors help generate images that feel organic, grounded, and harmonious, making them ideal for designs seeking understated elegance or a natural aesthetic. This approach avoids harsh contrasts and bright tones, providing visuals that are soothing and visually balanced. Such color schemes are especially useful in editorial photography, interior design renderings, and lifestyle imagery, where authenticity and warmth are key. Utilizing these tones can transform generic visuals into cohesive, premium-feeling compositions that align with modern aesthetic trends.",
+    whatItDoes: "Including muted earth tone colors in AI image prompts directs the model to emphasize a specific, restrained color palette that mimics nature’s subdued hues. This reduces the risk of oversaturated or artificial color representations, producing an image with soft, warm, and organic qualities. The effect is a calming and inviting mood that enhances textures and materials without overwhelming viewer perception. These tones bring cohesion to complex scenes and can unify diverse elements through shared color harmony, making them valuable for applications requiring realistic and sophisticated visual storytelling. Ultimately, it enriches the prompt's color dynamics by focusing on gentle, naturally inspired shades rather than bold or synthetic colors.",
+    bestUseCases: [
+    "Editorial photography backgrounds featuring natural settings",
+    "Interior design renders emphasizing warm, cozy atmospheres",
+    "Lifestyle images aiming for authentic, grounded color schemes"
+  ],
+    relatedKeywords: [
+    "Natural Color Palettes",
+    "Organic Textures",
+    "Warm Neutral Tones"
+  ],
+    examplePrompt: "portrait of a woman in muted earth tone colors, soft lighting, natural textures, editorial style",
+    promptExamples: [
+    "portrait of a woman in muted earth tone colors, soft lighting, natural textures, editorial style",
+    "modern living room with muted earth tone colors, cozy materials, subtle shadows, realistic details",
+    "still life with dried flowers, clay pots, and muted earth tone colors, warm ambient light"
+  ],
+    commercialApplications: [
+    "Advertising campaigns for eco-friendly products",
+    "Website visuals for wellness and lifestyle brands",
+    "Packaging design evoking natural and sustainable qualities"
+  ],
+    adobeStockPotential: "Images featuring muted earth tone colors are highly sought after in premium stock photography markets because they communicate authenticity, timelessness, and warmth. These attributes resonate well with brands focused on nature, sustainability, and calm aesthetics. The restrained and sophisticated color schemes fit perfectly across editorial spreads, marketing campaigns, and social media content that aim for modern yet approachable visuals. Their versatility and universal appeal make them a solid choice for Adobe Stock contributors looking to capture buyers in lifestyle, interior design, and environmental sectors.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Muted earth tone colors are a set of subdued, natural hues inspired by soil, clay, foliage, and stone. Unlike bright or saturated colors, these tones provide calm, understated palettes with soft browns, greens, ochres, and grays. In AI image prompts, including this keyword guides models to apply these gentle colors, enhancing realism and warmth in the generated visuals.",
+      "items": [
+        "Subdued colors from natural elements",
+        "Soft saturation and warm-cool neutrals",
+        "Invokes organic and grounded atmospheres"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use structured prompt phrases to reliably incorporate muted earth tone colors:",
+      "items": [
+        "\"[Subject] with muted earth tone colors, soft lighting, natural textures\"",
+        "\"scene in muted earth tone colors, warm ambient light, subtle shadows\"",
+        "\"[object] styled using muted earth tone colors, realistic materials, low saturation\"]},{",
+        "type",
+        "bestUseCases"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "This keyword excels in a variety of visual contexts that benefit from subtle and natural color schemes. Consider these applications:",
+      "items": [
+        "Editorial backgrounds of natural landscapes or interiors",
+        "Cozy, stylish interior design visualizations",
+        "Lifestyle portraits emphasizing authenticity and calm moods"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "Avoid these pitfalls when using muted earth tone colors in prompts:",
+      "items": [
+        "Using vague terms like \"earth tones\" without 'muted' leads to overly saturated images",
+        "Overloading the prompt with unrelated bright colors that disrupt the palette",
+        "Neglecting lighting details that help colors feel realistic and warm"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "Elevate your prompt results by combining muted earth tone colors with other constraints:",
+      "items": [
+        "Pair with 'soft natural light' or 'golden hour glow' to enhance warmth",
+        "Add material descriptors like 'matte', 'linen', or 'weathered wood' for texture",
+        "Use 'subtle color grading' or 'film grain' to achieve organic finishes"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "A streamlined approach to generating images with muted earth tone colors:",
+      "items": [
+        "Start with a clear subject and include 'muted earth tone colors' in the description",
+        "Iterate variations adjusting lighting and texture phrases to refine mood",
+        "Select images that exhibit natural color harmony, soft contrasts, and authentic materials",
+        "Post-process to subtly enhance color balance while preserving softness"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "These adjacent styles complement muted earth tone colors and can enrich your prompts:",
+      "items": [
+        "Warm Neutral Tones — emphasizing cozy beiges and taupes",
+        "Organic Textures — adding tactile surfaces like wood and stone",
+        "Natural Color Palettes — broader sets inspired by flora and fauna"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "To optimize outputs across AI image models:",
+      "items": [
+        "Explicitly mention 'muted earth tone colors' rather than just 'earth tones' for clarity",
+        "Combine color specification with lighting and material details to guide rendering",
+        "Avoid overly complex syntax; use clear, natural language for best compatibility"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "What are muted earth tone colors in AI prompts?",
+      "answer": "They are soft, desaturated colors inspired by natural elements like soil and foliage, used to create subtle and realistic color palettes in AI-generated images."
+    },
+    {
+      "question": "How do muted earth tone colors affect image mood?",
+      "answer": "They create calm, warm, and organic atmospheres by avoiding bright or saturated hues, fostering a grounded and natural feel."
+    },
+    {
+      "question": "Can I combine muted earth tone colors with bright accents?",
+      "answer": "Yes, but use sparingly and with care to maintain the overall subtlety and cohesiveness of the color palette."
+    }
+  ]
+  },
+  {
+    title: "Soft Ambient Fog",
+    category: "Atmosphere",
+    published: true,
+    seoTitle: "Soft Ambient Fog: Enhance Mood with Subtle Atmospheric Effects",
+    metaDescription: "Discover how 'Soft Ambient Fog' adds depth, mood, and subtle atmosphere to AI-generated images. Learn definition, prompt tips, and best use cases.",
+    heroImage: keywordHero("soft-ambient-fog", "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"),
+    definition: "Soft Ambient Fog in AI image prompts refers to a delicate, diffused mist that subtly envelops a scene, creating an ethereal atmosphere without overpowering details. It introduces gentle haze that affects lighting and depth, enhancing mood and realism in images. Incorporating this keyword modifies AI outputs by adding nuanced softness and atmospheric perspective, often invoking calm, mystery, or dreamlike qualities.",
+    visualCharacteristics: [
+    "Delicate, semi-transparent mist softly diffusing light across the scene",
+    "Muted color saturation with smooth gradients created by the fog veil",
+    "Softened edges and reduced contrast in background elements enhancing depth"
+  ],
+    overview: "Soft Ambient Fog is a valuable prompt parameter that adds a subtle layer of atmospheric haze to images, transforming ordinary scenes with gentle diffusion and mood elevation. Unlike heavy fog or thick mist, this effect remains understated, allowing details to remain visible while enriching spatial depth and lighting texture. It evokes quietness and a sense of calm or mystery, making images appear more immersive and realistic. The presence of soft ambient fog interacts with light sources to produce smooth light transitions and a harmonious color palette, ideal for natural landscapes, portraits, or architectural shots. This nuanced atmospheric element helps creative projects achieve a premium, polished aesthetic with realistic environmental ambiance.",
+    whatItDoes: "By including 'Soft Ambient Fog' in your AI image prompt, you introduce a subtle environmental effect that enhances the sense of space and light diffusion. This keyword influences the AI to overlay a mild, translucent mist that softens harsh contrasts and sharp edges, producing a calm and immersive atmosphere. It helps simulate natural conditions like early morning haze or light humidity, enriching the mood without obscuring scene details. The effect also adds depth by visually separating foreground and background through graduated fog density. Overall, it improves realism and emotional impact, making visuals more compelling for storytelling and design.",
+    bestUseCases: [
+    "Photography-style landscapes evoking early morning or mystical environments",
+    "Editorial portraits requiring subtle mood enhancement and atmospheric depth",
+    "Interior and architectural visuals needing soft light diffusion and spatial layering"
+  ],
+    relatedKeywords: [
+    "Morning Mist",
+    "Subtle Haze",
+    "Diffuse Light"
+  ],
+    examplePrompt: "A serene forest scene at dawn, soft ambient fog diffusing golden sunlight, ultra-realistic",
+    promptExamples: [
+    "A serene forest scene at dawn, soft ambient fog diffusing golden sunlight, ultra-realistic",
+    "Modern living room bathed in soft ambient fog, gentle light rays, photographic quality",
+    "Portrait of a woman with soft ambient fog around, natural light, dreamy atmosphere"
+  ],
+    commercialApplications: [
+    "Atmospheric backgrounds for advertising campaigns enhancing product mood",
+    "Editorial imagery conveying introspection or calmness for magazines",
+    "E-commerce visuals for nature-inspired home decor products with immersive ambiance"
+  ],
+    adobeStockPotential: "Soft Ambient Fog imagery has strong potential on Adobe Stock due to its versatile application in multiple creative contexts. Its ability to transform simple scenes into evocative, atmospheric visuals attracts buyers seeking premium photography-style images. This keyword supports high-quality compositions suited for advertising, editorial, and commercial use where mood and environment play a crucial role. Its subtlety ensures all-purpose appeal without overshadowing main subjects, increasing licensing opportunities across industries. Demand increases particularly in nature, lifestyle, and interior design categories, making it a valuable addition for contributors aiming to enrich their stock portfolios.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Soft Ambient Fog refers to a delicate layer of mist or haze subtly integrated into an image scene. It gently diffuses lighting, adding atmospheric depth without obscuring key visual details. Beginners can think of it as a light veil that creates mood and spatial layering, transforming flat images into immersive environments by adding softness and visual separation between scene elements."
+    },
+    {
+      "type": "visualCharacteristics",
+      "title": "Visual Characteristics",
+      "items": [
+        "Soft, translucent mist that subtly blurs and diffuses light",
+        "Smooth color gradients and muted saturation under the fog veil",
+        "Gentle softening of edges and details enhancing perceived depth"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Combine descriptive environment, lighting, and subject elements with phrases emphasizing soft haze and light diffusion to achieve the effect. Use terms like 'soft ambient fog,' 'gentle mist,' 'diffused light through haze,' and 'subtle atmospheric layering' to guide the AI. Place the fog-related descriptors early in the prompt for influence on overall ambiance.",
+      "items": [
+        "[Scene description], soft ambient fog, diffused natural light, muted colors",
+        "Subject-focused prompt + soft ambient fog + gentle light rays + translucent haze",
+        "Landscape or interior + early morning + soft ambient fog + smooth atmospheric depth"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Natural or fantasy landscapes requiring serene or mystical atmosphere",
+        "Portraits where mood and softness enhance emotional expression",
+        "Interior and architectural photography needing soft light and depth"
+      ]
+    },
+    {
+      "type": "creativeVariations",
+      "title": "Creative Variations",
+      "body": "Explore different lighting times like dawn or dusk to alter fog color tones from warm golden to cool blue hues. Vary fog density from almost imperceptible light haze to more visible soft diffusion to create different moods. Combine with diverse subjects — from natural scenes to modern interiors or urban backdrops — for unique atmospheres. Experiment with composition, using foreground elements to interact with fog layering for depth.",
+      "items": [
+        "Warm morning glow with soft amber ambient fog",
+        "Cool blue twilight fog blending into urban streetscape",
+        "Thicker soft haze emphasizing silhouettes in landscape"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "items": [
+        "Advertising: product shots needing subtle environmental depth and mood",
+        "Editorial: storytelling imagery with emotional and atmospheric cues",
+        "E-commerce: lifestyle and home decor visuals enhanced by soft ambiance"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "A frequent error is overusing fog effects, resulting in hazy, muddy images where key details are lost or the mood becomes dull. Vague phrasing like just 'fog' can produce heavy or unrealistic mist inconsistent with soft ambient intent. Avoid adding too many dense atmospheric effects that compete with your subject. Specify 'soft' and tie fog with lighting descriptors to maintain clarity and elegance.",
+      "items": [
+        "Using generic 'fog' instead of 'soft ambient fog' for subtlety",
+        "Over-saturating or over-densifying fog, causing visual confusion",
+        "Ignoring lighting interplay with fog causing flat or unnatural appearance"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does soft ambient fog differ from heavy fog in AI image prompts?",
+      "answer": "Soft ambient fog is a light, subtle mist that gently diffuses light and adds depth without hiding details, while heavy fog is thick and obscures much of the scene, creating a more dramatic but less detailed effect."
+    },
+    {
+      "question": "Can soft ambient fog be combined with other atmospheric effects?",
+      "answer": "Yes, it can harmoniously blend with effects like gentle rays of light or slight dew, but prompt balance is key to avoid overwhelming the image with too many competing elements."
+    }
+  ]
+  },
+  {
+    title: "Split Lighting Portrait",
+    category: "Lighting",
+    published: true,
+    seoTitle: "Split Lighting Portrait: Dramatic Half-Face Illumination",
+    metaDescription: "Discover how split lighting portrait style creates striking half-lit faces in AI image generation. Learn formulas, uses, and pro tips for vivid results.",
+    heroImage: keywordHero("split-lighting-portrait", "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"),
+    definition: "Split lighting portrait is a lighting technique where one half of the subject's face is illuminated while the other half remains in shadow, creating a dramatic and high-contrast effect. In AI image prompts, specifying 'split lighting portrait' adjusts the depicted lighting to emphasize contrast along the vertical midline of the face, enhancing depth and mood.",
+    visualCharacteristics: [
+    "Strong contrast between light and shadow dividing the face vertically",
+    "Sharp, defined shadow edge separating illuminated and dark halves",
+    "Emphasizes facial structure and contours through dramatic lighting"
+  ],
+    overview: "Split lighting portrait is a classic photographic and artistic technique used to create images with striking contrast and depth. By illuminating exactly one side of the face and leaving the other in shadow, it sculpts the subject's features in a bold and attention-grabbing way. This lighting style conveys intensity, mystery, or seriousness, making it a popular choice for dramatic portraiture. When used in AI image prompts, split lighting shifts the generated image's mood and composition to highlight this pronounced half-lit effect, producing portraits with enhanced dimensionality and emotional impact.",
+    whatItDoes: "Using 'split lighting portrait' in an AI prompt tells the model to simulate a light source positioned to the side, illuminating exactly half of the subject’s face while casting the other half into shadow. This controlled lighting manipulation creates a clear division of light and dark areas, adding depth and emphasizing facial contours. It helps portray mood, character, and focus, moving the image away from flat or evenly lit portraits toward something more cinematic and compelling.",
+    bestUseCases: [
+    "High-contrast editorial portraits evoking intensity or mystery",
+    "Character studies in digital art emphasizing dramatic mood",
+    "Advertising images requiring bold, attention-grabbing facial visuals"
+  ],
+    relatedKeywords: [
+    "dramatic lighting portrait",
+    "Rembrandt lighting portrait",
+    "low-key portrait"
+  ],
+    examplePrompt: "portrait of a man, split lighting portrait, dramatic contrast, sharp shadows, realistic skin texture, 8k",
+    promptExamples: [
+    "portrait of a man, split lighting portrait, dramatic contrast, sharp shadows, realistic skin texture, 8k",
+    "female model face, studio portrait, split lighting portrait, dark background, cinematic mood, hyper realistic",
+    "close-up young woman, split lighting portrait, monochrome, sharp light-shadow edge, photo realistic"
+  ],
+    commercialApplications: [
+    "Fashion editorials highlighting models with dramatic effects",
+    "Marketing campaigns seeking bold, emotional human subjects",
+    "Ecommerce product shots emphasizing texture and depth on faces"
+  ],
+    adobeStockPotential: "Split lighting portraits hold strong potential for Adobe Stock as they provide visually compelling images that convey mood and focus effectively. These portraits suit a variety of commercial needs such as fashion, advertising, and editorial content. Their striking aesthetic helps them stand out in curated collections, appealing to clients looking for dramatic and emotionally rich human imagery. Because this lighting technique accentuates facial structure and highlights detail, it also performs well across digital and print media formats.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Split lighting portrait refers to a lighting setup where exactly one half of the subject's face receives light while the other half is in shadow. This creates a bold vertical contrast along the face. For AI image generation, including 'split lighting portrait' in prompts guides the model to render half-lit faces with strong, defined shadows, enhancing depth and drama."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Build prompts focusing on subject, lighting style, and mood using split lighting components. Combine descriptive terms for lighting quality, shadow sharpness, and environment to capture precise effects.",
+      "items": [
+        "<subject>, split lighting portrait, sharp shadow edge",
+        "studio portrait, split lighting portrait, high contrast, moody atmosphere",
+        "close-up, split lighting portrait, cinematic lighting, dramatic shadows"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Creating intense, cinematic portraits for editorial or artistic projects",
+        "Character-focused artwork aiming to showcase emotion or mystery",
+        "Marketing imagery where dramatic facial lighting attracts buyer attention"
+      ]
+    },
+    {
+      "type": "creativeVariations",
+      "title": "Creative Variations",
+      "body": "To avoid repetitive output, vary color tones, lighting intensity, and composition direction. Using monochrome palettes or incorporating textured backdrops enhances visual interest. Also try different facial angles or partial profiles to shift focus within the split lighting style.",
+      "items": [
+        "Use warm or cool tones to shift emotional impact",
+        "Apply monochrome or duotone for artistic effect",
+        "Change lighting angle for softer or harsher shadow edges",
+        "Incorporate textured or minimalistic backgrounds",
+        "Experiment with facial pose—quarter, three-quarters, or profile"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "body": "Split lighting portraits are widely employed across fashion, advertising, and editorial sectors to convey strong moods and highlight facial features. Their dramatic effect helps marketers create memorable brand imagery and artists emphasize psychological depth in character visuals.",
+      "items": [
+        "Fashion editorials focusing on model expression",
+        "Advertising campaigns needing strong emotional connection",
+        "Ecommerce showcasing detailed facial cosmetics or accessories"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "A frequent mistake is specifying 'split lighting' without clarifying shadow sharpness or light source direction, resulting in softer, undefined shadow borders. Overuse without variation can produce monotonous images. Avoid overly dark shadows that obscure facial details or too uniform illumination which softens the intended contrast.",
+      "items": [
+        "Omitting shadow edge details leading to ambiguous lighting",
+        "Using diffuse lighting terms counteracting split lighting effect",
+        "Neglecting to specify light position causing uneven or incorrect shadows",
+        "Overapplying split lighting causing repetitive visuals",
+        "Allowing shadows to merge into blackness, losing facial detail"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "What is split lighting in photography and AI art?",
+      "answer": "Split lighting is a technique where one half of the subject's face is lit while the other half is in shadow, creating strong contrast and drama. In AI art prompts, including this term instructs the model to simulate this lighting style for portraits."
+    },
+    {
+      "question": "How can I prevent the split lighting effect from looking too harsh in AI-generated portraits?",
+      "answer": "To soften harsh split lighting, specify softer light sources, add terms like 'soft shadow edge' or 'diffused light' in your AI prompt. Adjusting the light intensity and including modifiers like 'gentle transitions between light and shadow' can create a more balanced portrait while maintaining the split lighting style."
+    }
+  ]
   }];
