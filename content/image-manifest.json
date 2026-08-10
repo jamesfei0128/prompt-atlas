@@ -2003,6 +2003,30 @@
       "generationPrompt": "16:9 portrait of a young woman, split lighting portrait, sharp contrast, half face illuminated, studio backdrop, realistic skin texture, cinematic lighting, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "split-lighting-portrait"
+    },
+    {
+      "filename": "soft-ambient-glow.png",
+      "altText": "Portrait photo featuring warm soft ambient glow lighting and gentle shadows",
+      "imageTitle": "Soft Ambient Glow Lighting on Portrait",
+      "generationPrompt": "16:9 portrait of a smiling young woman, warm soft ambient glow lighting, natural diffused light, smooth shadows, cozy atmosphere, clean editorial style, photorealistic, refined materials, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-ambient-glow"
+    },
+    {
+      "filename": "volumetric-light-beams.png",
+      "altText": "Sunlight streaming through dense forest with visible volumetric light beams illuminating the misty atmosphere",
+      "imageTitle": "Volumetric Light Beams in Forest Scene",
+      "generationPrompt": "16:9 ultra-detailed photo-realistic image of a dense forest at golden hour, sunlight filtering through tall pine trees creating visible volumetric light beams with mist and soft atmospheric haze, refined lighting, realistic textures, no text",
+      "category": "Lighting",
+      "keywordSlug": "volumetric-light-beams"
+    },
+    {
+      "filename": "rotational-symmetry-layout.png",
+      "altText": "Intricate digital mandala with vibrant colors and rotational symmetry layout",
+      "imageTitle": "Digital Mandala Featuring Rotational Symmetry Layout",
+      "generationPrompt": "16:9 detailed digital mandala with rotational symmetry layout, vibrant colors, intricate floral patterns, radiant lighting, clean modern design, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "rotational-symmetry-layout"
     }
   ]
 }

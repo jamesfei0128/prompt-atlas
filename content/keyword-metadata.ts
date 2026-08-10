@@ -7551,5 +7551,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Soft Ambient Glow",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Soft Ambient Glow – Enhance Lighting in AI Images",
+    "metaDescription": "Explore how the Soft Ambient Glow keyword creates gentle, diffused lighting in AI images to add warmth, depth, and natural atmosphere. Learn prompt formulas and best uses.",
+    "heroImage": {
+      "src": "/images/keywords/soft-ambient-glow.png",
+      "alt": "Portrait photo featuring warm soft ambient glow lighting and gentle shadows",
+      "title": "Soft Ambient Glow Lighting on Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Soft Ambient Glow keyword is essential for adding subtle warmth and diffuse light to AI-generated images. Unlike direct or harsh lighting, it creates a gentle, enveloping glow that enriches texture and form while maintaining natural shadow gradations. This effect works well in editorial portraits, interior scenes, and nature photography, helping images feel intimate and polished. By leveraging this effect, creators can evoke mood and focus attention without overwhelming brightness. It’s particularly useful for achieving premium, realistic visuals that appeal to lifestyle, advertising, or stock image markets. Soft Ambient Glow enhances quality through refined lighting sophistication.",
+    "bestUseCases": [
+      "Portrait photography needing flattering, natural light",
+      "Interior design visuals showcasing cozy, inviting spaces",
+      "Nature scenes capturing morning or evening light ambiance"
+    ],
+    "relatedKeywords": [
+      "Warm Diffused Light",
+      "Natural Glow Lighting",
+      "Gentle Radiance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-ambient-glow",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Volumetric Light Beams",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Volumetric Light Beams: Enhancing AI Image Lighting Effects",
+    "metaDescription": "Explore volumetric light beams to add depth and atmosphere in AI images. Learn formulas, use cases, and advanced tips for stunning lighting effects.",
+    "heroImage": {
+      "src": "/images/keywords/volumetric-light-beams.png",
+      "alt": "Sunlight streaming through dense forest with visible volumetric light beams illuminating the misty atmosphere",
+      "title": "Volumetric Light Beams in Forest Scene",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Volumetric Light Beams dramatically influence the mood and spatial perception of AI-generated images by simulating the way light interacts with airborne particles. When incorporated into prompts, these beams create distinct shafts of light that visually extend from a source, adding realistic highlights and shadows to compositions. This effect is widely used in photography and cinematic visuals to evoke feelings of mystery, warmth, or ethereal beauty. In AI art generation, it helps transform flat lighting into immersive three-dimensional ambiance, emphasizing light direction and environmental presence.",
+    "bestUseCases": [
+      "Outdoor forest or nature scenes with sunlight filtering through trees",
+      "Moody indoor interiors with dust particles illuminated by shafts of light",
+      "Sci-fi or fantasy environments emphasizing dramatic lighting effects"
+    ],
+    "relatedKeywords": [
+      "God Rays",
+      "Light Scattering",
+      "Atmospheric Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "volumetric-light-beams",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Rotational Symmetry Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Rotational Symmetry Layout in AI Art: A Clear Guide",
+    "metaDescription": "Explore rotational symmetry layout for AI image prompts—definition, characteristics, use cases, variations, and tips for stunning, balanced designs.",
+    "heroImage": {
+      "src": "/images/keywords/rotational-symmetry-layout.png",
+      "alt": "Intricate digital mandala with vibrant colors and rotational symmetry layout",
+      "title": "Digital Mandala Featuring Rotational Symmetry Layout",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Rotational symmetry layouts create images where visual elements are arranged in repeated patterns around a central axis, producing a sense of balance and rhythm. This design principle is widely used in art, design, architecture, and nature-inspired motifs. When incorporated into AI prompts, rotational symmetry guides the generation to emphasize circular repetition and harmony, enhancing aesthetic appeal and structured complexity. This layout is especially effective for creating intricate mandalas, floral designs, decorative backgrounds, or abstract patterns with a sense of continuous movement. The balanced nature of rotational symmetry makes it an excellent choice for compositions requiring visual stability combined with creative flair.",
+    "bestUseCases": [
+      "Creating intricate mandalas or geometric art for digital and print media",
+      "Designing decorative backgrounds or textile patterns with balanced motifs",
+      "Developing logos and branding elements that require symmetrical harmony"
+    ],
+    "relatedKeywords": [
+      "Radial Symmetry",
+      "Geometric Pattern",
+      "Circular Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rotational-symmetry-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
