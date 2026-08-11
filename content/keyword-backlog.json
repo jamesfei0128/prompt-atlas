@@ -1696,27 +1696,27 @@
     "keyword": "Visual Weight Balance",
     "slug": "visual-weight-balance",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.107Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-11T10:42:01.356Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Color Saturation Control",
     "slug": "color-saturation-control",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.107Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-11T10:42:40.669Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Vibrant Contrast Hues",
     "slug": "vibrant-contrast-hues",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.107Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-11T10:43:26.854Z",
     "source": "openai-discovery"
   },
   {

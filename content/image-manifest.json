@@ -2027,6 +2027,30 @@
       "generationPrompt": "16:9 detailed digital mandala with rotational symmetry layout, vibrant colors, intricate floral patterns, radiant lighting, clean modern design, no text, no logos",
       "category": "Composition",
       "keywordSlug": "rotational-symmetry-layout"
+    },
+    {
+      "filename": "visual-weight-balance.png",
+      "altText": "Elegant room interior with well-balanced visual weight and harmonious composition",
+      "imageTitle": "Visual Weight Balance in Interior Composition",
+      "generationPrompt": "16:9 ultra high resolution interior room rendered in natural soft light, symmetrical and balanced furniture arrangement, harmonious color palette, subtle depth, realistic textures, clean editorial style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "visual-weight-balance"
+    },
+    {
+      "filename": "color-saturation-control.png",
+      "altText": "A vibrant tropical landscape illustrating high color saturation control in AI-generated images",
+      "imageTitle": "High Color Saturation Tropical Landscape",
+      "generationPrompt": "16:9 image of a tropical beach at sunset with vibrant colors and high color saturation, photorealistic style, clean editorial composition, premium lighting, realistic materials, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "color-saturation-control"
+    },
+    {
+      "filename": "vibrant-contrast-hues.png",
+      "altText": "Colorful composition with vibrant contrast hues showcasing bold complementary colors in a modern editorial style",
+      "imageTitle": "Vibrant Contrast Hues in AI Image Generation",
+      "generationPrompt": "A modern editorial style image featuring vibrant contrast hues: bold complementary saturated colors juxtaposed in a clean, well-lit composition, premium stock-image quality, realistic textures, subtle depth, no text, no logos, no watermark, 16:9 aspect ratio",
+      "category": "Color",
+      "keywordSlug": "vibrant-contrast-hues"
     }
   ]
 }

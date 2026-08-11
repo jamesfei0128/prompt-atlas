@@ -7641,5 +7641,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Visual Weight Balance",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Visual Weight Balance in Composition for AI Image Prompts",
+    "metaDescription": "Understand Visual Weight Balance in AI image composition. Learn definitions, prompt formulas, best use cases, and expert techniques for balanced visuals.",
+    "heroImage": {
+      "src": "/images/keywords/visual-weight-balance.png",
+      "alt": "Elegant room interior with well-balanced visual weight and harmonious composition",
+      "title": "Visual Weight Balance in Interior Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Visual Weight Balance is a fundamental principle in image composition that ensures harmonious distribution of visual elements across the frame. When crafting AI image prompts, emphasizing this keyword helps in generating images where objects, colors, and contrasts are allocated thoughtfully to prevent lopsided or cluttered scenes. Balanced visuals direct the viewer’s eye across the image naturally, creating a sense of calm and order. This balance is achieved by managing the size, color intensity, and positioning of elements so that no part overwhelms the rest. Using Visual Weight Balance in prompts is essential for editorial, product, or environmental imagery where clarity and coherence are crucial.",
+    "bestUseCases": [
+      "Product photography with clean and clear presentation",
+      "Editorial imagery requiring balanced storytelling",
+      "Architectural or interior shots emphasizing spatial harmony"
+    ],
+    "relatedKeywords": [
+      "Symmetry",
+      "Rule of Thirds",
+      "Contrast Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "visual-weight-balance",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Color Saturation Control",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Mastering Color Saturation Control in AI Image Prompts",
+    "metaDescription": "Learn how Color Saturation Control enhances AI image generation for vivid, balanced visuals. Discover formulas, use cases, and pro techniques for stunning results.",
+    "heroImage": {
+      "src": "/images/keywords/color-saturation-control.png",
+      "alt": "A vibrant tropical landscape illustrating high color saturation control in AI-generated images",
+      "title": "High Color Saturation Tropical Landscape",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Color Saturation Control is a critical keyword in AI image generation that governs the vibrancy and intensity of colors within the resulting artwork. By adjusting saturation through prompt instructions, users can shift the emotional tone and visual clarity of images — from bright, eye-catching compositions to subtle, understated palettes. This control helps in creating images that fit diverse artistic intentions, whether aiming for hyper-realism, stylized painting, or atmospheric photography. Proper use of saturation modifiers enhances the mood and clarity, making Color Saturation Control indispensable in crafting compelling AI visuals.",
+    "bestUseCases": [
+      "Creating vivid marketing visuals to capture user attention with intense colors",
+      "Designing moody or vintage-themed art using muted or desaturated palettes",
+      "Enhancing natural landscapes or product photography by fine-tuning color realism"
+    ],
+    "relatedKeywords": [
+      "Color Temperature Adjustment",
+      "Contrast Enhancement",
+      "Light and Shadow Play"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "color-saturation-control",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Vibrant Contrast Hues",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Vibrant Contrast Hues: Enhance AI Image Prompts with Bold Colors",
+    "metaDescription": "Explore Vibrant Contrast Hues to elevate AI image prompts with bold, complementary colors. Perfect for dynamic visuals and striking compositions in digital art.",
+    "heroImage": {
+      "src": "/images/keywords/vibrant-contrast-hues.png",
+      "alt": "Colorful composition with vibrant contrast hues showcasing bold complementary colors in a modern editorial style",
+      "title": "Vibrant Contrast Hues in AI Image Generation",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Vibrant Contrast Hues represent an essential color strategy in AI-generated imagery where vivid and complementary colors are juxtaposed to maximize visual appeal. Applying this concept in prompts leads to images with heightened energy and attention-grabbing qualities, often preferred in marketing materials, editorial photography, and creative digital art. The technique manipulates color relationships to create mood and focus, making elements within the frame more prominent and memorable. Integrating vibrant contrast hues can transform an ordinary image into a visually compelling composition that draws the eye and communicates with clarity and boldness.",
+    "bestUseCases": [
+      "Marketing and advertising visuals needing high impact and attention",
+      "Editorial photography requiring striking color separation and mood",
+      "Digital art and illustrations focused on bold, dynamic compositions"
+    ],
+    "relatedKeywords": [
+      "Bold Color Palette",
+      "Complementary Colors",
+      "Saturated Tones"
+    ],
+    "difficulty": "Beginner",
+    "slug": "vibrant-contrast-hues",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
