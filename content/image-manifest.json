@@ -2051,6 +2051,30 @@
       "generationPrompt": "A modern editorial style image featuring vibrant contrast hues: bold complementary saturated colors juxtaposed in a clean, well-lit composition, premium stock-image quality, realistic textures, subtle depth, no text, no logos, no watermark, 16:9 aspect ratio",
       "category": "Color",
       "keywordSlug": "vibrant-contrast-hues"
+    },
+    {
+      "filename": "granular-surface-texture.png",
+      "altText": "Close-up of a natural stone surface showing fine granular texture with subtle light and shadow",
+      "imageTitle": "Granular Surface Texture on Natural Stone",
+      "generationPrompt": "16:9 close-up of natural stone surface with finely distributed granular texture, soft natural side lighting, detailed shadows, realistic material, no text, no logos, no watermark",
+      "category": "Texture & Material",
+      "keywordSlug": "granular-surface-texture"
+    },
+    {
+      "filename": "woven-fabric-detail.png",
+      "altText": "Close-up detailed woven fabric texture showing interlaced threads and fiber nuances",
+      "imageTitle": "Woven Fabric Detail Texture",
+      "generationPrompt": "16:9 close-up shot of woven fabric detail with natural fibers, warm soft lighting, shallow depth of field, realistic threads interlaced, fine texture, high resolution, clean editorial style, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "woven-fabric-detail"
+    },
+    {
+      "filename": "patina-metal-finish.png",
+      "altText": "Close-up of metal surface featuring detailed patina finish with greenish-blue oxidized texture",
+      "imageTitle": "Patina Metal Finish Texture on Aged Metal",
+      "generationPrompt": "16:9 close-up of aged copper metal surface with patina metal finish, detailed oxidation texture, mottled green and blue hues, natural diffuse lighting, ultra-realistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "patina-metal-finish"
     }
   ]
 }

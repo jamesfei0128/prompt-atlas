@@ -7731,5 +7731,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Granular Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Granular Surface Texture: Definition and Creative Uses",
+    "metaDescription": "Explore the granular surface texture keyword for AI image prompts. Learn definition, visual traits, prompt formulas, use cases, variations, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/granular-surface-texture.png",
+      "alt": "Close-up of a natural stone surface showing fine granular texture with subtle light and shadow",
+      "title": "Granular Surface Texture on Natural Stone",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Granular Surface Texture is a key descriptive keyword used in AI image prompting to achieve photorealistic and tactile surfaces characterized by finely distributed grains or tiny particles. This texture offers an intricate level of detail that enriches the material quality of objects, making them appear more natural and tangible. When included in prompts, it encourages the generation of surfaces akin to sandpaper, concrete, rough fabric, or unpolished stone, providing visual complexity that appeals to designers and artists alike. Its use can transform otherwise flat or generic surfaces into engaging, dynamic visuals with depth and interest. This makes it valuable across many creative projects, from product visualization to environmental design.",
+    "bestUseCases": [
+      "Product photography where realistic surface detail boosts perceived quality (e.g., electronics, packaging)",
+      "Architectural visualization featuring concrete, stone, or textured paint walls",
+      "Nature or environmental scenes emphasizing ground, bark, or mineral details"
+    ],
+    "relatedKeywords": [
+      "Rough Texture",
+      "Stone Surface",
+      "Micro Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "granular-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Woven Fabric Detail",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Woven Fabric Detail Texture for Realistic AI Images",
+    "metaDescription": "Explore how to prompt and create hyper-realistic woven fabric detail textures in AI images, mastering this key textile element for premium visual content.",
+    "heroImage": {
+      "src": "/images/keywords/woven-fabric-detail.png",
+      "alt": "Close-up detailed woven fabric texture showing interlaced threads and fiber nuances",
+      "title": "Woven Fabric Detail Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Woven fabric details bring life and realism to textile visuals by showcasing the intricate thread structure, including the warp and weft intersection that characterizes woven materials. In AI-generated images, adding 'woven fabric detail' ensures the depiction highlights the tactile nature of fabrics such as cotton, linen, or wool. This specificity helps designers, artists, and marketers produce authentic and premium presentations where texture fidelity is crucial, from fashion shots to interior fabrics.",
+    "bestUseCases": [
+      "Close-up product photography of textile goods",
+      "Interior design materials showcasing upholstery fabrics",
+      "Fashion editorials emphasizing garment materials"
+    ],
+    "relatedKeywords": [
+      "Textile Texture",
+      "Fabric Macro",
+      "Thread Pattern"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "woven-fabric-detail",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Patina Metal Finish",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Patina Metal Finish: Texture Keyword for AI Art",
+    "metaDescription": "Discover how to use the 'Patina Metal Finish' keyword for creating rich, aged metal textures in AI images. Learn prompt formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/patina-metal-finish.png",
+      "alt": "Close-up of metal surface featuring detailed patina finish with greenish-blue oxidized texture",
+      "title": "Patina Metal Finish Texture on Aged Metal",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Patina Metal Finish' keyword enriches AI-generated images with the unique appearance of aged metal surfaces. Unlike polished metal that looks shiny and new, a patina finish evokes a sense of history, weathering, and natural chemical transformation over time. Including this keyword in your AI prompts helps produce visuals where metal objects have color variations such as verdigris or rust-like textures with realistic surface imperfections. This effect is prized in product design renders, architectural visualizations, and artistic scenes to impart authenticity and tactile appeal. It bridges the gap between pristine metal surfaces and natural aging processes, adding storytelling depth via materials.",
+    "bestUseCases": [
+      "Creating vintage or antique metal objects with authentic aging",
+      "Architectural visualizations showing weathered metal features",
+      "Product design concepts emphasizing rustic or industrial aesthetics"
+    ],
+    "relatedKeywords": [
+      "Oxidized Metal",
+      "Aged Metal Texture",
+      "Rusty Metal Surface"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "patina-metal-finish",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
