@@ -2075,6 +2075,30 @@
       "generationPrompt": "16:9 close-up of aged copper metal surface with patina metal finish, detailed oxidation texture, mottled green and blue hues, natural diffuse lighting, ultra-realistic, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "patina-metal-finish"
+    },
+    {
+      "filename": "isometric-graphic-style.png",
+      "altText": "Isometric graphic style 3D cityscape with clean lines and subtle shadows",
+      "imageTitle": "Isometric Graphic Style Example",
+      "generationPrompt": "16:9 composition of isometric graphic style 3D futuristic cityscape, clean lines, pastel colors, subtle shadows, realistic materials, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "isometric-graphic-style"
+    },
+    {
+      "filename": "flat-minimalist-design.png",
+      "altText": "Flat minimalist design style image with simple geometric shapes and solid vibrant colors",
+      "imageTitle": "Flat Minimalist Design Example",
+      "generationPrompt": "16:9 flat minimalist design style image, simple geometric shapes, solid vibrant colors, no shadows, no gradients, clean composition, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "flat-minimalist-design"
+    },
+    {
+      "filename": "calm-serene-mood.png",
+      "altText": "Softly lit minimalistic interior evoking calm serene mood with pastel tones and subtle shadows",
+      "imageTitle": "Calm Serene Mood Minimalist Interior",
+      "generationPrompt": "16:9 ratio, minimalistic interior, calm serene mood, soft diffuse natural lighting, pastel color palette, realistic materials, subtle depth, no text, no logos, no watermark",
+      "category": "Atmosphere",
+      "keywordSlug": "calm-serene-mood"
     }
   ]
 }

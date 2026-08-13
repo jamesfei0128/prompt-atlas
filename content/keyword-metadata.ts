@@ -7821,5 +7821,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Isometric Graphic Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Isometric Graphic Style: Definition & Usage in AI Art",
+    "metaDescription": "Explore the Isometric Graphic Style, its key traits, best uses, and prompt formulas to create stunning AI images with depth and geometry.",
+    "heroImage": {
+      "src": "/images/keywords/isometric-graphic-style.png",
+      "alt": "Isometric graphic style 3D cityscape with clean lines and subtle shadows",
+      "title": "Isometric Graphic Style Example",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Isometric Graphic Style presents a visually distinct approach within AI-generative art, emphasizing a three-dimensional feel without traditional perspective. This style simplifies complex scenes by eliminating vanishing points and foreshortening, instead showing multiple sides of an object or environment simultaneously in a balanced, angular format. Artists and designers use it to convey spatial relations clearly and attractively across various applications, from game design to infographics and architectural visualization. Its precision and clarity make it ideal for communicating technical details, while its stylized geometry gives images a modern and clean aesthetic. Incorporating this style into AI prompts enhances reproducibility of consistent angles and depth, producing images with a polished, schematic look that appeals across digital design fields.",
+    "bestUseCases": [
+      "Technical illustrations and architectural renders conveying spatial relationships",
+      "Infographics or dashboards requiring clear, organized data visualization",
+      "Game design assets and UI elements demanding clean, consistent geometric forms"
+    ],
+    "relatedKeywords": [
+      "flat design",
+      "vector art",
+      "low poly"
+    ],
+    "difficulty": "Beginner",
+    "slug": "isometric-graphic-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Flat Minimalist Design",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Flat Minimalist Design: Clean and Modern AI Image Style",
+    "metaDescription": "Discover Flat Minimalist Design, its visual traits, best uses, and prompt formulas for creating sleek AI-generated images with refined simplicity.",
+    "heroImage": {
+      "src": "/images/keywords/flat-minimalist-design.png",
+      "alt": "Flat minimalist design style image with simple geometric shapes and solid vibrant colors",
+      "title": "Flat Minimalist Design Example",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Flat Minimalist Design emphasizes simplicity and clarity, stripping visuals down to fundamental shapes and colors without unnecessary complexity. It is ideal for creating straightforward, modern images that communicate messages effectively. When used as a keyword in AI prompts, it guides the model to exclude elaborate lighting or intricate detail, resulting in clean, polished compositions. This style suits editorial graphics, infographics, UI elements, and illustration-based content, offering a timeless, versatile aesthetic that appeals across digital and print media.",
+    "bestUseCases": [
+      "Creating clean icons and UI elements for apps or websites",
+      "Designing infographic visuals that highlight data with clarity",
+      "Producing editorial illustrations for articles and marketing materials"
+    ],
+    "relatedKeywords": [
+      "Minimalist Illustration",
+      "Flat Color Palette",
+      "Vector Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "flat-minimalist-design",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Calm Serene Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Calm Serene Mood - AI Image Prompt Keyword Guide",
+    "metaDescription": "Discover how to create calm serene mood images with AI prompts. Ideal for peaceful atmospheres in advertising, editorial, and social content.",
+    "heroImage": {
+      "src": "/images/keywords/calm-serene-mood.png",
+      "alt": "Softly lit minimalistic interior evoking calm serene mood with pastel tones and subtle shadows",
+      "title": "Calm Serene Mood Minimalist Interior",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Incorporating a 'Calm Serene Mood' into AI-generated images sets the tone for peaceful and soothing visuals that invite viewers into a state of relaxation. This mood emphasizes gentle lighting conditions, balanced compositions, and color schemes that reduce visual tension. Artists and creators use this keyword to achieve imagery that feels reflective and harmonious, often found in wellness, nature, and minimalist themes. Implementing 'Calm Serene Mood' helps AI models prioritize visual elements that evoke calmness and suppress chaotic or aggressive details, making images more inviting and emotionally comforting.",
+    "bestUseCases": [
+      "Wellness and spa promotional imagery",
+      "Editorial visuals for mindfulness and meditation articles",
+      "Backgrounds for serene social media campaigns"
+    ],
+    "relatedKeywords": [
+      "Peaceful Nature Scene",
+      "Tranquil Lighting",
+      "Soft Ambient Atmosphere"
+    ],
+    "difficulty": "Beginner",
+    "slug": "calm-serene-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
