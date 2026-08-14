@@ -7911,5 +7911,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "E-Commerce Banner Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "E-Commerce Banner Layout: Create Impactful Commercial Banners",
+    "metaDescription": "Discover how to craft compelling e-commerce banner layouts with AI prompts. Learn formulas, use cases, creative tips, and avoid common mistakes for premium visuals.",
+    "heroImage": {
+      "src": "/images/keywords/e-commerce-banner-layout.png",
+      "alt": "Modern e-commerce banner layout featuring balanced product placement with clean background and refined lighting",
+      "title": "E-Commerce Banner Layout Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "E-Commerce Banner Layout is a vital keyword in AI image generation that helps create visually engaging banners tailored for online retail environments. These layouts emphasize product visibility, aesthetic harmony, and balanced negative space to facilitate adding promotional text or calls to action later. By incorporating this keyword, AI models generate images with a refined commercial style resembling professional stock banners suitable for websites, social media ads, and newsletters. The focus is on clean editorial composition, premium polish, and subtle depth that enhances product appeal without overwhelming the viewer. Utilizing this layout keyword ensures images meet modern e-commerce design standards and help brands effectively present their merchandise in a digital-first marketplace.",
+    "bestUseCases": [
+      "Designing homepage hero images for online stores",
+      "Creating promotional banners for social media advertising",
+      "Developing email marketing visuals highlighting featured products"
+    ],
+    "relatedKeywords": [
+      "Product Close-Up",
+      "Minimalist Website Hero",
+      "Commercial Product Display"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "e-commerce-banner-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Stock Photo Editorial Use",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Stock Photo Editorial Use: Essential Guide for AI Image Prompts",
+    "metaDescription": "Discover how to craft AI prompts for stock photo editorial use. Learn definition, prompt formulas, best cases, and style tips for premium editorial images.",
+    "heroImage": {
+      "src": "/images/keywords/stock-photo-editorial-use.png",
+      "alt": "Authentic editorial stock photo style professional collaboration in modern office environment",
+      "title": "Stock Photo Editorial Use - Authentic Professional Collaboration",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Stock photo editorial use is a crucial keyword in AI image generation, especially for creators aiming to produce images suitable for journalistic and editorial content. These images often demand authenticity, contextual relevance, and subtle storytelling elements without overt commercial cues. Incorporating this keyword influences the AI to generate visuals that align with publication standards, avoiding promotional tones or artificial enhancements that could mislead viewers. This makes such images ideal for articles, reports, and blog posts where credibility and clarity are paramount. By understanding stock photo editorial use, content creators can effectively tailor AI prompts to generate images that enhance narrative quality and comply with editorial licensing requirements.",
+    "bestUseCases": [
+      "News article header images illustrating current events realistically",
+      "Magazine spreads requiring authentic lifestyle and candid shots",
+      "Online editorial blog images that support storytelling with natural compositions"
+    ],
+    "relatedKeywords": [
+      "documentary photography",
+      "realistic candid shots",
+      "newsroom imagery"
+    ],
+    "difficulty": "Beginner",
+    "slug": "stock-photo-editorial-use",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Reflected Light Technique",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Reflected Light Technique: Enhance AI Image Lighting",
+    "metaDescription": "Discover the reflected light technique for AI image prompts to create realistic, subtle lighting effects enhancing depth and material realism in visuals.",
+    "heroImage": {
+      "src": "/images/keywords/reflected-light-technique.png",
+      "alt": "Soft lighting illustrating reflected light technique on portrait with subtle shadows and natural depth",
+      "title": "Reflected Light Technique in AI Image Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The reflected light technique is essential for artists and AI users aiming to enhance the quality and realism of generated images. By incorporating reflected light cues into prompts, the AI simulates indirect lighting effects that naturally exist in real-world scenes. This technique softens shadows, improves spatial depth, and accentuates textures and materials subtly. It is especially beneficial in portrait, still life, and interior imagery, where nuanced light behavior impacts mood and detail perception. Using reflected light can transform flat, unrealistic images into visually engaging artwork with a heightened sense of atmosphere and authenticity.",
+    "bestUseCases": [
+      "Portraits with soft shadow modeling and subtle facial illumination",
+      "Interior scenes emphasizing natural light dynamics and cozy ambiance",
+      "Still life compositions highlighting material details through gentle light reflection"
+    ],
+    "relatedKeywords": [
+      "soft lighting",
+      "bounce light",
+      "subtle shadow illumination"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "reflected-light-technique",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

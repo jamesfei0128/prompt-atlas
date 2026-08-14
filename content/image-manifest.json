@@ -2099,6 +2099,30 @@
       "generationPrompt": "16:9 ratio, minimalistic interior, calm serene mood, soft diffuse natural lighting, pastel color palette, realistic materials, subtle depth, no text, no logos, no watermark",
       "category": "Atmosphere",
       "keywordSlug": "calm-serene-mood"
+    },
+    {
+      "filename": "e-commerce-banner-layout.png",
+      "altText": "Modern e-commerce banner layout featuring balanced product placement with clean background and refined lighting",
+      "imageTitle": "E-Commerce Banner Layout Example",
+      "generationPrompt": "16:9 aspect ratio, modern e-commerce banner layout, clean editorial composition, premium stock-image polish, refined soft lighting, subtle depth, realistic product materials, balanced placement, neutral gradient background, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "e-commerce-banner-layout"
+    },
+    {
+      "filename": "stock-photo-editorial-use.png",
+      "altText": "Authentic editorial stock photo style professional collaboration in modern office environment",
+      "imageTitle": "Stock Photo Editorial Use - Authentic Professional Collaboration",
+      "generationPrompt": "16:9 ratio image of diverse professionals collaborating naturally in modern office, clean editorial composition, realistic materials, subtle lighting, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "stock-photo-editorial-use"
+    },
+    {
+      "filename": "reflected-light-technique.png",
+      "altText": "Soft lighting illustrating reflected light technique on portrait with subtle shadows and natural depth",
+      "imageTitle": "Reflected Light Technique in AI Image Lighting",
+      "generationPrompt": "16:9 portrait of a woman softly illuminated by reflected light in shaded areas, realistic skin texture, subtle warm tones, clean background, premium lighting, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "reflected-light-technique"
     }
   ]
 }

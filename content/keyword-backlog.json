@@ -1777,27 +1777,27 @@
     "keyword": "E-Commerce Banner Layout",
     "slug": "e-commerce-banner-layout",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-14T10:48:35.065Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Stock Photo Editorial Use",
     "slug": "stock-photo-editorial-use",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-14T10:49:09.504Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Reflected Light Technique",
     "slug": "reflected-light-technique",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-14T10:49:50.013Z",
     "source": "openai-discovery"
   },
   {
@@ -2643,6 +2643,312 @@
     "category": "Composition",
     "status": "pending",
     "createdAt": "2026-07-30T11:44:58.893Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Symmetrical Grid Composition",
+    "slug": "symmetrical-grid-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Monochromatic Color Scheme",
+    "slug": "monochromatic-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Branding Visual Assets",
+    "slug": "branding-visual-assets",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Side Lighting Drama",
+    "slug": "side-lighting-drama",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rule Of Thirds Layout",
+    "slug": "rule-of-thirds-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Polished Wood Texture",
+    "slug": "polished-wood-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "E-Commerce Product Layout",
+    "slug": "e-commerce-product-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Foggy Landscape Mood",
+    "slug": "foggy-landscape-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Diagonal Symmetry Composition",
+    "slug": "diagonal-symmetry-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vibrant Contrast Colors",
+    "slug": "vibrant-contrast-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Packaging Design Presentation",
+    "slug": "packaging-design-presentation",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Mixed Lighting Techniques",
+    "slug": "mixed-lighting-techniques",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rustic Cabin Atmosphere",
+    "slug": "rustic-cabin-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Centered Composition",
+    "slug": "minimalist-centered-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pastel Color Harmony",
+    "slug": "pastel-color-harmony",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Woven Textile Texture",
+    "slug": "woven-textile-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Social Media Visual Branding",
+    "slug": "social-media-visual-branding",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Ring Light Illumination",
+    "slug": "ring-light-illumination",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.961Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Balanced Frame Composition",
+    "slug": "balanced-frame-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Saturated Primary Palette",
+    "slug": "saturated-primary-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Concrete Floor Texture",
+    "slug": "concrete-floor-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Print Advertisement Layout",
+    "slug": "print-advertisement-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Backlight Glow Effect",
+    "slug": "backlight-glow-effect",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vibrant Jewel Tones",
+    "slug": "vibrant-jewel-tones",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Distressed Leather Material",
+    "slug": "distressed-leather-material",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Packaging Mockup Design",
+    "slug": "packaging-mockup-design",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Contrast Rim Lighting",
+    "slug": "high-contrast-rim-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Serene Lakeside Mood",
+    "slug": "serene-lakeside-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Balanced Triangular Composition",
+    "slug": "balanced-triangular-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Catalog Layout",
+    "slug": "product-catalog-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Stormy Weather Atmosphere",
+    "slug": "stormy-weather-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Textured Canvas Surface",
+    "slug": "textured-canvas-surface",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Autumn Forest Atmosphere",
+    "slug": "autumn-forest-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Brushed Steel Texture",
+    "slug": "brushed-steel-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-14T10:47:53.962Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }
