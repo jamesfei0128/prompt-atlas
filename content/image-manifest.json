@@ -2123,6 +2123,30 @@
       "generationPrompt": "16:9 portrait of a woman softly illuminated by reflected light in shaded areas, realistic skin texture, subtle warm tones, clean background, premium lighting, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "reflected-light-technique"
+    },
+    {
+      "filename": "subtle-rim-lighting.png",
+      "altText": "Portrait of a woman softly illuminated with subtle rim lighting highlighting her hair and shoulders against a neutral background",
+      "imageTitle": "Portrait with Subtle Rim Lighting",
+      "generationPrompt": "16:9 portrait of a woman with subtle rim lighting softly highlighting her hair and shoulders, studio background, natural and delicate edge glow, high-resolution, realistic materials, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "subtle-rim-lighting"
+    },
+    {
+      "filename": "directional-top-lighting.png",
+      "altText": "Portrait of a woman illuminated by directional top lighting showcasing strong highlights and shadows",
+      "imageTitle": "Directional Top Lighting Example Portrait",
+      "generationPrompt": "16:9 realistic portrait of a woman with directional top lighting from above, strong highlights on hair and shoulders, soft shadows under chin, studio background, premium stock-image quality, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "directional-top-lighting"
+    },
+    {
+      "filename": "symmetry-and-balance.png",
+      "altText": "AI-generated image demonstrating perfect symmetry and balanced composition in a modern architectural interior, with even lighting and clean lines",
+      "imageTitle": "Symmetry and Balance in AI-Generated Architecture",
+      "generationPrompt": "16:9 image of a modern architectural interior showcasing perfect symmetry and balanced composition, clean lines, premium lighting, realistic materials, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "symmetry-and-balance"
     }
   ]
 }

@@ -8001,5 +8001,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Subtle Rim Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Subtle Rim Lighting: Enhance AI Images with Delicate Highlights",
+    "metaDescription": "Discover how subtle rim lighting accentuates AI-generated images with delicate edges and realistic depth. Learn prompt formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/subtle-rim-lighting.png",
+      "alt": "Portrait of a woman softly illuminated with subtle rim lighting highlighting her hair and shoulders against a neutral background",
+      "title": "Portrait with Subtle Rim Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Subtle rim lighting is a refined lighting technique used in AI image generation to highlight the contours of subjects with gentle edge light. This approach adds dimension and a premium feel to images by emphasizing shape and form while maintaining a natural look. Unlike intense rim lighting that creates strong contrasts and sharp edges, subtle rim lighting is understated, providing an elegant halo that enhances realism. It is especially effective in editorial photography, portraiture, and product visuals where nuanced lighting conveys quality and sophistication. Incorporating subtle rim lighting in AI prompts instructs the model to balance illumination carefully, enhancing textures and materials without distracting from the primary composition.",
+    "bestUseCases": [
+      "Editorial portraits needing delicate subject separation",
+      "Product photography emphasizing texture and form",
+      "Cinematic scenes requiring naturalistic lighting accents"
+    ],
+    "relatedKeywords": [
+      "soft edge lighting",
+      "delicate backlight",
+      "gentle contour lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "subtle-rim-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Directional Top Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Directional Top Lighting in AI Art: Definition, Uses & Tips",
+    "metaDescription": "Explore Directional Top Lighting for AI image prompts. Learn its definition, visual traits, prompt formulas, best use cases, and creative workflow tips.",
+    "heroImage": {
+      "src": "/images/keywords/directional-top-lighting.png",
+      "alt": "Portrait of a woman illuminated by directional top lighting showcasing strong highlights and shadows",
+      "title": "Directional Top Lighting Example Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Directional Top Lighting is a technique widely used to simulate natural or artificial light coming directly from above a subject. In AI image generation, specifying this lighting style helps create images with realistic shading and depth, highlighting the textures and contours of objects or scenes from a top-down perspective. This lighting direction mimics sunlight at midday or overhead indoor fixtures, producing crisp shadows and well-defined highlights. It is especially effective for portraits, still life, architectural visuals, and product photography, enhancing the spatial perception and visual appeal of the subject within the composition.",
+    "bestUseCases": [
+      "Product photography mockups emphasizing texture and form",
+      "Portrait renders requiring natural, flattering lighting",
+      "Architectural visualizations showcasing structural details"
+    ],
+    "relatedKeywords": [
+      "Overhead Lighting",
+      "Soft Top Light",
+      "Natural Sunlight"
+    ],
+    "difficulty": "Beginner",
+    "slug": "directional-top-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Symmetry And Balance",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Symmetry and Balance: Mastering Composition in AI Art",
+    "metaDescription": "Explore how symmetry and balance enhance AI-generated images with clear definitions, visual traits, prompt formulas, and practical use cases for designers.",
+    "heroImage": {
+      "src": "/images/keywords/symmetry-and-balance.png",
+      "alt": "AI-generated image demonstrating perfect symmetry and balanced composition in a modern architectural interior, with even lighting and clean lines",
+      "title": "Symmetry and Balance in AI-Generated Architecture",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Symmetry and balance are foundational principles in visual arts and crucial for composing captivating AI-generated images. Using these keywords prompts AI models to structure scenes with mirrored or harmoniously weighted elements, creating aesthetically pleasing and organized visuals. Balanced compositions evoke feelings of stability and calm, while symmetry creates formal harmony admired in architecture, product photography, and portraiture. Incorporating these concepts refines the image's coherence and appeal, benefiting creatives who require polished, professional results. Whether applied to landscapes, objects, or abstract designs, symmetry, and balance guide the AI toward harmonious imagery that resonates with viewers on a subconscious level.",
+    "bestUseCases": [
+      "Architectural and interior design visualization emphasizing formal layouts",
+      "Product photography highlighting centered and balanced compositions",
+      "Editorial illustrations requiring visually harmonious and impactful graphics"
+    ],
+    "relatedKeywords": [
+      "Geometric Composition",
+      "Minimalist Design",
+      "Visual Harmony"
+    ],
+    "difficulty": "Beginner",
+    "slug": "symmetry-and-balance",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
