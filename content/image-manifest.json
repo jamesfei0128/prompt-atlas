@@ -2147,6 +2147,30 @@
       "generationPrompt": "16:9 image of a modern architectural interior showcasing perfect symmetry and balanced composition, clean lines, premium lighting, realistic materials, no text, no logos, no watermark",
       "category": "Composition",
       "keywordSlug": "symmetry-and-balance"
+    },
+    {
+      "filename": "monochrome-warm-palette.png",
+      "altText": "Cozy interior scene using a monochrome warm palette with oranges and reds",
+      "imageTitle": "Monochrome Warm Palette Cozy Interior",
+      "generationPrompt": "16:9 cozy living room interior, monochrome warm palette of deep reds, oranges, golden yellows, soft warm lighting, plush fabrics, realistic textures, editorial style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "monochrome-warm-palette"
+    },
+    {
+      "filename": "duotone-contrast-palette.png",
+      "altText": "Example portrait image using duotone contrast palette with blue and orange hues",
+      "imageTitle": "Portrait with Duotone Contrast Palette",
+      "generationPrompt": "16:9 ratio portrait of a young professional woman, duotone contrast palette in deep blue and warm orange, sharp details, subtle studio lighting, clean background, realistic skin textures, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "duotone-contrast-palette"
+    },
+    {
+      "filename": "natural-earthy-palette.png",
+      "altText": "Interior design scene with natural earthy palette colors and warm ambient lighting",
+      "imageTitle": "Natural Earthy Palette Interior Scene",
+      "generationPrompt": "16:9 interior living room scene with natural earthy palette colors, warm ambient light, wooden furniture, soft shadows, realistic materials, clean editorial composition, premium stock-image quality, subtle depth, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "natural-earthy-palette"
     }
   ]
 }

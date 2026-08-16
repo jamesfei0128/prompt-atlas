@@ -1831,27 +1831,27 @@
     "keyword": "Monochrome Warm Palette",
     "slug": "monochrome-warm-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-16T10:13:19.902Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Duotone Contrast Palette",
     "slug": "duotone-contrast-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-16T10:13:53.112Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Natural Earthy Palette",
     "slug": "natural-earthy-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-16T10:14:31.832Z",
     "source": "openai-discovery"
   },
   {

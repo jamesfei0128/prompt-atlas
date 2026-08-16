@@ -8091,5 +8091,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Monochrome Warm Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Monochrome Warm Palette: Enhance AI Images with Rich Warmth",
+    "metaDescription": "Explore the Monochrome Warm Palette keyword to create AI images with harmonious warm tones and rich textures. Learn prompt formulas, use cases, and advanced tips.",
+    "heroImage": {
+      "src": "/images/keywords/monochrome-warm-palette.png",
+      "alt": "Cozy interior scene using a monochrome warm palette with oranges and reds",
+      "title": "Monochrome Warm Palette Cozy Interior",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Applying a Monochrome Warm Palette in AI-generated images sets a unified, warm tone that evokes feelings of comfort, energy, and passion. This approach simplifies the color scheme by utilizing only warm colors that range from muted tans and terracottas to vibrant oranges and reds. It directs the AI image generation to avoid cool colors, keeping the visuals coherent and emotionally resonant. The result is a natural, aesthetically pleasing image with subtle depth, ideal for modern editorial designs or lifestyle photography that seeks to communicate warmth and intimacy without overwhelming complexity.",
+    "bestUseCases": [
+      "Lifestyle and portrait photography with warm ambient lighting",
+      "Editorial images evoking intimacy or nostalgic moods",
+      "Product photography focusing on cozy or autumnal themes"
+    ],
+    "relatedKeywords": [
+      "Monochrome Cool Palette",
+      "Warm Lighting",
+      "Golden Hour Effect"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "monochrome-warm-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Duotone Contrast Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Duotone Contrast Palette: Enhance AI Art with Bold Color Pairing",
+    "metaDescription": "Explore the Duotone Contrast Palette in AI image creation, its visual traits, prompt formulas, use cases, workflows, related styles, and expert tips for stunning results.",
+    "heroImage": {
+      "src": "/images/keywords/duotone-contrast-palette.png",
+      "alt": "Example portrait image using duotone contrast palette with blue and orange hues",
+      "title": "Portrait with Duotone Contrast Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Duotone Contrast Palette is a contemporary color technique often used in digital art, photography, and graphic design to create visually compelling images. By focusing on two contrasting colors, designers and AI image generators produce striking visuals that enhance mood and emphasize subject contours. This technique simplifies the color landscape, providing boldness and clarity, which is especially effective for editorial images, advertising, or brand messaging. Incorporating it as a prompt keyword guides AI models to generate images that leverage strong color contrasts, appealing to modern aesthetics with a clean, polished finish.",
+    "bestUseCases": [
+      "Creating bold promotional or advertising visuals that require strong color impact",
+      "Designing editorial images with a modern, minimalist color scheme",
+      "Producing social media graphics where clear subject focus and mood tone are needed"
+    ],
+    "relatedKeywords": [
+      "Duotone",
+      "Color Contrast",
+      "Minimalist Color Palette"
+    ],
+    "difficulty": "Beginner",
+    "slug": "duotone-contrast-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Natural Earthy Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Natural Earthy Palette: Warm Organic Colors for AI Images",
+    "metaDescription": "Explore the Natural Earthy Palette keyword for AI image prompts. Learn definition, prompt formulas, best use cases, creative variations, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/natural-earthy-palette.png",
+      "alt": "Interior design scene with natural earthy palette colors and warm ambient lighting",
+      "title": "Natural Earthy Palette Interior Scene",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Natural Earthy Palette keyword enriches AI-generated images by guiding color selection toward warm, organic tones rooted in nature. This palette includes shades seen in earth, rocks, foliage, and natural fibers, lending authenticity and a grounded feel. Ideal for scenes emphasizing calmness, rustic settings, or eco-friendly themes, it helps create visuals free from artificial harshness or bright synthetic colors. Using this palette infuses images with softness and understated elegance, matching trends favoring sustainability and natural beauty in design and advertising.",
+    "bestUseCases": [
+      "Lifestyle photography promoting organic or eco products",
+      "Interior design visuals with rustic, natural materials",
+      "Editorial illustrations centered on environmental or wellness themes"
+    ],
+    "relatedKeywords": [
+      "Warm Neutrals",
+      "Organic Texture",
+      "Rustic Atmosphere"
+    ],
+    "difficulty": "Beginner",
+    "slug": "natural-earthy-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
