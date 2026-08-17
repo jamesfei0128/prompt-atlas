@@ -1858,27 +1858,27 @@
     "keyword": "Smooth Marble Texture",
     "slug": "smooth-marble-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-17T10:21:47.342Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Distressed Paper Texture",
     "slug": "distressed-paper-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-17T10:22:33.457Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Hand Drawn Sketch Style",
     "slug": "hand-drawn-sketch-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-17T10:23:10.703Z",
     "source": "openai-discovery"
   },
   {

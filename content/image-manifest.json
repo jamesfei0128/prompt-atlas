@@ -2171,6 +2171,30 @@
       "generationPrompt": "16:9 interior living room scene with natural earthy palette colors, warm ambient light, wooden furniture, soft shadows, realistic materials, clean editorial composition, premium stock-image quality, subtle depth, no text, no logos, no watermark",
       "category": "Color",
       "keywordSlug": "natural-earthy-palette"
+    },
+    {
+      "filename": "smooth-marble-texture.png",
+      "altText": "Close-up of smooth marble texture with subtle natural veining on polished white stone surface",
+      "imageTitle": "Smooth Marble Texture - Polished Stone Surface with Veining",
+      "generationPrompt": "high-resolution close-up of smooth marble texture with subtle white and grey veining, polished glossy surface, soft natural lighting, minimal shadows, photo-realistic, no text, no logos, no watermark, 16:9 aspect ratio",
+      "category": "Texture & Material",
+      "keywordSlug": "smooth-marble-texture"
+    },
+    {
+      "filename": "distressed-paper-texture.png",
+      "altText": "Close-up of vintage distressed paper texture with creases and stains",
+      "imageTitle": "Vintage Distressed Paper Texture",
+      "generationPrompt": "16:9 close-up of distressed paper texture with wrinkles, torn edges, stains, warm faded tones, subtle shadows, realistic materials, studio lighting, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "distressed-paper-texture"
+    },
+    {
+      "filename": "hand-drawn-sketch-style.png",
+      "altText": "Hand drawn sketch style portrait of a young woman with visible pencil strokes and textured shading",
+      "imageTitle": "Hand Drawn Sketch Style AI Generated Portrait",
+      "generationPrompt": "16:9 portrait of a young woman, hand drawn sketch style, pencil shading with visible strokes and textured paper background, subtle cross-hatching, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "hand-drawn-sketch-style"
     }
   ]
 }

@@ -8181,5 +8181,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Smooth Marble Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Smooth Marble Texture: Premium AI Image Prompt Keyword",
+    "metaDescription": "Explore how to use the 'Smooth Marble Texture' keyword in AI prompts to create realistic, elegant materials for design and commercial use with expert tips.",
+    "heroImage": {
+      "src": "/images/keywords/smooth-marble-texture.png",
+      "alt": "Close-up of smooth marble texture with subtle natural veining on polished white stone surface",
+      "title": "Smooth Marble Texture - Polished Stone Surface with Veining",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Smooth Marble Texture' keyword is invaluable for users seeking to create images featuring high-quality polished marble surfaces. By incorporating this keyword, AI image generators focus on capturing the luxurious smoothness and subtle veining inherent to natural marble. This texture is often used in modern and classic designs to convey elegance and durability. Professionals in interior design, advertising, and visual content creation rely on realistic marble textures for backgrounds, product displays, and architectural visualizations. Proper prompt usage elevates image realism and enhances the material aesthetic, lending premium appeal and refined detail to digital compositions.",
+    "bestUseCases": [
+      "Luxury interior design visualizations and mood boards",
+      "Product photography backgrounds emphasizing elegance",
+      "Advertising campaigns needing premium material representation"
+    ],
+    "relatedKeywords": [
+      "Polished Stone Surface",
+      "Natural Marble Pattern",
+      "Luxury Texture Background"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "smooth-marble-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Distressed Paper Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Distressed Paper Texture: Essential Guide for AI Image Prompts",
+    "metaDescription": "Explore the distressed paper texture keyword for AI image generation. Learn definition, visual traits, prompt formulas, best use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/distressed-paper-texture.png",
+      "alt": "Close-up of vintage distressed paper texture with creases and stains",
+      "title": "Vintage Distressed Paper Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The distressed paper texture keyword is a valuable tool in AI image generation that adds authenticity and historical ambiance to digital artworks by simulating the look of aged or damaged paper. This effect is popular for creating backgrounds, overlays, or standalone textures in graphic design, photography adjustments, and illustrative projects. Incorporating distressed paper elements enriches visual storytelling, evokes nostalgia, and can enhance the mood of vintage or handmade aesthetics. Controlled application within prompts ensures that the wear appears natural without overpowering the primary subject.",
+    "bestUseCases": [
+      "Vintage poster and flyer designs requiring realistic aging",
+      "Art and scrapbooking backgrounds imitating handcrafted paper",
+      "Editorial layouts demanding authentic paper surfaces for storytelling"
+    ],
+    "relatedKeywords": [
+      "weathered paper texture",
+      "old parchment effect",
+      "rustic paper background"
+    ],
+    "difficulty": "Beginner",
+    "slug": "distressed-paper-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Hand Drawn Sketch Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Hand Drawn Sketch Style: Artistic AI Image Prompt Guide",
+    "metaDescription": "Explore the Hand Drawn Sketch Style in AI image prompts. Learn definition, prompt formulas, best uses, advanced techniques, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/hand-drawn-sketch-style.png",
+      "alt": "Hand drawn sketch style portrait of a young woman with visible pencil strokes and textured shading",
+      "title": "Hand Drawn Sketch Style AI Generated Portrait",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Hand Drawn Sketch Style is a favored artistic approach in AI image generation, evoking the charm and authenticity of manual sketches. This style highlights visible strokes and spontaneous line imperfections, creating images that feel intimate and creative rather than polished. It is ideal for conceptual art, storyboarding, character design, and illustrations where raw expressiveness and personality are prioritized. The style softens digital perfection by emulating paper texture and hand pressure variations, making images appear crafted by an artist’s hand. Artists, designers, and content creators use this style to produce unique visuals that stand out with a traditional artistic touch while leveraging AI speed and flexibility.",
+    "bestUseCases": [
+      "Concept art and early-stage design sketches to visualize ideas",
+      "Editorial illustrations in magazines or blogs requiring an artistic touch",
+      "Character design and storyboarding for animation or games with expressive line work"
+    ],
+    "relatedKeywords": [
+      "Pencil Sketch",
+      "Line Art",
+      "Charcoal Drawing"
+    ],
+    "difficulty": "Beginner",
+    "slug": "hand-drawn-sketch-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
