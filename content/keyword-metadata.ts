@@ -8271,5 +8271,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Vintage Linework Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Vintage Linework Style: Classic Illustration Art for AI Images",
+    "metaDescription": "Discover Vintage Linework Style in AI image prompts, its key traits, uses, and expert tips for creating classic illustrated visuals with elegant line art.",
+    "heroImage": {
+      "src": "/images/keywords/vintage-linework-style.png",
+      "alt": "Elegant vintage linework style botanical illustration with fine black ink lines on off-white background",
+      "title": "Vintage Linework Style Botanical Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Vintage Linework Style captures the essence of classical illustration art, featuring intricate line detail and minimal coloring to create a nostalgic, handcrafted feel. This style is ideal for conveying a sense of history, craftsmanship, and elegance by highlighting contour and texture through fine lines rather than color gradients or digital effects. Artists and designers use it to evoke authenticity and sophistication in editorial art, packaging, and storytelling imagery. In AI image generation, specifying this style helps produce artwork reminiscent of old woodcuts, engravings, and book illustrations with a modern clean finish.",
+    "bestUseCases": [
+      "Packaging design for artisanal or heritage brands",
+      "Editorial illustrations in magazines or books with a vintage theme",
+      "Brand logos and icons that require classic hand-crafted appeal"
+    ],
+    "relatedKeywords": [
+      "Pen and Ink Illustration",
+      "Etching Style",
+      "Classic Printmaking"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "vintage-linework-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Tranquil Misty Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Tranquil Misty Atmosphere: Create Soothing, Foggy Scenes",
+    "metaDescription": "Explore how to craft tranquil misty atmosphere scenes in AI art to evoke peaceful, soft-focus moods. Learn prompt formulas, tips, and creative uses.",
+    "heroImage": {
+      "src": "/images/keywords/tranquil-misty-atmosphere.png",
+      "alt": "Serene natural landscape with soft, tranquil mist enveloping trees and gently diffused light",
+      "title": "Tranquil Misty Atmosphere over a Peaceful Forest",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Tranquil misty atmosphere is a popular keyword for creating images that evoke calmness, mystery, and softness. It simulates the natural effect of moisture-laden air, which diffuses light and obscures fine details, creating a dreamy, ethereal quality. Artists and designers use this mood to depict serene landscapes, quiet mornings, or gentle scenes that invite contemplation. By integrating this atmosphere, AI-generated images gain depth and softness, fostering emotional responses of peace and reflection. It is particularly effective for nature, architectural, or fantasy art where mood plays a critical role.",
+    "bestUseCases": [
+      "Serene landscape photography simulations at dawn or dusk",
+      "Fantasy or mystical scenes needing ethereal, soft environments",
+      "Architectural exteriors shrouded in soft natural fog for mood enhancement"
+    ],
+    "relatedKeywords": [
+      "Serene Dawn Light",
+      "Soft Fog Veil",
+      "Ethereal Morning Glow"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "tranquil-misty-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Bright Cheerful Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Bright Cheerful Mood: Guide to Crafting Uplifting AI Images",
+    "metaDescription": "Explore how to create AI images with a bright cheerful mood using proven prompt formulas, best use cases, and advanced techniques for stunning results.",
+    "heroImage": {
+      "src": "/images/keywords/bright-cheerful-mood.png",
+      "alt": "Bright cheerful mood portrait of smiling woman under natural sunlight with warm vibrant colors",
+      "title": "Bright Cheerful Mood Portrait",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Bright Cheerful Mood transforms AI images to radiate happiness and energy, utilizing lighting, color, and composition to evoke uplifting emotions. This mood creates inviting scenes that appear warm and engaging, perfect for uplifting visual storytelling. Incorporating brightness and vivid hues enhances the overall sense of joy, making the image feel lively and optimistic. Whether used in portraits, lifestyle shots, or product presentations, this mood effectively boosts viewer connection, creating a positive first impression.",
+    "bestUseCases": [
+      "Lifestyle photography for social media campaigns promoting wellness and happiness",
+      "Ecommerce product displays emphasizing joyful user experiences",
+      "Editorial illustrations that require a warm and inviting atmosphere"
+    ],
+    "relatedKeywords": [
+      "vibrant lighting",
+      "warm atmosphere",
+      "positive emotions"
+    ],
+    "difficulty": "Beginner",
+    "slug": "bright-cheerful-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

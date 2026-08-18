@@ -2195,6 +2195,30 @@
       "generationPrompt": "16:9 portrait of a young woman, hand drawn sketch style, pencil shading with visible strokes and textured paper background, subtle cross-hatching, no text, no logos",
       "category": "Style",
       "keywordSlug": "hand-drawn-sketch-style"
+    },
+    {
+      "filename": "vintage-linework-style.png",
+      "altText": "Elegant vintage linework style botanical illustration with fine black ink lines on off-white background",
+      "imageTitle": "Vintage Linework Style Botanical Illustration",
+      "generationPrompt": "16:9 composition featuring an elegant vintage linework style botanical illustration with intricate black ink contour lines, delicate cross-hatching shading, and clean off-white background, realistic paper texture, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "vintage-linework-style"
+    },
+    {
+      "filename": "tranquil-misty-atmosphere.png",
+      "altText": "Serene natural landscape with soft, tranquil mist enveloping trees and gently diffused light",
+      "imageTitle": "Tranquil Misty Atmosphere over a Peaceful Forest",
+      "generationPrompt": "16:9 serene forest landscape covered in soft misty fog, tranquil misty atmosphere, diffused early morning light, muted green and blue tones, realistic natural materials, subtle depth, premium stock image style, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "tranquil-misty-atmosphere"
+    },
+    {
+      "filename": "bright-cheerful-mood.png",
+      "altText": "Bright cheerful mood portrait of smiling woman under natural sunlight with warm vibrant colors",
+      "imageTitle": "Bright Cheerful Mood Portrait",
+      "generationPrompt": "16:9 photo-realistic image of a cheerful young woman smiling in bright natural sunlight, vibrant warm colors, soft shadows, clean editorial composition, premium stock-image polish",
+      "category": "Atmosphere",
+      "keywordSlug": "bright-cheerful-mood"
     }
   ]
 }
