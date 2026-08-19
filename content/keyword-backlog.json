@@ -1912,27 +1912,27 @@
     "keyword": "Social Media Profile Photo",
     "slug": "social-media-profile-photo",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-19T10:18:45.982Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Print Editorial Layout",
     "slug": "print-editorial-layout",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-19T10:19:21.013Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "High Dynamic Range Lighting",
     "slug": "high-dynamic-range-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-19T10:19:55.597Z",
     "source": "openai-discovery"
   },
   {

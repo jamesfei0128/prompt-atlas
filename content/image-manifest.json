@@ -2219,6 +2219,30 @@
       "generationPrompt": "16:9 photo-realistic image of a cheerful young woman smiling in bright natural sunlight, vibrant warm colors, soft shadows, clean editorial composition, premium stock-image polish",
       "category": "Atmosphere",
       "keywordSlug": "bright-cheerful-mood"
+    },
+    {
+      "filename": "social-media-profile-photo.png",
+      "altText": "AI generated social media profile photo of a professional young woman with natural lighting and neutral background",
+      "imageTitle": "Social Media Profile Photo AI Generated",
+      "generationPrompt": "16:9 portrait of a confident young professional woman, natural makeup, neutral soft background, studio lighting, clean editorial style, realistic skin texture, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "social-media-profile-photo"
+    },
+    {
+      "filename": "print-editorial-layout.png",
+      "altText": "Modern clean print editorial layout with balanced composition and refined lighting",
+      "imageTitle": "Print Editorial Layout Sample Image",
+      "generationPrompt": "16:9 ratio, clean modern print editorial layout with grid composition, balanced whitespace, realistic paper texture, soft natural lighting, no text, no logos, no watermarks",
+      "category": "Commercial Use",
+      "keywordSlug": "print-editorial-layout"
+    },
+    {
+      "filename": "high-dynamic-range-lighting.png",
+      "altText": "Photo-realistic interior scene showcasing high dynamic range lighting with bright highlights and deep shadows",
+      "imageTitle": "Interior Scene with High Dynamic Range Lighting",
+      "generationPrompt": "16:9 photo-realistic modern living room interior with high dynamic range lighting, crisp shadows and vibrant highlights, detailed textures, realistic materials, clean and editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "high-dynamic-range-lighting"
     }
   ]
 }

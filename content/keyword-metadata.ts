@@ -8361,5 +8361,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Social Media Profile Photo",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Social Media Profile Photo: AI Image Prompt Guide",
+    "metaDescription": "Learn how to create polished AI-generated social media profile photos with expert prompt formulas, best use cases, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/social-media-profile-photo.png",
+      "alt": "AI generated social media profile photo of a professional young woman with natural lighting and neutral background",
+      "title": "Social Media Profile Photo AI Generated",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Social media profile photos are a critical component for personal and professional online presence. Using AI to generate these images demands precision to maintain realism, approachability, and relevance to social networking contexts. This keyword steers the AI to output clean, crisp portraits that users can utilize as profile pictures without additional editing. The focus on subtle depth, realistic materials like skin textures, and polished editorial style ensures the avatars look premium. Incorporating this into prompts helps produce images suited for commercial and personal use, reflecting identity with authenticity and clarity.",
+    "bestUseCases": [
+      "Creating professional LinkedIn profile pictures",
+      "Personal branding images for Instagram or Twitter",
+      "Stock avatar images for company team pages"
+    ],
+    "relatedKeywords": [
+      "Headshot Photography",
+      "Corporate Portrait",
+      "Online Avatar"
+    ],
+    "difficulty": "Beginner",
+    "slug": "social-media-profile-photo",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Print Editorial Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Print Editorial Layout: Premium AI Image Composition Guide",
+    "metaDescription": "Discover how to create clean, modern print editorial layouts with AI prompts. Learn key visuals, best use cases, creative variations, and commercial applications.",
+    "heroImage": {
+      "src": "/images/keywords/print-editorial-layout.png",
+      "alt": "Modern clean print editorial layout with balanced composition and refined lighting",
+      "title": "Print Editorial Layout Sample Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Print Editorial Layout prompts enable AI models to generate images that resemble high-end magazine or newspaper page compositions. These layouts emphasize clean, structured arrangements and polished visual polish, focusing on premium lighting and material realism without text or branding elements. Such prompts are ideal for article hero images or thumbnail cards needing a sophisticated editorial style. By specifying this keyword, creators ensure output with refined lighting, consistent spacing, and realistic depth, producing versatile images fit for commercial publishing and digital media.",
+    "bestUseCases": [
+      "Magazine and newspaper hero images",
+      "Online editorial article thumbnails",
+      "Commercial branding and corporate reports"
+    ],
+    "relatedKeywords": [
+      "Editorial Composition",
+      "Magazine Cover Style",
+      "Clean Layout Design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "print-editorial-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "High Dynamic Range Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "High Dynamic Range Lighting: Enhance AI Image Realism",
+    "metaDescription": "Discover how High Dynamic Range Lighting transforms AI image prompts by adding dynamic light contrast and detail, perfect for realistic and vibrant visuals.",
+    "heroImage": {
+      "src": "/images/keywords/high-dynamic-range-lighting.png",
+      "alt": "Photo-realistic interior scene showcasing high dynamic range lighting with bright highlights and deep shadows",
+      "title": "Interior Scene with High Dynamic Range Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "High Dynamic Range Lighting (HDR Lighting) elevates AI-generated images by mimicking the natural spectrum of light intensity present in real-world environments. This lighting style captures a broad range of brightness, preserving details in both shadows and highlights that might otherwise be lost. When integrated into AI prompts, HDR Lighting contributes to images that feel more immersive, dramatic, and visually striking. It is especially beneficial for scenes involving complex lighting situations like sunsets, indoor interiors with windows, or reflective surfaces. Artists and creators looking to create premium-quality renderings with photorealistic depth often rely on HDR Lighting to add a compelling sense of realism and sophistication to their work.",
+    "bestUseCases": [
+      "Architectural visualizations needing realistic interior and exterior lighting",
+      "Product showcases requiring vibrant, detailed presentations",
+      "Landscape and nature scenes with complex light interplay"
+    ],
+    "relatedKeywords": [
+      "Volumetric Lighting",
+      "Cinematic Lighting",
+      "Realistic Shadows"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "high-dynamic-range-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
