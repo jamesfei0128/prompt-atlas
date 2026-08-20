@@ -2243,6 +2243,30 @@
       "generationPrompt": "16:9 photo-realistic modern living room interior with high dynamic range lighting, crisp shadows and vibrant highlights, detailed textures, realistic materials, clean and editorial style, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "high-dynamic-range-lighting"
+    },
+    {
+      "filename": "diagonal-flow-composition.png",
+      "altText": "Editorial style image showing dynamic diagonal flow composition with sleek modern architecture and subtle depth",
+      "imageTitle": "Diagonal Flow Composition in Modern Architectural Photography",
+      "generationPrompt": "16:9 sleek modern skyscraper emphasizing strong diagonal flow composition, premium stock photo style, refined lighting and subtle depth, realistic materials, clean editorial look, no logos or text",
+      "category": "Composition",
+      "keywordSlug": "diagonal-flow-composition"
+    },
+    {
+      "filename": "textured-background-layer.png",
+      "altText": "Close-up digital artwork showing a textured background layer with intricate fabric weave behind a portrait",
+      "imageTitle": "Textured Background Layer in AI Image Composition",
+      "generationPrompt": "A premium editorial style portrait featuring a textured background layer resembling aged parchment paper with subtle folds and grain, soft natural lighting, realistic materials, clean composition, 16:9 aspect ratio, no text or logos",
+      "category": "Composition",
+      "keywordSlug": "textured-background-layer"
+    },
+    {
+      "filename": "saturated-color-splash.png",
+      "altText": "Vibrant digital artwork featuring saturated color splashes with bold vivid hues and dynamic paint splatters",
+      "imageTitle": "Saturated Color Splash AI Artwork",
+      "generationPrompt": "16:9 vibrant digital artwork showcasing intense saturated color splashes and dynamic paint splatter effects on a dark background with premium lighting, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "saturated-color-splash"
     }
   ]
 }

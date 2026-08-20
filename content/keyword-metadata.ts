@@ -8451,5 +8451,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Diagonal Flow Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Mastering Diagonal Flow Composition for Impactful AI Images",
+    "metaDescription": "Discover how Diagonal Flow Composition enhances AI images with dynamic angles, depth, and movement. Learn prompt formulas, use cases, and expert tips.",
+    "heroImage": {
+      "src": "/images/keywords/diagonal-flow-composition.png",
+      "alt": "Editorial style image showing dynamic diagonal flow composition with sleek modern architecture and subtle depth",
+      "title": "Diagonal Flow Composition in Modern Architectural Photography",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Diagonal Flow Composition elevates imagery by breaking away from static, horizontal, or vertical layouts. It leverages diagonal lines across the frame to create tension, balance, and dynamism, drawing the viewer's attention naturally through the scene. For AI-generated images, specifying diagonal flow helps emphasize visual pathways that suggest movement or lead the gaze, making compositions feel more alive and engaging. This technique is widely used in photography, graphic design, and cinematography to evoke energy and make visuals more striking.",
+    "bestUseCases": [
+      "Dynamic editorial photography for sports or fashion shoots",
+      "Marketing visuals enhancing product focus with movement",
+      "Environmental or landscape art emphasizing perspective and flow"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Leading Lines",
+      "Dynamic Symmetry"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "diagonal-flow-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Textured Background Layer",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Textured Background Layer: Enhance AI Image Depth and Realism",
+    "metaDescription": "Learn how to use textured background layers in AI image prompts to add depth, realism, and complexity to compositions. Ideal for diverse creative projects.",
+    "heroImage": {
+      "src": "/images/keywords/textured-background-layer.png",
+      "alt": "Close-up digital artwork showing a textured background layer with intricate fabric weave behind a portrait",
+      "title": "Textured Background Layer in AI Image Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "In AI image generation, the textured background layer keyword emphasizes adding complex surface details and subtle irregularities behind the main subject to increase visual depth and immersion. This technique moves away from flat or overly simplified backgrounds, creating environments that feel tactile and natural. Artists and designers use textured backgrounds to support composition storytelling, evoke atmosphere, and prevent images from appearing sterile or overly digital. With careful prompt construction, the textured background enhances realism while maintaining focus on primary elements.",
+    "bestUseCases": [
+      "Fine art digital compositions requiring subtle but rich background detail",
+      "Premium editorial photography and stock images needing depth without distraction",
+      "Product presentations or branding visuals where a tactile, realistic backdrop reinforces materiality"
+    ],
+    "relatedKeywords": [
+      "gritty surface texture",
+      "organic fabric textures",
+      "material detail background"
+    ],
+    "difficulty": "Beginner",
+    "slug": "textured-background-layer",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Saturated Color Splash",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Saturated Color Splash: Vibrant AI Image Prompt Guide",
+    "metaDescription": "Explore Saturated Color Splash keyword for AI image prompts to create vibrant, eye-catching visuals with intense colors and dynamic splashes. Perfect for creative projects.",
+    "heroImage": {
+      "src": "/images/keywords/saturated-color-splash.png",
+      "alt": "Vibrant digital artwork featuring saturated color splashes with bold vivid hues and dynamic paint splatters",
+      "title": "Saturated Color Splash AI Artwork",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Saturated Color Splash keyword is a powerful prompt modifier used in AI-driven creative workflows to generate images bursting with vibrant, intense colors and striking splash effects. It commands the AI to amplify the chroma and saturation of the color palette, producing visuals that are lively and compelling. These images typically showcase paint splashes or liquid color bursts that evoke motion and energy, making them ideal for dynamic compositions. Using this keyword enriches the visual storytelling, drawing viewers’ attention through high-impact color contrasts and expressive strokes. This effect suits various digital art applications, advertising visuals, and editorial imagery where boldness and vibrancy are desired.",
+    "bestUseCases": [
+      "Creating dynamic marketing banners with high visual impact",
+      "Designing editorial covers requiring energetic and bold color usage",
+      "Producing digital art assets for vibrant social media posts and content"
+    ],
+    "relatedKeywords": [
+      "Vibrant Colors",
+      "Color Splash",
+      "Paint Splatter"
+    ],
+    "difficulty": "Beginner",
+    "slug": "saturated-color-splash",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
