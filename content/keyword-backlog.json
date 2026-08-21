@@ -1966,27 +1966,27 @@
     "keyword": "Plasticized Surface Texture",
     "slug": "plasticized-surface-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-06T13:37:18.108Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-21T10:19:48.941Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Softbox Lighting Setup",
     "slug": "softbox-lighting-setup",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-18T10:55:14.911Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-21T10:20:21.009Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Golden Hour Color Grading",
     "slug": "golden-hour-color-grading",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-18T10:55:14.911Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-21T10:21:00.885Z",
     "source": "openai-discovery"
   },
   {

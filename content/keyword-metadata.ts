@@ -8541,5 +8541,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Plasticized Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Plasticized Surface Texture: Glossy, Smooth, and Reflective Finish",
+    "metaDescription": "Explore the Plasticized Surface Texture keyword for AI image prompts, detailing definition, visual traits, prompt formulas, use cases, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/plasticized-surface-texture.png",
+      "alt": "Close-up of a modern object with smooth plasticized surface texture reflecting light",
+      "title": "Modern Object with Plasticized Surface Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Plasticized Surface Texture emphasizes a sleek, shiny appearance with a polished, flexible quality resembling plastic materials. When used in AI image generation, it transforms surfaces into smooth, glossy finishes characterized by bright highlights and subtle reflections. This texture does not show roughness or matte properties but instead creates a distinctive synthetic look often associated with consumer products, packaging, or modern design elements. It helps convey contemporary, clean aesthetics and can enhance visual emphasis on material quality in digital rendering or conceptual imagery.",
+    "bestUseCases": [
+      "Packaging design mockups showcasing plastic components",
+      "Product renders needing realistic glossy materials",
+      "Concept art featuring synthetic or futuristic surfaces"
+    ],
+    "relatedKeywords": [
+      "Glossy Surface",
+      "Smooth Plastic Material",
+      "Reflective Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "plasticized-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Softbox Lighting Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Softbox Lighting Setup: Essential Guide for Perfect Lighting",
+    "metaDescription": "Discover Softbox Lighting Setup for AI image prompts. Learn its definition, visual traits, prompt formulas, use cases, and industry applications now.",
+    "heroImage": {
+      "src": "/images/keywords/softbox-lighting-setup.png",
+      "alt": "Professional portrait using softbox lighting setup with soft shadows and even illumination",
+      "title": "Softbox Lighting Setup on Portrait Subject",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Softbox Lighting Setup is a foundational lighting technique often used in photography and cinematography to produce a flattering, diffused light source. It uses a softbox—a box-like light modifier with a diffusing material—to spread light evenly and soften shadows. When incorporated in AI image prompts, this keyword helps produce images with balanced, natural-looking lighting that enhances texture and detail. This setup is crucial for portraits, product photography, and scenes requiring controlled illumination. Using this keyword improves realism and mood by avoiding harsh contrasts and emphasizing smooth tonal transitions in images.",
+    "bestUseCases": [
+      "Portrait photography with flattering light",
+      "Product shots requiring minimal shadows",
+      "Indoor scenes needing natural and soft illumination"
+    ],
+    "relatedKeywords": [
+      "Studio Lighting",
+      "Diffuse Light",
+      "Portrait Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "softbox-lighting-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Golden Hour Color Grading",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Golden Hour Color Grading: Enhance AI Image Warmth & Depth",
+    "metaDescription": "Master golden hour color grading in AI prompts to add warm, soft, cinematic light and rich amber hues for stunning, atmospheric images with natural depth.",
+    "heroImage": {
+      "src": "/images/keywords/golden-hour-color-grading.png",
+      "alt": "Portrait of woman with golden hour color grading, warm amber light and soft glowing shadows",
+      "title": "Golden Hour Color Grading Portrait",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Golden Hour Color Grading is a popular technique used in AI-generated imagery to evoke the warmth and nuanced lighting of early morning or late afternoon sun. By incorporating this keyword, artists and designers can infuse a sense of natural beauty, highlight textures subtly, and create emotionally engaging visuals. This color grading enriches photographic or pictorial prompts by adding depth through soft shadows and warm highlights, transforming otherwise flat images into luminous and aesthetically pleasing works that capture a fleeting moment of natural light and atmosphere.",
+    "bestUseCases": [
+      "Portrait photography and character renders emphasizing warm, flattering skin tones",
+      "Landscape images that depict dawn or dusk scenes with natural warm lighting",
+      "Product and still life photography where soft golden tones highlight textures and details"
+    ],
+    "relatedKeywords": [
+      "warm lighting",
+      "cinematic lighting",
+      "sunset glow"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "golden-hour-color-grading",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

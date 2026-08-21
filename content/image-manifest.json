@@ -2267,6 +2267,30 @@
       "generationPrompt": "16:9 vibrant digital artwork showcasing intense saturated color splashes and dynamic paint splatter effects on a dark background with premium lighting, no text, no logos",
       "category": "Color",
       "keywordSlug": "saturated-color-splash"
+    },
+    {
+      "filename": "plasticized-surface-texture.png",
+      "altText": "Close-up of a modern object with smooth plasticized surface texture reflecting light",
+      "imageTitle": "Modern Object with Plasticized Surface Texture",
+      "generationPrompt": "16:9 close-up of a sleek modern gadget featuring a smooth plasticized surface texture with high gloss and reflective highlights, soft diffused lighting, clean background, realistic materials, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "plasticized-surface-texture"
+    },
+    {
+      "filename": "softbox-lighting-setup.png",
+      "altText": "Professional portrait using softbox lighting setup with soft shadows and even illumination",
+      "imageTitle": "Softbox Lighting Setup on Portrait Subject",
+      "generationPrompt": "16:9 professional portrait of a young woman illuminated by softbox lighting setup, soft diffuse light, smooth shadows, high detail, clean background, realistic skin tones, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "softbox-lighting-setup"
+    },
+    {
+      "filename": "golden-hour-color-grading.png",
+      "altText": "Portrait of woman with golden hour color grading, warm amber light and soft glowing shadows",
+      "imageTitle": "Golden Hour Color Grading Portrait",
+      "generationPrompt": "16:9 portrait of a woman bathed in warm golden hour light, soft glowing shadows, cinematic atmosphere, rich amber tones, ultra-realistic materials, clean background, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "golden-hour-color-grading"
     }
   ]
 }
