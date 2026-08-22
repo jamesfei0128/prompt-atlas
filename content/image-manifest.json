@@ -2291,6 +2291,30 @@
       "generationPrompt": "16:9 portrait of a woman bathed in warm golden hour light, soft glowing shadows, cinematic atmosphere, rich amber tones, ultra-realistic materials, clean background, no text, no logos",
       "category": "Color",
       "keywordSlug": "golden-hour-color-grading"
+    },
+    {
+      "filename": "reflective-surface-texture.png",
+      "altText": "Close-up of a reflective surface texture on a polished chrome object with realistic highlights",
+      "imageTitle": "Reflective Surface Texture on Polished Chrome Object",
+      "generationPrompt": "16:9 ultra-realistic close-up of a polished chrome sports car featuring detailed reflective surface texture under soft studio lighting, high gloss finish, depth of field, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "reflective-surface-texture"
+    },
+    {
+      "filename": "mood-board-creation-tips.png",
+      "altText": "AI-generated mood board collage with harmonious colors and textures",
+      "imageTitle": "Mood Board Creation AI Image Example",
+      "generationPrompt": "16:9 image of a modern mood board collage showcasing harmonious pastel colors, soft natural lighting, textured fabrics, minimalist composition, clean editorial style, premium stock-image quality, subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "mood-board-creation-tips"
+    },
+    {
+      "filename": "symmetrical-balance-composition.png",
+      "altText": "Elegant symmetrical balance composition featuring a modern architectural facade with mirrored elements under soft natural lighting",
+      "imageTitle": "Symmetrical Balance Composition in Modern Architecture",
+      "generationPrompt": "16:9 image of a modern building facade with perfect symmetrical balance composition, soft natural lighting, clean editorial style, refined realistic materials, subtle depth, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "symmetrical-balance-composition"
     }
   ]
 }

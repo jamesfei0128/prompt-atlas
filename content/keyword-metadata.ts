@@ -8631,5 +8631,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Reflective Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Reflective Surface Texture: Enhance Realism in AI Images",
+    "metaDescription": "Explore reflective surface texture in AI prompts to create realistic, polished images with convincing light reflections and material depth.",
+    "heroImage": {
+      "src": "/images/keywords/reflective-surface-texture.png",
+      "alt": "Close-up of a reflective surface texture on a polished chrome object with realistic highlights",
+      "title": "Reflective Surface Texture on Polished Chrome Object",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Reflective surface texture is a crucial attribute in AI image generation for achieving realism and material accuracy. When prompts specify reflective qualities, AI models simulate how light interacts with surfaces, producing highlights, gleams, and subtle mirror-like effects. This texture can depict materials such as chrome, glass, water, or polished ceramics, each bringing unique reflective nuances. Using reflective surface texture enhances visual appeal by adding depth and sophistication to compositions, making objects stand out with premium polish. It suits a variety of styles from photorealistic renders to creative abstractions, bridging artistic and commercial needs for lifelike imagery.",
+    "bestUseCases": [
+      "Product visualization for shiny consumer goods like electronics and jewelry",
+      "Architectural renders featuring glass façades and polished floors",
+      "Creative portraits or still-lifes with reflective props and surfaces"
+    ],
+    "relatedKeywords": [
+      "Glossy Finish",
+      "Metallic Texture",
+      "Specular Highlights"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "reflective-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Mood Board Creation Tips",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Mood Board Creation Tips for Stunning AI Image Prompts",
+    "metaDescription": "Discover expert mood board creation tips to enhance AI image prompts with cohesive themes, visual harmony, and creative inspiration for commercial projects.",
+    "heroImage": {
+      "src": "/images/keywords/mood-board-creation-tips.png",
+      "alt": "AI-generated mood board collage with harmonious colors and textures",
+      "title": "Mood Board Creation AI Image Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Mood board creation is a fundamental practice in design and visual storytelling, used to convey ideas and inspire creativity through a collected set of reference visuals and styles. When applied to AI image prompting, mood board techniques help generate images that share a stylistic harmony and conceptual direction, making visuals more compelling and relevant for commercial use. By carefully selecting descriptive elements and visual cues in prompts, users can guide AI models to produce images that align with specific moods, brand identities, or artistic concepts. This not only elevates the quality of outputs but also streamlines the creative workflow by providing a clear visual reference framework.",
+    "bestUseCases": [
+      "Creating brand visual concepts for marketing campaigns",
+      "Designing cohesive inspiration boards for interior or fashion projects",
+      "Developing mood-reflective imagery for editorial and advertising content"
+    ],
+    "relatedKeywords": [
+      "Color Palette Harmony",
+      "Visual Storytelling",
+      "Thematic Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "mood-board-creation-tips",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Symmetrical Balance Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Symmetrical Balance Composition: Mastering Perfect Visual Harmony",
+    "metaDescription": "Discover how symmetrical balance composition creates visually pleasing AI images with harmony and structure. Learn tips, use cases, and prompt formulas.",
+    "heroImage": {
+      "src": "/images/keywords/symmetrical-balance-composition.png",
+      "alt": "Elegant symmetrical balance composition featuring a modern architectural facade with mirrored elements under soft natural lighting",
+      "title": "Symmetrical Balance Composition in Modern Architecture",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Symmetrical balance composition is a fundamental principle that ensures an image's elements are arranged so both sides mirror each other, giving the viewer a sense of harmony and equilibrium. This approach can be particularly powerful in AI image generation for crafting outstanding visuals that feel orderly and intentional. By specifying symmetrical balance in prompts, creators can achieve polished layouts that emphasize clarity and calmness, often suitable for editorial, commercial, and artistic needs. The balanced nature brings focus and often highlights a central subject elegantly, making images instantly engaging and aesthetically pleasing.",
+    "bestUseCases": [
+      "Formal portrait photography with centered subjects",
+      "Architectural photography emphasizing facade symmetry",
+      "Graphic design layouts for corporate branding or editorial covers"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Asymmetrical Balance",
+      "Golden Ratio Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "symmetrical-balance-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
