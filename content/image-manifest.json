@@ -2315,6 +2315,30 @@
       "generationPrompt": "16:9 image of a modern building facade with perfect symmetrical balance composition, soft natural lighting, clean editorial style, refined realistic materials, subtle depth, no text, no logos",
       "category": "Composition",
       "keywordSlug": "symmetrical-balance-composition"
+    },
+    {
+      "filename": "grainy-film-overlay-texture.png",
+      "altText": "AI-generated portrait with subtle grainy film overlay texture creating a vintage cinematic look",
+      "imageTitle": "Grainy Film Overlay Texture Example",
+      "generationPrompt": "16:9 cinematic vintage portrait with grainy film overlay texture, soft moody lighting, analog film style, muted colors, clean editorial composition, realistic materials, premium stock-photo quality, no text, no logos, no watermark",
+      "category": "Texture & Material",
+      "keywordSlug": "grainy-film-overlay-texture"
+    },
+    {
+      "filename": "brand-identity-visuals.png",
+      "altText": "Modern brand identity visual with minimalist logo, clean typography, and balanced color palette",
+      "imageTitle": "Brand Identity Visual Example",
+      "generationPrompt": "16:9, clean editorial composition of a modern brand identity visual featuring minimalist logo design, balanced navy blue and gold color palette, refined lighting, realistic paper textures, subtle depth of field, premium stock-image quality, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "brand-identity-visuals"
+    },
+    {
+      "filename": "muted-pastel-color-scheme.png",
+      "altText": "Modern editorial composition featuring soft muted pastel colors with refined lighting and subtle depth",
+      "imageTitle": "Muted Pastel Color Scheme Editorial Image",
+      "generationPrompt": "a premium editorial interior scene showcasing a muted pastel color scheme with soft natural lighting, subtle depth, realistic materials, clean composition, no text, no logos, 16:9 aspect ratio",
+      "category": "Color",
+      "keywordSlug": "muted-pastel-color-scheme"
     }
   ]
 }

@@ -8721,5 +8721,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Grainy Film Overlay Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Grainy Film Overlay Texture: Enhance AI Images with Vintage Style",
+    "metaDescription": "Discover how the Grainy Film Overlay Texture adds nostalgic grain effects to AI images. Learn prompt formulas, best use cases, and industry applications for cinematic visuals.",
+    "heroImage": {
+      "src": "/images/keywords/grainy-film-overlay-texture.png",
+      "alt": "AI-generated portrait with subtle grainy film overlay texture creating a vintage cinematic look",
+      "title": "Grainy Film Overlay Texture Example",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Grainy Film Overlay Texture brings the authentic look of analog photography to AI-generated images. This texture injects tiny speckles and visual noise that replicate the characteristics of traditional film, offering a tactile and imperfect surface effect. It works by layering a grain pattern over the image, enhancing texture without overpowering details. The result is an artistic and cinematic atmosphere that evokes nostalgia and moodiness. This effect is widely appreciated in creative fields where polished digital clarity is deliberately softened to create ambiance and emotional depth. Using this texture helps bridge the gap between digital art and classic photography aesthetics.",
+    "bestUseCases": [
+      "Creating vintage-style portraits with nostalgic mood",
+      "Designing cinematic scenes reminiscent of classic movies",
+      "Enhancing textured backgrounds for retro-themed graphic design"
+    ],
+    "relatedKeywords": [
+      "Vintage Film Grain",
+      "Analog Texture Overlay",
+      "Cinematic Grain Effect"
+    ],
+    "difficulty": "Beginner",
+    "slug": "grainy-film-overlay-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Brand Identity Visuals",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Brand Identity Visuals: Creating Distinctive Visual Brand Elements",
+    "metaDescription": "Explore how to craft brand identity visuals with AI prompts that deliver clean, modern, and commercial-quality images for marketing and design use.",
+    "heroImage": {
+      "src": "/images/keywords/brand-identity-visuals.png",
+      "alt": "Modern brand identity visual with minimalist logo, clean typography, and balanced color palette",
+      "title": "Brand Identity Visual Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Brand identity visuals play a crucial role in shaping how a brand is perceived by its audience. They encompass the distinct visual language a brand uses to stand out, including logos, color schemes, patterns, and typographic styles. When applied to AI image generation, the 'Brand Identity Visuals' keyword directs the creation of polished, professional images that emphasize clarity, style consistency, and commercial appeal. This is invaluable for designers and marketers who want to rapidly prototype branding concepts or enrich presentations with high-quality visual references.",
+    "bestUseCases": [
+      "Designing logo concepts and brand marks",
+      "Developing marketing materials with consistent visual themes",
+      "Creating mood boards or presentations for brand strategy proposals"
+    ],
+    "relatedKeywords": [
+      "Logo Design",
+      "Corporate Color Palette",
+      "Typography Styles"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "brand-identity-visuals",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Muted Pastel Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Muted Pastel Color Scheme: Soft, Subtle Palette for AI Images",
+    "metaDescription": "Explore the muted pastel color scheme to create soft, elegant AI-generated images. Learn prompt formulas, use cases, and advanced tips for refined visuals.",
+    "heroImage": {
+      "src": "/images/keywords/muted-pastel-color-scheme.png",
+      "alt": "Modern editorial composition featuring soft muted pastel colors with refined lighting and subtle depth",
+      "title": "Muted Pastel Color Scheme Editorial Image",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The muted pastel color scheme is popular in digital art and design for its delicate, understated quality. Unlike vibrant pastels, muted pastels involve desaturation and slight grey undertones, delivering a refined and peaceful visual experience. When included in AI image prompts, it guides models to focus on gentle colors that evoke softness and subtlety, making the images feel airy and inviting rather than vivid or loud. This approach works well for lifestyle, fashion, illustration, and branding content that aims to be modern, approachable, and aesthetically pleasing while maintaining elegance.",
+    "bestUseCases": [
+      "Branding and packaging designs for wellness and beauty products",
+      "Soft lifestyle and fashion photography with gentle tones",
+      "Illustrations for children’s books or editorial content requiring calm moods"
+    ],
+    "relatedKeywords": [
+      "Soft Lighting",
+      "Desaturated Palette",
+      "Subtle Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "muted-pastel-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
