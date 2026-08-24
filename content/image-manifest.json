@@ -2339,6 +2339,30 @@
       "generationPrompt": "a premium editorial interior scene showcasing a muted pastel color scheme with soft natural lighting, subtle depth, realistic materials, clean composition, no text, no logos, 16:9 aspect ratio",
       "category": "Color",
       "keywordSlug": "muted-pastel-color-scheme"
+    },
+    {
+      "filename": "negative-space-layout.png",
+      "altText": "Elegant editorial style photograph demonstrating negative space layout with balanced empty areas around a central object",
+      "imageTitle": "Negative Space Layout Editorial Composition",
+      "generationPrompt": "16:9 clean editorial composition featuring a central object with large negative space layout, premium stock photo polish, refined lighting, subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "negative-space-layout"
+    },
+    {
+      "filename": "product-photography-guidelines.png",
+      "altText": "Professional product photography setup showing clean lighting, neutral background, and sharp focus on the product",
+      "imageTitle": "Product Photography Guidelines AI Image Example",
+      "generationPrompt": "16:9 photo of a premium wristwatch on a clean white background, softbox lighting, sharp focus, realistic materials, subtle shadows, studio environment, professional product photography style, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "product-photography-guidelines"
+    },
+    {
+      "filename": "high-contrast-lighting-setup.png",
+      "altText": "Portrait of a woman illuminated by high contrast lighting with sharp shadows and bright highlights",
+      "imageTitle": "High Contrast Lighting Setup Example",
+      "generationPrompt": "16:9 close-up portrait of a woman, high contrast lighting setup, sharp directional light from the side, dramatic shadow play, premium editorial composition, realistic skin texture, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "high-contrast-lighting-setup"
     }
   ]
 }

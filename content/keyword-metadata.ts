@@ -8811,5 +8811,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Negative Space Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Negative Space Layout: Boost Composition with Balanced Emptiness",
+    "metaDescription": "Discover how negative space layout enhances image composition by balancing elements and emptiness for premium AI-generated visuals.",
+    "heroImage": {
+      "src": "/images/keywords/negative-space-layout.png",
+      "alt": "Elegant editorial style photograph demonstrating negative space layout with balanced empty areas around a central object",
+      "title": "Negative Space Layout Editorial Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Negative space layout is a vital compositional technique that leverages empty spaces within an image to create visual balance, harmony, and focus. By strategically using negative space, artists and designers can guide the viewer's eye toward the main subject while ensuring the overall design feels uncluttered and elegant. In AI image generation, specifying negative space layout helps produce images with refined balance, preventing overcrowding of elements and enhancing the premium, editorial look. This technique is essential in minimalist art, branding, editorial photography, and modern design where clarity and subtlety are valued.",
+    "bestUseCases": [
+      "Minimalist editorial layouts for magazines and blogs",
+      "Product photography emphasizing the item with ample background",
+      "Branding visuals requiring clear, uncluttered space for logo or text placement"
+    ],
+    "relatedKeywords": [
+      "Minimalist Composition",
+      "Clean Layout",
+      "Editorial Photography"
+    ],
+    "difficulty": "Beginner",
+    "slug": "negative-space-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Product Photography Guidelines",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Product Photography Guidelines for Stunning AI Images",
+    "metaDescription": "Learn essential product photography guidelines for AI image prompts to create clean, commercial-quality photos with refined lighting and realistic materials.",
+    "heroImage": {
+      "src": "/images/keywords/product-photography-guidelines.png",
+      "alt": "Professional product photography setup showing clean lighting, neutral background, and sharp focus on the product",
+      "title": "Product Photography Guidelines AI Image Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Product Photography Guidelines serve as a foundational element when crafting AI prompts for commercial product images. They guide the AI to replicate classic photographic techniques—such as clean compositions, premium lighting setups, and subtle depth of field—to emphasize the product as the main subject. These guidelines help avoid clutter and ensure materials look realistic, which is crucial for marketing, ecommerce, and editorial photography. Applying these principles in prompts results in images that look polished and professional, suitable for high-end stock image platforms and advertising campaigns.",
+    "bestUseCases": [
+      "Ecommerce product listings requiring clean and detailed visuals",
+      "Advertising campaigns needing polished, high-resolution product shots",
+      "Editorial content showcasing products with premium photography aesthetics"
+    ],
+    "relatedKeywords": [
+      "Clean Product Photography",
+      "Commercial Product Shots",
+      "Studio Lighting Techniques"
+    ],
+    "difficulty": "Beginner",
+    "slug": "product-photography-guidelines",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "High Contrast Lighting Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "High Contrast Lighting Setup: Enhance Your AI Image Prompts",
+    "metaDescription": "Learn how to use high contrast lighting setups in AI image prompts to create dramatic and vivid images with sharp shadows and highlights. Perfect for editorial and commercial uses.",
+    "heroImage": {
+      "src": "/images/keywords/high-contrast-lighting-setup.png",
+      "alt": "Portrait of a woman illuminated by high contrast lighting with sharp shadows and bright highlights",
+      "title": "High Contrast Lighting Setup Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "High contrast lighting setups are widely used in photography and cinematic visuals to produce bold, dynamic images that captivate viewers. Incorporating 'high contrast lighting setup' in an AI image prompt instructs the AI to emphasize striking light sources and deep shadows, adding visual tension and clarity to the scene. This lighting approach reveals textures more vividly and helps create a mood that can range from mysterious to intense. For AI-generated images intended for editorial, commercial, or fine art applications, applying this keyword ensures that the resulting visuals have professional-quality lighting that enhances subject definition and atmosphere.",
+    "bestUseCases": [
+      "Editorial portraits needing dramatic depth and emotion",
+      "Product photography emphasizing texture and shape",
+      "Cinematic scenes requiring visual tension through lighting"
+    ],
+    "relatedKeywords": [
+      "Dramatic Lighting",
+      " chiaroscuro effect",
+      "Directional Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "high-contrast-lighting-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
