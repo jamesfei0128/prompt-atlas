@@ -2363,6 +2363,30 @@
       "generationPrompt": "16:9 close-up portrait of a woman, high contrast lighting setup, sharp directional light from the side, dramatic shadow play, premium editorial composition, realistic skin texture, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "high-contrast-lighting-setup"
+    },
+    {
+      "filename": "vibrant-accent-color-palette.png",
+      "altText": "Modern interior scene highlighting vibrant teal and orange accent colors with refined lighting",
+      "imageTitle": "Vibrant Accent Color Palette in Modern Design",
+      "generationPrompt": "16:9 image of a modern interior living room featuring a vibrant accent color palette with bright teal cushions and orange decorative objects, clean editorial composition, refined lighting, realistic materials, subtle depth, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "vibrant-accent-color-palette"
+    },
+    {
+      "filename": "wood-grain-surface-texture.png",
+      "altText": "Close-up detailed wood grain surface texture showcasing natural linear patterns and color variations",
+      "imageTitle": "Wood Grain Surface Texture Close-Up",
+      "generationPrompt": "16:9 close-up shot of wooden surface with visible detailed wood grain texture, natural warm lighting highlighting fibrous patterns, realistic material rendering, premium stock photo aesthetic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "wood-grain-surface-texture"
+    },
+    {
+      "filename": "social-media-visual-strategy.png",
+      "altText": "Optimized social media visual strategy image showing a modern digital marketing setup",
+      "imageTitle": "Social Media Visual Strategy AI Image Example",
+      "generationPrompt": "16:9 realistic modern office scene with digital devices displaying social media content, clean composition, bright natural lighting, subtle depth, premium stock photography style, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "social-media-visual-strategy"
     }
   ]
 }

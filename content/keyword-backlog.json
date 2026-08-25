@@ -2074,27 +2074,27 @@
     "keyword": "Vibrant Accent Color Palette",
     "slug": "vibrant-accent-color-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-18T10:55:14.912Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-25T10:22:00.146Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Wood Grain Surface Texture",
     "slug": "wood-grain-surface-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-18T10:55:14.912Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-25T10:22:36.246Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Social Media Visual Strategy",
     "slug": "social-media-visual-strategy",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-18T10:55:14.912Z",
-    "publishedAt": null,
+    "publishedAt": "2026-08-25T10:23:39.382Z",
     "source": "openai-discovery"
   },
   {
@@ -2949,6 +2949,366 @@
     "category": "Texture & Material",
     "status": "pending",
     "createdAt": "2026-08-14T10:47:53.962Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Volumetric Light Effects",
+    "slug": "volumetric-light-effects",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.420Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Golden Hour Light",
+    "slug": "natural-golden-hour-light",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.420Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Moody Film Noir Lighting",
+    "slug": "moody-film-noir-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Overhead Diffused Lighting",
+    "slug": "overhead-diffused-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "HDR Lighting Techniques",
+    "slug": "hdr-lighting-techniques",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Color Temperature Matching",
+    "slug": "color-temperature-matching",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Dynamic Range Lighting",
+    "slug": "dynamic-range-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Serene Water Surface Reflection",
+    "slug": "serene-water-surface-reflection",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Snowy Winter Atmosphere",
+    "slug": "snowy-winter-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rustic Warm Cabin Atmosphere",
+    "slug": "rustic-warm-cabin-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Muted Foggy Morning Mood",
+    "slug": "muted-foggy-morning-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Tense Stormy Sky Atmosphere",
+    "slug": "tense-stormy-sky-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Dreamlike Soft Focus Atmosphere",
+    "slug": "dreamlike-soft-focus-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Peaceful Sunset Backdrop",
+    "slug": "peaceful-sunset-backdrop",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Lush Tropical Forest Atmosphere",
+    "slug": "lush-tropical-forest-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Balanced Radial Composition",
+    "slug": "balanced-radial-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Layered Foreground Background",
+    "slug": "layered-foreground-background",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Negative Space Use",
+    "slug": "minimalist-negative-space-use",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Diagonal Symmetry Layout",
+    "slug": "diagonal-symmetry-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Framing With Natural Elements",
+    "slug": "framing-with-natural-elements",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Ratio Framing",
+    "slug": "golden-ratio-framing",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Hierarchy In Visual Composition",
+    "slug": "hierarchy-in-visual-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Muted Pastel Color Palette",
+    "slug": "muted-pastel-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Bold Contrasting Color Scheme",
+    "slug": "bold-contrasting-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Complementary Color Pairing",
+    "slug": "complementary-color-pairing",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Warm Earth Tone Palette",
+    "slug": "warm-earth-tone-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Skin Tone Rendering",
+    "slug": "natural-skin-tone-rendering",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Subtle Gradient Color Blends",
+    "slug": "subtle-gradient-color-blends",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Desaturated Palette",
+    "slug": "soft-desaturated-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rich Jewel Tone Palette",
+    "slug": "rich-jewel-tone-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Matte Paper Texture",
+    "slug": "matte-paper-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rough Canvas Surface Texture",
+    "slug": "rough-canvas-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Crinkled Fabric Texture",
+    "slug": "crinkled-fabric-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Aged Rusted Metal Texture",
+    "slug": "aged-rusted-metal-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Smooth Marble Surface Texture",
+    "slug": "smooth-marble-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Wet Glass Surface Effect",
+    "slug": "wet-glass-surface-effect",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Fine Grain Film Texture",
+    "slug": "fine-grain-film-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Polished Wood Grain Texture",
+    "slug": "polished-wood-grain-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Stock Photography Portraits",
+    "slug": "stock-photography-portraits",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "E-Commerce Product Photoshoot",
+    "slug": "e-commerce-product-photoshoot",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-08-25T10:21:08.421Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }

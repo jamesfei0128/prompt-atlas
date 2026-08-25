@@ -8901,5 +8901,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Vibrant Accent Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Vibrant Accent Color Palette: Enhancing AI Image Prompts",
+    "metaDescription": "Discover how to use vibrant accent color palettes in AI image prompts to create eye-catching visuals with refined lighting and realistic materials.",
+    "heroImage": {
+      "src": "/images/keywords/vibrant-accent-color-palette.png",
+      "alt": "Modern interior scene highlighting vibrant teal and orange accent colors with refined lighting",
+      "title": "Vibrant Accent Color Palette in Modern Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Utilizing a vibrant accent color palette in AI image prompts transforms ordinary visuals into striking compositions by introducing bright, focused colors that highlight important elements. This technique leverages contrast and saturation to guide viewers' eyes toward key areas, adding energy and visual interest. When combined with modern design principles—such as clean layouts, realistic materials, and refined lighting—these palettes elevate the quality of AI-generated images, making them ideal for editorial designs, marketing materials, and digital art projects.",
+    "bestUseCases": [
+      "Highlighting product features in advertising images",
+      "Creating modern editorial layouts with strong visual hierarchy",
+      "Designing user interfaces where call-to-action elements need emphasis"
+    ],
+    "relatedKeywords": [
+      "Bright Color Accents",
+      "Modern Color Schemes",
+      "Contrast Color Palette"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "vibrant-accent-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Wood Grain Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Wood Grain Surface Texture: Definition, Uses & AI Prompts",
+    "metaDescription": "Explore wood grain surface texture in AI art—definition, visual traits, prompt formulas, best use cases, creative tips, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/wood-grain-surface-texture.png",
+      "alt": "Close-up detailed wood grain surface texture showcasing natural linear patterns and color variations",
+      "title": "Wood Grain Surface Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Wood grain surface texture captures the intricate patterns and natural beauty found in wooden materials. This texture is characterized by flowing lines, knots, and a warm color palette that conjures the organic essence of wood. When incorporated in AI image generation prompts, it helps models produce authentic wooden surfaces, from smooth polished floors to rustic furniture with visible fibers. Wood grain lends tactile depth and aesthetic appeal, making images more immersive and rich in detail. Its versatility allows for use across design, interior visualization, product mockups, and artistic compositions, enhancing the material realism dramatically.",
+    "bestUseCases": [
+      "High-quality product mockups featuring wooden elements like tables or packaging",
+      "Interior design visualizations emphasizing furniture and flooring materials",
+      "Advertising and editorial images requiring natural, warm backgrounds"
+    ],
+    "relatedKeywords": [
+      "Oak Wood Texture",
+      "Rustic Wood Surface",
+      "Polished Wooden Floor"
+    ],
+    "difficulty": "Beginner",
+    "slug": "wood-grain-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Social Media Visual Strategy",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Social Media Visual Strategy: Optimize AI Image Prompts",
+    "metaDescription": "Learn how to craft AI image prompts for Social Media Visual Strategy with practical formulas, best use cases, and advanced techniques to boost commercial success.",
+    "heroImage": {
+      "src": "/images/keywords/social-media-visual-strategy.png",
+      "alt": "Optimized social media visual strategy image showing a modern digital marketing setup",
+      "title": "Social Media Visual Strategy AI Image Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Incorporating Social Media Visual Strategy into AI image prompts helps designers and marketers create images tailored for online platforms. This approach emphasizes clarity, brand identity, and engagement potential, adapting visuals to various social channels' unique demands. By targeting platform-appropriate styles—such as Instagram’s vibrant and polished look or LinkedIn’s professional tone—imagery gains effectiveness. Applying this strategy leads to visuals that not only look professional but also strategically support marketing goals and audience interaction in social media spheres.",
+    "bestUseCases": [
+      "Creating branded visuals for Instagram campaigns",
+      "Designing professional LinkedIn headers and posts",
+      "Generating engaging Facebook ad creatives"
+    ],
+    "relatedKeywords": [
+      "Branding Visuals",
+      "Social Media Marketing",
+      "Digital Advertising Design"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "social-media-visual-strategy",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
