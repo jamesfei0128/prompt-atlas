@@ -2387,6 +2387,30 @@
       "generationPrompt": "16:9 realistic modern office scene with digital devices displaying social media content, clean composition, bright natural lighting, subtle depth, premium stock photography style, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "social-media-visual-strategy"
+    },
+    {
+      "filename": "analogous-warm-color-scheme.png",
+      "altText": "Warm natural landscape with analogous colors of red, orange, and yellow blending harmoniously",
+      "imageTitle": "Analogous Warm Color Scheme Landscape",
+      "generationPrompt": "16:9 cinematic warm landscape scene, rich reds, orange foliage, yellow highlights, harmonious blending, soft natural sunlight, clean editorial composition, premium lighting, realistic materials, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "analogous-warm-color-scheme"
+    },
+    {
+      "filename": "dynamic-triangular-composition.png",
+      "altText": "Portrait photo with three subjects arranged in dynamic triangular composition under soft natural lighting",
+      "imageTitle": "Dynamic Triangular Composition - Editorial Portrait Example",
+      "generationPrompt": "16:9 editorial style portrait of three people positioned in a dynamic triangular composition, soft natural lighting, premium photo quality, realistic skin textures, clean background, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "dynamic-triangular-composition"
+    },
+    {
+      "filename": "e-commerce-visual-optimization.png",
+      "altText": "High-quality e-commerce product image with clean white background and refined lighting",
+      "imageTitle": "Optimized E-Commerce Product Visual",
+      "generationPrompt": "16:9 aspect ratio, high-resolution product shot of modern consumer electronics item, studio lighting, seamless white background, photorealistic texture, clean composition, subtle shadows, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "e-commerce-visual-optimization"
     }
   ]
 }

@@ -8991,5 +8991,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Analogous Warm Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Analogous Warm Color Scheme: Harmonious AI Art Colors",
+    "metaDescription": "Discover how to use Analogous Warm Color Schemes in AI image prompts to create vibrant, harmonious visuals with reds, oranges, and yellows.",
+    "heroImage": {
+      "src": "/images/keywords/analogous-warm-color-scheme.png",
+      "alt": "Warm natural landscape with analogous colors of red, orange, and yellow blending harmoniously",
+      "title": "Analogous Warm Color Scheme Landscape",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Analogous Warm Color Schemes employ colors adjacent on the color wheel within warm tones—reds, oranges, and yellows—to produce harmonious, vibrant images. In AI-generated art, specifying this scheme guides the model to focus on these related colors, resulting in visuals that feel unified and energetic. This scheme evokes warmth, comfort, and optimism, excellent for compositions needing a welcoming or lively mood. Using it strategically in prompts helps artists and designers achieve balanced, naturally blended color palettes that enhance emotional impact without overwhelming the viewer.",
+    "bestUseCases": [
+      "Backgrounds for autumn-themed illustrations or branding",
+      "Warm interior designs showcasing cozy atmospheres",
+      "Portraits or fashion images with warm ambient lighting"
+    ],
+    "relatedKeywords": [
+      "Analogous Cool Color Scheme",
+      "Complementary Color Scheme",
+      "Monochromatic Color Scheme"
+    ],
+    "difficulty": "Beginner",
+    "slug": "analogous-warm-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Dynamic Triangular Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Dynamic Triangular Composition in AI Image Prompting",
+    "metaDescription": "Explore Dynamic Triangular Composition to enhance AI images with balanced, energetic layouts. Learn prompt formulas, use cases, and expert workflows.",
+    "heroImage": {
+      "src": "/images/keywords/dynamic-triangular-composition.png",
+      "alt": "Portrait photo with three subjects arranged in dynamic triangular composition under soft natural lighting",
+      "title": "Dynamic Triangular Composition - Editorial Portrait Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Dynamic Triangular Composition is a foundational technique in visual arts adapted for AI image generation to structure content engagingly. By hinting at triangular layouts in prompts, users encourage AI models to place subjects in a way that directs the viewer’s gaze fluidly across the image. This composition method introduces depth and dynamism by breaking away from centered or grid-like placements. It’s ideal for editorial photography, product displays, and conceptual illustrations, providing an appealing balance between order and movement.",
+    "bestUseCases": [
+      "Editorial portraits with dynamic subject placement",
+      "Product photography highlighting multiple items",
+      "Concept art emphasizing narrative flow"
+    ],
+    "relatedKeywords": [
+      "balanced composition",
+      "rule of thirds",
+      "asymmetrical balance"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "dynamic-triangular-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "E-Commerce Visual Optimization",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "E-Commerce Visual Optimization for AI Image Prompts",
+    "metaDescription": "Discover how e-commerce visual optimization enhances AI image prompts with clean, premium visuals for perfect online product presentation.",
+    "heroImage": {
+      "src": "/images/keywords/e-commerce-visual-optimization.png",
+      "alt": "High-quality e-commerce product image with clean white background and refined lighting",
+      "title": "Optimized E-Commerce Product Visual",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "E-Commerce Visual Optimization is a specialized approach in AI image prompting that enhances product visuals for online retail platforms. It involves tailoring prompts to generate images with premium stock-image quality, ensuring products are displayed clearly and attractively. This optimization improves customer engagement by presenting items with realistic textures, subtle depth, and refined lighting, all within clean editorial compositions. The result is images that inspire consumer confidence and encourage purchases across a range of digital commerce environments.",
+    "bestUseCases": [
+      "Creating hero images for online product pages",
+      "Generating clean thumbnail images for catalogs",
+      "Producing lifestyle-style shots with realistic materials and lighting"
+    ],
+    "relatedKeywords": [
+      "Product Photography",
+      "Retail Advertisement Visuals",
+      "Digital Catalog Imagery"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "e-commerce-visual-optimization",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
