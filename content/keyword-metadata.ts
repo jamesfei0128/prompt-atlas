@@ -9081,5 +9081,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Rembrandt Light Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Rembrandt Light Setup: Master Classic Portrait Lighting",
+    "metaDescription": "Discover Rembrandt light setup in photography and AI image prompts, its effects, best uses, and how to craft perfect shots with classic dramatic lighting.",
+    "heroImage": {
+      "src": "/images/keywords/rembrandt-light-setup.png",
+      "alt": "Portrait of a person with Rembrandt lighting casting a distinct triangular highlight under their eye and dramatic shadows",
+      "title": "Classic Portrait Featuring Rembrandt Light Setup",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Rembrandt light setup is a renowned lighting technique that adds dramatic yet natural depth to portraits. It uses a single light source positioned at an angle, creating a small illuminated triangle on the cheek opposite the light. This method emphasizes three-dimensional facial structure while maintaining soft shadow transitions, producing images with a timeless, painterly quality. In AI art generation, including 'Rembrandt lighting' in prompts guides the model toward rendering nuanced shadows and highlights that emulate this classic effect, improving image realism and emotive impact. Its widespread use spans from fine art photography to cinematic scenes, making it a valuable technique for creatives seeking moody, compelling portraits.",
+    "bestUseCases": [
+      "Portrait photography simulations needing dramatic, natural depth",
+      "Artistic character or figure illustrations with classical mood",
+      "Cinematic scene renders focusing on emotional storytelling"
+    ],
+    "relatedKeywords": [
+      "Chiaroscuro",
+      "Softbox Lighting",
+      "Studio Portrait Setup"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rembrandt-light-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Muted Earth Tone Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Muted Earth Tone Palette: Subtle Natural Colors for AI Images",
+    "metaDescription": "Explore how to use the Muted Earth Tone Palette in AI prompts to create sophisticated, natural images with soft, desaturated warm browns and greens.",
+    "heroImage": {
+      "src": "/images/keywords/muted-earth-tone-palette.png",
+      "alt": "A serene interior scene featuring muted earth tone palette colors with soft natural lighting and warm beige, olive, and brown tones",
+      "title": "Interior Design in Muted Earth Tone Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Muted Earth Tone Palette is a popular color approach in AI image generation that emphasizes soft, natural hues inspired by the earth. These colors include warm browns, olive greens, beiges, and greys, all presented in subdued saturation levels to avoid overly bright or intense visuals. Using this palette creates images that feel organic, calm, and stylish, making it ideal for modern editorial content, lifestyle photography, and interior design renders. By focusing on muted tones, the images exude refinement and subtlety, appealing to viewers seeking sophistication without harsh contrasts. Incorporating this palette into your AI prompts helps generate visuals with a cohesive and naturalistic color balance.",
+    "bestUseCases": [
+      "Editorial and lifestyle photography with a natural, warm mood",
+      "Interior design visuals showcasing serene, elegant spaces",
+      "Product photography for eco-friendly or natural brands"
+    ],
+    "relatedKeywords": [
+      "Soft Natural Lighting",
+      "Warm Neutral Palette",
+      "Desaturated Color Scheme"
+    ],
+    "difficulty": "Beginner",
+    "slug": "muted-earth-tone-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Golden Spiral Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Golden Spiral Composition in AI Imaging",
+    "metaDescription": "Explore the Golden Spiral Composition, a powerful AI image prompt technique that enhances visual harmony and guides viewer's focus naturally.",
+    "heroImage": {
+      "src": "/images/keywords/golden-spiral-composition.png",
+      "alt": "Elegant portrait photograph composed using golden spiral layout with soft natural lighting",
+      "title": "Golden Spiral Composed Portrait",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Golden Spiral Composition uses a mathematical spiral to arrange visual elements harmoniously. Rooted in the Fibonacci sequence, it directs the viewer’s gaze fluidly through the image, emphasizing a natural progression from less to more important areas. In AI image generation, including this term helps the model prioritize spatial arrangement, creating aesthetically pleasing, balanced images ideal for editorial, advertising, and fine art contexts. This composition style enhances storytelling and focus, making images feel more organic and engaging.",
+    "bestUseCases": [
+      "Editorial photography layouts where natural eye movement is crucial",
+      "Product showcase images that need guided viewer focus on details",
+      "Fine art and conceptual photography to enhance visual harmony"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Fibonacci Sequence Layout",
+      "Visual Flow Techniques"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "golden-spiral-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
