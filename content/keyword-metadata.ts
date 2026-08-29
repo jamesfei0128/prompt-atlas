@@ -9171,5 +9171,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Ring Light Portrait Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Ring Light Portrait Setup: Perfect Lighting for Stunning Portraits",
+    "metaDescription": "Discover how a ring light portrait setup enhances portrait photography with even lighting and flattering shadows. Learn prompts tips, use cases, and professional workflow.",
+    "heroImage": {
+      "src": "/images/keywords/ring-light-portrait-setup.png",
+      "alt": "Professional portrait photograph illuminated with circular ring light creating even lighting and catchlights in eyes",
+      "title": "Ring Light Portrait Setup in Professional Photography",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Ring light portrait setups are popular for producing flattering and professional portraits by offering uniform lighting that reduces shadows and highlights details evenly. This lighting technique is especially favored in beauty, fashion, and social media photography for its ability to emphasize skin texture and facial features attractively. When integrated into AI image prompts, specifying a ring light portrait setup helps achieve realistic, high-quality portraits with characteristic circular catchlights in the eyes and soft, balanced illumination. This results in images suitable for editorial, commercial, and creative applications requiring premium lighting aesthetics.",
+    "bestUseCases": [
+      "Beauty and fashion editorial portraits requiring even, flattering light.",
+      "Social media influencer portraits that emphasize skin and eye detail.",
+      "E-commerce product images featuring models to showcase clothing or accessories clearly."
+    ],
+    "relatedKeywords": [
+      "Softbox Portrait Lighting",
+      "Studio Portrait Setup",
+      "Beauty Lighting Setup"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "ring-light-portrait-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Bright Primary Colors Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Bright Primary Colors Palette: Vibrant AI Image Prompt Guide",
+    "metaDescription": "Explore how the Bright Primary Colors Palette enriches AI-generated images with vivid reds, blues, and yellows. Learn prompts, uses, and style tips.",
+    "heroImage": {
+      "src": "/images/keywords/bright-primary-colors-palette.png",
+      "alt": "Vibrant abstract design utilizing bright primary colors palette with vivid red, blue, and yellow shapes",
+      "title": "Bright Primary Colors Palette Abstract Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using a Bright Primary Colors Palette in AI image generation emphasizes strong, pure colors—red, blue, and yellow—that are fundamental to color theory. This palette brings a dynamic, energetic feel to images, making them instantly attention-grabbing and easily distinguishable. It's ideal for designs aiming to evoke simplicity with power, evoke nostalgia for classic color schemes, or highlight specific elements through contrast. When integrated thoughtfully, it balances vibrancy with clarity, avoiding muddiness or oversaturation. This approach is especially popular in editorial, advertising, and graphic design work where visual directness is key.",
+    "bestUseCases": [
+      "Marketing and product advertising visuals requiring strong color impact",
+      "Children's illustrations or educational materials benefiting from simple, bright colors",
+      "Graphic design and editorial layouts where bold color separation improves readability"
+    ],
+    "relatedKeywords": [
+      "Vibrant Color Scheme",
+      "Bold Color Blocking",
+      "Primary Color Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "bright-primary-colors-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Symmetrical Framing Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Symmetrical Framing Composition: Mastering Balanced AI Image Prompts",
+    "metaDescription": "Learn how to use symmetrical framing composition in AI image prompts to create visually balanced and engaging images with clean symmetry and focal points.",
+    "heroImage": {
+      "src": "/images/keywords/symmetrical-framing-composition.png",
+      "alt": "Example of symmetrical framing composition showing a modern building facade with balanced symmetrical elements",
+      "title": "Symmetrical Framing Composition Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Symmetrical framing composition is a powerful design technique that places visual elements evenly on either side of a central axis, resulting in an image that feels balanced and harmonious. This approach often highlights a main subject by placing it centrally and reflecting supporting elements symmetrically around it. Including this composition style in AI prompts helps generate images with clear order and structure, which are both aesthetically pleasing and easy to interpret. This is ideal for hero shots, architectural visuals, portraits, and product photography where balance enhances the subject's prominence.",
+    "bestUseCases": [
+      "Architectural photography emphasizing building facades",
+      "Portraits focusing on centered subjects with symmetrical backgrounds",
+      "Product shots requiring balanced presentation and clarity"
+    ],
+    "relatedKeywords": [
+      "Balanced Composition",
+      "Central Composition",
+      "Mirror Symmetry"
+    ],
+    "difficulty": "Beginner",
+    "slug": "symmetrical-framing-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

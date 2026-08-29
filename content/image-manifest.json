@@ -2435,6 +2435,30 @@
       "generationPrompt": "16:9 elegant portrait of a woman, golden spiral composition, soft natural lighting, clean background, premium stock photo style, no text, no logos",
       "category": "Composition",
       "keywordSlug": "golden-spiral-composition"
+    },
+    {
+      "filename": "ring-light-portrait-setup.png",
+      "altText": "Professional portrait photograph illuminated with circular ring light creating even lighting and catchlights in eyes",
+      "imageTitle": "Ring Light Portrait Setup in Professional Photography",
+      "generationPrompt": "16:9 photograph of a young woman portrait illuminated by a circular ring light, soft even lighting, smooth skin texture, studio background, realistic catchlight reflections in eyes, professional studio quality, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "ring-light-portrait-setup"
+    },
+    {
+      "filename": "bright-primary-colors-palette.png",
+      "altText": "Vibrant abstract design utilizing bright primary colors palette with vivid red, blue, and yellow shapes",
+      "imageTitle": "Bright Primary Colors Palette Abstract Design",
+      "generationPrompt": "16:9 vibrant abstract composition emphasizing bright primary colors palette with vivid red, blue, and yellow geometric shapes, clean design, subtle depth, realistic materials, premium stock-image quality, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "bright-primary-colors-palette"
+    },
+    {
+      "filename": "symmetrical-framing-composition.png",
+      "altText": "Example of symmetrical framing composition showing a modern building facade with balanced symmetrical elements",
+      "imageTitle": "Symmetrical Framing Composition Example",
+      "generationPrompt": "16:9 image of a modern architectural facade with perfect symmetrical framing composition, clean lines, subtle lighting, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "symmetrical-framing-composition"
     }
   ]
 }
