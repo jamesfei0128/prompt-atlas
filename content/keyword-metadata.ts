@@ -9261,5 +9261,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Packaging Design Visuals",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Packaging Design Visuals: AI Image Prompt Guide",
+    "metaDescription": "Explore AI prompts for Packaging Design Visuals with premium, realistic images. Learn formulas, styles, use cases, and model tips for commercial projects.",
+    "heroImage": {
+      "src": "/images/keywords/packaging-design-visuals.png",
+      "alt": "High-quality packaging design visuals showing realistic materials and clean editorial style",
+      "title": "Packaging Design Visuals AI Image Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Packaging Design Visuals are critical in illustrating product packaging concepts for designers, marketers, and retailers. Using AI prompts with this keyword generates imagery that highlights packaging prototypes or final designs with photorealistic qualities, often emphasizing materials and dimensional structure in well-lit editorial-style compositions. Such visuals are vital for client presentations, advertisements, e-commerce showcases, and refining packaging aesthetics without the need for physical samples. The approach focuses on clarity, material authenticity, and minimal distractions, making it a powerful tool in both creative and commercial workflows.",
+    "bestUseCases": [
+      "Creating photorealistic mockups for showcasing new packaging concepts",
+      "Marketing materials where high-quality product packaging images are needed without brand identifiers",
+      "E-commerce product listings focusing on packaging aesthetics and material quality"
+    ],
+    "relatedKeywords": [
+      "product packaging mockup",
+      "commercial product photography",
+      "luxury packaging design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "packaging-design-visuals",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Natural Reflector Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Natural Reflector Lighting: Enhance AI Image Prompts",
+    "metaDescription": "Discover how Natural Reflector Lighting enriches AI-generated images with realistic bounce light effects for beautiful, natural illumination.",
+    "heroImage": {
+      "src": "/images/keywords/natural-reflector-lighting.png",
+      "alt": "Portrait of a woman illuminated by soft natural reflector lighting producing warm, diffused light and gentle shadows",
+      "title": "Portrait with Natural Reflector Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Natural Reflector Lighting simulates the effect of ambient light reflecting naturally in a scene. Instead of relying solely on direct light sources, it adds softness and warmth by mimicking how light bounces off nearby surfaces like walls, ceilings, or even foliage. This results in images with increased depth, softer shadows, and a more three-dimensional feel, typically seen in premium photography and cinematic lighting setups. Using this term in AI prompts encourages the model to generate visuals that feel organically lit, avoiding flat or artificial illumination. This approach is popular in portraiture, product photography, and interior design renders where realistic light interaction is essential.",
+    "bestUseCases": [
+      "Portrait photography focusing on soft, flattering light",
+      "Interior design visuals showcasing natural room illumination",
+      "Product shots needing realistic material highlights and shadows"
+    ],
+    "relatedKeywords": [
+      "Soft Natural Light",
+      "Bounced Light Effect",
+      "Ambient Reflective Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "natural-reflector-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Soft Muted Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Soft Muted Color Palette: Subtle Elegance in AI Imagery",
+    "metaDescription": "Explore how 'Soft Muted Color Palette' transforms AI images with gentle tones, perfect for refined, natural visuals in design and photography.",
+    "heroImage": {
+      "src": "/images/keywords/soft-muted-color-palette.png",
+      "alt": "Elegant interior scene featuring a soft muted color palette with gentle lighting and calming tones",
+      "title": "Soft Muted Color Palette in Interior Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using a Soft Muted Color Palette in AI-generated imagery influences the mood and style by incorporating subdued and delicate colors. This approach conveys sophistication, tranquility, and natural beauty, making visuals suitable for subtle branding, lifestyle photography, and editorial contexts. It avoids bright or saturated colors, instead emphasizing nuance and refinement. Artists and designers use it to evoke feelings of warmth, nostalgia, or modern minimalism, enhancing the visual narrative through controlled color harmony and soft contrasts.",
+    "bestUseCases": [
+      "Lifestyle photography with gentle, natural looks",
+      "Product shots for luxury or eco-friendly brands",
+      "Editorial images requiring calm, sophisticated atmospheres"
+    ],
+    "relatedKeywords": [
+      "Neutral Color Palette",
+      "Pastel Colors",
+      "Desaturated Colors"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-muted-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

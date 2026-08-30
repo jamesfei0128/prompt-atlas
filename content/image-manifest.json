@@ -2459,6 +2459,30 @@
       "generationPrompt": "16:9 image of a modern architectural facade with perfect symmetrical framing composition, clean lines, subtle lighting, realistic materials, no text, no logos",
       "category": "Composition",
       "keywordSlug": "symmetrical-framing-composition"
+    },
+    {
+      "filename": "packaging-design-visuals.png",
+      "altText": "High-quality packaging design visuals showing realistic materials and clean editorial style",
+      "imageTitle": "Packaging Design Visuals AI Image Example",
+      "generationPrompt": "16:9 photorealistic packaging design visuals, luxury glass cosmetic bottle with gold cap, soft studio lighting, clean white background, subtle shadows, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "packaging-design-visuals"
+    },
+    {
+      "filename": "natural-reflector-lighting.png",
+      "altText": "Portrait of a woman illuminated by soft natural reflector lighting producing warm, diffused light and gentle shadows",
+      "imageTitle": "Portrait with Natural Reflector Lighting",
+      "generationPrompt": "16:9 portrait of a young woman in soft natural reflector lighting, warm tones, gentle bounced light creating diffused shadows, realistic skin texture, clean background, high detail, photography style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "natural-reflector-lighting"
+    },
+    {
+      "filename": "soft-muted-color-palette.png",
+      "altText": "Elegant interior scene featuring a soft muted color palette with gentle lighting and calming tones",
+      "imageTitle": "Soft Muted Color Palette in Interior Design",
+      "generationPrompt": "16:9 interior design scene with soft muted color palette, natural diffused light, realistic textures, calm and elegant ambiance, clean editorial style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "soft-muted-color-palette"
     }
   ]
 }
