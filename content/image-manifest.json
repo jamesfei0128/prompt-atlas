@@ -2483,6 +2483,30 @@
       "generationPrompt": "16:9 interior design scene with soft muted color palette, natural diffused light, realistic textures, calm and elegant ambiance, clean editorial style, no text, no logos",
       "category": "Color",
       "keywordSlug": "soft-muted-color-palette"
+    },
+    {
+      "filename": "centered-focus-layout.png",
+      "altText": "Symmetrical portrait of a woman with centered focus and soft natural lighting",
+      "imageTitle": "Centered Focus Layout Portrait",
+      "generationPrompt": "16:9 portrait of a woman with soft natural lighting, centered focus layout, symmetrical background, shallow depth of field, premium stock-image style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "centered-focus-layout"
+    },
+    {
+      "filename": "woven-fabric-material-texture.png",
+      "altText": "Close-up macro photo of a beige woven fabric material texture showing detailed threads and fibers",
+      "imageTitle": "Woven Fabric Material Texture Macro Close-Up",
+      "generationPrompt": "16:9 close-up macro shot of woven fabric material texture in soft beige tones, natural diffused lighting highlighting detailed interlaced threads and fibers, shallow depth of field, highly realistic textile surface",
+      "category": "Texture & Material",
+      "keywordSlug": "woven-fabric-material-texture"
+    },
+    {
+      "filename": "diffused-daylight-lighting.png",
+      "altText": "Cozy modern living room illuminated by soft diffused daylight lighting through sheer curtains",
+      "imageTitle": "Modern Living Room with Diffused Daylight Lighting",
+      "generationPrompt": "A cozy modern living room bathed in soft diffused daylight lighting coming through sheer curtains, natural warm tones, soft shadows, realistic materials, clean composition, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "diffused-daylight-lighting"
     }
   ]
 }

@@ -9351,5 +9351,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Centered Focus Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Centered Focus Layout: Mastering Symmetrical Composition",
+    "metaDescription": "Discover the power of Centered Focus Layout in AI image prompts for balanced, striking compositions. Learn definitions, formulas, use cases, related styles, and model tips.",
+    "heroImage": {
+      "src": "/images/keywords/centered-focus-layout.png",
+      "alt": "Symmetrical portrait of a woman with centered focus and soft natural lighting",
+      "title": "Centered Focus Layout Portrait",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Centered Focus Layout is a foundational composition style used extensively in photography, design, and digital art to create visually stable and impactful images. By placing the subject in the exact center, this layout naturally directs viewer attention and conveys a sense of order and clarity. In AI image prompting, explicitly stating this layout ensures the model arranges the composition with clear symmetry and emphasis on the focal point. This method works exceptionally well for portraits, product images, and editorial visuals, where clarity and strong presence are priorities. It also integrates seamlessly with minimalistic and formal aesthetics, supporting diverse creative goals with straightforward visual appeal.",
+    "bestUseCases": [
+      "Product showcase imagery where the item must command attention",
+      "Portraits or character studies centered for emotional impact",
+      "Editorial and magazine hero images demanding clean, bold design"
+    ],
+    "relatedKeywords": [
+      "Symmetrical Composition",
+      "Minimalist Layout",
+      "Rule of Thirds Alignment"
+    ],
+    "difficulty": "Beginner",
+    "slug": "centered-focus-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Woven Fabric Material Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Woven Fabric Material Texture: Detailed AI Image Prompt Guide",
+    "metaDescription": "Explore how to create realistic woven fabric textures using AI prompts. Learn definitions, formulas, best use cases, advanced techniques, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/woven-fabric-material-texture.png",
+      "alt": "Close-up macro photo of a beige woven fabric material texture showing detailed threads and fibers",
+      "title": "Woven Fabric Material Texture Macro Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Woven fabric material texture is a fundamental element in textile visualization, representing the intricate crossing and interlocking of yarns to form cloth. In AI-generated imagery, emphasizing woven fabric textures helps bring life to digital fabrics by simulating thread thickness, weave patterns, and fabric density. This texture varies from coarse burlap to fine silk weaves, each bringing distinct visual and tactile impressions. Using this keyword focuses AI's attention on fabric realism, making it ideal for fashion renders, interior design mockups, and product visualization where fabric detail enhances perceived quality.",
+    "bestUseCases": [
+      "Textile pattern visualization for fashion design concepts",
+      "Interior upholstery rendering showing fabric texture realism",
+      "Product close-ups emphasizing material quality on clothing or accessories"
+    ],
+    "relatedKeywords": [
+      "Textile Weave Pattern",
+      "Fabric Thread Detail",
+      "Cloth Material Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "woven-fabric-material-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Diffused Daylight Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Diffused Daylight Lighting – Soft Natural Light in AI Images",
+    "metaDescription": "Discover how diffused daylight lighting enhances AI-generated images with soft, natural illumination. Learn prompt formulas, best uses, and pro tips for flawless scenes.",
+    "heroImage": {
+      "src": "/images/keywords/diffused-daylight-lighting.png",
+      "alt": "Cozy modern living room illuminated by soft diffused daylight lighting through sheer curtains",
+      "title": "Modern Living Room with Diffused Daylight Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Diffused daylight lighting mimics the effect of sunlight filtered through clouds or sheer curtains, creating an environment with balanced, soft illumination. This type of lighting is valued for its ability to enhance realism and natural ambiance in AI-generated images. It avoids harsh contrasts and stark shadows, making scenes appear inviting and tactile. Using this keyword in prompts guides AI models to replicate a subtle, flattering light quality ideal for portraits, interiors, product photography, and nature scenes where natural, gentle light is preferred.",
+    "bestUseCases": [
+      "Portrait photography to achieve flattering skin tones with soft shadows",
+      "Interior design visuals showing natural light streaming through windows",
+      "Product shots emphasizing material textures without harsh reflections"
+    ],
+    "relatedKeywords": [
+      "Soft Natural Lighting",
+      "Overcast Sky Lighting",
+      "Window Light Illumination"
+    ],
+    "difficulty": "Beginner",
+    "slug": "diffused-daylight-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
