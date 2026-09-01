@@ -2507,6 +2507,30 @@
       "generationPrompt": "A cozy modern living room bathed in soft diffused daylight lighting coming through sheer curtains, natural warm tones, soft shadows, realistic materials, clean composition, 16:9",
       "category": "Lighting",
       "keywordSlug": "diffused-daylight-lighting"
+    },
+    {
+      "filename": "fibonacci-sequence-composition.png",
+      "altText": "Abstract composition using Fibonacci sequence spiral layout with refined lighting in digital art",
+      "imageTitle": "Fibonacci Sequence Composition in AI-generated Digital Art",
+      "generationPrompt": "16:9 high-resolution image of abstract scene composed using the Fibonacci spiral layout, balanced natural flow, premium realistic materials, soft refined lighting, subtle depth, clean and minimalistic polished style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "fibonacci-sequence-composition"
+    },
+    {
+      "filename": "metallic-foil-texture.png",
+      "altText": "Close-up of golden metallic foil texture showing subtle wrinkles and reflective sheen",
+      "imageTitle": "Golden Metallic Foil Texture Close-up",
+      "generationPrompt": "A close-up image of golden metallic foil texture with subtle wrinkles and high reflectivity, soft studio lighting, ultra-realistic, premium stock photography style, no text, no logos, no watermark, 16:9 aspect ratio",
+      "category": "Texture & Material",
+      "keywordSlug": "metallic-foil-texture"
+    },
+    {
+      "filename": "pastel-gradient-color-scheme.png",
+      "altText": "Elegant soft pastel gradient color scheme blending lavender, mint green, and peach in a smooth transition background",
+      "imageTitle": "Pastel Gradient Color Scheme Background",
+      "generationPrompt": "16:9 aspect ratio, smooth pastel gradient background blending soft lavender, mint green, peach, and baby blue, clean editorial style, refined lighting, subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "pastel-gradient-color-scheme"
     }
   ]
 }

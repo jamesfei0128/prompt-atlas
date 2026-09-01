@@ -9441,5 +9441,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Fibonacci Sequence Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Fibonacci Sequence Composition: Mastering Natural Balance in AI Art",
+    "metaDescription": "Learn how Fibonacci Sequence Composition enhances AI-generated images with natural balance and dynamic harmony. Perfect for artists and designers.",
+    "heroImage": {
+      "src": "/images/keywords/fibonacci-sequence-composition.png",
+      "alt": "Abstract composition using Fibonacci sequence spiral layout with refined lighting in digital art",
+      "title": "Fibonacci Sequence Composition in AI-generated Digital Art",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "In AI-generated imagery, applying the Fibonacci Sequence Composition leverages a time-tested mathematical pattern to create images that feel organically balanced and visually appealing. This compositional technique arranges key elements according to the Fibonacci spiral or golden ratio proportions, resulting in a dynamic yet harmonious layout. Its influence can be seen in nature, classic art, and modern design, making it a versatile approach to structuring images that engage viewers intuitively. Incorporating this into prompts helps AI models understand how to position subjects, backgrounds, and focal points for maximum aesthetic impact.",
+    "bestUseCases": [
+      "Fine art and concept illustrations needing natural flow",
+      "Architectural and interior design visuals emphasizing balance",
+      "Product photography setups with dynamic yet harmonious layouts"
+    ],
+    "relatedKeywords": [
+      "Golden Ratio Layout",
+      "Spiral Composition",
+      "Rule of Thirds"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "fibonacci-sequence-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Metallic Foil Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Metallic Foil Texture: Enhance AI Art with Reflective Surfaces",
+    "metaDescription": "Discover how to use Metallic Foil Texture in AI image prompts to create reflective, shiny materials with premium appeal. Ideal for textures and design work.",
+    "heroImage": {
+      "src": "/images/keywords/metallic-foil-texture.png",
+      "alt": "Close-up of golden metallic foil texture showing subtle wrinkles and reflective sheen",
+      "title": "Golden Metallic Foil Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Metallic Foil Texture is a specialized descriptor used in AI image generation to simulate the appearance of thin metallic sheets that reflect light with a distinctive shine and texture. When integrated into prompts, it produces images with a sophisticated, realistic metallic finish characterized by gleaming highlights, soft wrinkles, and a polished look. This keyword is valuable in design, branding, and digital art contexts where a premium metallic aesthetic is desired. It enhances visual depth by capturing the interplay of light and surface irregularities typical of foil materials. Artists and designers leverage this texture to create backgrounds, patterns, and objects that stand out with elegant metallic allure.",
+    "bestUseCases": [
+      "Luxury product backgrounds and packaging",
+      "Fashion accessories and metallic fabric simulations",
+      "Digital art featuring reflective abstract patterns"
+    ],
+    "relatedKeywords": [
+      "Glossy Metal Texture",
+      "Reflective Surface",
+      "Crinkled Foil Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "metallic-foil-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Pastel Gradient Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Pastel Gradient Color Scheme: Soft Color Blending for AI Art",
+    "metaDescription": "Explore the pastel gradient color scheme in AI image prompts. Learn its definition, prompt formulas, best uses, common mistakes, and expert techniques.",
+    "heroImage": {
+      "src": "/images/keywords/pastel-gradient-color-scheme.png",
+      "alt": "Elegant soft pastel gradient color scheme blending lavender, mint green, and peach in a smooth transition background",
+      "title": "Pastel Gradient Color Scheme Background",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The pastel gradient color scheme is popular in AI-generated art for its serene and inviting aesthetic. It involves the blending of light, desaturated pastel tones in gradual transitions, which can add depth and softness to visuals without overwhelming details. Using this keyword in prompts helps create backgrounds, themes, or focal areas that evoke feelings of calmness and subtle sophistication. This scheme often suits digital art, branding visuals, and UI elements where gentle color progression supports readability and aesthetic appeal. Its balanced and harmonious style enhances mood and focuses attention, making it a versatile choice in many design contexts.",
+    "bestUseCases": [
+      "Backgrounds for websites, apps, or social media graphics needing a soft look",
+      "Branding visuals to communicate calmness and friendliness",
+      "Digital art compositions highlighting gentle color transitions or dreamy atmospheres"
+    ],
+    "relatedKeywords": [
+      "soft pastel palette",
+      "gradient background",
+      "muted color transition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "pastel-gradient-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
