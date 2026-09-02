@@ -9531,5 +9531,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Minimalist Spatial Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Minimalist Spatial Composition in AI Art",
+    "metaDescription": "Explore Minimalist Spatial Composition for AI image prompts: definition, visual traits, prompt formulas, best uses, creative variations, and model tips.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-spatial-composition.png",
+      "alt": "Minimalist spatial composition featuring a single object with ample negative space and clean background",
+      "title": "Minimalist Spatial Composition Visual Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Minimalist Spatial Composition is a design principle that enhances images by focusing on simplicity and the deliberate use of space. In AI-generated images, it results in visuals where subjects are isolated with ample negative space, creating a calm, airy atmosphere. This style avoids overcrowding, allowing key visual elements to stand out and command attention. It's ideal for crafting modern, elegant visuals that convey clarity and focus, making images versatile for editorial, advertising, or web design purposes. Incorporating this concept into AI prompts helps produce refined compositions that emphasize form and balance.",
+    "bestUseCases": [
+      "Modern editorial article hero images with clean layouts",
+      "Product photography with focus on single items and clear backgrounds",
+      "Web and app interface backgrounds emphasizing simplicity"
+    ],
+    "relatedKeywords": [
+      "Negative Space Emphasis",
+      "Clean Editorial Layout",
+      "Simple Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-spatial-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rough Concrete Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rough Concrete Surface Texture: Guide to Photorealistic AI Prompts",
+    "metaDescription": "Explore how to create photorealistic rough concrete surface textures using AI image prompts. Learn prompt formulas, use cases, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/rough-concrete-surface-texture.png",
+      "alt": "Close-up of rough concrete surface texture showing coarse granular details and cracks",
+      "title": "Rough Concrete Surface Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Rough Concrete Surface Texture' keyword is essential for generating realistic architectural and artistic images where material authenticity is key. This texture conveys the tactile sensation of coarse, unfinished concrete, distinguished by its irregular surface, visible small stones, and imperfections like cracks and pores. Including this keyword in AI prompts enhances image realism by focusing on material detail. It is especially valuable in designs requiring gritty, industrial, or urban aesthetics, contributing to a sense of depth and authenticity in both digital and print projects. Mastery of rendering this texture helps designers and artists produce compelling visuals that resonate with users seeking raw and tangible surfaces.",
+    "bestUseCases": [
+      "Architectural visualizations focusing on exterior walls and pavements",
+      "Background textures for urban, industrial, or construction-themed artworks",
+      "Product presentations emphasizing raw, durable materials"
+    ],
+    "relatedKeywords": [
+      "Polished Concrete Surface Texture",
+      "Cracked Concrete Surface Texture",
+      "Weathered Concrete Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rough-concrete-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Visual Storytelling Strategy",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Visual Storytelling Strategy for AI Image Prompts",
+    "metaDescription": "Discover the Visual Storytelling Strategy keyword for AI image prompts: definition, characteristics, prompt formulas, use cases, and model-specific tips.",
+    "heroImage": {
+      "src": "/images/keywords/visual-storytelling-strategy.png",
+      "alt": "AI-generated image illustrating a visual storytelling scene of a young woman discovering an ancient map in a sunlit library",
+      "title": "Visual Storytelling Strategy AI Illustration",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Visual Storytelling Strategy is an approach in AI image prompting that prioritizes narrative and emotional impact. Instead of isolated subjects or abstract concepts, prompts using this strategy encourage the generation of images that appear as part of a larger story. This can include characters engaged in meaningful actions, environments that set a mood, and visual cues implying a temporal sequence or context. Using this strategy enhances image engagement, making visuals suitable for editorial features, marketing campaigns, and brand storytelling that rely on capturing viewer interest through story-driven visuals.",
+    "bestUseCases": [
+      "Editorial articles illustrating human experiences or cultural stories.",
+      "Brand marketing campaigns emphasizing customer journeys or product benefits.",
+      "Social media content requiring engaging visuals that capture moment-driven narratives."
+    ],
+    "relatedKeywords": [
+      "Narrative Composition",
+      "Emotional Scene",
+      "Cinematic Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "visual-storytelling-strategy",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

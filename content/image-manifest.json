@@ -2531,6 +2531,30 @@
       "generationPrompt": "16:9 aspect ratio, smooth pastel gradient background blending soft lavender, mint green, peach, and baby blue, clean editorial style, refined lighting, subtle depth, realistic materials, no text, no logos, no watermark",
       "category": "Color",
       "keywordSlug": "pastel-gradient-color-scheme"
+    },
+    {
+      "filename": "minimalist-spatial-composition.png",
+      "altText": "Minimalist spatial composition featuring a single object with ample negative space and clean background",
+      "imageTitle": "Minimalist Spatial Composition Visual Example",
+      "generationPrompt": "16:9 image of a single modern chair centered with large surrounding negative space, soft natural lighting, clean white background, hyper-realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "minimalist-spatial-composition"
+    },
+    {
+      "filename": "rough-concrete-surface-texture.png",
+      "altText": "Close-up of rough concrete surface texture showing coarse granular details and cracks",
+      "imageTitle": "Rough Concrete Surface Texture Close-Up",
+      "generationPrompt": "16:9 photo of a rough concrete surface texture with visible aggregate, cracks and uneven texture, natural light, photorealistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-concrete-surface-texture"
+    },
+    {
+      "filename": "visual-storytelling-strategy.png",
+      "altText": "AI-generated image illustrating a visual storytelling scene of a young woman discovering an ancient map in a sunlit library",
+      "imageTitle": "Visual Storytelling Strategy AI Illustration",
+      "generationPrompt": "16:9 aspect ratio, realistic young woman discovering an ancient map in a sunlit library with warm tones, intricate details, cinematic lighting, refined textures, subtle depth, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "visual-storytelling-strategy"
     }
   ]
 }
