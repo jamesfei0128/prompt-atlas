@@ -9621,5 +9621,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Soft Fill Light Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Soft Fill Light Setup: Enhancing Image Lighting with Subtle Illumination",
+    "metaDescription": "Discover how soft fill light setup improves image lighting with gentle shadows and balanced highlights, perfect for professional photo and AI-generated art.",
+    "heroImage": {
+      "src": "/images/keywords/soft-fill-light-setup.png",
+      "alt": "Portrait photograph illuminated with a soft fill light setup showing gentle shadows and balanced highlights",
+      "title": "Soft Fill Light Setup Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Soft fill light setup is an essential lighting approach in photography, cinematography, and AI image generation that focuses on enhancing visual clarity by gently illuminating subjects. This method employs diffused light sources positioned strategically to fill in shadows without creating new ones or flattening the image's depth. In AI-generated images, specifying a soft fill light setup guides the model to render scenes with subtle shading and natural contrast, making portraits, still life, and product shots appear more realistic and appealing. By balancing the interplay between light and shadow, the soft fill light setup adds dimension while maintaining a polished and professional look suitable for editorial, commercial, and creative projects.",
+    "bestUseCases": [
+      "Portrait photography emphasizing natural skin tones and soft shadows",
+      "Product shots requiring clear detail without harsh glare",
+      "Editorial and lifestyle images needing a balanced, flattering light environment"
+    ],
+    "relatedKeywords": [
+      "Diffused Lighting",
+      "Natural Soft Light",
+      "Subtle Shadowing"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-fill-light-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "High Saturation Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "High Saturation Color Palette: Vibrant AI Image Prompt Guide",
+    "metaDescription": "Explore how using a High Saturation Color Palette keyword enhances AI images with vivid, intense colors. Learn prompt formulas, use cases, and creative variations.",
+    "heroImage": {
+      "src": "/images/keywords/high-saturation-color-palette.png",
+      "alt": "Bright and vivid high saturation color palette applied to a surreal cityscape at sunset",
+      "title": "High Saturation Color Palette in Vibrant Cityscape",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Utilizing a High Saturation Color Palette in AI image generation transforms visuals into bold, lively compositions that capture attention instantly. This approach amplifies the color intensity beyond natural or muted levels, creating a vivid scene bursting with hues that feel powerful and immersive. Often chosen for marketing materials, modern art visuals, and stylized photography, artworks generated with high saturation evoke energetic and emotional responses. When combined thoughtfully with lighting, texture, and composition, it creates a striking balance of vibrancy and clarity, making it ideal for covers, header images, and creative projects needing dynamic coloring.",
+    "bestUseCases": [
+      "Creating vibrant advertising visuals that capture consumer interest quickly",
+      "Designing bold editorial illustrations or digital art with eye-catching colors",
+      "Producing colorful product photography or fashion imagery requiring strong visual impact"
+    ],
+    "relatedKeywords": [
+      "Vivid Colors",
+      "Neon Glow",
+      "Bold Contrast Palette"
+    ],
+    "difficulty": "Beginner",
+    "slug": "high-saturation-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Asymmetrical Visual Balance",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Asymmetrical Visual Balance in AI Image Prompts",
+    "metaDescription": "Discover how to effectively use asymmetrical visual balance in AI image prompts to create dynamic, engaging compositions with practical tips and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/asymmetrical-visual-balance.png",
+      "alt": "Modern editorial image showing asymmetrical visual balance with dynamic placement of shapes and colors",
+      "title": "Asymmetrical Visual Balance Editorial Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Asymmetrical visual balance is a fundamental compositional technique used to create engaging and dynamic images. Rather than relying on symmetry, it balances visual interest through the thoughtful placement of diverse elements differing in size, color, or texture. This approach lends images a more natural, spontaneous feel while maintaining harmony. In AI image generation, explicitly directing asymmetrical visual balance helps craft images that are visually compelling with organic flow, useful in editorial designs, advertising, and fine art creations. Understanding this principle enhances creativity in prompt engineering, enabling more versatile and striking results.",
+    "bestUseCases": [
+      "Editorial illustrations with dynamic compositions",
+      "Modern advertising visuals requiring visual interest",
+      "Fine art portraits with naturalistic, lively layouts"
+    ],
+    "relatedKeywords": [
+      "Golden Ratio Composition",
+      "Rule of Thirds",
+      "Dynamic Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "asymmetrical-visual-balance",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

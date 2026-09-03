@@ -2555,6 +2555,30 @@
       "generationPrompt": "16:9 aspect ratio, realistic young woman discovering an ancient map in a sunlit library with warm tones, intricate details, cinematic lighting, refined textures, subtle depth, no text, no logos, no watermark",
       "category": "Commercial Use",
       "keywordSlug": "visual-storytelling-strategy"
+    },
+    {
+      "filename": "soft-fill-light-setup.png",
+      "altText": "Portrait photograph illuminated with a soft fill light setup showing gentle shadows and balanced highlights",
+      "imageTitle": "Soft Fill Light Setup Portrait",
+      "generationPrompt": "16:9 portrait of a woman with a soft fill light setup, diffused gentle shadows, balanced highlights, natural skin tones, studio environment, clean background, realistic materials, premium lighting quality, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-fill-light-setup"
+    },
+    {
+      "filename": "high-saturation-color-palette.png",
+      "altText": "Bright and vivid high saturation color palette applied to a surreal cityscape at sunset",
+      "imageTitle": "High Saturation Color Palette in Vibrant Cityscape",
+      "generationPrompt": "16:9 vibrant cityscape at sunset with high saturation color palette, intense reds and oranges, detailed architecture, clear sky, refined lighting, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "high-saturation-color-palette"
+    },
+    {
+      "filename": "asymmetrical-visual-balance.png",
+      "altText": "Modern editorial image showing asymmetrical visual balance with dynamic placement of shapes and colors",
+      "imageTitle": "Asymmetrical Visual Balance Editorial Composition",
+      "generationPrompt": "16:9 image of a modern editorial composition demonstrating asymmetrical visual balance, with off-center geometric shapes and contrasting colors, refined lighting and subtle depth, realistic textures, clean and premium aesthetic, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "asymmetrical-visual-balance"
     }
   ]
 }
