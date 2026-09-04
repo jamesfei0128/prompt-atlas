@@ -2579,6 +2579,30 @@
       "generationPrompt": "16:9 image of a modern editorial composition demonstrating asymmetrical visual balance, with off-center geometric shapes and contrasting colors, refined lighting and subtle depth, realistic textures, clean and premium aesthetic, no text, no logos",
       "category": "Composition",
       "keywordSlug": "asymmetrical-visual-balance"
+    },
+    {
+      "filename": "softbox-lighting-technique.png",
+      "altText": "Portrait of a woman illuminated with softbox lighting technique showing soft, even light and smooth shadows",
+      "imageTitle": "Softbox Lighting Technique in Portrait Photography",
+      "generationPrompt": "16:9 portrait of a woman under softbox lighting, smooth diffused light, minimal shadows, studio background, realistic skin texture, photorealistic, clean editorial style, premium stock image quality, no text no logos no watermark",
+      "category": "Lighting",
+      "keywordSlug": "softbox-lighting-technique"
+    },
+    {
+      "filename": "volumetric-lighting-effects.png",
+      "altText": "Sunlight piercing through foggy forest with volumetric light beams creating atmospheric depth",
+      "imageTitle": "Volumetric Lighting Effects in Forest Scene",
+      "generationPrompt": "16:9 image of a sunlit forest with volumetric lighting rays streaming through mist, ultra-realistic, soft shadows, enhanced depth, cinematic atmosphere, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "volumetric-lighting-effects"
+    },
+    {
+      "filename": "warm-backlighting-style.png",
+      "altText": "Portrait of a woman illuminated with warm backlighting creating a glowing golden halo around her hair",
+      "imageTitle": "Warm Backlighting Portrait Glow",
+      "generationPrompt": "16:9 portrait of a woman backlit by warm golden light, glowing rim around hair, soft focus, serene expression, natural skin tones, studio background, premium stock photo lighting style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "warm-backlighting-style"
     }
   ]
 }

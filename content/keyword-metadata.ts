@@ -9711,5 +9711,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Softbox Lighting Technique",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Softbox Lighting Technique: Enhance AI Image Prompts",
+    "metaDescription": "Discover the Softbox Lighting Technique to add soft, even lighting in AI-generated images, perfect for portraits and product visuals with refined light diffusion.",
+    "heroImage": {
+      "src": "/images/keywords/softbox-lighting-technique.png",
+      "alt": "Portrait of a woman illuminated with softbox lighting technique showing soft, even light and smooth shadows",
+      "title": "Softbox Lighting Technique in Portrait Photography",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Softbox lighting is a staple in professional photography for producing flattering and balanced illumination. In AI image generation, invoking this technique in prompts encourages models to replicate the light diffusion qualities typical of softboxes. This results in images with smooth tonal transitions, gentle shadows, and a polished, natural appearance. It is especially favored in producing portraits, marketing visuals, and editorial content where controlled, subtle lighting enhances subject detail and overall mood. Integrating softbox lighting into prompts complements other descriptive lighting terms to refine ambiance and texture representation.",
+    "bestUseCases": [
+      "Professional portrait photography simulations",
+      "Product photography showcasing textures with subtle lighting",
+      "Editorial and creative commercial visuals requiring soft, natural illumination"
+    ],
+    "relatedKeywords": [
+      "Studio Lighting Techniques",
+      "Diffused Lighting",
+      "Portrait Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "softbox-lighting-technique",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Volumetric Lighting Effects",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Volumetric Lighting Effects in AI Image Prompts",
+    "metaDescription": "Explore volumetric lighting effects for stunning AI images. Learn prompt formulas, best use cases, and pro tips to master this advanced lighting style.",
+    "heroImage": {
+      "src": "/images/keywords/volumetric-lighting-effects.png",
+      "alt": "Sunlight piercing through foggy forest with volumetric light beams creating atmospheric depth",
+      "title": "Volumetric Lighting Effects in Forest Scene",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Volumetric lighting effects add a three-dimensional quality to AI images by depicting light as it filters through environmental particles, such as fog or dust. This lighting style is prized for its ability to convey mood, environment, and spatial depth, often used in cinematic scenes or natural landscapes. When prompting AI, specifying volumetric lighting helps models emphasize light shafts and diffused glow rather than flat, uniform illumination. This keyword guides image creation toward a premium, realistic look with refined light behavior, making it ideal for editorial visuals, concept art, and atmospheric photography recreations.",
+    "bestUseCases": [
+      "Cinematic scenes with atmosphere like foggy forests or dusty interiors",
+      "Environmental concept art emphasizing mood and depth",
+      "Editorial or commercial photography recreations requiring premium lighting"
+    ],
+    "relatedKeywords": [
+      "Light Shafts",
+      "Atmospheric Lighting",
+      "Mood Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "volumetric-lighting-effects",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Warm Backlighting Style",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Warm Backlighting Style: Enhance Your AI Image Lighting",
+    "metaDescription": "Discover how the Warm Backlighting Style elevates AI images with soft, glowing light. Learn visual traits, prompt formulas, and best use cases for striking designs.",
+    "heroImage": {
+      "src": "/images/keywords/warm-backlighting-style.png",
+      "alt": "Portrait of a woman illuminated with warm backlighting creating a glowing golden halo around her hair",
+      "title": "Warm Backlighting Portrait Glow",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Warm Backlighting Style uniquely enhances AI-generated images by positioning a soft, warm light source behind the subject. This technique produces a delicate halo effect, defining silhouettes and edges with luminous warmth. The resulting glow often includes amber or golden hues, reminiscent of sunset or candlelight, which adds an inviting and atmospheric ambiance to scenes. Artists and designers use warm backlighting to convey intimacy, nostalgia, or highlight textures naturally. By specifying warm backlighting in your AI prompts, you gain a versatile lighting style that infuses mood and visual interest with gentle contrast and depth.",
+    "bestUseCases": [
+      "Portrait photography emphasizing hair and facial contours",
+      "Product shots requiring atmospheric warmth and highlight separation",
+      "Nature or outdoor scenes during sunrise or sunset lighting"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Lighting",
+      "Rim Lighting Effect",
+      "Soft Warm Glow"
+    ],
+    "difficulty": "Beginner",
+    "slug": "warm-backlighting-style",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
