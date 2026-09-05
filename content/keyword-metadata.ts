@@ -9801,5 +9801,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Natural Window Light Quality",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Natural Window Light Quality: Enhance AI Image Lighting",
+    "metaDescription": "Explore 'Natural Window Light Quality' in AI prompts to create realistic, soft, and directional illumination in images, perfect for editorial and lifestyle visuals.",
+    "heroImage": {
+      "src": "/images/keywords/natural-window-light-quality.png",
+      "alt": "Interior living room illuminated by natural window light quality showing soft shadows and warm ambience",
+      "title": "Cozy Interior with Natural Window Light Quality",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Natural window light quality is a sought-after lighting effect in photography and digital art, providing an authentic and warm ambiance to images. This type of lighting emulates sunlight entering through a window, often resulting in soft shadows and delicate contrast that highlight textures and materials naturally. In AI image generation, using this lighting quality can transform compositions to appear more lifelike and emotionally engaging, enhancing the mood without harsh artificial lighting. It's ideal for editorial, lifestyle, and interior imagery where realism and a comfortable atmosphere are essential.",
+    "bestUseCases": [
+      "Editorial portraits with natural, flattering illumination",
+      "Interior photography emphasizing cozy, lived-in environments",
+      "Lifestyle product shots that require soft, natural shadows"
+    ],
+    "relatedKeywords": [
+      "Soft Diffused Light",
+      "Indirect Sunlight Glow",
+      "Ambient Indoor Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "natural-window-light-quality",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Low Angle Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Low Angle Lighting: Definition and Creative AI Prompt Uses",
+    "metaDescription": "Explore low angle lighting in AI image prompts: definition, visual traits, prompt formulas, best use cases, and professional workflows for stunning images.",
+    "heroImage": {
+      "src": "/images/keywords/low-angle-lighting.png",
+      "alt": "Portrait of a woman illuminated by low angle lighting creating dramatic upward shadows",
+      "title": "Low Angle Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Low angle lighting is a powerful photographic and artistic technique that shifts the viewer's perspective by lighting subjects from below. When integrated into AI image prompts, it helps generate images with a distinct, often dramatic mood and added dimensionality. This lighting arrangement mimics natural scenarios like sunrise or artificial lighting such as street lamps from ground level. Due to its uncommon viewpoint, low angle lighting enhances textures and contours by reversing traditional shadow placement, producing striking images ideal for editorial portraits, architectural shots, and dynamic compositions. Leveraging this keyword allows creators to break away from standard lighting styles and evoke more intriguing atmospheres in synthetic visuals.",
+    "bestUseCases": [
+      "Dramatic portrait photography to emphasize facial structure and emotion",
+      "Architecture and product visuals where shadows enhance form and texture",
+      "Editorial and cinematic scenes requiring moody or suspenseful atmosphere"
+    ],
+    "relatedKeywords": [
+      "Dramatic Lighting",
+      "Side Lighting",
+      "Rim Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "low-angle-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Silhouette Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Silhouette Composition: Mastering Bold Shape-Based AI Images",
+    "metaDescription": "Explore Silhouette Composition in AI prompts to create striking, shape-focused visuals. Learn definitions, formulas, use cases, and pro tips for standout designs.",
+    "heroImage": {
+      "src": "/images/keywords/silhouette-composition.png",
+      "alt": "Minimalist silhouette composition of a human figure against a bright background",
+      "title": "Silhouette Composition with Human Figure",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Silhouette Composition in AI-generated imagery leverages the compelling power of shape over detail, capturing viewers' attention through stark contrasts and simple, yet meaningful forms. This technique strips away textures, colors, and intricate details, focusing instead on the subject's external contour, making it ideal for communicating concepts efficiently and evocatively. Using silhouette composition in prompts allows creators to produce images that are elegant, minimalist, and universally legible across various visual designs, from editorial hero images to branding visuals. This approach aligns well with a modern design ethos that values clarity, boldness, and emotional resonance, facilitating creative storytelling with visual economy.",
+    "bestUseCases": [
+      "Creating bold editorial hero images with clear thematic shapes",
+      "Designing minimalistic branding or logo-style visuals",
+      "Producing story-driven silhouettes for atmospheric scene settings"
+    ],
+    "relatedKeywords": [
+      "High Contrast Lighting",
+      "Minimalist Composition",
+      "Backlit Subject"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "silhouette-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

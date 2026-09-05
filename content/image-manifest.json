@@ -2603,6 +2603,30 @@
       "generationPrompt": "16:9 portrait of a woman backlit by warm golden light, glowing rim around hair, soft focus, serene expression, natural skin tones, studio background, premium stock photo lighting style, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "warm-backlighting-style"
+    },
+    {
+      "filename": "natural-window-light-quality.png",
+      "altText": "Interior living room illuminated by natural window light quality showing soft shadows and warm ambience",
+      "imageTitle": "Cozy Interior with Natural Window Light Quality",
+      "generationPrompt": "A modern cozy living room with soft natural window light quality, warm diffused shadows, realistic textures, no text or logos, editorial style photography, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "natural-window-light-quality"
+    },
+    {
+      "filename": "low-angle-lighting.png",
+      "altText": "Portrait of a woman illuminated by low angle lighting creating dramatic upward shadows",
+      "imageTitle": "Low Angle Lighting Portrait",
+      "generationPrompt": "16:9 photo of a young woman illuminated by dramatic low angle lighting casting upward shadows, cinematic style, clean editorial composition, premium lighting, realistic skin texture, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "low-angle-lighting"
+    },
+    {
+      "filename": "silhouette-composition.png",
+      "altText": "Minimalist silhouette composition of a human figure against a bright background",
+      "imageTitle": "Silhouette Composition with Human Figure",
+      "generationPrompt": "16:9 minimalist silhouette composition of a single human figure in a dramatic pose, backlit with high contrast lighting, dark solid shape against bright neutral background, clean and editorial style, realistic materials, refined subtle depth, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "silhouette-composition"
     }
   ]
 }

@@ -2344,27 +2344,27 @@
     "keyword": "Natural Window Light Quality",
     "slug": "natural-window-light-quality",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.892Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-05T13:07:03.129Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Low Angle Lighting",
     "slug": "low-angle-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.892Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-05T13:07:43.722Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Silhouette Composition",
     "slug": "silhouette-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.892Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-05T13:08:15.672Z",
     "source": "openai-discovery"
   },
   {
