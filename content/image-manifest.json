@@ -2627,6 +2627,30 @@
       "generationPrompt": "16:9 minimalist silhouette composition of a single human figure in a dramatic pose, backlit with high contrast lighting, dark solid shape against bright neutral background, clean and editorial style, realistic materials, refined subtle depth, no text, no logos, no watermark",
       "category": "Composition",
       "keywordSlug": "silhouette-composition"
+    },
+    {
+      "filename": "golden-triangle-composition.png",
+      "altText": "Sample portrait using golden triangle composition with dynamic diagonal lines",
+      "imageTitle": "Golden Triangle Composition Example Portrait",
+      "generationPrompt": "16:9 portrait of a person posed dynamically following golden triangle composition, soft natural light, high detail, clean background, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "golden-triangle-composition"
+    },
+    {
+      "filename": "monochrome-color-palette.png",
+      "altText": "Elegant monochrome blue portrait with soft lighting and subtle textural details",
+      "imageTitle": "Monochrome blue portrait in soft lighting",
+      "generationPrompt": "16:9 photo-realistic portrait of a young adult woman, monochrome blue color palette, soft natural light, detailed skin texture, subtle shadows, clean editorial style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "monochrome-color-palette"
+    },
+    {
+      "filename": "pastel-color-harmonies.png",
+      "altText": "Elegant interior scene featuring pastel color harmonies with soft lighting and minimalistic furniture",
+      "imageTitle": "Modern Interior with Pastel Color Harmonies",
+      "generationPrompt": "16:9 photo of a modern living room interior showcasing pastel color harmonies, soft natural light, minimalistic furniture, clean and refined ambiance, realistic materials, subtle depth of field, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "pastel-color-harmonies"
     }
   ]
 }

@@ -9891,5 +9891,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Golden Triangle Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Golden Triangle Composition in AI Art: Master Visual Balance",
+    "metaDescription": "Explore Golden Triangle Composition to create dynamic AI images with balanced visuals. Learn prompt formulas, use cases, variations, and avoid common mistakes.",
+    "heroImage": {
+      "src": "/images/keywords/golden-triangle-composition.png",
+      "alt": "Sample portrait using golden triangle composition with dynamic diagonal lines",
+      "title": "Golden Triangle Composition Example Portrait",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Golden Triangle Composition is an artistic technique that divides an image space into four triangles using a diagonal line from one corner to the opposite, then adding two lines from the other corners intersecting this diagonal. This composition guides where important elements should be placed, encouraging a dynamic asymmetry that still feels balanced and natural. When used in AI image generation, specifying Golden Triangle Composition helps produce images where subjects and focal points are arranged according to these diagonals, making scenes visually interesting and engaging, avoiding static or centered layouts. This composition is favored in photography, painting, and design for its ability to create harmonious and dynamic visuals that maintain viewer interest.",
+    "bestUseCases": [
+      "Dramatic portrait photography emphasizing dynamic posing and background interaction",
+      "Landscape scenes with natural elements aligned along diagonal lines for visual flow",
+      "Editorial illustrations requiring dynamic yet balanced layouts to guide reader attention"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds Composition",
+      "Diagonal Composition",
+      "Dynamic Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "golden-triangle-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Monochrome Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Monochrome Color Palette: Definition & Expert AI Prompt Tips",
+    "metaDescription": "Discover how to use a monochrome color palette in AI image prompts to create elegant, unified visuals. Learn best use cases, common mistakes, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/monochrome-color-palette.png",
+      "alt": "Elegant monochrome blue portrait with soft lighting and subtle textural details",
+      "title": "Monochrome blue portrait in soft lighting",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Employing a monochrome color palette in AI-generated images allows for creating minimalistic yet striking visuals. By constraining colors to one hue family, creators can convey mood and style consistently while focusing on composition and detail. This technique excels in editorial photography, product presentations, and artistic portraits, where color distraction is minimized and storytelling through form and light is enhanced. Using monochrome prompts guides the AI to simulate realistic materials and subtle depth through nuanced shading, resulting in premium, polished images suitable for professional use.",
+    "bestUseCases": [
+      "Minimalist editorial portraits emphasizing mood",
+      "Product photography with unified brand colors",
+      "Artistic interiors with subtle tonal variations"
+    ],
+    "relatedKeywords": [
+      "Duotone Color Palette",
+      "Neutral Color Palette",
+      "Gradients and Tints"
+    ],
+    "difficulty": "Beginner",
+    "slug": "monochrome-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Pastel Color Harmonies",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Pastel Color Harmonies: Soft, Balanced Palettes for AI Images",
+    "metaDescription": "Discover how Pastel Color Harmonies enhance AI-generated images with soft, balanced palettes. Learn prompt formulas, use cases, and creative variations.",
+    "heroImage": {
+      "src": "/images/keywords/pastel-color-harmonies.png",
+      "alt": "Elegant interior scene featuring pastel color harmonies with soft lighting and minimalistic furniture",
+      "title": "Modern Interior with Pastel Color Harmonies",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Pastel Color Harmonies are essential for creating gentle and visually pleasing images that emphasize softness and subtlety in color. Using pastel palettes, AI-generated images gain a delicate aesthetic often associated with calm, elegance, and modern minimalism. This approach mitigates harsh contrasts and intense hues, producing visuals ideal for editorial content, branding, and art that need a serene or sophisticated vibe. Incorporating pastel harmonies into AI prompts modifies the image’s overall mood, making scenes feel airy and inviting while maintaining a coherent and balanced color distribution.",
+    "bestUseCases": [
+      "Branding and packaging design emphasizing a soft, approachable look",
+      "Editorial illustrations and lifestyle photography with a calming aesthetic",
+      "Home decor and interior design visuals focusing on light, airy spaces"
+    ],
+    "relatedKeywords": [
+      "Soft Pastel Palette",
+      "Muted Color Schemes",
+      "Analogous Pastel Colors"
+    ],
+    "difficulty": "Beginner",
+    "slug": "pastel-color-harmonies",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
