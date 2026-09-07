@@ -9981,5 +9981,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Gradient Sky Colors",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Gradient Sky Colors: Enhance AI Image Prompts with Stunning Sky Effects",
+    "metaDescription": "Discover how using Gradient Sky Colors in AI image prompts transforms visuals with smooth color transitions, perfect for atmospheric and dynamic backgrounds.",
+    "heroImage": {
+      "src": "/images/keywords/gradient-sky-colors.png",
+      "alt": "A tranquil landscape featuring a gradient sky with smooth color transitions from pink to orange at sunset",
+      "title": "Landscape with Gradient Sky Colors at Sunset",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Incorporating Gradient Sky Colors into AI-generated images significantly enhances the atmospheric quality and visual depth of outdoor scenes. By blending multiple hues in a smooth, gradual fashion, these skies offer a natural yet captivating backdrop that supports various themes such as serenity, romance, or drama. This keyword is especially useful in settings featuring landscapes, cityscapes, or fantasy environments, enriching the emotional tone of an image. Using gradient skies in prompts allows creators to move beyond flat or uniform color skies, enabling more dynamic and mood-driven outputs that resonate well in editorial, advertising, and artistic contexts.",
+    "bestUseCases": [
+      "Creating serene and dynamic landscape photography or paintings with visually appealing skies",
+      "Designing backgrounds for editorial content and advertisements that evoke natural or emotional settings",
+      "Generating digital art or concept art that requires stylized and colorful atmospheric effects"
+    ],
+    "relatedKeywords": [
+      "sunset gradients",
+      "colorful sky transitions",
+      "atmospheric lighting effects"
+    ],
+    "difficulty": "Beginner",
+    "slug": "gradient-sky-colors",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Duochrome Contrast Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Duochrome Contrast Palette: Enhance AI Art with Vibrant Dual Tones",
+    "metaDescription": "Explore the Duochrome Contrast Palette keyword to create striking AI-generated images with balanced dual-color schemes for dynamic visual impact and depth.",
+    "heroImage": {
+      "src": "/images/keywords/duochrome-contrast-palette.png",
+      "alt": "AI-generated image showcasing a duochrome contrast palette with teal and orange tones, clean composition, refined lighting",
+      "title": "Duochrome Contrast Palette AI Art Example",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using a Duochrome Contrast Palette in AI-generated images involves combining two distinct contrasting colors to produce lively, attention-grabbing visuals. This method enhances compositions by providing a harmonious yet striking balance between two hues, often playing with differences in saturation, brightness, or temperature to add depth and vibrancy. Ideal for editorial designs, product renders, and artistic portraits, this palette style helps images stand out with refined color clarity and intensity, evoking strong mood and atmosphere.",
+    "bestUseCases": [
+      "Editorial hero images requiring vibrant but balanced color schemes",
+      "Product photography and branding visuals emphasizing dual-tone contrasts",
+      "Concept art and digital portraits seeking dramatic color interplay"
+    ],
+    "relatedKeywords": [
+      "Complementary Colors",
+      "Color Contrast",
+      "Palette Harmony"
+    ],
+    "difficulty": "Beginner",
+    "slug": "duochrome-contrast-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Organic Fabric Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Organic Fabric Texture: Natural Textile Surface for AI Art",
+    "metaDescription": "Explore the organic fabric texture keyword to create realistic natural textile surfaces in AI-generated images, ideal for design and commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/organic-fabric-texture.png",
+      "alt": "Close-up view of natural organic fabric texture showing detailed fibers and weave pattern",
+      "title": "Organic Fabric Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Organic fabric textures evoke the raw, natural qualities of textiles derived from plants and animals, such as cotton, linen, or wool. AI-generated images tagged with this keyword focus on capturing the tactile, authentic look of these fabrics. This includes detailed weaves, slight irregularities in fiber distribution, and earthy tones that convey warmth and eco-friendliness. Using organic fabric textures enhances visual storytelling when the goal is to emphasize sustainability, artisanal craftsmanship, or comfort in product visuals and editorial design. This keyword is suitable for creating nuanced backgrounds, material samples, and realistic textile representations in digital art and commercial imagery.",
+    "bestUseCases": [
+      "Fashion and textile product mockups requiring realistic fabric close-ups",
+      "Sustainable lifestyle brand visuals emphasizing natural materials",
+      "Interior design presentations showcasing eco-friendly upholstery"
+    ],
+    "relatedKeywords": [
+      "Natural Fabric Texture",
+      "Cotton Textile Surface",
+      "Linen Material Detail"
+    ],
+    "difficulty": "Beginner",
+    "slug": "organic-fabric-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

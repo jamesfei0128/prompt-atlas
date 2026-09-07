@@ -2651,6 +2651,30 @@
       "generationPrompt": "16:9 photo of a modern living room interior showcasing pastel color harmonies, soft natural light, minimalistic furniture, clean and refined ambiance, realistic materials, subtle depth of field, no text, no logos",
       "category": "Color",
       "keywordSlug": "pastel-color-harmonies"
+    },
+    {
+      "filename": "gradient-sky-colors.png",
+      "altText": "A tranquil landscape featuring a gradient sky with smooth color transitions from pink to orange at sunset",
+      "imageTitle": "Landscape with Gradient Sky Colors at Sunset",
+      "generationPrompt": "16:9 serene mountain landscape with a gradient sky blending warm pink and orange hues at sunset, soft natural lighting, realistic atmosphere, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "gradient-sky-colors"
+    },
+    {
+      "filename": "duochrome-contrast-palette.png",
+      "altText": "AI-generated image showcasing a duochrome contrast palette with teal and orange tones, clean composition, refined lighting",
+      "imageTitle": "Duochrome Contrast Palette AI Art Example",
+      "generationPrompt": "16:9 portrait shot featuring a duochrome contrast palette of teal and orange, refined lighting, clean background, realistic materials, subtle depth, high resolution, editorial style",
+      "category": "Color",
+      "keywordSlug": "duochrome-contrast-palette"
+    },
+    {
+      "filename": "organic-fabric-texture.png",
+      "altText": "Close-up view of natural organic fabric texture showing detailed fibers and weave pattern",
+      "imageTitle": "Organic Fabric Texture Close-up",
+      "generationPrompt": "A detailed close-up of organic fabric texture showing visible cotton fibers and weave pattern with soft natural lighting, muted earthy tones, matte finish, no text, no logos, no watermark, 16:9",
+      "category": "Texture & Material",
+      "keywordSlug": "organic-fabric-texture"
     }
   ]
 }
