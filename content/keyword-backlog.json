@@ -2425,27 +2425,27 @@
     "keyword": "Rough Canvas Surface",
     "slug": "rough-canvas-surface",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.892Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-08T13:59:32.963Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Polished Stone Material",
     "slug": "polished-stone-material",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.892Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-08T14:00:23.191Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Translucent Plastic Texture",
     "slug": "translucent-plastic-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.892Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-08T14:01:07.851Z",
     "source": "openai-discovery"
   },
   {
@@ -3309,6 +3309,321 @@
     "category": "Commercial Use",
     "status": "pending",
     "createdAt": "2026-08-25T10:21:08.421Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Morning Fog Atmosphere",
+    "slug": "morning-fog-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.971Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Fill Light Technique",
+    "slug": "fill-light-technique",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Moody Urban Atmosphere",
+    "slug": "moody-urban-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Contrast Color Palette",
+    "slug": "high-contrast-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Woven Fabric Texture",
+    "slug": "woven-fabric-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Diffuse Lighting Effect",
+    "slug": "diffuse-lighting-effect",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Symmetrical Balance Layout",
+    "slug": "symmetrical-balance-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Analog Film Color Palette",
+    "slug": "analog-film-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Ebook Cover Design",
+    "slug": "ebook-cover-design",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Winter Chill Atmosphere",
+    "slug": "winter-chill-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rustic Stone Texture",
+    "slug": "rustic-stone-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Packaging Mockup",
+    "slug": "product-packaging-mockup",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Fill Light Softening",
+    "slug": "fill-light-softening",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Misty Mountain Atmosphere",
+    "slug": "misty-mountain-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Triangle Layout",
+    "slug": "golden-triangle-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Satin Fabric Texture",
+    "slug": "satin-fabric-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Event Invitation Layout",
+    "slug": "event-invitation-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Studio Lighting Setup",
+    "slug": "studio-lighting-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Sunset Warm Atmosphere",
+    "slug": "sunset-warm-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Grid Composition",
+    "slug": "minimalist-grid-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pastel Color Palette",
+    "slug": "pastel-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Shadow Lighting",
+    "slug": "soft-shadow-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Framing With Negative Space",
+    "slug": "framing-with-negative-space",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Duotone Gradient Colors",
+    "slug": "duotone-gradient-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rough Concrete Texture",
+    "slug": "rough-concrete-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Brand Logo Presentation",
+    "slug": "brand-logo-presentation",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Window Light Setup",
+    "slug": "natural-window-light-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Calm Foggy Scene",
+    "slug": "calm-foggy-scene",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Diagonal Rule Composition",
+    "slug": "diagonal-rule-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.972Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Neutral Warm Color Palette",
+    "slug": "neutral-warm-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.973Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Leather Surface Texture",
+    "slug": "leather-surface-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.973Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Magazine Cover Layout",
+    "slug": "magazine-cover-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.973Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rembrandt Lighting Setup",
+    "slug": "rembrandt-lighting-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.973Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Twilight Evening Atmosphere",
+    "slug": "twilight-evening-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.973Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Centered Symmetry Composition",
+    "slug": "centered-symmetry-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-09-08T13:58:40.973Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }

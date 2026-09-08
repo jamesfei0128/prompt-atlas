@@ -28549,4 +28549,315 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Organic fabric textures often feature earthy, muted tones such as off-white, beige, light browns, and soft greys, reflecting undyed or naturally dyed materials that convey an eco-friendly aesthetic."
     }
   ]
+  },
+  {
+    title: "Rough Canvas Surface",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Rough Canvas Surface Texture for Realistic AI Imagery",
+    metaDescription: "Explore how the 'Rough Canvas Surface' keyword enhances AI image prompts with tactile texture, natural grain, and artistic depth for premium visuals.",
+    heroImage: keywordHero("rough-canvas-surface", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "'Rough Canvas Surface' refers to a textured appearance in AI-generated images simulating the coarse, uneven weave of natural canvas material. Including this keyword in prompts adds tactile realism, emphasizing the rough, fibrous fabric texture that affects light reflection and surface detail, producing rich, artistic visuals.",
+    visualCharacteristics: [
+    "Prominent, uneven fabric weave visible",
+    "Matte finish with subtle texture shadows",
+    "Natural irregularities resembling traditional canvas"
+  ],
+    overview: "Using 'Rough Canvas Surface' in AI image prompts introduces a rich textural layer that replicates the tactile qualities of genuine coarse canvas fabric. This texture lends authenticity and tactile depth by showcasing natural weave patterns and surface irregularities that scatter light softly. Ideal for artworks, product mockups, or backgrounds, this texture elevates imagery to feel handcrafted and organic. Its detailed grain adds subtle complexity without overpowering the composition, making it perfect for refined, premium visuals.",
+    whatItDoes: "This keyword directs AI models to simulate the physical characteristics of rough canvas, such as visible thread patterns, slight color variations, and surface texture depth. It enhances images by adding a tangible, textured background or subject detail that interacts with light naturally, producing realistic shadows and highlights. This effect enriches paintings, prints, and tactile designs, making elements appear more three-dimensional and authentically crafted.",
+    bestUseCases: [
+    "Backgrounds for digital paintings and sketches mimicking canvas",
+    "Product packaging and branding with natural fabric textures",
+    "Artistic photo overlays and editorial compositions needing tactile depth"
+  ],
+    relatedKeywords: [
+    "canvas texture",
+    "fabric weave",
+    "natural material texture"
+  ],
+    examplePrompt: "A still life oil painting on a rough canvas surface, warm natural light, realistic texture",
+    promptExamples: [
+    "A still life oil painting on a rough canvas surface, warm natural light, realistic texture",
+    "Vintage map print with rough canvas surface and subtle fiber details, soft shadows",
+    "Portrait sketch on rough canvas surface with visible weave and textured brushstrokes"
+  ],
+    commercialApplications: [
+    "Fine art reproduction mockups",
+    "Textile and interior design visualizations",
+    "Premium branding materials with tactile appeal"
+  ],
+    adobeStockPotential: "The 'Rough Canvas Surface' texture is highly suitable for Adobe Stock, given its wide applicability in art, design, and commercial projects. Stock images that authentically capture this tactile fabric quality appeal to artists, marketers, and designers seeking natural, handcrafted aesthetics in digital formats. Since the texture adds depth and realism without detracting from product or subject focus, it enhances image versatility across editorial, advertising, and creative content.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "The 'Rough Canvas Surface' keyword guides AI to simulate the tactile texture of authentic, coarse canvas fabric in generated images. This element adds a realistic, fibrous surface presence—showcasing visible weave and uneven texture patterns that influence light and shading, lending handmade and organic qualities to visuals."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To incorporate 'Rough Canvas Surface' in prompts effectively, combine texture descriptors with lighting and style terms. For example:",
+      "items": [
+        "[Subject] on rough canvas surface with visible weave and matte texture",
+        "[Artwork type] painted on a textured rough canvas surface under soft lighting",
+        "Close-up of [object] featuring rough canvas fabric grain and natural irregularities"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Creating digital artwork backgrounds that mimic real canvas texture",
+        "Designing packaging visuals requiring authentic fabric tactile feel",
+        "Adding texture depth to editorial photography and product mockups"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "Experienced prompt writers can refine the 'Rough Canvas Surface' effect by controlling lighting to emphasize texture shadows and highlights, pairing it with color grading for aged or vintage effects, and layering material references for mixed-media realism. Consider adding constraints like \"natural fiber imperfections,\" \"coarse weave pattern,\" or \"subtle fiber fraying\" to increase surface complexity and authenticity.",
+      "items": [
+        "Use directional soft lighting to enhance texture shadows",
+        "Combine with 'aged' or 'weathered' keywords for vintage looks",
+        "Specify fiber detail levels like 'fine weave' vs 'coarse weave' for texture variety"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start by defining the subject and selecting 'Rough Canvas Surface' to add tactile fabric texture. Generate multiple images with varied lighting and texture intensity. Review outputs for surface realism and composition fit. Refine prompts to adjust weave visibility or fabric tone. Once satisfied, finalize images with subtle post-processing to enhance texture detail while maintaining natural feel for professional-grade visuals.",
+      "items": [
+        "Brief clearly including texture and lighting details",
+        "Generate diverse image iterations with adjusted texture parameters",
+        "Select images showcasing optimal grain clarity and realistic lighting",
+        "Post-process lightly to sharpen or soften texture as needed"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does adding 'Rough Canvas Surface' affect AI image output?",
+      "answer": "It instructs the AI to simulate a coarse and textured fabric background or surface, enhancing tactile realism, visible weave patterns, and subtle light interaction consistent with natural canvas."
+    },
+    {
+      "question": "Can I combine 'Rough Canvas Surface' with other textures?",
+      "answer": "Yes, layering it with complementary textures like 'aged paper' or 'fabric weave' can create complex materials and enhance artistic effects with more nuanced surface detail."
+    }
+  ]
+  },
+  {
+    title: "Polished Stone Material",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Polished Stone Material Texture for Realistic AI Images",
+    metaDescription: "Explore how to use 'Polished Stone Material' in AI prompts to create realistic, refined textures perfect for architecture, interior design, and product visualization.",
+    heroImage: keywordHero("polished-stone-material", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "'Polished Stone Material' in AI image prompts refers to specifying a smooth, glossy stone surface that reflects light subtly and exhibits fine detail. This keyword instructs the AI to render textures with high shine and clear stone patterns, enhancing realism and material authenticity in generated images.",
+    visualCharacteristics: [
+    "Smooth, reflective surface with soft highlights",
+    "Visible natural stone veins or patterns",
+    "Glossy finish with subtle depth and light play"
+  ],
+    overview: "The 'Polished Stone Material' keyword enriches AI-generated imagery by adding the refined look of shiny, smooth stone surfaces such as marble or granite. When included in prompts, it guides the AI to depict realistic textures featuring lustrous reflections and intricate mineral patterns. This material is essential for creating premium visuals used in architecture, interior design, product renders, and luxury branding. The polished finish adds elegance and tactile appeal, elevating the perceived quality of the object or environment. Using this keyword correctly results in images that convey sophistication and material authenticity, critical for editorial and commercial use.",
+    whatItDoes: "Including 'Polished Stone Material' in AI prompts directs the model to simulate the physical qualities of polished stone surfaces—highly reflective but not mirror-like, with visible depth and organic veining. It alters the texture output from matte or rough stone to a smooth, shiny finish that interacts realistically with lighting. This makes the material look tangible and refined, ideal for detailed close-ups and hero images. Consequently, it improves visual appeal and communicates a premium aesthetic that resonates well across design and marketing projects.",
+    bestUseCases: [
+    "Architectural visualizations featuring marble floors or countertops",
+    "Luxury product mockups with stone bases or details",
+    "Interior design renders showcasing polished stone walls or tables"
+  ],
+    relatedKeywords: [
+    "Glossy Marble Texture",
+    "Highly Reflective Stone",
+    "Smooth Granite Surface"
+  ],
+    examplePrompt: "Close-up of a polished marble countertop with subtle beige veins, soft studio lighting, ultra-realistic detail",
+    promptExamples: [
+    "Close-up of a polished marble countertop with subtle beige veins, soft studio lighting, ultra-realistic detail",
+    "Modern living room interior featuring polished granite tile flooring, natural light from large windows, elegant and clean style",
+    "Luxury perfume bottle placed on a polished black stone surface, high gloss finish, reflective highlights"
+  ],
+    commercialApplications: [
+    "Luxury brand advertising emphasizing premium materials",
+    "Real estate marketing showcasing high-end interiors",
+    "E-commerce product photography for stone-based accessories"
+  ],
+    adobeStockPotential: "Polished stone material textures are highly sought after in stock image libraries due to their versatility and appeal in luxury and architectural visuals. Images capturing the precise luster, natural vein patterns, and smooth finishes of polished stone provide valuable assets for creatives in advertising, editorial, and ecommerce domains. Offering well-lit, realistic polished stone visuals increases chances of licensing success, making it a strong category for premium stock contributors.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "The term 'Polished Stone Material' describes a material appearance characterized by a smooth, glossy surface typical of stones like marble, granite, or quartz. When used in AI prompts, it instructs the model to generate textures that mimic the high reflectivity and detailed veining found in polished stone, adding realism and tactile quality to digital images."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To effectively incorporate 'Polished Stone Material' into your prompts, combine texture descriptors with environment and lighting terms for maximum effect. For example:",
+      "items": [
+        "\"polished stone material, smooth marble veining, soft natural light\"",
+        "\"high gloss polished granite surface, subtle reflections, studio lighting\"",
+        "\"shiny quartz stone texture, refined details, elegant shadowing\""
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Creating high-end architectural visuals with marble or granite elements",
+        "Designing luxury product mockups featuring stone components",
+        "Rendering realistic interior scenes highlighting polished stone floors and walls"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "body": "The 'Polished Stone Material' keyword is widely useful in various commercial fields. In advertising, it helps present luxurious products with stone accents. Editorial projects can benefit from realistic architectural imagery emphasizing materials. Ecommerce platforms leverage polished stone textures to enhance product displays, while interior design and real estate use it to portray refined living spaces.",
+      "items": [
+        "Advertising luxury goods and packaging",
+        "Editorial content for architecture and design magazines",
+        "Ecommerce websites featuring stone-crafted products and home decor"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "When using 'Polished Stone Material' in prompts, avoid vague or contradictory descriptors like mixing matte or rough textures with glossiness. Overemphasizing reflectivity may lead to unrealistic mirror-like surfaces, while poor lighting terms can wash out texture details. Balance shine with natural stone veining and direct lighting to maintain authenticity and avoid generic or artificial results.",
+      "items": [
+        "Using conflicting texture adjectives like \"rough polished stone\"",
+        "Overdoing reflections causing loss of detail",
+        "Neglecting lighting effects that highlight material depth"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How can I make polished stone surfaces look more realistic in AI images?",
+      "answer": "Focus on adding natural veining patterns, balanced glossiness, and realistic lighting with soft reflections to capture the material's depth and luster authentically."
+    },
+    {
+      "question": "Can 'Polished Stone Material' be combined with other materials in a prompt?",
+      "answer": "Yes, combining polished stone with materials like wood or metal can create rich compositions, but clearly specify each material's attributes to avoid blending or confusion in textures."
+    }
+  ]
+  },
+  {
+    title: "Translucent Plastic Texture",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Translucent Plastic Texture: Premium AI Image Prompt Guide",
+    metaDescription: "Explore how to craft realistic translucent plastic textures in AI images. Learn prompt formulas, best use cases, and expert techniques for stunning results.",
+    heroImage: keywordHero("translucent-plastic-texture", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "Translucent plastic texture refers to a semi-transparent material appearance that allows light to pass through diffusely, creating a glowing, soft visual effect in AI-generated images. Including this keyword in AI prompts instructs the model to produce surfaces that resemble frosted or see-through plastics, enhancing realism and material authenticity in renders.",
+    visualCharacteristics: [
+    "Soft light diffusion with partial transparency",
+    "Smooth, slightly matte surface finish",
+    "Subtle internal reflections and glow effects"
+  ],
+    overview: "Translucent plastic texture is prized in visual design for its ability to impart depth and realism to digital materials. It simulates surfaces like frosted glass or thin plastic sheets that diffuse light while retaining some visibility of objects behind them. In AI image generation, specifying 'translucent plastic texture' guides models to produce nuanced light interplay, soft shadows, and partial transparency that enrich material realism without full opacity. This texture is widely used in product visualization, packaging design, and creative artwork to evoke a clean, modern aesthetic with tactile appeal. Incorporating this descriptor refines prompt outcomes, enabling artists and designers to achieve premium, photorealistic surfaces efficiently.",
+    whatItDoes: "When added to AI image prompts, 'translucent plastic texture' directs the model to recreate the distinctive characteristics of frosted or semi-transparent plastic materials. It alters how light interacts with surfaces by emphasizing diffuse transmission and soft reflections rather than sharp gloss. This adjustment results in images where materials appear more natural and convincing, with subtle internal glow and gentle shadowing. The keyword helps constrain the AI's material rendering style, ensuring objects look less flat or artificial. It also supports variations in translucency level, thickness, and surface details, which elevates the believability in product shots, environmental objects, and stylized designs.",
+    bestUseCases: [
+    "Rendering product packaging that features frosted plastic components",
+    "Illustrating modern tech gadgets with translucent casings",
+    "Creating artistic compositions with subtle light diffusion effects"
+  ],
+    relatedKeywords: [
+    "Frosted Glass Texture",
+    "Semi-Transparent Material",
+    "Plastic Material Shader"
+  ],
+    examplePrompt: "Close-up shot of a translucent plastic phone case with soft lighting and realistic texture",
+    promptExamples: [
+    "Close-up shot of a translucent plastic phone case with soft lighting and realistic texture",
+    "Packaging design with translucent plastic wrap showing product details subtly",
+    "Futuristic lamp with translucent plastic shade casting diffused light"
+  ],
+    commercialApplications: [
+    "Consumer electronics product visualization",
+    "Cosmetic packaging design mockups",
+    "Interior design lighting fixture renderings"
+  ],
+    adobeStockPotential: "Images featuring translucent plastic textures have strong commercial appeal in stock photography due to their versatility and modern aesthetic. They fit well into categories like product visualization, advertising backgrounds, and technology concept art. Such images meet high demand from marketers, designers, and publishers seeking clean and realistic material shots that communicate sophistication and quality. With refined lighting and subtle texture details, translucent plastic renders can command premium usage fees and enjoy frequent downloads on platforms like Adobe Stock. Their neutral yet stylish look makes them ideal hero visuals for articles, thumbnails, and promotional graphics.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Translucent plastic texture describes a material surface that allows light to pass through diffusely, creating a soft and glowing effect with partial visibility of objects behind it. In AI image prompts, using this keyword directs the model to simulate surfaces resembling frosted or semi-transparent plastics, enhancing material realism and subtle translucency in generated images."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To incorporate translucent plastic texture effectively in AI prompts, use these formula patterns:\n\n- [Object] with translucent plastic texture and soft diffused lighting\n- Close-up of [material] showing translucent plastic surface with subtle internal glow\n- Product design featuring translucent plastic texture combined with realistic shadows\n\nCombine with adjectives like \"frosted,\" \"matte,\" \"semi-transparent\" to specify variations.",
+      "items": [
+        "[Object] with translucent plastic texture and soft diffused lighting",
+        "Close-up of [material] showing translucent plastic surface with subtle internal glow",
+        "Product design featuring translucent plastic texture combined with realistic shadows"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Visualizing consumer products with frosted or semi-transparent plastic parts",
+        "Designing packaging elements that require a subtle see-through effect",
+        "Creating digital artwork emphasizing light diffusion and material depth"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "Enhance prompt specificity by combining 'translucent plastic texture' with lighting and environment descriptors. For example, add \"rendered with volumetric lighting\" to emphasize light scattering inside the material, or \"macro shot with fine surface imperfections\" to highlight realistic texture details. Experiment with translucency levels by pairing with terms like \"lightly frosted\" or \"deeply translucent\". Using negative prompts such as \"no sharp reflections\" can prevent unwanted glossiness and maintain the soft appearance. Layer materials in multi-object scenes to showcase interaction of translucent plastics with colored backdrops or internal illumination.",
+      "items": [
+        "Combine with volumetric lighting for rich light scattering effects",
+        "Use macro shots to emphasize detailed surface imperfections",
+        "Specify translucency intensity: 'lightly frosted' vs. 'deeply translucent'",
+        "Apply negative prompts to reduce sharp reflections",
+        "Layer with colored lighting to enhance internal glow"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start by defining the material properties and conceptualizing the specific translucent plastic look your project needs. Write detailed prompts incorporating material and lighting descriptors to generate initial image sets. Review outputs selecting those that best capture translucency and texture subtleties. Refine prompts adjusting translucency levels, gloss, and lighting until the desired balance of diffusion and clarity is achieved. Use iterative upscaling and compositing techniques if needed for final polish. Maintain organized prompt versions and metadata to streamline future asset generation and reuse.",
+      "items": [
+        "Define material and lighting attributes clearly in prompts",
+        "Generate multiple image variants for comparison",
+        "Select images excelling in translucency realism",
+        "Refine prompts iteratively focusing on texture and light",
+        "Apply post-processing or compositing for final polish"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "items": [
+        "Frosted Glass Texture",
+        "Semi-Transparent Materials",
+        "Matte Plastic Finishes"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "For optimal results across modern AI models, use clear, descriptive language over rigid syntax. Avoid overly technical jargon or brand-specific terms; instead, focus on sensory cues like \"soft light diffusion\" and \"subtle internal glow.\" Balance material keywords with lighting conditions to guide realistic translucency. Test prompts incrementally refining translucency adjectives, and incorporate negative phrases to suppress unwanted reflections or opacity. Utilize native model strengths in rendering glossy or matte finishes, adapting your descriptors accordingly to each model's output characteristics.",
+      "items": [
+        "Use sensory and descriptive language rather than technical jargon",
+        "Combine material and lighting descriptors clearly",
+        "Incrementally refine translucency adjectives",
+        "Include negative prompts to control reflections",
+        "Adapt wording to model-specific finish rendering capabilities"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does 'translucent plastic texture' affect AI image generation?",
+      "answer": "It guides the AI to simulate semi-transparent plastic surfaces that diffuse light softly, producing realistic material appearances with partial visibility through the object."
+    },
+    {
+      "question": "Can translucent plastic textures vary in opacity?",
+      "answer": "Yes, by adding adjectives like 'lightly frosted' or 'deeply translucent' in prompts, you can control the level of opacity and light diffusion in the generated texture."
+    }
+  ]
   }];

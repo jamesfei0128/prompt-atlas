@@ -2675,6 +2675,30 @@
       "generationPrompt": "A detailed close-up of organic fabric texture showing visible cotton fibers and weave pattern with soft natural lighting, muted earthy tones, matte finish, no text, no logos, no watermark, 16:9",
       "category": "Texture & Material",
       "keywordSlug": "organic-fabric-texture"
+    },
+    {
+      "filename": "rough-canvas-surface.png",
+      "altText": "Close-up detail of rough canvas surface texture showing coarse fibers and natural weave pattern",
+      "imageTitle": "Rough Canvas Surface Texture Detail",
+      "generationPrompt": "16:9 highly detailed close-up of rough canvas fabric texture with visible coarse weave, natural cream color, soft diffuse lighting, realistic materials, studio background, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-canvas-surface"
+    },
+    {
+      "filename": "polished-stone-material.png",
+      "altText": "Close-up of a polished marble stone surface showing glossy texture and natural veins",
+      "imageTitle": "Polished Marble Stone Material Texture",
+      "generationPrompt": "16:9 close-up of a polished marble stone surface with natural beige veins, soft studio lighting, high realism, clean background, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "polished-stone-material"
+    },
+    {
+      "filename": "translucent-plastic-texture.png",
+      "altText": "Close-up of translucent plastic texture showing soft light diffusion with a frosted surface finish",
+      "imageTitle": "Translucent Plastic Texture Sample",
+      "generationPrompt": "16:9 close-up of translucent plastic texture, soft diffused lighting, realistic material surface, frosted semi-transparent plastic, subtle internal glow, premium stock image style, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "translucent-plastic-texture"
     }
   ]
 }
