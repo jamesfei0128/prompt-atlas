@@ -2699,6 +2699,30 @@
       "generationPrompt": "16:9 close-up of translucent plastic texture, soft diffused lighting, realistic material surface, frosted semi-transparent plastic, subtle internal glow, premium stock image style, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "translucent-plastic-texture"
+    },
+    {
+      "filename": "embossed-leather-texture.png",
+      "altText": "Close-up of realistic embossed leather texture with fine grain and raised patterns",
+      "imageTitle": "Embossed Leather Texture Close-Up",
+      "generationPrompt": "16:9 photorealistic close-up of embossed leather texture, dark brown color, soft natural lighting, fine grain details, sharp focus, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "embossed-leather-texture"
+    },
+    {
+      "filename": "misty-forest-atmosphere.png",
+      "altText": "Misty forest with soft fog and diffused light creating a serene, ethereal atmosphere",
+      "imageTitle": "Ethereal Misty Forest Landscape",
+      "generationPrompt": "A serene forest scene covered in soft mist and light fog, diffused early morning light filtering through tall trees, muted green and gray tones, subtle depth, realistic materials, clean composition, 16:9 aspect ratio, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "misty-forest-atmosphere"
+    },
+    {
+      "filename": "cozy-indoor-warmth.png",
+      "altText": "Warm and inviting indoor living room glowing with soft amber light, cozy textiles, and a lit fireplace",
+      "imageTitle": "Cozy Indoor Warmth in Living Room Scene",
+      "generationPrompt": "16:9 aspect ratio, a warm and inviting indoor living room scene with soft amber lighting, plush cushions and blankets, lit fireplace, natural wooden furniture, realistic shadows and textures, cozy indoor warmth, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "cozy-indoor-warmth"
     }
   ]
 }

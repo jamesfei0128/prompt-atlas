@@ -10161,5 +10161,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Embossed Leather Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Embossed Leather Texture: Premium Realistic Material for AI Art",
+    "metaDescription": "Discover how to create realistic embossed leather textures in AI images. Learn visual traits, prompt formulas, creative uses, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/embossed-leather-texture.png",
+      "alt": "Close-up of realistic embossed leather texture with fine grain and raised patterns",
+      "title": "Embossed Leather Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Embossed leather texture is a specialized material representation used in AI-generated images to simulate luxurious and tactile surfaces often found in fashion, upholstery, and accessories. By integrating 'embossed leather texture' in prompts, artists can achieve highly detailed visuals characterized by the interplay of raised patterns and natural leather grain, rendered with refined lighting and subtle depth. This texture lends a premium and sophisticated feel, suitable for editorial product shots, background elements, or design mockups. Employing embossed leather enhances images by conveying material realism and surface complexity, enriching the sensory experience for viewers and buyers alike.",
+    "bestUseCases": [
+      "Creating realistic product mockups for leather goods like wallets, belts, and bags",
+      "Background textures in fashion and interior design visuals to evoke luxury",
+      "Marketing imagery for premium lifestyle brands emphasizing material quality"
+    ],
+    "relatedKeywords": [
+      "Leather Grain Texture",
+      "Vintage Embossed Pattern",
+      "Luxurious Material Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "embossed-leather-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Misty Forest Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Misty Forest Atmosphere: Enhance AI Images with Fog and Soft Light",
+    "metaDescription": "Explore how the Misty Forest Atmosphere keyword enriches AI image prompts with foggy, ethereal woodland scenes. Learn prompt formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/misty-forest-atmosphere.png",
+      "alt": "Misty forest with soft fog and diffused light creating a serene, ethereal atmosphere",
+      "title": "Ethereal Misty Forest Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Misty Forest Atmosphere keyword is used in AI art generation to evoke a tranquil and mysterious mood within wooded landscapes. By simulating the presence of early morning fog or mist shrouding trees and underbrush, this prompt detail adds soft depth and a sense of calm isolation to images. The low contrast and de-saturated tones typical of misty scenes create a dreamy, almost otherworldly feel that is visually compelling. Artists and designers use this atmosphere to craft scenes that are both peaceful and evocative, often serving as backgrounds for stories, nature art, or mood boards. It works well in both photorealistic and stylized compositions, enhancing the emotional resonance through natural environmental effects.",
+    "bestUseCases": [
+      "Backgrounds for fantasy and nature-themed illustrations",
+      "Editorial imagery evoking calmness or mystery",
+      "Stock photos requiring natural, serene woodland ambiance"
+    ],
+    "relatedKeywords": [
+      "Foggy Morning",
+      "Enchanted Forest",
+      "Soft Natural Light"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "misty-forest-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Cozy Indoor Warmth",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Cozy Indoor Warmth: Capturing Inviting Atmospheres in AI Art",
+    "metaDescription": "Explore how to evoke cozy indoor warmth in AI images with prompt formulas, best use cases, and professional tips for rich, inviting scenes.",
+    "heroImage": {
+      "src": "/images/keywords/cozy-indoor-warmth.png",
+      "alt": "Warm and inviting indoor living room glowing with soft amber light, cozy textiles, and a lit fireplace",
+      "title": "Cozy Indoor Warmth in Living Room Scene",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Cozy Indoor Warmth' keyword focuses on generating imagery that feels inviting, comfortable, and emotionally warm within indoor environments. It enhances AI-generated images by highlighting ambient lighting, tactile textures, and intimacy through visual cues familiar from snug home settings—like plush cushions or flickering fireplaces. This keyword is critical for artists and designers aiming to evoke feelings of relaxation, contentment, and homeliness in interiors, product photography, or lifestyle visuals. Its subtle yet powerful influence shifts AI model outputs toward a sensory experience that appeals to comfort and warmth lovers.",
+    "bestUseCases": [
+      "Lifestyle photography showcasing home interiors with inviting vibes",
+      "Advertising cozy products like blankets, candles, or hot beverages",
+      "Editorial images for seasonal content emphasizing warmth and comfort"
+    ],
+    "relatedKeywords": [
+      "Warm Ambient Lighting",
+      "Snug Interior",
+      "Inviting Home Decor"
+    ],
+    "difficulty": "Beginner",
+    "slug": "cozy-indoor-warmth",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
