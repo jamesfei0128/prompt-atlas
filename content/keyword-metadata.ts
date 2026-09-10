@@ -10251,5 +10251,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Editorial Fashion Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Editorial Fashion Layout: Crafting Stunning AI Image Prompts",
+    "metaDescription": "Learn how to create clean, premium editorial fashion layout prompts for AI imaging, perfect for commercial use and professional visuals.",
+    "heroImage": {
+      "src": "/images/keywords/editorial-fashion-layout.png",
+      "alt": "Elegant female model in editorial fashion layout with refined lighting and clean composition",
+      "title": "Editorial Fashion Layout Example Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "An editorial fashion layout is a key concept in commercial photography and graphic design that evokes the exclusive, curated aesthetic common in fashion magazines. When used in AI image prompting, it aims to produce images that resemble professional editorial spreads—featuring models, styling, and settings arranged with attention to balance, light, and mood characteristic of premium editorial content. This keyword helps prompt creators get images that look polished, realistic, and fit for use as article hero images or commercial fashion campaigns, reflecting the latest visual trends without extraneous elements like text or logos.",
+    "bestUseCases": [
+      "Creating hero images for fashion and lifestyle articles.",
+      "Producing clean, commercial stock photos for advertising campaigns.",
+      "Designing refined editorial spreads suitable for print or digital magazines."
+    ],
+    "relatedKeywords": [
+      "Fashion Photography Lighting",
+      "Magazine Cover Style",
+      "Luxury Product Shoot"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "editorial-fashion-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Product Showcase Setup",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Product Showcase Setup for Premium AI Image Prompts",
+    "metaDescription": "Discover how to craft stunning product showcase setups in AI image prompts for commercial use with refined lighting and clean compositions.",
+    "heroImage": {
+      "src": "/images/keywords/product-showcase-setup.png",
+      "alt": "Premium product showcase setup with clean background and soft lighting",
+      "title": "Product Showcase Setup Example Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "A Product Showcase Setup keyword guides AI image generation to create scenes where products are displayed in a controlled, studio-like environment. It ensures images resemble professional commercial photography, focusing on clean editorial compositions with premium polish and refined lighting. This setup avoids clutter and distractions, emphasizing realistic materials and subtle depth. The keyword is essential for producing images suitable for article hero sections, thumbnails, and commercial catalogs, delivering a consistent modern aesthetic without text, logos, or watermarks.",
+    "bestUseCases": [
+      "E-commerce website hero images highlighting new product releases",
+      "Advertising materials requiring clean and polished product visuals",
+      "Editorial articles showcasing product features with premium stock-image quality"
+    ],
+    "relatedKeywords": [
+      "commercial photography setup",
+      "minimalist product display",
+      "premium lighting arrangement"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "product-showcase-setup",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Social Media Banner Design",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Social Media Banner Design: AI Image Prompt Guide",
+    "metaDescription": "Discover how to craft effective AI prompts for social media banner design, with formulas, use cases, tips, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/social-media-banner-design.png",
+      "alt": "Modern social media banner design with clean editorial style and subtle depth",
+      "title": "Social Media Banner Design Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Social Media Banner Design is a crucial category in AI image generation aimed at producing graphics optimized for social media headers, ads, and promotional content. These designs prioritize clean layouts, modern aesthetics, and balanced lighting to ensure clarity and premium appeal. Using this keyword helps prompt AI models to focus on the visual language suitable for digital marketing banners—emphasizing readability, simplicity, and brand adaptability without text or logos. This is essential for marketers and designers who want to generate versatile hero images or thumbnails ready for social media use, maintaining consistency and professionalism across campaigns.",
+    "bestUseCases": [
+      "Creating banner images for Facebook and Twitter campaign headers",
+      "Designing clean and adaptable LinkedIn cover photos",
+      "Generating promotional ad visuals for Instagram stories and posts"
+    ],
+    "relatedKeywords": [
+      "Digital Marketing Visuals",
+      "Social Media Ad Design",
+      "Branding Banner Graphics"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "social-media-banner-design",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
