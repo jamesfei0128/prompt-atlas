@@ -2747,6 +2747,30 @@
       "generationPrompt": "16:9 modern social media banner design, clean editorial composition, subtle depth, refined lighting, realistic materials, premium stock-image polish, no text, no logos, no watermark",
       "category": "Commercial Use",
       "keywordSlug": "social-media-banner-design"
+    },
+    {
+      "filename": "website-hero-image-style.png",
+      "altText": "Modern website hero image with clean editorial style and refined lighting",
+      "imageTitle": "Website Hero Image Style Sample",
+      "generationPrompt": "16:9 minimalistic modern office workspace with natural lighting, clean editorial composition, realistic materials, subtle depth, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "website-hero-image-style"
+    },
+    {
+      "filename": "event-poster-composition.png",
+      "altText": "Clean and balanced event poster composition with realistic lighting and subtle depth",
+      "imageTitle": "Event Poster Composition Sample Image",
+      "generationPrompt": "16:9 image of a commercial event poster layout, clean editorial composition, balanced focal points, subtle lighting, realistic materials, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "event-poster-composition"
+    },
+    {
+      "filename": "app-interface-background.png",
+      "altText": "Minimalist app interface background with soft pastel gradient and subtle texture",
+      "imageTitle": "Clean Minimalist App Interface Background",
+      "generationPrompt": "16:9 ultra wide shot of a minimalist app interface background with soft pastel gradients and subtle textured overlay, refined lighting, clean editorial composition, premium stock-image polish, no text, no logos, no watermark, suitable for article heroes and thumbnails",
+      "category": "Commercial Use",
+      "keywordSlug": "app-interface-background"
     }
   ]
 }

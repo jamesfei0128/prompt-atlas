@@ -10341,5 +10341,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Website Hero Image Style",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Website Hero Image Style: Crafting Impactful AI Prompts",
+    "metaDescription": "Discover the Website Hero Image Style in AI prompts for striking, modern hero images. Learn formulas, best uses, mistakes, and pro workflows.",
+    "heroImage": {
+      "src": "/images/keywords/website-hero-image-style.png",
+      "alt": "Modern website hero image with clean editorial style and refined lighting",
+      "title": "Website Hero Image Style Sample",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Website hero images are the key visual elements that greet visitors upon arriving at a webpage. They set tone, convey brand identity, and enhance user engagement. The 'Website Hero Image Style' keyword instructs AI image generators to produce visuals suited for this prominent placement, emphasizing clarity, modern aesthetics, and adaptability. This style channels high-end stock image polish with natural textures and lighting while maintaining simplicity. It avoids clutter and distractions, providing versatile images usable across various digital platforms in clean, contemporary designs.",
+    "bestUseCases": [
+      "Creating banner visuals for corporate and startup websites",
+      "Designing lead images for digital marketing campaigns",
+      "Producing thumbnail cards for articles and online portfolios"
+    ],
+    "relatedKeywords": [
+      "Clean Editorial Composition",
+      "Premium Stock Image",
+      "Realistic Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "website-hero-image-style",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Event Poster Composition",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Event Poster Composition: Crafting Impactful Visual Layouts",
+    "metaDescription": "Discover how to create compelling event poster compositions with clear layouts, balanced visuals, and premium stock polish for commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/event-poster-composition.png",
+      "alt": "Clean and balanced event poster composition with realistic lighting and subtle depth",
+      "title": "Event Poster Composition Sample Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Event Poster Composition is an essential keyword for AI-generated imagery aimed at creating effective promotional materials. It guides the AI to arrange elements within the frame in a way that catches viewers’ attention while maintaining clarity. This composition style typically features distinct focal areas where event details could be inserted, complemented by aesthetic background and graphic elements that reinforce the theme. Ideal for commercial applications, it supports various event types such as concerts, exhibitions, or corporate gatherings. The images generated prioritize clean editorial looks with controlled lighting and a realistic finish, enhancing their appeal for professional use.",
+    "bestUseCases": [
+      "Designing promotional materials for concerts, conferences, and festivals",
+      "Creating hero images for event-related articles or websites",
+      "Providing high-quality, customizable visuals for marketing agencies"
+    ],
+    "relatedKeywords": [
+      "Editorial Layout",
+      "Commercial Stock Image",
+      "Promotional Graphic Design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "event-poster-composition",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "App Interface Background",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "App Interface Background: Clean, Modern AI Image Prompts",
+    "metaDescription": "Discover how to create polished, versatile app interface backgrounds using AI prompts. Learn formulas, use cases, and pro workflow tips for commercial design.",
+    "heroImage": {
+      "src": "/images/keywords/app-interface-background.png",
+      "alt": "Minimalist app interface background with soft pastel gradient and subtle texture",
+      "title": "Clean Minimalist App Interface Background",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "App Interface Backgrounds are fundamental elements in app design, providing context and visual comfort for users. They range from simple solid colors to intricate abstract patterns or soft gradients. When incorporated as a keyword in AI image prompts, 'App Interface Background' steers image generation towards backgrounds optimized for screen display, emphasizing clarity, balance, and user focus. This ensures the produced image can seamlessly integrate into app interfaces, serving as hero images, login screens, or dashboard backdrops without distraction.",
+    "bestUseCases": [
+      "Designing login or splash screen backgrounds for mobile apps",
+      "Creating dashboard or data visualization backdrop images",
+      "Generating hero backgrounds for app marketing and promo materials"
+    ],
+    "relatedKeywords": [
+      "Minimalist Background",
+      "Abstract Interface Background",
+      "Tech UI Background"
+    ],
+    "difficulty": "Beginner",
+    "slug": "app-interface-background",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
