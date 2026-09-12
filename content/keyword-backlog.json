@@ -2533,27 +2533,27 @@
     "keyword": "Cinematic Color Grading",
     "slug": "cinematic-color-grading",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-12T13:14:01.686Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Vintage Film Grain Style",
     "slug": "vintage-film-grain-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-12T13:14:31.707Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Painterly Brushstroke Style",
     "slug": "painterly-brushstroke-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-12T13:15:00.925Z",
     "source": "openai-discovery"
   },
   {

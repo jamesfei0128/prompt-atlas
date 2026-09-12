@@ -2771,6 +2771,30 @@
       "generationPrompt": "16:9 ultra wide shot of a minimalist app interface background with soft pastel gradients and subtle textured overlay, refined lighting, clean editorial composition, premium stock-image polish, no text, no logos, no watermark, suitable for article heroes and thumbnails",
       "category": "Commercial Use",
       "keywordSlug": "app-interface-background"
+    },
+    {
+      "filename": "cinematic-color-grading.png",
+      "altText": "AI-generated cinematic portrait with teal and orange color grading and dramatic lighting",
+      "imageTitle": "Cinematic Color Grading AI Image Example",
+      "generationPrompt": "16:9 portrait of a person under dramatic cinematic color grading, teal and orange tones, soft shadows, film grain texture, photorealistic lighting, clean editorial composition, premium stock image quality",
+      "category": "Style",
+      "keywordSlug": "cinematic-color-grading"
+    },
+    {
+      "filename": "vintage-film-grain-style.png",
+      "altText": "Portrait of a young woman in 1950s fashion with subtle vintage film grain texture enhancing warmth and nostalgic style",
+      "imageTitle": "Vintage Film Grain Style Portrait",
+      "generationPrompt": "16:9 portrait of a woman dressed in 1950s style clothes, warm lighting, subtle vintage film grain texture overlay, soft focus, cinematic composition, realistic materials, clean editorial composition, premium stock-image quality, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "vintage-film-grain-style"
+    },
+    {
+      "filename": "painterly-brushstroke-style.png",
+      "altText": "AI generated portrait in painterly brushstroke style with visible textured oil brushstrokes",
+      "imageTitle": "Painterly Brushstroke Style Portrait",
+      "generationPrompt": "A detailed portrait of a woman painted in painterly brushstroke style, rich oil painting textures, visible dynamic brush strokes, layered warm colors, soft natural lighting, 16:9 ratio, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "painterly-brushstroke-style"
     }
   ]
 }

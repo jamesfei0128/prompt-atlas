@@ -10431,5 +10431,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Cinematic Color Grading",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Cinematic Color Grading: Enhance AI Images with Filmic Style",
+    "metaDescription": "Discover how cinematic color grading transforms AI images with dramatic, film-inspired tones. Learn best uses, prompt formulas, and pro techniques to create stunning visuals.",
+    "heroImage": {
+      "src": "/images/keywords/cinematic-color-grading.png",
+      "alt": "AI-generated cinematic portrait with teal and orange color grading and dramatic lighting",
+      "title": "Cinematic Color Grading AI Image Example",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Cinematic color grading is a popular stylistic approach in AI image creation that mimics the mood-setting colors of major motion pictures. By applying this technique, images gain enhanced emotional impact through controlled color shifts, contrast adjustments, and lighting refinements. When used in prompts, it guides the AI to introduce film-inspired color schemes and a polished finish, adding narrative depth and a professional touch. This style is especially effective for characters, landscapes, or scenes that require a dramatic aesthetic, evocative storytelling, or a nostalgic, vintage cinema vibe. It bridges artistic photography and filmmaking visuals within digital artwork.",
+    "bestUseCases": [
+      "Creating cinematic movie posters and promotional art with dramatic lighting",
+      "Generating atmospheric character portraits for games and storytelling",
+      "Designing moody landscapes and cityscapes with film-like ambience"
+    ],
+    "relatedKeywords": [
+      "Film Noir Style",
+      "Moody Lighting",
+      "Vintage Film Look"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "cinematic-color-grading",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Vintage Film Grain Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Vintage Film Grain Style: Enhance AI Images with Retro Texture",
+    "metaDescription": "Discover how to use Vintage Film Grain Style in AI image prompts to create authentic retro textures and artistic effects for photography and design projects.",
+    "heroImage": {
+      "src": "/images/keywords/vintage-film-grain-style.png",
+      "alt": "Portrait of a young woman in 1950s fashion with subtle vintage film grain texture enhancing warmth and nostalgic style",
+      "title": "Vintage Film Grain Style Portrait",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Vintage Film Grain Style is a popular approach in AI-generated imagery to evoke a sense of nostalgia and classic photographic aesthetics. By simulating the unique texture caused by physical film grains, this style lends realism and artistic depth to digital creations. It is especially effective for portraits, landscapes, and cinematic scenes where a retro or timeless atmosphere is desired. Adding this style in AI prompts helps blend modern visuals with vintage charm, producing images that feel both authentic and evocative.",
+    "bestUseCases": [
+      "Portrait photography with nostalgic mood",
+      "Film posters and cinematic digital art",
+      "Editorial spreads needing old-school ambiance"
+    ],
+    "relatedKeywords": [
+      "Analog Film Look",
+      "Retro Photography Style",
+      "Classic Film Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "vintage-film-grain-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Painterly Brushstroke Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Painterly Brushstroke Style: Artistic AI Image Prompt Technique",
+    "metaDescription": "Learn how to use the Painterly Brushstroke Style in AI prompts to create vivid, textured images with dynamic brush effects and artistic flair.",
+    "heroImage": {
+      "src": "/images/keywords/painterly-brushstroke-style.png",
+      "alt": "AI generated portrait in painterly brushstroke style with visible textured oil brushstrokes",
+      "title": "Painterly Brushstroke Style Portrait",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Painterly Brushstroke Style is an artistic rendering approach that mimics the effect of traditional painting techniques, especially oil or acrylic brushwork. Instead of sharp, crisp digital lines, this style produces images with tactile texture, highlighting the brush's motion and layering of color. It lends images a warm, handcrafted feeling that appeals to art lovers and creative professionals seeking authenticity and emotional impact. When used in AI prompt crafting, it transforms generated images into artworks that resemble a masterful painting rather than a mere digital creation, ideal for editorial illustrations, creative concept art, and fine art reproductions.",
+    "bestUseCases": [
+      "Creating fine art or gallery-style portrait reinterpretations",
+      "Designing editorial illustrations with artistic texture",
+      "Generating concept art with vivid painterly effects"
+    ],
+    "relatedKeywords": [
+      "Impressionist Style",
+      "Oil Painting Style",
+      "Textured Art Style"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "painterly-brushstroke-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
