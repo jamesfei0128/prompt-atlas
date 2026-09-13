@@ -2795,6 +2795,30 @@
       "generationPrompt": "A detailed portrait of a woman painted in painterly brushstroke style, rich oil painting textures, visible dynamic brush strokes, layered warm colors, soft natural lighting, 16:9 ratio, no text, no logos",
       "category": "Style",
       "keywordSlug": "painterly-brushstroke-style"
+    },
+    {
+      "filename": "line-art-illustration-style.png",
+      "altText": "Minimalist line art illustration of a woman's face with clean bold outlines and no shading",
+      "imageTitle": "Line Art Illustration Style Example",
+      "generationPrompt": "16:9 minimalist line art illustration of a female face, clean bold black outlines, no shading, white background, high detail, subtle depth, editorial style",
+      "category": "Style",
+      "keywordSlug": "line-art-illustration-style"
+    },
+    {
+      "filename": "minimalist-icon-set-design.png",
+      "altText": "Minimalist icon set design showing simple geometric icons with consistent line weight on white background",
+      "imageTitle": "Minimalist Icon Set Design Sample",
+      "generationPrompt": "16:9 composition of a minimalist icon set with simple geometric shapes, consistent line thickness, monochrome palette, clean white background, vector style, refined lighting, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "minimalist-icon-set-design"
+    },
+    {
+      "filename": "hand-drawn-cartoon-style.png",
+      "altText": "Hand drawn cartoon style illustration of playful character with bold lines and vibrant colors",
+      "imageTitle": "Hand Drawn Cartoon Style Example Illustration",
+      "generationPrompt": "16:9 image of a cheerful cartoon character drawn in hand drawn cartoon style, bold black outlines, vibrant flat colors, simple shading, on white textured paper background, clean editorial composition, premium stock-image polish",
+      "category": "Style",
+      "keywordSlug": "hand-drawn-cartoon-style"
     }
   ]
 }

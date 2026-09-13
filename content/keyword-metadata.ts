@@ -10521,5 +10521,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Line Art Illustration Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Line Art Illustration Style: Definition, Uses & Techniques",
+    "metaDescription": "Explore the Line Art Illustration Style for AI prompts. Learn definitions, best uses, industries, mistakes, advanced tips, and professional workflow guidance.",
+    "heroImage": {
+      "src": "/images/keywords/line-art-illustration-style.png",
+      "alt": "Minimalist line art illustration of a woman's face with clean bold outlines and no shading",
+      "title": "Line Art Illustration Style Example",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Line Art Illustration Style is a versatile graphic approach characterized by clean, continuous lines that define the shapes and forms of the subject. This style eliminates complex textures and color variations, resulting in minimalist and visually striking images. In AI-generated images, including this keyword instructs the model to focus on contour and form, making it ideal for icons, logos, sketches, and editorial visuals. Its simplicity enhances clarity and adaptability across various design contexts, especially where readability and visual impact are crucial.",
+    "bestUseCases": [
+      "Technical and instructional illustrations",
+      "Logo and icon design sketches",
+      "Editorial and conceptual artwork"
+    ],
+    "relatedKeywords": [
+      "Minimalist Drawing Style",
+      "Sketch Illustration Style",
+      "Monochrome Art Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "line-art-illustration-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Minimalist Icon Set Design",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Minimalist Icon Set Design: Clean, Modern Visual Style",
+    "metaDescription": "Explore minimalist icon set design for sleek, modern visuals. Learn prompt formulas, best uses, and pro tips to create refined AI-generated icons.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-icon-set-design.png",
+      "alt": "Minimalist icon set design showing simple geometric icons with consistent line weight on white background",
+      "title": "Minimalist Icon Set Design Sample",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Minimalist Icon Set Design is a style that emphasizes simplicity and clarity in visual communication through icons. It leverages geometric shapes, flat colors, and streamlined forms to create symbols that are immediately recognizable and versatile across various platforms. This style is popular for interfaces, websites, and branding where clarity and quick comprehension are essential. When incorporated into AI prompts, it guides image models to prioritize clean lines, restrained details, and functional aesthetics, resulting in icons that feel modern and professional. The minimalist approach also enhances scalability, ensuring icons remain legible at small sizes.",
+    "bestUseCases": [
+      "User interface icons for apps and websites",
+      "Branding elements requiring clean, scalable symbols",
+      "Infographics and editorial visuals needing straightforward iconography"
+    ],
+    "relatedKeywords": [
+      "Flat Icon Design",
+      "Geometric Icon Set",
+      "Monochrome Icon Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-icon-set-design",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Hand Drawn Cartoon Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Hand Drawn Cartoon Style: Guide to AI Image Prompting",
+    "metaDescription": "Discover how to use the Hand Drawn Cartoon Style in AI image prompts, including traits, best use cases, and creative variations for unique artwork.",
+    "heroImage": {
+      "src": "/images/keywords/hand-drawn-cartoon-style.png",
+      "alt": "Hand drawn cartoon style illustration of playful character with bold lines and vibrant colors",
+      "title": "Hand Drawn Cartoon Style Example Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Hand Drawn Cartoon Style is a popular choice for AI-generated images that aim to evoke a nostalgic, playful, or illustrative atmosphere. This style emulates traditional cartoon art, often seen in comic strips, animation sketches, and children’s book illustrations. By leveraging this style keyword in prompts, users can generate images that have an organic and approachable quality, with visible hand-drawn techniques such as rough lines, dynamic strokes, and lively exaggeration. This makes the style especially suited for character designs, storyboards, and lighthearted visual concepts where realism is intentionally set aside for charm and expressiveness.",
+    "bestUseCases": [
+      "Children's book illustrations requiring charming and approachable characters",
+      "Animated storyboard sketches for pre-visualization in film and media",
+      "Playful branding and marketing materials seeking a friendly, handcrafted look"
+    ],
+    "relatedKeywords": [
+      "Illustration Sketch Style",
+      "Comic Book Art",
+      "Whimsical Doodle"
+    ],
+    "difficulty": "Beginner",
+    "slug": "hand-drawn-cartoon-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
