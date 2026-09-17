@@ -2587,27 +2587,27 @@
     "keyword": "Backscatter Lighting Effect",
     "slug": "backscatter-lighting-effect",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-17T14:32:17.623Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Tonal Contrast Composition",
     "slug": "tonal-contrast-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-17T14:32:48.374Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Texture Overlay Technique",
     "slug": "texture-overlay-technique",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-17T14:33:20.775Z",
     "source": "openai-discovery"
   },
   {

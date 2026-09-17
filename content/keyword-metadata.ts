@@ -10611,5 +10611,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Backscatter Lighting Effect",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Backscatter Lighting Effect in AI Image Prompts",
+    "metaDescription": "Discover the Backscatter Lighting Effect, its uses, prompt formulas, and professional workflows for stunning AI-generated images with depth and realism.",
+    "heroImage": {
+      "src": "/images/keywords/backscatter-lighting-effect.png",
+      "alt": "A cinematic scene showcasing backscatter lighting effect with glowing dust particles illuminated by soft warm light",
+      "title": "Backscatter Lighting Effect Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Backscatter Lighting Effect simulates light interacting with airborne particles, typically seen as glowing halos or fog-like glimmers surrounding light sources. This effect provides images with a vivid sense of atmosphere and environmental depth, often enhancing moodiness and realism. When used in AI prompts, it guides models to replicate this physical light interaction, making scenes feel more immersive and cinematic. This effect is especially impactful in scenes with fog, smoke, dust, or mist, emphasizing details that evoke senses of environment and ambience. It’s widely employed in photography, film, and digital art to enrich the visual storytelling experience.",
+    "bestUseCases": [
+      "Atmospheric landscape photography emphasizing fog or mist",
+      "Cinematic scenes with dramatic lighting and glowing particulate matter",
+      "Close-up portraits or objects with illuminated dust or pollen for mood enhancement"
+    ],
+    "relatedKeywords": [
+      "Volumetric Lighting",
+      "Dust Particles",
+      "Atmospheric Fog"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "backscatter-lighting-effect",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Tonal Contrast Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Tonal Contrast Composition: Mastering Light and Shadow Balance",
+    "metaDescription": "Discover Tonal Contrast Composition to enhance depth and focus in AI-generated images with refined light and shadow interplay techniques.",
+    "heroImage": {
+      "src": "/images/keywords/tonal-contrast-composition.png",
+      "alt": "Abstract portrait featuring strong tonal contrast composition with clear light and shadow separation",
+      "title": "Tonal Contrast Composition in Portrait Photography",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Tonal Contrast Composition is a fundamental principle in visual arts that governs how light and shadow interact within a scene. When applied in AI image generation, it helps create images with dramatic depth, where brighter areas attract attention and darker zones provide complementary framing. This interplay guides the viewer's eye naturally across the composition and emphasizes key elements without overwhelming color use. By focusing on tonal values, generated images gain a refined, realistic appearance reminiscent of premium editorial photography. Implementing tonal contrast thoughtfully results in believable textures, nuanced lighting, and a polished look suitable for professional design, advertising, and fine art applications.",
+    "bestUseCases": [
+      "Editorial hero images emphasizing subject depth and detail",
+      "Product photography where form and texture readability are critical",
+      "Cinematic scene compositions focusing on dramatic lighting effects"
+    ],
+    "relatedKeywords": [
+      "Lighting Contrast",
+      "Chiaroscuro Style",
+      "Monochrome Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "tonal-contrast-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Texture Overlay Technique",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Texture Overlay Technique in AI Image Prompts",
+    "metaDescription": "Discover how the Texture Overlay Technique enhances AI-generated images with realistic surfaces and depth. Learn prompt formulas, best uses, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/texture-overlay-technique.png",
+      "alt": "Close-up of textured surface showcasing layered texture overlay in AI-generated image",
+      "title": "Texture Overlay Technique Example",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Texture Overlay Technique is a powerful method in AI image generation that improves the visual quality of outputs by simulating the appearance of varied material surfaces. By incorporating texture descriptors directly into prompts, users influence the model to apply intricate overlays such as cracks, fabric weaves, wood grains, or metallic finishes. This enriches images with a tactile sense, making them more engaging and lifelike. This technique is especially useful in design, art, and advertising where material authenticity impacts viewer perception. Mastering texture overlays helps prompt creators elevate simple base images into sophisticated visuals with nuanced surface dynamics.",
+    "bestUseCases": [
+      "Product mockups requiring realistic material finishes",
+      "Architectural visualization including detailed surfaces",
+      "Concept art emphasizing tactile and environmental detail"
+    ],
+    "relatedKeywords": [
+      "Material Texture",
+      "Surface Detail",
+      "Realistic Materials"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "texture-overlay-technique",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

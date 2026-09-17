@@ -2819,6 +2819,30 @@
       "generationPrompt": "16:9 image of a cheerful cartoon character drawn in hand drawn cartoon style, bold black outlines, vibrant flat colors, simple shading, on white textured paper background, clean editorial composition, premium stock-image polish",
       "category": "Style",
       "keywordSlug": "hand-drawn-cartoon-style"
+    },
+    {
+      "filename": "backscatter-lighting-effect.png",
+      "altText": "A cinematic scene showcasing backscatter lighting effect with glowing dust particles illuminated by soft warm light",
+      "imageTitle": "Backscatter Lighting Effect Example",
+      "generationPrompt": "16:9 cinematic scene showing warm backscatter lighting effect with visible glowing dust and soft light haze, realistic materials, subtle depth, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "backscatter-lighting-effect"
+    },
+    {
+      "filename": "tonal-contrast-composition.png",
+      "altText": "Abstract portrait featuring strong tonal contrast composition with clear light and shadow separation",
+      "imageTitle": "Tonal Contrast Composition in Portrait Photography",
+      "generationPrompt": "A close-up portrait with high tonal contrast composition, pronounced shadows and highlights, soft background, realistic skin texture, clean editorial style, premium lighting, 16:9",
+      "category": "Composition",
+      "keywordSlug": "tonal-contrast-composition"
+    },
+    {
+      "filename": "texture-overlay-technique.png",
+      "altText": "Close-up of textured surface showcasing layered texture overlay in AI-generated image",
+      "imageTitle": "Texture Overlay Technique Example",
+      "generationPrompt": "16:9 close-up of a weathered wooden surface with peeling paint and realistic texture overlay, soft ambient lighting, photorealistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "texture-overlay-technique"
     }
   ]
 }
