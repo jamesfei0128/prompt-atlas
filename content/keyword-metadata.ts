@@ -10701,5 +10701,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Haze Depth Effect",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Haze Depth Effect: Enhance Atmosphere in AI Image Prompts",
+    "metaDescription": "Learn how to use the Haze Depth Effect to add atmospheric depth and realism in AI image generation with practical tips and prompt formulas.",
+    "heroImage": {
+      "src": "/images/keywords/haze-depth-effect.png",
+      "alt": "Landscape with gradual haze depth effect creating atmospheric perspective and natural depth",
+      "title": "Landscape Showing Haze Depth Effect",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "In AI-generated imagery, the Haze Depth Effect introduces a natural depth cue by imitating atmospheric conditions where particles scatter light over distance. This effect helps distinguish foreground objects from background elements by making distant parts appear lighter, softer, and slightly blurred, replicating how haze or mist behaves in real environments. It improves realism and mood, especially in landscapes, cityscapes, or scenes with expansive views. Incorporating haze also aids compositional clarity by reducing visual clutter in the background, guiding the viewer's focus towards the main subjects. Properly applied, the effect balances subtlety with visibility, avoiding overwhelming softness while enhancing three-dimensionality.",
+    "bestUseCases": [
+      "Landscape scenes depicting mountains, forests, or valleys with natural fog",
+      "Cityscape or skyline views emphasizing distance and atmospheric conditions",
+      "Environmental portraits or editorial photos where mood and depth are key"
+    ],
+    "relatedKeywords": [
+      "Atmospheric Perspective",
+      "Fog Effect",
+      "Depth of Field"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "haze-depth-effect",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Color Temperature Adjustment",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Color Temperature Adjustment in AI Image Prompts",
+    "metaDescription": "Learn how Color Temperature Adjustment influences AI-generated images with warm or cool tones. Explore uses, prompt formulas, and model tips for better results.",
+    "heroImage": {
+      "src": "/images/keywords/color-temperature-adjustment.png",
+      "alt": "AI-generated image demonstrating warm and cool color temperature lighting effects in modern design",
+      "title": "Example of Color Temperature Adjustment in AI Image Generation",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Color Temperature Adjustment is a vital tool in AI image prompt crafting, allowing creators to fine-tune the emotional and visual tone of their images. By manipulating color temperature, users can invite feelings of warmth and comfort or convey crispness and coolness, enhancing the context or story. This adjustment effectively tightens the connection between an image’s lighting environment and its intended impression, such as a warm sunset scene or a cool winter morning. Understanding and applying color temperature improves realism and artistic expression in many visual projects, from photography-style renders to stylized artworks.",
+    "bestUseCases": [
+      "Portrait photography or character depictions needing warm golden hour or cool twilight effects.",
+      "Interior design visualizations where lighting ambiance (warm tungsten or cool daylight) is crucial.",
+      "Nature and landscape scenes requiring atmospheric mood shifts like sunsets or cold winters."
+    ],
+    "relatedKeywords": [
+      "Warm Lighting",
+      "Cool Lighting",
+      "White Balance Adjustment"
+    ],
+    "difficulty": "Beginner",
+    "slug": "color-temperature-adjustment",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Product Lifestyle Photography",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Product Lifestyle Photography - AI Image Prompt Keywords",
+    "metaDescription": "Discover how to craft AI prompts for product lifestyle photography, capturing authentic, stylish scenes with refined lighting and realistic details.",
+    "heroImage": {
+      "src": "/images/keywords/product-lifestyle-photography.png",
+      "alt": "Product displayed in a cozy modern kitchen setting with natural morning sunlight, styled as product lifestyle photography",
+      "title": "Product Lifestyle Photography Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Product lifestyle photography transforms product imagery from static showcases into engaging narratives that convey how a product fits into everyday life. In AI prompt crafting, including this keyword guides the algorithm to generate scenes where products appear naturally integrated within surroundings, often with human subjects or lifestyle props. This approach enhances the emotional connection and desirability of the product by illustrating practical use or aspirational environments, making it ideal for commercial branding and advertising. The style demands attention to realistic details, balanced lighting, and thoughtful composition to evoke authenticity and premium quality suitable for modern editorial and ecommerce visuals.",
+    "bestUseCases": [
+      "Ecommerce websites needing authentic product-in-use imagery",
+      "Advertising campaigns focusing on lifestyle branding",
+      "Editorial content illustrating product functionality within real environments"
+    ],
+    "relatedKeywords": [
+      "product photography",
+      "lifestyle photography",
+      "commercial studio lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "product-lifestyle-photography",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

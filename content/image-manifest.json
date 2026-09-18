@@ -2843,6 +2843,30 @@
       "generationPrompt": "16:9 close-up of a weathered wooden surface with peeling paint and realistic texture overlay, soft ambient lighting, photorealistic, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "texture-overlay-technique"
+    },
+    {
+      "filename": "haze-depth-effect.png",
+      "altText": "Landscape with gradual haze depth effect creating atmospheric perspective and natural depth",
+      "imageTitle": "Landscape Showing Haze Depth Effect",
+      "generationPrompt": "16:9 photo-realistic landscape at sunrise with natural haze depth effect, gradual atmospheric perspective, soft light scattering, subtle mist layers, high resolution, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "haze-depth-effect"
+    },
+    {
+      "filename": "color-temperature-adjustment.png",
+      "altText": "AI-generated image demonstrating warm and cool color temperature lighting effects in modern design",
+      "imageTitle": "Example of Color Temperature Adjustment in AI Image Generation",
+      "generationPrompt": "16:9 image of two side-by-side modern interior rooms, one illuminated with warm golden light and subtle depth, the other with cool blue daylight lighting, clean editorial composition, premium stock-image quality, realistic materials, no text or logos",
+      "category": "Color",
+      "keywordSlug": "color-temperature-adjustment"
+    },
+    {
+      "filename": "product-lifestyle-photography.png",
+      "altText": "Product displayed in a cozy modern kitchen setting with natural morning sunlight, styled as product lifestyle photography",
+      "imageTitle": "Product Lifestyle Photography Example",
+      "generationPrompt": "16:9 image of a stylish kitchen countertop with a modern toaster, warm morning natural light, casual breakfast scene, realistic textures, soft shadows, product lifestyle photography, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "product-lifestyle-photography"
     }
   ]
 }

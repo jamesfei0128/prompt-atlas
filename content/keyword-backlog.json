@@ -2614,27 +2614,27 @@
     "keyword": "Haze Depth Effect",
     "slug": "haze-depth-effect",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-18T13:58:44.226Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Color Temperature Adjustment",
     "slug": "color-temperature-adjustment",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-18T13:59:18.357Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Product Lifestyle Photography",
     "slug": "product-lifestyle-photography",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-18T13:59:52.403Z",
     "source": "openai-discovery"
   },
   {
