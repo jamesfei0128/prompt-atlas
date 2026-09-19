@@ -10791,5 +10791,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Sequential Image Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Sequential Image Layout: Streamlined Visual Storytelling",
+    "metaDescription": "Explore Sequential Image Layout, a composition style organizing images in clear, logical order for enhanced storytelling and dynamic visual flow.",
+    "heroImage": {
+      "src": "/images/keywords/sequential-image-layout.png",
+      "alt": "Sequential Image Layout example showing a clean four-panel sequence of a flower blooming with premium stock image quality",
+      "title": "Sequential Image Layout Visual Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Sequential Image Layout is a compositional technique used to display multiple images or scenes in a structured sequence within a single frame. This layout visually communicates progression, change, or a story—ideal for showing step-by-step processes, before-and-after scenarios, or narrative arcs. When incorporated into AI image prompts, it instructs the model to generate art with a natural flow that guides the viewer through related moments or concepts seamlessly. This clarity enhances understanding and engagement, making it especially useful in editorial, educational, and advertising contexts where storytelling through images is critical.",
+    "bestUseCases": [
+      "Visual storytelling in comics or graphic novels",
+      "Step-by-step instructional graphics and tutorials",
+      "Before-and-after comparisons in advertising and portfolios"
+    ],
+    "relatedKeywords": [
+      "Grid Composition",
+      "Storyboard Layout",
+      "Panel Sequence"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "sequential-image-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Symmetrical Grid Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Symmetrical Grid Composition: Precision in AI Image Layouts",
+    "metaDescription": "Explore Symmetrical Grid Composition for AI image prompts. Learn about its definition, visual traits, prompt formulas, and top use cases for balanced designs.",
+    "heroImage": {
+      "src": "/images/keywords/symmetrical-grid-composition.png",
+      "alt": "Symmetrical grid composition showcasing evenly spaced and mirrored modern design elements with refined lighting and subtle depth",
+      "title": "Symmetrical Grid Composition in Modern Design",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Symmetrical Grid Composition offers a systematic approach to organizing visual elements, which appeals to the eye by providing balance and stability. This composition style applies equally spaced, duplicated, or mirrored components arranged within a grid structure, often used to enhance clarity and order in images. When used in AI art prompts, it encourages the generation of clean, structured scenes that evoke professionalism and calm consistency. Designers and content creators leverage this style to produce visuals that are visually digestible and ideal for editorial layouts, product presentations, and architectural renderings. Incorporating symmetrical grids increases compositional harmony, making images easier to interpret and more engaging at first glance.",
+    "bestUseCases": [
+      "Editorial hero images needing balanced layouts",
+      "Product showcase images requiring clean, organized presentation",
+      "Architectural and interior visualizations emphasizing structure"
+    ],
+    "relatedKeywords": [
+      "Balanced Composition",
+      "Grid Layout",
+      "Mirrored Symmetry"
+    ],
+    "difficulty": "Beginner",
+    "slug": "symmetrical-grid-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Monochromatic Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Monochromatic Color Scheme: Definition and AI Prompt Tips",
+    "metaDescription": "Explore the monochromatic color scheme in AI image prompts. Learn definition, prompt formulas, best use cases, workflows, and related styles for stunning visuals.",
+    "heroImage": {
+      "src": "/images/keywords/monochromatic-color-scheme.png",
+      "alt": "Modern editorial photo with monochromatic blue color scheme, soft lighting, premium polish",
+      "title": "Monochromatic Color Scheme Editorial Photo",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Monochromatic color schemes leverage variations of one hue, combined with black or white, to build visually appealing images that convey mood and cohesiveness. This approach simplifies color interactions, allowing AI-generated artworks to focus on texture, lighting, and detail without distraction from multiple colors. In prompt engineering, adding this keyword helps produce images with elegant color unity often favored in editorial, fashion, and product photography. It aids in evoking specific emotions like calmness, sophistication, or minimalism by restricting the palette and accentuating tonal relationships.",
+    "bestUseCases": [
+      "Minimalist editorial photography boosting brand identity",
+      "Architectural visualizations emphasizing structural form",
+      "Product shots requiring mood consistency and refined aesthetics"
+    ],
+    "relatedKeywords": [
+      "Duotone color scheme",
+      "Analogous color scheme",
+      "Minimalist photography"
+    ],
+    "difficulty": "Beginner",
+    "slug": "monochromatic-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

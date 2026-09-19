@@ -2867,6 +2867,30 @@
       "generationPrompt": "16:9 image of a stylish kitchen countertop with a modern toaster, warm morning natural light, casual breakfast scene, realistic textures, soft shadows, product lifestyle photography, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "product-lifestyle-photography"
+    },
+    {
+      "filename": "sequential-image-layout.png",
+      "altText": "Sequential Image Layout example showing a clean four-panel sequence of a flower blooming with premium stock image quality",
+      "imageTitle": "Sequential Image Layout Visual Example",
+      "generationPrompt": "16:9 clean editorial composition with four sequential panels showing a realistic flower blooming in stages, premium stock polish, refined natural lighting, subtle depth, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "sequential-image-layout"
+    },
+    {
+      "filename": "symmetrical-grid-composition.png",
+      "altText": "Symmetrical grid composition showcasing evenly spaced and mirrored modern design elements with refined lighting and subtle depth",
+      "imageTitle": "Symmetrical Grid Composition in Modern Design",
+      "generationPrompt": "A symmetrical grid composition of sleek modern furniture arranged in rows and columns under soft, natural lighting with realistic materials and subtle depth, clean editorial style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "symmetrical-grid-composition"
+    },
+    {
+      "filename": "monochromatic-color-scheme.png",
+      "altText": "Modern editorial photo with monochromatic blue color scheme, soft lighting, premium polish",
+      "imageTitle": "Monochromatic Color Scheme Editorial Photo",
+      "generationPrompt": "16:9 image of a modern editorial portrait featuring a monochromatic color scheme in shades of deep blue, soft lighting, realistic skin texture, clean background, subtle depth, premium stock-image quality, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "monochromatic-color-scheme"
     }
   ]
 }

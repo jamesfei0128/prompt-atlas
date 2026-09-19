@@ -2641,27 +2641,27 @@
     "keyword": "Sequential Image Layout",
     "slug": "sequential-image-layout",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-07-30T11:44:58.893Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-19T13:33:42.066Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Symmetrical Grid Composition",
     "slug": "symmetrical-grid-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.961Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-19T13:34:12.953Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Monochromatic Color Scheme",
     "slug": "monochromatic-color-scheme",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.961Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-19T13:34:39.499Z",
     "source": "openai-discovery"
   },
   {
