@@ -2891,6 +2891,30 @@
       "generationPrompt": "16:9 image of a modern editorial portrait featuring a monochromatic color scheme in shades of deep blue, soft lighting, realistic skin texture, clean background, subtle depth, premium stock-image quality, no text, no logos, no watermark",
       "category": "Color",
       "keywordSlug": "monochromatic-color-scheme"
+    },
+    {
+      "filename": "branding-visual-assets.png",
+      "altText": "Modern branding visual assets with clean geometric shapes and muted pastel colors in a balanced composition",
+      "imageTitle": "Branding Visual Assets - Modern Clean Design",
+      "generationPrompt": "16:9 image of minimalist branding visual assets featuring muted pastel colors, geometric shapes, clean composition, and premium lighting, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "branding-visual-assets"
+    },
+    {
+      "filename": "side-lighting-drama.png",
+      "altText": "Portrait of a woman with dramatic side lighting casting deep shadows and highlights",
+      "imageTitle": "Side Lighting Drama on Portrait",
+      "generationPrompt": "16:9 portrait of a woman with side lighting drama, cinematic mood, sharp shadows, high contrast, realistic skin texture, studio background, clean editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "side-lighting-drama"
+    },
+    {
+      "filename": "rule-of-thirds-layout.png",
+      "altText": "Example of Rule of Thirds Layout applied in a modern editorial AI-generated image of a female portrait",
+      "imageTitle": "Rule of Thirds Layout in AI-Generated Portrait",
+      "generationPrompt": "16:9 ratio modern editorial style female portrait, subject aligned on left third per Rule of Thirds Layout, soft natural lighting, shallow depth of field, realistic skin texture, clean background, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "rule-of-thirds-layout"
     }
   ]
 }

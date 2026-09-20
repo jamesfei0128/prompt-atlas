@@ -10881,5 +10881,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Branding Visual Assets",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Branding Visual Assets: Key Elements for Commercial Design",
+    "metaDescription": "Discover how branding visual assets create cohesive identity with clean, modern design. Ideal for commercial use and AI image prompts.",
+    "heroImage": {
+      "src": "/images/keywords/branding-visual-assets.png",
+      "alt": "Modern branding visual assets with clean geometric shapes and muted pastel colors in a balanced composition",
+      "title": "Branding Visual Assets - Modern Clean Design",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Branding visual assets are essential components in building a unified and professional brand image. They consist of logos, color schemes, typography, icons, and design patterns that collectively distinguish a brand in the marketplace. When incorporated in AI image prompts, specifying branding visual assets guides the generation of visuals that maintain consistency and relevance across various marketing materials. This ensures any created image embodies the brand's tone and aesthetic, streamlining the creative process for graphic designers, marketers, and content creators aiming to produce polished, on-brand content quickly and efficiently.",
+    "bestUseCases": [
+      "Designing logo concepts and brand mark mockups",
+      "Creating social media templates for cohesive campaigns",
+      "Developing website hero images aligned with brand guidelines"
+    ],
+    "relatedKeywords": [
+      "Corporate Identity",
+      "Logo Design",
+      "Color Palette"
+    ],
+    "difficulty": "Beginner",
+    "slug": "branding-visual-assets",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Side Lighting Drama",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Master Side Lighting Drama for Dynamic AI Art",
+    "metaDescription": "Discover how Side Lighting Drama enhances AI images with depth and emotion. Learn prompt formulas, best uses, and pro techniques for striking visuals.",
+    "heroImage": {
+      "src": "/images/keywords/side-lighting-drama.png",
+      "alt": "Portrait of a woman with dramatic side lighting casting deep shadows and highlights",
+      "title": "Side Lighting Drama on Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Side Lighting Drama is a powerful lighting technique widely used in photography and art to evoke intense atmosphere and visual depth. By casting light from one side, it sculpts shapes with stark shadows and highlights, adding drama and intrigue. In AI image generation, specifying Side Lighting Drama guides models to replicate this effect, producing images rich in texture details and emotional tone. It suits portraits that reveal character through shadows, architectural shots emphasizing structure, and still lifes with tactile surfaces. This deliberate use of lateral lighting amplifies visual storytelling by adding contrast and focus, lending images a cinematic and professional aesthetic.",
+    "bestUseCases": [
+      "Portraits aiming to reveal character and mood",
+      "Architectural renders emphasizing form and textures",
+      "Still life compositions highlighting surface details"
+    ],
+    "relatedKeywords": [
+      "Rim Lighting Glow",
+      "Chiaroscuro Contrast",
+      "Mood Lighting Cinematic"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "side-lighting-drama",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rule Of Thirds Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Mastering Rule Of Thirds Layout for Stunning AI Images",
+    "metaDescription": "Learn how to use the Rule of Thirds Layout to create balanced, compelling AI-generated images with expert prompt formulas and creative variations.",
+    "heroImage": {
+      "src": "/images/keywords/rule-of-thirds-layout.png",
+      "alt": "Example of Rule of Thirds Layout applied in a modern editorial AI-generated image of a female portrait",
+      "title": "Rule of Thirds Layout in AI-Generated Portrait",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Rule of Thirds Layout is essential for creating visually balanced and aesthetically pleasing images by dividing the frame into thirds both horizontally and vertically. This technique avoids centering subjects and instead positions them along grid intersections, producing natural movement and interest within the composition. When incorporated into AI image prompts, it influences the algorithm to create images with better spatial harmony and focal placement. This adjustment can vastly improve the overall buy-in and professionalism of generated visuals, fitting perfectly for editorial, advertising, and artistic image creation.",
+    "bestUseCases": [
+      "Creating engaging social media thumbnails with strong visual focus",
+      "Designing editorial hero images requiring professional composition",
+      "Producing artistic photography-style images with balanced subject placement"
+    ],
+    "relatedKeywords": [
+      "Golden Ratio Composition",
+      "Leading Lines Layout",
+      "Symmetrical Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rule-of-thirds-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
