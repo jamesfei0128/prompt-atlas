@@ -10971,5 +10971,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Polished Wood Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Polished Wood Texture: Premium AI Image Prompt Guide",
+    "metaDescription": "Explore how to create stunning polished wood textures with AI prompts. Learn visual traits, prompt formulas, top use cases, and creative variations today.",
+    "heroImage": {
+      "src": "/images/keywords/polished-wood-texture.png",
+      "alt": "Close-up image of highly polished wood texture showing smooth glossy surface and detailed wood grain",
+      "title": "Polished Wood Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Polished Wood Texture' keyword is essential for creating highly realistic and visually appealing wood surfaces in AI-generated imagery, especially in product design, interior visualization, and material studies. This texture emphasizes the fine finish and reflective qualities of wood that has been carefully sanded and treated with a glossy coating, producing subtle light reflections and depth. Using this keyword, artists and designers can quickly convey a sense of luxury, craftsmanship, and natural warmth in their images. It works effectively with various wood types and complements modern editorial aesthetics that value clean, premium material representations. Leveraging this texture in AI-generated images helps achieve a refined realism suitable for high-end design presentations or stock imagery.",
+    "bestUseCases": [
+      "Rendering luxury furniture with realistic wood finishes",
+      "Creating interior scenes emphasizing warm, polished flooring",
+      "Designing product mockups featuring wooden surface details"
+    ],
+    "relatedKeywords": [
+      "Glossy Wood Surface",
+      "Fine Wood Grain",
+      "Wood Material Realism"
+    ],
+    "difficulty": "Beginner",
+    "slug": "polished-wood-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "E-Commerce Product Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "E-Commerce Product Layout: Clean, Modern AI Image Prompts",
+    "metaDescription": "Discover how to craft AI prompts for E-Commerce Product Layouts with refined lighting and clean compositions perfect for commercial use and editorial polish.",
+    "heroImage": {
+      "src": "/images/keywords/e-commerce-product-layout.png",
+      "alt": "Clean modern e-commerce product layout with neutral background and realistic lighting",
+      "title": "E-Commerce Product Layout Clean Modern Product Display",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "The E-Commerce Product Layout keyword is essential for creating AI-generated images that mimic professional online retail displays. These images typically feature clean, minimalistic compositions that put the product front and center, using subtle depth and natural lighting to showcase textures and materials. Such layouts avoid clutter, watermarks, or text, ensuring the product's appeal is maximized for commercial applications such as digital catalogs, social media ads, and website hero images. The modern editorial style aligns with premium stock imagery, offering versatility and polish across various e-commerce platforms.",
+    "bestUseCases": [
+      "Online retail product listings needing clear, appealing visuals",
+      "Hero images for branded e-commerce websites or apps",
+      "Marketing collateral like social media ads and digital catalogs"
+    ],
+    "relatedKeywords": [
+      "Product Photography Realism",
+      "Minimalist Editorial Composition",
+      "Premium Stock Image Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "e-commerce-product-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Foggy Landscape Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Foggy Landscape Mood: Create Atmospheric AI Images",
+    "metaDescription": "Explore how to craft foggy landscape moods in AI image prompts for atmospheric, moody visuals. Perfect for nature scenes, storytelling, and ambiance.",
+    "heroImage": {
+      "src": "/images/keywords/foggy-landscape-mood.png",
+      "alt": "A serene forest landscape enveloped in soft morning fog with diffused lighting",
+      "title": "Foggy Landscape Mood in Morning Forest",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Foggy Landscape Mood keyword is essential for generating serene and ethereal nature scenes using AI image models. By introducing fog or mist, images gain a layered depth and emotional resonance, often invoking feelings of quiet solitude or mystery. This mood softens sharp details and shadows, lending a dreamy or suspenseful tone that works well for forest, mountain, or waterfront environments. Artists and designers leverage this effect to create immersive atmospheres that feel both natural and cinematic, making it suitable for editorial, fine art, or conceptual visuals.",
+    "bestUseCases": [
+      "Nature and wilderness photography simulations requiring atmospheric depth",
+      "Book covers or editorial illustrations with moody, contemplative themes",
+      "Concept art for film or games seeking suspenseful or mystical environments"
+    ],
+    "relatedKeywords": [
+      "Misty Forest Atmosphere",
+      "Moody Nature Scene",
+      "Dawn and Dusk Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "foggy-landscape-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

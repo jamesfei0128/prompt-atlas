@@ -2915,6 +2915,30 @@
       "generationPrompt": "16:9 ratio modern editorial style female portrait, subject aligned on left third per Rule of Thirds Layout, soft natural lighting, shallow depth of field, realistic skin texture, clean background, no text, no logos",
       "category": "Composition",
       "keywordSlug": "rule-of-thirds-layout"
+    },
+    {
+      "filename": "polished-wood-texture.png",
+      "altText": "Close-up image of highly polished wood texture showing smooth glossy surface and detailed wood grain",
+      "imageTitle": "Polished Wood Texture Close-Up",
+      "generationPrompt": "16:9 ultra-realistic close-up of polished wood texture, smooth reflective surface with visible grain patterns, warm natural lighting, premium finish, clean background, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "polished-wood-texture"
+    },
+    {
+      "filename": "e-commerce-product-layout.png",
+      "altText": "Clean modern e-commerce product layout with neutral background and realistic lighting",
+      "imageTitle": "E-Commerce Product Layout Clean Modern Product Display",
+      "generationPrompt": "16:9 image of a single product arranged with a clean neutral background, soft refined lighting, realistic materials, subtle depth, minimalistic editorial style, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "e-commerce-product-layout"
+    },
+    {
+      "filename": "foggy-landscape-mood.png",
+      "altText": "A serene forest landscape enveloped in soft morning fog with diffused lighting",
+      "imageTitle": "Foggy Landscape Mood in Morning Forest",
+      "generationPrompt": "16:9 photo-realistic serene forest landscape covered in soft morning fog, diffused natural light, muted colors, atmospheric depth, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "foggy-landscape-mood"
     }
   ]
 }
