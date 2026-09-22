@@ -11061,5 +11061,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Diagonal Symmetry Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Diagonal Symmetry Composition in AI Image Prompts",
+    "metaDescription": "Learn Diagonal Symmetry Composition to enhance AI-generated images with balanced, dynamic structure for professional visual appeal.",
+    "heroImage": {
+      "src": "/images/keywords/diagonal-symmetry-composition.png",
+      "alt": "Elegant modern architectural interior showcasing diagonal symmetry composition with natural light and clean lines",
+      "title": "Diagonal Symmetry Composition in Modern Architecture",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Diagonal Symmetry Composition is a powerful compositional approach that instructs AI models to arrange image elements reflecting across a diagonal axis. Unlike horizontal or vertical symmetry, the diagonal axis introduces dynamic tension and movement, lending images a striking and balanced appeal. By using this composition in AI prompts, creators can generate visuals that feel both stable and energetic. This approach often results in more engaging photographs, illustrations, and designs by leveraging unique balance and spatial relationships. It's particularly valuable in art, photography, and design projects aiming for modern and compelling visual narratives that stand out with subtle depth and refined lighting.",
+    "bestUseCases": [
+      "Editorial and magazine cover images requiring dynamic balance",
+      "Advertising visuals emphasizing movement and symmetry",
+      "Creative portraits or product photography with unique framing"
+    ],
+    "relatedKeywords": [
+      "Golden Ratio Composition",
+      "Rule of Thirds",
+      "Radial Symmetry"
+    ],
+    "difficulty": "Beginner",
+    "slug": "diagonal-symmetry-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Vibrant Contrast Colors",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Vibrant Contrast Colors: Enhance Your AI Art with Bold Color Dynamics",
+    "metaDescription": "Discover how using vibrant contrast colors in AI image prompts can transform visuals with striking balance and energy. Learn formulas, uses, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/vibrant-contrast-colors.png",
+      "alt": "Colorful abstract composition demonstrating vibrant contrast colors with bright complementary hues and dynamic lighting",
+      "title": "Abstract Vibrant Contrast Colors Composition",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using vibrant contrast colors in AI-generated images dramatically amplifies visual impact by pairing bright, intense hues that stand out against each other. This technique can create striking, memorable images with pronounced depth and energy. By incorporating this keyword into prompts, artists and designers can achieve images where colors pop distinctly, guiding the viewer's eye and enhancing compositional clarity. It is particularly valuable in designs aiming to convey excitement, energy, or modernity. The result is a colorful, lively composition that avoids dullness and monotony by leveraging color theory for maximum vibrancy.",
+    "bestUseCases": [
+      "Advertising visuals requiring eye-catching color pop",
+      "Editorial hero images needing dynamic color energy",
+      "Ecommerce product highlights emphasizing vibrant product hues"
+    ],
+    "relatedKeywords": [
+      "Color Saturation Enhancement",
+      "Dynamic Color Palette",
+      "High Contrast Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "vibrant-contrast-colors",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Packaging Design Presentation",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Packaging Design Presentation: Premium AI Image Prompt Guide",
+    "metaDescription": "Explore how 'Packaging Design Presentation' transforms AI image prompts with refined, realistic visuals ideal for commercial packaging showcases.",
+    "heroImage": {
+      "src": "/images/keywords/packaging-design-presentation.png",
+      "alt": "Premium clean and realistic packaging design presentation of a product box on white background",
+      "title": "Packaging Design Presentation Premium Visual",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "The 'Packaging Design Presentation' keyword elevates AI-generated images to display consumer product packaging in a professional, editorial style. It's designed to produce visuals that showcase packaging designs with premium polish, realistic material representation, and refined lighting. This approach is essential for designers, marketers, and e-commerce professionals needing imagery that accurately reflects packaging aesthetics without distractions. The results typically feature a clean background, subtle depth to accentuate three-dimensionality, and an absence of text or logos, ensuring the focus remains on the package design itself. By integrating this keyword into prompts, users can expect images suitable for presentations, online catalogs, and marketing assets that demand a commercial finish.",
+    "bestUseCases": [
+      "Creating realistic product packaging mockups for client presentations",
+      "Generating editorial-style images for packaging design portfolios",
+      "Producing commercial-ready visuals for e-commerce and advertising campaigns"
+    ],
+    "relatedKeywords": [
+      "Product Packaging Mockup",
+      "Editorial Product Photography",
+      "Realistic Material Render"
+    ],
+    "difficulty": "Beginner",
+    "slug": "packaging-design-presentation",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

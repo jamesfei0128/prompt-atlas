@@ -2939,6 +2939,30 @@
       "generationPrompt": "16:9 photo-realistic serene forest landscape covered in soft morning fog, diffused natural light, muted colors, atmospheric depth, no text, no logos",
       "category": "Atmosphere",
       "keywordSlug": "foggy-landscape-mood"
+    },
+    {
+      "filename": "diagonal-symmetry-composition.png",
+      "altText": "Elegant modern architectural interior showcasing diagonal symmetry composition with natural light and clean lines",
+      "imageTitle": "Diagonal Symmetry Composition in Modern Architecture",
+      "generationPrompt": "16:9 shot of a spacious, modern architectural interior with diagonal symmetry composition, natural daylight, clean white walls, polished wood floors, subtle depth of field, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "diagonal-symmetry-composition"
+    },
+    {
+      "filename": "vibrant-contrast-colors.png",
+      "altText": "Colorful abstract composition demonstrating vibrant contrast colors with bright complementary hues and dynamic lighting",
+      "imageTitle": "Abstract Vibrant Contrast Colors Composition",
+      "generationPrompt": "16:9 digital art of an abstract composition with vibrant contrast colors, bright complementary hues, refined lighting, subtle depth, realistic materials, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "vibrant-contrast-colors"
+    },
+    {
+      "filename": "packaging-design-presentation.png",
+      "altText": "Premium clean and realistic packaging design presentation of a product box on white background",
+      "imageTitle": "Packaging Design Presentation Premium Visual",
+      "generationPrompt": "16:9 composition of a sleek product box packaging design presentation, soft natural lighting, realistic materials, clean white background, subtle depth, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "packaging-design-presentation"
     }
   ]
 }
