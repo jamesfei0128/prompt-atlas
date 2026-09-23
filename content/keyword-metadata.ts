@@ -11151,5 +11151,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Mixed Lighting Techniques",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Mixed Lighting Techniques in AI Image Prompts",
+    "metaDescription": "Explore how mixed lighting techniques enhance AI-generated images with realistic and dynamic effects. Learn prompt formulas and avoid common mistakes.",
+    "heroImage": {
+      "src": "/images/keywords/mixed-lighting-techniques.png",
+      "alt": "Modern interior lit using mixed lighting techniques combining warm sunlight and cool LED lights",
+      "title": "Interior scene showcasing mixed lighting techniques",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Mixed Lighting Techniques unlock the power to simulate complex lighting scenarios within AI-generated images. By combining different light sources such as natural daylight, artificial lamps, or neon colors, images gain realism and depth. This method helps depict scenes that feel more authentic and visually compelling, including indoor environments with sunlight filtering through windows alongside artificial lights or street scenes with ambient evening light and colored neon. Using mixed lighting effectively elevates the quality and storytelling potential of AI-generated visuals, making them suitable for high-end editorial work, advertising, and artistic compositions.",
+    "bestUseCases": [
+      "Interior photography simulating sunlight and artificial lamps for cozy atmospheres",
+      "Fashion editorials combining daylight with studio strobes to add drama and dimension",
+      "Night city scenes mixing streetlamp glow with neon advertising lights for vibrancy"
+    ],
+    "relatedKeywords": [
+      "ambient lighting",
+      "dramatic lighting",
+      "color temperature"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "mixed-lighting-techniques",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rustic Cabin Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Rustic Cabin Atmosphere: Capturing Cozy Nature Vibes",
+    "metaDescription": "Explore how to create a rustic cabin atmosphere in AI image prompts for warm, natural, cozy scenes with wood textures and soft lighting.",
+    "heroImage": {
+      "src": "/images/keywords/rustic-cabin-atmosphere.png",
+      "alt": "Cozy rustic cabin interior with warm lighting and wooden textures",
+      "title": "Rustic Cabin Atmosphere Interior Scene",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Rustic Cabin Atmosphere keyword is ideal for generating images that evoke comfort, simplicity, and closeness to nature. Rooted in woodsy textures and warm, soft lighting, this atmosphere enhances visuals with a nostalgic, homey charm. It often includes subtle details like cozy knitted blankets, flickering fireplaces, and views of dense forests or snow-laden landscapes visible through cabin windows. By focusing on natural materials and a subdued color palette of browns, greens, and creams, the prompt creates a strong sense of peaceful retreat. This atmosphere is particularly favored for lifestyle, travel, or interior design visuals where authenticity and warmth are key.",
+    "bestUseCases": [
+      "Interior design moodboards for rustic homes or lodges",
+      "Travel and lifestyle imagery promoting cabin rentals and retreats",
+      "Advertising products like cozy blankets, rustic furniture, or handcrafted goods"
+    ],
+    "relatedKeywords": [
+      "Cozy Cottage Interior",
+      "Woodland Cabin Scene",
+      "Warm Fireplace Glow"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rustic-cabin-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Minimalist Centered Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Minimalist Centered Composition: A Guide to Clean AI Image Prompts",
+    "metaDescription": "Discover minimalist centered composition to create clean, focused AI images. Learn prompt formulas, best uses, workflows, and model tips for refined visuals.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-centered-composition.png",
+      "alt": "A sleek modern wristwatch centered on a pristine white background illustrating minimalist centered composition",
+      "title": "Minimalist Centered Composition Example: Wristwatch",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Minimalist centered composition is a powerful tool for crafting images where clarity and balance are paramount. This style centers the primary subject within the frame, surrounded by ample negative space to maintain simplicity and visual calm. It reduces noise, making the subject stand out sharply against uncluttered backgrounds. In AI-generated imagery, specifying this composition ensures output with strong focal points and an elegant, modern aesthetic. Such images are well-suited for editorial layouts, product showcases, and digital content requiring a refined, polished look with premium stock-quality appeal.",
+    "bestUseCases": [
+      "Product photography for catalogs and e-commerce",
+      "Editorial hero images for clean article visuals",
+      "Branding assets emphasizing single-logo or object focus"
+    ],
+    "relatedKeywords": [
+      "Symmetrical Composition",
+      "Negative Space Emphasis",
+      "Clean Editorial Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-centered-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

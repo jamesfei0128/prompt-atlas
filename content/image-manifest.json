@@ -2963,6 +2963,30 @@
       "generationPrompt": "16:9 composition of a sleek product box packaging design presentation, soft natural lighting, realistic materials, clean white background, subtle depth, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "packaging-design-presentation"
+    },
+    {
+      "filename": "mixed-lighting-techniques.png",
+      "altText": "Modern interior lit using mixed lighting techniques combining warm sunlight and cool LED lights",
+      "imageTitle": "Interior scene showcasing mixed lighting techniques",
+      "generationPrompt": "16:9 clean modern interior with mixed lighting techniques, warm sunlight filtering through curtains combined with cool LED accent lights, realistic shadows, refined materials, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "mixed-lighting-techniques"
+    },
+    {
+      "filename": "rustic-cabin-atmosphere.png",
+      "altText": "Cozy rustic cabin interior with warm lighting and wooden textures",
+      "imageTitle": "Rustic Cabin Atmosphere Interior Scene",
+      "generationPrompt": "16:9 cozy rustic cabin interior with warm golden light filtering through wooden beams, stone fireplace crackling, soft shadows, natural materials, detailed textures, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "rustic-cabin-atmosphere"
+    },
+    {
+      "filename": "minimalist-centered-composition.png",
+      "altText": "A sleek modern wristwatch centered on a pristine white background illustrating minimalist centered composition",
+      "imageTitle": "Minimalist Centered Composition Example: Wristwatch",
+      "generationPrompt": "16:9 image of a sleek wristwatch placed perfectly in the center, minimalist composition with ample white negative space, soft natural lighting, realistic materials, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "minimalist-centered-composition"
     }
   ]
 }

@@ -2749,27 +2749,27 @@
     "keyword": "Mixed Lighting Techniques",
     "slug": "mixed-lighting-techniques",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.961Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-23T14:39:32.470Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Rustic Cabin Atmosphere",
     "slug": "rustic-cabin-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.961Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-23T14:40:11.055Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Minimalist Centered Composition",
     "slug": "minimalist-centered-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.961Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-23T14:40:39.353Z",
     "source": "openai-discovery"
   },
   {
@@ -3624,6 +3624,249 @@
     "category": "Composition",
     "status": "pending",
     "createdAt": "2026-09-08T13:58:40.973Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Candlelight Glow",
+    "slug": "candlelight-glow",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Softbox Diffused Light",
+    "slug": "softbox-diffused-light",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Window Natural Lighting",
+    "slug": "window-natural-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Moody Shadow Contrast",
+    "slug": "moody-shadow-contrast",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Twilight Color Palette",
+    "slug": "twilight-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Muted Earth Tones",
+    "slug": "muted-earth-tones",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pastel Gradient Scheme",
+    "slug": "pastel-gradient-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rustic Wood Texture",
+    "slug": "rustic-wood-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Smooth Marble Surface",
+    "slug": "smooth-marble-surface",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Weathered Stone Texture",
+    "slug": "weathered-stone-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Knitted Fabric Pattern",
+    "slug": "knitted-fabric-pattern",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Coarse Canvas Texture",
+    "slug": "coarse-canvas-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Open Space Composition",
+    "slug": "open-space-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Calm Morning Atmosphere",
+    "slug": "calm-morning-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.570Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vintage Film Atmosphere",
+    "slug": "vintage-film-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Vector Style",
+    "slug": "minimalist-vector-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flat Iconographic Style",
+    "slug": "flat-iconographic-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Photorealistic Render Style",
+    "slug": "photorealistic-render-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Abstract Geometric Style",
+    "slug": "abstract-geometric-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Watercolor Brushwork Style",
+    "slug": "watercolor-brushwork-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Contrast Graphic Style",
+    "slug": "high-contrast-graphic-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Photography Setup",
+    "slug": "product-photography-setup",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Stock Image Backgrounds",
+    "slug": "stock-image-backgrounds",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "E-Learning Illustration Style",
+    "slug": "e-learning-illustration-style",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Web Banner Composition",
+    "slug": "web-banner-composition",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Print Brochure Layout",
+    "slug": "print-brochure-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Corporate Branding Visuals",
+    "slug": "corporate-branding-visuals",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-09-23T14:38:58.571Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }
