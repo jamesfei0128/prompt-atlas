@@ -2987,6 +2987,30 @@
       "generationPrompt": "16:9 image of a sleek wristwatch placed perfectly in the center, minimalist composition with ample white negative space, soft natural lighting, realistic materials, no text, no logos, no watermark",
       "category": "Composition",
       "keywordSlug": "minimalist-centered-composition"
+    },
+    {
+      "filename": "pastel-color-harmony.png",
+      "altText": "Interior room design showcasing pastel color harmony with soft, muted tones and gentle lighting",
+      "imageTitle": "Pastel Color Harmony Interior Design",
+      "generationPrompt": "16:9 scene of a cozy living room interior featuring pastel color harmony, soft natural lighting, minimal furniture with smooth textures, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "pastel-color-harmony"
+    },
+    {
+      "filename": "woven-textile-texture.png",
+      "altText": "Close-up detailed woven textile texture showing interlaced threads and fibers",
+      "imageTitle": "Woven Textile Texture Close-Up",
+      "generationPrompt": "16:9 close-up shot of woven textile texture with visible interlaced threads and subtle fiber details, soft diffused lighting, realistic fabric material, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "woven-textile-texture"
+    },
+    {
+      "filename": "social-media-visual-branding.png",
+      "altText": "AI generated image illustrating modern social media visual branding with cohesive colors and clean composition",
+      "imageTitle": "Social Media Visual Branding AI Image",
+      "generationPrompt": "16:9 composition of a modern brand-themed social media visual, featuring cohesive color palette, clean layout, premium lighting, editorial photography style, realistic materials, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "social-media-visual-branding"
     }
   ]
 }

@@ -11241,5 +11241,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Pastel Color Harmony",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Pastel Color Harmony in AI Art: Guide & Prompt Formula",
+    "metaDescription": "Learn how to create balanced pastel color harmony in AI image prompts with practical use cases and advanced techniques for stunning visuals.",
+    "heroImage": {
+      "src": "/images/keywords/pastel-color-harmony.png",
+      "alt": "Interior room design showcasing pastel color harmony with soft, muted tones and gentle lighting",
+      "title": "Pastel Color Harmony Interior Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Pastel color harmony is a visually appealing approach that uses pale and muted colors to evoke feelings of softness, tranquility, and sophistication. By incorporating pastel tones, AI-generated images achieve a delicate balance that feels inviting and elegant without overwhelming the viewer. This makes pastel harmonies ideal for designs that require a gentle atmosphere or a subtle emotional impact. When included in AI prompts, the model focuses on blending compatible pastel shades to create coherent color schemes that look naturally integrated and aesthetically calming.",
+    "bestUseCases": [
+      "Branding visuals needing a gentle and approachable look",
+      "Greeting cards and invitations emphasizing softness",
+      "Web and app UI mockups requiring calm and modern aesthetics"
+    ],
+    "relatedKeywords": [
+      "Soft Lighting",
+      "Muted Tone Palette",
+      "Serene Atmosphere"
+    ],
+    "difficulty": "Beginner",
+    "slug": "pastel-color-harmony",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Woven Textile Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Woven Textile Texture: Detailed AI Image Prompt Guide",
+    "metaDescription": "Explore how to create realistic woven textile textures in AI images with perfect patterns, fibers, and depth, ideal for design and commercial uses.",
+    "heroImage": {
+      "src": "/images/keywords/woven-textile-texture.png",
+      "alt": "Close-up detailed woven textile texture showing interlaced threads and fibers",
+      "title": "Woven Textile Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "In the realm of AI image generation, 'woven textile texture' is a valuable keyword for artists and designers seeking photorealistic fabric appearances in their creations. This texture replicates the intricate intertwining of warp and weft threads seen in real textiles, providing a rich surface detail that enhances the tactile feel of digital images. Including this keyword helps render lifelike cloth materials with convincing thread patterns and subtle lighting interactions that highlight the depth and weave complexity. Such imagery benefits industries ranging from fashion design to interior visualization by adding authentic fabric elements that elevate overall realism.",
+    "bestUseCases": [
+      "Fashion and apparel visualization showcasing fabric types and clothing details",
+      "Interior design renderings focusing on upholstery, curtains, and textile surfaces",
+      "Product photography simulations for textiles, accessories, and soft goods"
+    ],
+    "relatedKeywords": [
+      "fabric weave pattern",
+      "textile fiber detail",
+      "cloth surface texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "woven-textile-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Social Media Visual Branding",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Social Media Visual Branding: AI Image Prompt Guide",
+    "metaDescription": "Explore how to craft AI image prompts for impactful social media visual branding, optimizing imagery for commercial and marketing use.",
+    "heroImage": {
+      "src": "/images/keywords/social-media-visual-branding.png",
+      "alt": "AI generated image illustrating modern social media visual branding with cohesive colors and clean composition",
+      "title": "Social Media Visual Branding AI Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Social Media Visual Branding is a critical component in AI image generation that ensures visual content consistently represents a brand’s personality across social platforms. By specifying branding elements—such as color theory, style, mood, and composition—in AI prompts, creators can generate images that resonate with target audiences and enhance brand recognition. This approach helps marketers and designers produce visuals that fit seamlessly within campaigns, improve engagement, and support storytelling efforts. The technique requires understanding branding fundamentals combined with prompt engineering to effectively influence AI outputs for specific marketing needs.",
+    "bestUseCases": [
+      "Creating cohesive visual assets for Instagram stories and posts",
+      "Designing branded promotional imagery for Facebook and Twitter campaigns",
+      "Producing template images for LinkedIn company pages and advertisements"
+    ],
+    "relatedKeywords": [
+      "Brand Color Palette",
+      "Marketing Campaign Mood",
+      "Editorial Style Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "social-media-visual-branding",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
