@@ -2803,27 +2803,27 @@
     "keyword": "Ring Light Illumination",
     "slug": "ring-light-illumination",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.961Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-27T14:55:12.633Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Balanced Frame Composition",
     "slug": "balanced-frame-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.962Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-27T14:55:39.786Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Saturated Primary Palette",
     "slug": "saturated-primary-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.962Z",
-    "publishedAt": null,
+    "publishedAt": "2026-09-27T14:56:09.312Z",
     "source": "openai-discovery"
   },
   {

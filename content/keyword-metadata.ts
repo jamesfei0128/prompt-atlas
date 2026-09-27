@@ -11331,5 +11331,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Ring Light Illumination",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Ring Light Illumination: Enhance Your AI Image Lighting",
+    "metaDescription": "Explore Ring Light Illumination techniques in AI prompts for clean, flattering lighting. Learn definitions, prompt formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/ring-light-illumination.png",
+      "alt": "Portrait of a young woman illuminated by bright, even ring light creating a circular catchlight in her eyes",
+      "title": "Ring Light Illumination Example Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Ring Light Illumination is a popular lighting technique used in photography and videography to achieve a smooth, shadowless look by positioning a circular light around the lens. This setup creates a distinct ring-shaped catchlight that adds aesthetic appeal and highlights fine features with soft, diffused brightness. Incorporating this lighting style into AI image prompts helps generate images with professional, clean, and flattering illumination, ideal for portraits, product shots, and beauty imagery. It reduces harsh contrasts and highlights textures, offering a polished, premium visual effect that enhances subject clarity and attractiveness in various compositions.",
+    "bestUseCases": [
+      "Beauty and portrait photography images needing flattering, soft lighting",
+      "Product visuals emphasizing textures with minimal shadows",
+      "Social media influencer content showcasing polished, professional looks"
+    ],
+    "relatedKeywords": [
+      "Softbox Lighting",
+      "Natural Light",
+      "Studio Lighting Setup"
+    ],
+    "difficulty": "Beginner",
+    "slug": "ring-light-illumination",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Balanced Frame Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Balanced Frame Composition in AI Image Prompts",
+    "metaDescription": "Learn how to achieve balanced frame composition in AI-generated images for polished, harmonious visuals with practical prompt tips and creative variations.",
+    "heroImage": {
+      "src": "/images/keywords/balanced-frame-composition.png",
+      "alt": "Example of a landscape photo with balanced frame composition showing harmonious and evenly distributed elements",
+      "title": "Landscape with Balanced Frame Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Balanced frame composition is essential in creating images that feel harmonious and visually stable. This technique ensures that visual weight is evenly distributed across the image, preventing any side from feeling cluttered or sparse. In AI-generated art, including balanced frame composition in prompts helps models arrange elements thoughtfully, producing images suited for editorial, advertising, and professional contexts. It enhances the viewer's focus and emotional response by promoting natural flow and stability within the artwork.",
+    "bestUseCases": [
+      "Editorial hero images requiring polished, calm visual structure",
+      "Product photography with clear, harmonious focus on the subject",
+      "Corporate branding visuals that demand professional and stable layouts"
+    ],
+    "relatedKeywords": [
+      "Symmetrical Composition",
+      "Rule of Thirds",
+      "Visual Weight Balance"
+    ],
+    "difficulty": "Beginner",
+    "slug": "balanced-frame-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Saturated Primary Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Saturated Primary Palette: Vibrant Color Prompt Guide",
+    "metaDescription": "Explore how to use a saturated primary palette in AI image prompts for vivid, bold visuals. Learn definitions, formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/saturated-primary-palette.png",
+      "alt": "Illustration featuring vivid saturated primary palette with intense red, blue, and yellow colors in clean composition",
+      "title": "Vibrant Illustration with Saturated Primary Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "When you specify a saturated primary palette in AI image generation, you instruct the model to focus on vivid, pure red, blue, and yellow colors. This color scheme creates bold, energetic images with strong visual impact, often evoking feelings of playfulness or modern graphic design. Saturated primaries traditionally appear in pop art, children’s media, or minimalistic art with a color-blocking approach. Using this palette helps direct the AI to avoid washed-out, mixed, or complex color schemes, generating images that are visually striking and clean.",
+    "bestUseCases": [
+      "Graphic design posters needing bold statements",
+      "Children’s book illustrations with bright, engaging colors",
+      "Modern art and pop culture-inspired visuals"
+    ],
+    "relatedKeywords": [
+      "Vibrant Color Scheme",
+      "Bold Primary Colors",
+      "Pure Color Palette"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "saturated-primary-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

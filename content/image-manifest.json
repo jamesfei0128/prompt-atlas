@@ -3011,6 +3011,30 @@
       "generationPrompt": "16:9 composition of a modern brand-themed social media visual, featuring cohesive color palette, clean layout, premium lighting, editorial photography style, realistic materials, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "social-media-visual-branding"
+    },
+    {
+      "filename": "ring-light-illumination.png",
+      "altText": "Portrait of a young woman illuminated by bright, even ring light creating a circular catchlight in her eyes",
+      "imageTitle": "Ring Light Illumination Example Portrait",
+      "generationPrompt": "16:9 portrait of a woman with flawless skin, bright soft ring light illumination, circular catchlight in eyes, studio background, clean editorial style, premium stock-image polish, realistic skin texture, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "ring-light-illumination"
+    },
+    {
+      "filename": "balanced-frame-composition.png",
+      "altText": "Example of a landscape photo with balanced frame composition showing harmonious and evenly distributed elements",
+      "imageTitle": "Landscape with Balanced Frame Composition",
+      "generationPrompt": "16:9 photo of a serene landscape with balanced frame composition, harmonious distribution of trees, water, hills, soft natural light, high detail, realistic textures, clean and polished editorial style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "balanced-frame-composition"
+    },
+    {
+      "filename": "saturated-primary-palette.png",
+      "altText": "Illustration featuring vivid saturated primary palette with intense red, blue, and yellow colors in clean composition",
+      "imageTitle": "Vibrant Illustration with Saturated Primary Palette",
+      "generationPrompt": "16:9 modern editorial illustration featuring a saturated primary palette of vivid red, blue, and yellow colors, clean composition, refined lighting, realistic materials, subtle depth, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "saturated-primary-palette"
     }
   ]
 }
