@@ -11421,5 +11421,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Concrete Floor Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Concrete Floor Texture: Essential AI Image Prompt Guide",
+    "metaDescription": "Discover how to use 'Concrete Floor Texture' in AI image prompts to create realistic, versatile surfaces. Expert tips and best use cases included.",
+    "heroImage": {
+      "src": "/images/keywords/concrete-floor-texture.png",
+      "alt": "Close-up of rough concrete floor texture with cracks and pits",
+      "title": "Concrete Floor Texture Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "In AI image generation, 'Concrete Floor Texture' is a valuable keyword for producing surfaces that convincingly imitate real concrete. The texture embodies a mix of roughness, mild imperfections, and muted gray shades that convey an industrial or urban environment. Including this keyword enriches image realism, contributing tactile authenticity to floors, walls, or backgrounds. Designers, architects, and visual artists often use concrete textures to enhance the depth and grounded feel of their work, as it anchors objects in believable settings. Whether used in minimalist interiors or rugged outdoor spaces, this texture elevates a scene's atmosphere by introducing a tangible element that's both practical and visually compelling.",
+    "bestUseCases": [
+      "Architectural renderings highlighting industrial interiors",
+      "Background textures for urban-themed digital art",
+      "Product presentations on rugged, realistic ground surfaces"
+    ],
+    "relatedKeywords": [
+      "Rough Concrete Wall Texture",
+      "Polished Concrete Surface",
+      "Industrial Floor Pattern"
+    ],
+    "difficulty": "Beginner",
+    "slug": "concrete-floor-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Print Advertisement Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Print Advertisement Layout: Design and AI Prompt Guide",
+    "metaDescription": "Explore the concept of Print Advertisement Layout with AI prompt techniques. Learn visual traits, prompt formulas, use cases, and industry relevance for commercial designs.",
+    "heroImage": {
+      "src": "/images/keywords/print-advertisement-layout.png",
+      "alt": "Example of a clean print advertisement layout with balanced composition and realistic lighting",
+      "title": "Print Advertisement Layout Sample",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Print Advertisement Layout is foundational in creating compelling commercial visuals optimized for print media. These layouts emphasize structured design that balances images and text areas, achieving clarity and visual appeal to capture viewer attention effectively. In AI-generated imagery, integrating this keyword encourages clean editorial compositions with refined lighting and realistic materials, avoiding clutter or distracting elements. By focusing on such layouts, designers and marketers ensure their ads deliver messages efficiently across magazines, brochures, and other printed marketing materials, fostering brand engagement and recognition.",
+    "bestUseCases": [
+      "Designing magazine and newspaper advertisements with clear, balanced layouts",
+      "Creating brochure or flyer visuals that highlight product features effectively",
+      "Developing hero images for marketing materials requiring polished editorial style"
+    ],
+    "relatedKeywords": [
+      "Editorial Composition",
+      "Premium Stock Image",
+      "Commercial Print Design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "print-advertisement-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Backlight Glow Effect",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Backlight Glow Effect: Enhance Lighting in AI Image Prompts",
+    "metaDescription": "Learn how to use the Backlight Glow Effect in AI image prompts to create stunning lighting with subtle depth and realism for editorial and stock images.",
+    "heroImage": {
+      "src": "/images/keywords/backlight-glow-effect.png",
+      "alt": "Portrait of person with subtle backlight glow effect creating a luminous halo around hair and shoulders",
+      "title": "Backlight Glow Effect on Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Backlight Glow Effect is a powerful lighting feature that adds a striking, luminous outline to subjects by simulating a light source positioned behind them. In AI image generation, specifying this effect helps create images with enhanced spatial separation, subtle highlights, and atmospheric mood. It is a popular choice for editorial, portrait, fashion, and product photography styles, especially when a clean yet visually dynamic aesthetic is desired. This effect captures the modern preference for refined, realistic lighting setups that emphasize texture and form without overpowering the composition.",
+    "bestUseCases": [
+      "Product photography emphasizing texture and shape",
+      "Portraits with dramatic lighting and depth",
+      "Editorial fashion images requiring modern lighting accents"
+    ],
+    "relatedKeywords": [
+      "Rim Lighting",
+      "Soft Glow",
+      "Edge Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "backlight-glow-effect",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
