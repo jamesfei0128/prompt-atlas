@@ -11511,5 +11511,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Vibrant Jewel Tones",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Vibrant Jewel Tones in AI Image Prompts",
+    "metaDescription": "Discover how to use vibrant jewel tones in AI image prompts to create rich, luxurious, and visually striking digital art and designs.",
+    "heroImage": {
+      "src": "/images/keywords/vibrant-jewel-tones.png",
+      "alt": "Luxurious fashion portrait with vibrant jewel tone lighting",
+      "title": "Vibrant Jewel Tones Fashion Portrait",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using vibrant jewel tones in AI image prompts enhances digital artworks with saturated, eye-catching colors inspired by gemstones. These tones introduce a sense of luxury, richness, and visual depth, making images stand out with their jewel-like quality. Ideal for subjects needing an elegant or dramatic flair, jewel tones can elevate portraits, still life, fashion, and interior imagery with their bold and refined color presence. Incorporating this palette encourages AI models to prioritize vivid blues, greens, reds, and purples, often accented with subtle lighting and glossy textures for premium polish.",
+    "bestUseCases": [
+      "High-end fashion photography and editorial visuals",
+      "Luxurious product imagery for jewelry and cosmetics",
+      "Vivid portrait lighting to create dramatic and elegant moods"
+    ],
+    "relatedKeywords": [
+      "Deep Saturated Colors",
+      "Luxurious Color Palette",
+      "Gemstone Inspired Colors"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "vibrant-jewel-tones",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Distressed Leather Material",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Distressed Leather Material Texture for Realistic AI Images",
+    "metaDescription": "Explore how to create authentic distressed leather textures in AI images with expert prompt formulas and best use cases for designers and artists.",
+    "heroImage": {
+      "src": "/images/keywords/distressed-leather-material.png",
+      "alt": "Close-up of distressed brown leather material showing scratches and creases",
+      "title": "Distressed Leather Material Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Distressed leather material is a popular texture choice in digital art and design, known for its vintage and rugged aesthetic. When integrated into AI image prompts, it imparts a tactile, realistic feel characterized by natural wear, color fading, and textural depth. This material is typically used to evoke a sense of history or durability in objects like furniture, accessories, and fashion items. Including this keyword in AI prompts enhances the visual complexity and authenticity of leather surfaces, making rendered images more appealing and believable in contexts ranging from product visualization to conceptual art.",
+    "bestUseCases": [
+      "Furniture design mockups showcasing vintage sofas and chairs",
+      "Fashion photography featuring leather jackets or accessories with worn finishes",
+      "Product visualization for handcrafted leather goods emphasizing artisanal qualities"
+    ],
+    "relatedKeywords": [
+      "vintage leather texture",
+      "weathered leather finish",
+      "worn leather surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "distressed-leather-material",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Packaging Mockup Design",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Packaging Mockup Design: Creating Realistic Product Visuals",
+    "metaDescription": "Discover how Packaging Mockup Design transforms AI-generated images with realistic product visuals, perfect for commercial and editorial use.",
+    "heroImage": {
+      "src": "/images/keywords/packaging-mockup-design.png",
+      "alt": "Realistic packaging mockup design showing clean cardboard box with soft shadows on white background",
+      "title": "Packaging Mockup Design Featuring Matte Cardboard Box",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Packaging Mockup Design is an essential keyword for AI image generation when creating realistic and versatile product packaging visuals. It helps designers, marketers, and content creators visualize packaging concepts with premium stock-image polish and refined lighting. The resulting images typically feature clean editorial compositions focused on packaging shape and material details without any distracting text or logos. This keyword boosts the quality and usability of product presentation images for commercial use, branding proposals, or online stores.",
+    "bestUseCases": [
+      "Creating product presentation images for consumer goods such as cosmetics, food, or electronics",
+      "Developing versatile packaging previews for client proposals and design portfolios",
+      "Generating clean and professional visuals for online marketplaces and advertising campaigns"
+    ],
+    "relatedKeywords": [
+      "Product Rendering",
+      "Branding Mockup",
+      "Retail Packaging"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "packaging-mockup-design",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

@@ -3059,6 +3059,30 @@
       "generationPrompt": "16:9 portrait of a woman with subtle backlight glow effect, soft luminous halo around edges, clean editorial composition, refined lighting, realistic textures, no text, no logos, no watermark",
       "category": "Lighting",
       "keywordSlug": "backlight-glow-effect"
+    },
+    {
+      "filename": "vibrant-jewel-tones.png",
+      "altText": "Luxurious fashion portrait with vibrant jewel tone lighting",
+      "imageTitle": "Vibrant Jewel Tones Fashion Portrait",
+      "generationPrompt": "16:9 portrait of a woman illuminated by vibrant jewel tones in emerald green and sapphire blue lighting, high fashion editorial style, premium stock-image quality, clean composition, realistic materials, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "vibrant-jewel-tones"
+    },
+    {
+      "filename": "distressed-leather-material.png",
+      "altText": "Close-up of distressed brown leather material showing scratches and creases",
+      "imageTitle": "Distressed Leather Material Texture Close-up",
+      "generationPrompt": "16:9 high resolution close-up of distressed leather material texture, warm natural lighting, detailed scratches and creases, realistic aged leather surface, subtle depth, clean editorial composition, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "distressed-leather-material"
+    },
+    {
+      "filename": "packaging-mockup-design.png",
+      "altText": "Realistic packaging mockup design showing clean cardboard box with soft shadows on white background",
+      "imageTitle": "Packaging Mockup Design Featuring Matte Cardboard Box",
+      "generationPrompt": "16:9 image of realistic packaging mockup design showing a clean, matte cardboard box with subtle shadows and soft studio lighting on a white background, premium stock photo style, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "packaging-mockup-design"
     }
   ]
 }
