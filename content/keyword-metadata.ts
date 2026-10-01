@@ -11601,5 +11601,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "High Contrast Rim Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "High Contrast Rim Lighting: Enhance AI Image Prompts",
+    "metaDescription": "Discover how High Contrast Rim Lighting transforms AI images with sharp edge highlights. Learn prompt formulas, use cases, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/high-contrast-rim-lighting.png",
+      "alt": "Portrait of a person with high contrast rim lighting highlighting sharp edges against a dark background",
+      "title": "High Contrast Rim Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "High Contrast Rim Lighting is a powerful creative technique that adds dramatic flair and dimension to images. By placing a bright light source behind the subject, this method produces vivid outlines with intense brightness contrasting starkly against darker areas. In AI-generated images, this lighting effect helps to make subjects pop by accentuating edges and contours, improving visual separation and focus. It is especially effective for portraits, product shots, and stylized artistic renditions. Incorporating this keyword in AI prompts guides the model to produce images with refined lighting nuances, sharp contrasts, and enhanced depth that elevate the overall composition.",
+    "bestUseCases": [
+      "Portrait photography prompts requiring dramatic highlighting",
+      "Product images emphasizing shape and material textures",
+      "Stylized character art with strong visual silhouettes"
+    ],
+    "relatedKeywords": [
+      "Backlight Shadow Play",
+      "Silhouette Lighting",
+      "Dramatic Edge Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "high-contrast-rim-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Serene Lakeside Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Serene Lakeside Mood: Capturing Calm in AI Images",
+    "metaDescription": "Discover how to create tranquil lakeside scenes with 'Serene Lakeside Mood' prompts. Enhance your AI image generation with calm atmosphere and natural beauty.",
+    "heroImage": {
+      "src": "/images/keywords/serene-lakeside-mood.png",
+      "alt": "Peaceful morning at a serene lake with calm water and soft natural light reflecting lush greenery",
+      "title": "Serene Lakeside at Sunrise with Soft Reflections",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "'Serene Lakeside Mood' is an atmospheric keyword focusing on rendering peaceful lakeside environments with a meditative and calming effect. This prompt element prioritizes soft lighting, still water, and natural tranquility to evoke feelings of relaxation and escape. It can bring out delicate details such as subtle water ripples, gentle fog or mist hovering over the lake surface, and vibrant but subdued greenery framing the scene. Artists and creators use this keyword to craft images suitable for wellness, meditation, nature storytelling, or emotional ambiance where serenity is central.",
+    "bestUseCases": [
+      "Wellness and meditation app backgrounds promoting calmness",
+      "Editorial nature photography illustrations emphasizing peace",
+      "Interior design visuals for spa and relaxation spaces"
+    ],
+    "relatedKeywords": [
+      "Tranquil Forest Path",
+      "Morning Mist Atmosphere",
+      "Golden Hour Landscape"
+    ],
+    "difficulty": "Beginner",
+    "slug": "serene-lakeside-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Balanced Triangular Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Balanced Triangular Composition in AI Image Prompts",
+    "metaDescription": "Discover how Balanced Triangular Composition enhances AI image prompts with harmonious, dynamic layouts ideal for editorial and advertising visuals.",
+    "heroImage": {
+      "src": "/images/keywords/balanced-triangular-composition.png",
+      "alt": "Example of balanced triangular composition with three key subjects arranged forming a harmonious triangle in an editorial style photograph",
+      "title": "Balanced Triangular Composition Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Balanced Triangular Composition is a classic layout technique that organizes main components into a triangular arrangement, fostering a sense of equilibrium and visual interest. When used in AI image prompting, it directs the model to position subjects or objects at three points, creating a natural flow and structure that viewers find pleasing. This composition leverages geometric balance to enhance storytelling or highlight product details, making images appear intentional and professionally crafted. Its balanced yet dynamic nature helps prevent clutter while maintaining engagement, ideal for diverse creative outputs.",
+    "bestUseCases": [
+      "Advertising product layouts ensuring clear focus points",
+      "Editorial portraits where subject placement enhances storytelling",
+      "Ecommerce images presenting multiple items harmoniously"
+    ],
+    "relatedKeywords": [
+      "Golden Ratio Composition",
+      "Rule of Thirds Composition",
+      "Symmetrical Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "balanced-triangular-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

@@ -3083,6 +3083,30 @@
       "generationPrompt": "16:9 image of realistic packaging mockup design showing a clean, matte cardboard box with subtle shadows and soft studio lighting on a white background, premium stock photo style, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "packaging-mockup-design"
+    },
+    {
+      "filename": "high-contrast-rim-lighting.png",
+      "altText": "Portrait of a person with high contrast rim lighting highlighting sharp edges against a dark background",
+      "imageTitle": "High Contrast Rim Lighting Portrait",
+      "generationPrompt": "16:9 portrait of a person illuminated by high contrast rim lighting, sharp bright edges, dark background, cinematic style, realistic materials, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "high-contrast-rim-lighting"
+    },
+    {
+      "filename": "serene-lakeside-mood.png",
+      "altText": "Peaceful morning at a serene lake with calm water and soft natural light reflecting lush greenery",
+      "imageTitle": "Serene Lakeside at Sunrise with Soft Reflections",
+      "generationPrompt": "16:9 ultra-realistic serene lakeside scene at sunrise, calm mirror-like water, soft mist hovering, lush green trees on shore, warm golden hour lighting, clean editorial composition, refined lighting and subtle depth, no text, no logos, no watermark",
+      "category": "Atmosphere",
+      "keywordSlug": "serene-lakeside-mood"
+    },
+    {
+      "filename": "balanced-triangular-composition.png",
+      "altText": "Example of balanced triangular composition with three key subjects arranged forming a harmonious triangle in an editorial style photograph",
+      "imageTitle": "Balanced Triangular Composition Example",
+      "generationPrompt": "16:9 photo of three subjects arranged in a balanced triangular composition, clean editorial style, premium lighting with subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "balanced-triangular-composition"
     }
   ]
 }
