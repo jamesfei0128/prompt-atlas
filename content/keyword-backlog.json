@@ -2911,27 +2911,27 @@
     "keyword": "Product Catalog Layout",
     "slug": "product-catalog-layout",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.962Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-02T16:02:23.256Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Stormy Weather Atmosphere",
     "slug": "stormy-weather-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.962Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-02T16:02:53.809Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Textured Canvas Surface",
     "slug": "textured-canvas-surface",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.962Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-02T16:03:21.085Z",
     "source": "openai-discovery"
   },
   {

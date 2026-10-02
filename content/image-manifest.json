@@ -3107,6 +3107,30 @@
       "generationPrompt": "16:9 photo of three subjects arranged in a balanced triangular composition, clean editorial style, premium lighting with subtle depth, realistic materials, no text, no logos, no watermark",
       "category": "Composition",
       "keywordSlug": "balanced-triangular-composition"
+    },
+    {
+      "filename": "product-catalog-layout.png",
+      "altText": "Clean modern product catalog layout with a grid of realistic products on white background, subtle soft lighting",
+      "imageTitle": "Product Catalog Layout AI Image Example",
+      "generationPrompt": "16:9 aspect ratio image showing a modern product catalog layout with clean grid design, multiple products arranged neatly, soft refined lighting, realistic textures, white seamless background, commercial style, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "product-catalog-layout"
+    },
+    {
+      "filename": "stormy-weather-atmosphere.png",
+      "altText": "Dark thunderstorm clouds over a wet urban street illuminated by lightning",
+      "imageTitle": "Stormy Weather Atmosphere over Urban Street",
+      "generationPrompt": "16:9 realistic urban street scene during stormy weather atmosphere, dark heavy clouds, bright lightning flashes, wet reflective surfaces, cinematic lighting, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "stormy-weather-atmosphere"
+    },
+    {
+      "filename": "textured-canvas-surface.png",
+      "altText": "Close-up view of a textured canvas surface showing woven fibers and grain",
+      "imageTitle": "Textured Canvas Surface Detail",
+      "generationPrompt": "Close-up of a textured canvas surface with visible woven fibers and natural grain, soft diffused lighting, high detail, no text, no logos, no watermark, 16:9",
+      "category": "Texture & Material",
+      "keywordSlug": "textured-canvas-surface"
     }
   ]
 }

@@ -34293,4 +34293,329 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "It provides visual stability and harmony by directing the viewer's eye in a natural, engaging flow, making images feel professionally designed and aesthetically pleasing."
     }
   ]
+  },
+  {
+    title: "Product Catalog Layout",
+    category: "Commercial Use",
+    published: true,
+    seoTitle: "Product Catalog Layout: Modern AI Image Prompt Guide",
+    metaDescription: "Explore how 'Product Catalog Layout' enhances AI image prompts for clean, professional commercial visuals. Learn prompt formulas, use cases, and pro techniques.",
+    heroImage: keywordHero("product-catalog-layout", "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"),
+    definition: "A 'Product Catalog Layout' in AI image prompting refers to a structured, clean, and consistent visual arrangement that showcases products systematically. It emphasizes organized grids or listings, polished styling, and clear presentation without distractions, allowing AI to generate images reminiscent of high-quality commerce catalogs. Including this keyword in a prompt guides the AI to simulate commercial catalog page aesthetics, enhancing clarity and professionalism in product displays.",
+    visualCharacteristics: [
+    "Clean, modular grid arrangements showcasing multiple products",
+    "Subtle depth with refined lighting emphasizing realistic materials",
+    "No text, logos, or watermarks to focus purely on product visuals"
+  ],
+    overview: "Product Catalog Layout is an essential keyword for generating AI images that mimic the professional and polished style of commercial product catalogs. This approach ensures images have a well-organized display, typically using grids or segmented sections that highlight each product distinctly. The style favors minimalistic and modern editorial design with premium stock image qualities like refined lighting and realistic textures. By incorporating this into prompts, creators can produce visuals suitable for ecommerce listings, print brochures, and web catalogs where clarity and premium presentation are paramount, making it a versatile asset for marketing and sales-oriented projects.",
+    whatItDoes: "In AI image generation, 'Product Catalog Layout' shapes the spatial and stylistic arrangement of product images to reflect typical catalog aesthetics. It enforces a clean, balanced composition ensuring each product is distinctly visible and attractively presented. This keyword influences the AI to avoid clutter and distractions by excluding text and logos, focusing instead on realistic materials and subtle depth to convey quality. The result is a visually cohesive and commercially appealing image that supports viewer attention on products, ideal for marketing contexts requiring professionalism and clarity.",
+    bestUseCases: [
+    "Ecommerce web page hero images showcasing new product lines",
+    "Printable product brochures or catalogs for retail marketing",
+    "Online advertising creatives requiring product-focused layout clarity"
+  ],
+    relatedKeywords: [
+    "Ecommerce Product Display",
+    "Modern Editorial Style",
+    "Commercial Product Photography"
+  ],
+    examplePrompt: "‘Product Catalog Layout, minimalistic grid with modern lighting, realistic materials, no text or logos, premium commercial style’",
+    promptExamples: [
+    "‘Product Catalog Layout, minimalistic grid with modern lighting, realistic materials, no text or logos, premium commercial style’",
+    "‘Clean white background product catalog layout, subtle shadows, editorial composition, high detail realism’",
+    "‘Organized product catalog page, balanced grid, natural lighting, refined textures, commercial stock image aesthetic’"
+  ],
+    commercialApplications: [
+    "Ecommerce websites displaying diverse product offerings",
+    "Print marketing materials such as brochures and catalogs",
+    "Digital advertisements highlighting product features"
+  ],
+    adobeStockPotential: "Images created using 'Product Catalog Layout' prompts have high potential in Adobe Stock due to their clear commercial focus and premium aesthetic. They cater to buyers needing versatile visuals for product marketing, ecommerce, and editorial use without further editing. The absence of text and logos makes these images suitable for multiple contexts and easy customization. Their modern, clean editorial style aligns well with current market trends, making them desirable for stock clients seeking professional and adaptable product presentations.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "A Product Catalog Layout is a structured visual format highlighting products in a neat, organized manner that resembles professional commerce catalogs. When included in AI image prompts, it directs the model to create images with clean, grid-based compositions featuring realistic product details, natural lighting, and no textual or branding elements. This helps generate images fit for sales and marketing needs, emphasizing clarity and polish."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Use these prompt patterns to compose effective Product Catalog Layout images:\n- Start with 'Product Catalog Layout' to define the core structure.\n- Add descriptors like 'clean grid arrangement', 'minimalistic design', or 'modern editorial style'.\n- Specify lighting and material traits such as 'refined soft lighting', 'realistic textures', or 'subtle depth'.\n- Exclude text and branding by adding 'no text, no logos, no watermark'.\n- Finish with commercial tags like 'premium stock image' to enhance quality.",
+      "items": [
+        "Product Catalog Layout, clean grid arrangement, minimalistic design",
+        "Refined soft lighting, realistic textures, subtle depth",
+        "No text, no logos, no watermark",
+        "Modern editorial style, premium stock image"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Ecommerce product hero images showcasing categories",
+        "Printed brochures or catalogs for product marketing",
+        "Online advertisements focusing on product clarity and appeal"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "body": "The Product Catalog Layout is widely used across several commercial industries. In ecommerce, it facilitates clear product listings that enhance buyer experience with visually appealing displays. Advertising agencies utilize it for print and digital brochures, ensuring consistent and sophisticated presentation of merchandise. Editorial content creators leverage this layout style to produce clean product spreads in magazines or online platforms, maintaining a premium look that aligns with brand aesthetics.",
+      "items": [
+        "Ecommerce platforms for product display",
+        "Advertising agencies for marketing brochures",
+        "Editorial publishing for product showcases"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "Common errors when prompting Product Catalog Layout include overloading the image with too many products which reduces clarity, including text or logos that clutter the composition, and requesting overly dramatic lighting that distracts from product details. Another frequent issue is vague styling instructions leading to generic or unrealistic outputs. To avoid this, keep prompts precise about layout cleanliness, lighting subtlety, and exclude non-visual elements to maintain a polished commercial look.",
+      "items": [
+        "Too many products causing cluttered images",
+        "Including text, logos, or watermarks",
+        "Overly dramatic or harsh lighting",
+        "Vague styling resulting in unrealistic visuals"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "For experienced prompt writers, combining Product Catalog Layout with thematic lighting effects like soft natural light or directional spotlighting can enhance realism. Applying constraints such as specifying ‘white seamless background’ or ‘matte vs. glossy product finishes’ directs material rendering fidelity. Layering this keyword with product-specific descriptors (e.g., 'electronics', 'fashion accessories') combined with style modifiers (e.g., 'high contrast', 'shallow depth of field') can produce nuanced catalog imagery tailored to niche markets.",
+      "items": [
+        "Combine with lighting modifiers: soft natural light, spotlights",
+        "Specify background and material finish: white seamless, matte, glossy",
+        "Add product-specific descriptors: electronics, fashion, beauty",
+        "Incorporate style tweaks: high contrast, shallow depth of field"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Start by defining clear briefing goals highlighting product types and intended commercial use. Construct prompts using the Product Catalog Layout formula to ensure precise layout and style instructions. Generate multiple variations to explore composition options. Select images that best meet clarity, realism, and aesthetic standards. Refine chosen outputs with minor edits or upscale as needed. Finally, validate images against client or platform guidelines to ensure suitability for stock or commercial marketing use.",
+      "items": [
+        "Define product and usage requirements",
+        "Craft prompts incorporating Product Catalog Layout",
+        "Generate multiple image variations",
+        "Select and refine best outputs",
+        "Confirm compliance with commercial standards"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "The Product Catalog Layout aligns closely with styles such as Modern Editorial Style, highlighting clean and sophisticated design principles. It complements Ecommerce Product Display visuals focusing on commercial clarity. Additionally, Commercial Product Photography shares adjacent visual goals, emphasizing realistic presentation and lighting. These interrelated styles enrich prompt options for creators seeking diverse but consistent product imaging aesthetics.",
+      "items": [
+        "Modern Editorial Style",
+        "Ecommerce Product Display",
+        "Commercial Product Photography"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "What does 'Product Catalog Layout' mean in AI image prompts?",
+      "answer": "It directs AI to create images with organized, clean arrangements of products, resembling professional commerce catalogs, emphasizing clarity, lighting, and realism without added text or logos."
+    },
+    {
+      "question": "How can I avoid clutter in product catalog images generated by AI?",
+      "answer": "Limit the number of products, specify grid or modular layouts, and mention 'clean' or 'minimalistic' designs in your prompt to maintain clear and organized visuals."
+    }
+  ]
+  },
+  {
+    title: "Stormy Weather Atmosphere",
+    category: "Atmosphere",
+    published: true,
+    seoTitle: "Stormy Weather Atmosphere: AI Image Prompt Guide",
+    metaDescription: "Unlock dramatic visuals with Stormy Weather Atmosphere prompts. Learn definitions, formulae, and best uses to enhance AI-generated images with moody storms.",
+    heroImage: keywordHero("stormy-weather-atmosphere", "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"),
+    definition: "Stormy Weather Atmosphere in AI image prompts refers to incorporating elements that depict turbulent weather conditions such as dark clouds, rain, lightning, and an overall moody ambiance. It changes the visual tone by adding dynamism and drama, creating scenes that feel intense and emotionally charged. Including this keyword helps AI models generate images rich with storm-induced lighting and atmospheric effects.",
+    visualCharacteristics: [
+    "Dark, heavy clouds with textured depth",
+    "Dynamic lighting from lightning or overcast skies",
+    "Moody, subdued color palettes emphasizing grays and blues"
+  ],
+    overview: "Stormy Weather Atmosphere is a powerful keyword for AI image generation that evokes dramatic and intense environmental conditions. By prompting the AI to include storm-related elements like ominous rain clouds, flashes of lightning, and turbulent skies, artists and creators can achieve scenes rich in tension and emotional impact. This atmosphere shifts the mood drastically from calm or sunny depictions, lending itself well to narratives involving conflict, intensity, or natural power. Incorporating storm characteristics enhances depth and realism, especially when paired with subtle reflections, wind-affected natural elements, or wet surfaces. It's ideal for compelling hero images, editorial visuals, or storytelling backdrops requiring a heightened sense of drama or unpredictability.",
+    whatItDoes: "When you add Stormy Weather Atmosphere to your AI image prompt, the model emphasizes environmental conditions featuring storm elements. This influences the lighting to appear diffused or punctuated by lightning, colors to skew toward cooler and darker tones, and textures to show movement such as rain or wind-blown foliage. It creates immersive scenes that convey tension and moodiness without explicitly stating emotions. The atmosphere can also affect the composition by encouraging cloud formations, weather effects, and reflective wet surfaces. Overall, this keyword transforms generic outdoor settings into vivid, story-rich environments charged with energy and emotion.",
+    bestUseCases: [
+    "Creating moody editorial hero images and thumbnails",
+    "Designing dramatic weather scenes for digital art or storytelling",
+    "Producing atmospheric backgrounds for film, game concepts, or book covers"
+  ],
+    relatedKeywords: [
+    "Rainy Weather Atmosphere",
+    "Thunderstorm",
+    "Moody Skies"
+  ],
+    examplePrompt: "stormy weather atmosphere, dark thunderclouds with lightning, wet reflective streets, cinematic lighting",
+    promptExamples: [
+    "stormy weather atmosphere, dark thunderclouds with lightning, wet reflective streets, cinematic lighting",
+    "dramatic stormy weather atmosphere, swirling rain, overcast skies with bursts of lightning, moody urban landscape",
+    "stormy weather atmosphere, turbulent clouds over a rugged coastline, wind-blown trees, diffuse lighting"
+  ],
+    commercialApplications: [
+    "Advertising campaigns needing dramatic outdoor settings",
+    "Book cover art for thrillers and mysteries",
+    "Concept art for games and films featuring intense weather"
+  ],
+    adobeStockPotential: "Stormy Weather Atmosphere images are highly sought after on platforms like Adobe Stock due to their universal appeal in conveying emotion and narrative tension. These visuals attract buyers looking for dramatic backgrounds, cinematic scenes, and natural phenomena to complement storytelling and marketing projects. High-quality, realistic storm images fit perfectly for editorial spreads, packaging, and digital media. Their flexibility across commercial sectors such as entertainment, advertising, and editorial makes them valuable assets that often command strong licensing interest.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Stormy Weather Atmosphere refers to including visual storm elements—like intense clouds, rain, and lightning—in an AI prompt to dramatically change the mood and lighting. It makes scenes feel dynamic, moody, and charged with natural energy, influencing color, texture, and overall ambiance."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "items": [
+        "stormy weather atmosphere + [specific setting] + lighting details (e.g., cinematic lighting, thunder flashes)",
+        "stormy weather atmosphere + [foreground elements like wet streets, trees] + mood adjectives (moody, turbulent)",
+        "stormy weather atmosphere + natural phenomena (heavy rain, lightning) + color tones (cool blues, grays)"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Moody editorial and hero images for articles and marketing",
+        "Dramatic digital art scenes for storytelling and concept work",
+        "Atmospheric backgrounds for movies, games, and book covers"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "items": [
+        "Rainy Weather Atmosphere for softer rain effects",
+        "Thunderstorm for intense lightning focus",
+        "Moody Skies for gloomy, overcast conditions without precipitation"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "To maximize Stormy Weather Atmosphere effects across AI models, use detailed descriptors of weather elements and lighting to reduce ambiguity. Include physical details like rain streaks, cloud textures, or wet surfaces to encourage realistic effects. Avoid vague terms alone; instead, combine atmosphere with environmental context and mood adjectives. Experiment with lighting descriptors such as \"diffuse overcast\" or \"sharp lightning flashes\" for realism regardless of model brand or version."
+    }
+  ],
+    faqs: [
+    {
+      "question": "How does adding Stormy Weather Atmosphere affect the image mood?",
+      "answer": "It introduces tension and drama by simulating turbulent weather conditions, which alters lighting, colors, and textures to create a moody, intense atmosphere."
+    },
+    {
+      "question": "Can Stormy Weather Atmosphere be combined with other weather keywords?",
+      "answer": "Yes, it pairs well with related terms like Thunderstorm or Rainy Weather to emphasize specific storm characteristics or moods."
+    },
+    {
+      "question": "Is this keyword suitable for beginners in AI prompt writing?",
+      "answer": "Absolutely. It’s straightforward yet impactful and helps beginners understand how atmosphere keywords shape image tone."
+    }
+  ]
+  },
+  {
+    title: "Textured Canvas Surface",
+    category: "Texture & Material",
+    published: true,
+    seoTitle: "Textured Canvas Surface: Enhance Visual Depth in AI Art",
+    metaDescription: "Discover how to use 'Textured Canvas Surface' in AI prompts to add rich material feel and visual depth for realistic, premium images.",
+    heroImage: keywordHero("textured-canvas-surface", "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"),
+    definition: "A 'Textured Canvas Surface' keyword in AI image prompts refers to the simulation of a canvas material with visible texture, such as fiber weave and grain. Including this keyword instructs the AI to produce an image that appears to be painted or printed on a real canvas, adding tactile realism and depth to the artwork. It enhances surface detail, making images suitable for art reproductions or designs requiring a handcrafted feel.",
+    visualCharacteristics: [
+    "Visible canvas fibers or weave",
+    "Subtle rough or grainy texture",
+    "Natural matte finish with slight irregularities"
+  ],
+    overview: "In AI image generation, adding a 'Textured Canvas Surface' imparts the look and feel of traditional canvas materials, enriching digital images with a tactile, handcrafted aesthetic. This feature is vital when aiming for realism in artworks simulating paintings or prints, as it introduces subtle texture variations and surface depth that digital renders often lack. This keyword helps bridge the gap between digital creation and physical artistry by mimicking the fibrous structure and matte finish of real canvas, offering a premium and authentic appearance. Used carefully, it can elevate stock images, fine art reproductions, and editorial visuals that benefit from material authenticity.",
+    whatItDoes: "Including 'Textured Canvas Surface' in your AI prompts instructs the model to simulate the physical characteristics of canvas, such as the woven fibers and surface grain. This addition affects the image by overlaying the artwork or photo with subtle texture details that suggest a natural, tactile medium rather than a flat digital print. It is especially potent in close-ups or macro perspectives, where texture is more noticeable. This keyword can transform digital images into realistic paintings or prints and can also enhance the visual interest by adding organic irregularities and surface depth, making the image feel more tangible and engaging.",
+    bestUseCases: [
+    "Creating digital paintings or artwork replicas",
+    "Designing premium stock images with natural texture",
+    "Producing editorial hero images with tactile depth"
+  ],
+    relatedKeywords: [
+    "Oil Painting Texture",
+    "Canvas Print Realism",
+    "Natural Material Surface"
+  ],
+    examplePrompt: "A still life oil painting with vibrant colors on a textured canvas surface, soft natural lighting",
+    promptExamples: [
+    "A still life oil painting with vibrant colors on a textured canvas surface, soft natural lighting",
+    "Abstract artwork with bold brush strokes, detailed textured canvas surface, subtle shadow play",
+    "Portrait photo digitally printed on a textured canvas surface, warm tones, realistic material detail"
+  ],
+    commercialApplications: [
+    "Fine art reproduction prints",
+    "Premium marketing and editorial visuals",
+    "Custom textured digital product mockups"
+  ],
+    adobeStockPotential: "The 'Textured Canvas Surface' keyword holds strong potential for Adobe Stock contributors aiming to provide high-quality, tactile images that mimic traditional art media. This keyword enhances the artistic authenticity and material feel of uploaded images, appealing to buyers in fine art reproduction, editorial, and design sectors seeking premium textures without manual post-processing. It complements submissions in painting, photography, and mixed media categories, offering added value through realistic surface detail that meets current market demands for naturalistic and handcrafted aesthetics.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "'Textured Canvas Surface' describes a prompt keyword that directs the AI to emulate the look and tactile qualities of a woven canvas material. Using this term encourages the generation of images with visible fiber patterns and an organic, matte texture reminiscent of traditional artist canvases. It modifies flat digital images by adding a subtle, naturalistic grain that enhances realism and depth, especially useful for art-focused visuals.",
+      "items": [
+        "Simulates woven canvas fibers and grain",
+        "Adds tactile, handcrafted feel",
+        "Transforms flat images into textured artwork"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To incorporate 'Textured Canvas Surface' effectively, combine it with art medium and lighting descriptors to specify mood and detail. Examples include:",
+      "items": [
+        "[Subject] painted in [medium] on a textured canvas surface, [lighting]",
+        "A close-up of [subject] with detailed textured canvas surface and soft shadowing",
+        "[Style] artwork featuring vibrant colors and visible textured canvas surface"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "The 'Textured Canvas Surface' keyword excels in enhancing images for scenarios that benefit from material authenticity and artistic depth. Use it for:",
+      "items": [
+        "Digital painting recreations requiring realistic texture",
+        "Premium stock imagery with natural materials",
+        "Editorial hero images that need tactile visual interest"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "Experienced prompt writers elevate texture effects by combining 'Textured Canvas Surface' with detailed material and lighting prompts. Consider:",
+      "items": [
+        "Pairing with specific brush stroke styles (e.g., impasto, dry brush)",
+        "Specifying canvas color types (e.g., natural linen, primed white)",
+        "Adding lighting constraints to emphasize surface irregularities"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "An efficient workflow for using 'Textured Canvas Surface' includes:",
+      "items": [
+        "Start with a clear concept and base prompt outlining subject and style",
+        "Add 'Textured Canvas Surface' early to guide material realism",
+        "Generate multiple iterations focusing on texture visibility",
+        "Select images with optimal texture integration and detail",
+        "Refine prompts or post-process slightly to adjust texture prominence while preserving naturalism"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "Why should I add 'Textured Canvas Surface' to my AI art prompts?",
+      "answer": "Adding 'Textured Canvas Surface' enhances images by simulating the look of real canvas materials, adding tactile depth and realism, which is especially valuable for artworks and premium visuals where texture enriches the viewing experience."
+    },
+    {
+      "question": "Can 'Textured Canvas Surface' be combined with other material keywords?",
+      "answer": "Yes, combining it with keywords like 'oil painting texture' or 'natural fabric weave' can yield nuanced surface effects and add complexity to the material appearance in generated images."
+    }
+  ]
   }];

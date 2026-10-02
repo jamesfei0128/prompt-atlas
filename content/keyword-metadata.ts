@@ -11691,5 +11691,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Product Catalog Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Product Catalog Layout: Modern AI Image Prompt Guide",
+    "metaDescription": "Explore how 'Product Catalog Layout' enhances AI image prompts for clean, professional commercial visuals. Learn prompt formulas, use cases, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/product-catalog-layout.png",
+      "alt": "Clean modern product catalog layout with a grid of realistic products on white background, subtle soft lighting",
+      "title": "Product Catalog Layout AI Image Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Product Catalog Layout is an essential keyword for generating AI images that mimic the professional and polished style of commercial product catalogs. This approach ensures images have a well-organized display, typically using grids or segmented sections that highlight each product distinctly. The style favors minimalistic and modern editorial design with premium stock image qualities like refined lighting and realistic textures. By incorporating this into prompts, creators can produce visuals suitable for ecommerce listings, print brochures, and web catalogs where clarity and premium presentation are paramount, making it a versatile asset for marketing and sales-oriented projects.",
+    "bestUseCases": [
+      "Ecommerce web page hero images showcasing new product lines",
+      "Printable product brochures or catalogs for retail marketing",
+      "Online advertising creatives requiring product-focused layout clarity"
+    ],
+    "relatedKeywords": [
+      "Ecommerce Product Display",
+      "Modern Editorial Style",
+      "Commercial Product Photography"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "product-catalog-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Stormy Weather Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Stormy Weather Atmosphere: AI Image Prompt Guide",
+    "metaDescription": "Unlock dramatic visuals with Stormy Weather Atmosphere prompts. Learn definitions, formulae, and best uses to enhance AI-generated images with moody storms.",
+    "heroImage": {
+      "src": "/images/keywords/stormy-weather-atmosphere.png",
+      "alt": "Dark thunderstorm clouds over a wet urban street illuminated by lightning",
+      "title": "Stormy Weather Atmosphere over Urban Street",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Stormy Weather Atmosphere is a powerful keyword for AI image generation that evokes dramatic and intense environmental conditions. By prompting the AI to include storm-related elements like ominous rain clouds, flashes of lightning, and turbulent skies, artists and creators can achieve scenes rich in tension and emotional impact. This atmosphere shifts the mood drastically from calm or sunny depictions, lending itself well to narratives involving conflict, intensity, or natural power. Incorporating storm characteristics enhances depth and realism, especially when paired with subtle reflections, wind-affected natural elements, or wet surfaces. It's ideal for compelling hero images, editorial visuals, or storytelling backdrops requiring a heightened sense of drama or unpredictability.",
+    "bestUseCases": [
+      "Creating moody editorial hero images and thumbnails",
+      "Designing dramatic weather scenes for digital art or storytelling",
+      "Producing atmospheric backgrounds for film, game concepts, or book covers"
+    ],
+    "relatedKeywords": [
+      "Rainy Weather Atmosphere",
+      "Thunderstorm",
+      "Moody Skies"
+    ],
+    "difficulty": "Beginner",
+    "slug": "stormy-weather-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Textured Canvas Surface",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Textured Canvas Surface: Enhance Visual Depth in AI Art",
+    "metaDescription": "Discover how to use 'Textured Canvas Surface' in AI prompts to add rich material feel and visual depth for realistic, premium images.",
+    "heroImage": {
+      "src": "/images/keywords/textured-canvas-surface.png",
+      "alt": "Close-up view of a textured canvas surface showing woven fibers and grain",
+      "title": "Textured Canvas Surface Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "In AI image generation, adding a 'Textured Canvas Surface' imparts the look and feel of traditional canvas materials, enriching digital images with a tactile, handcrafted aesthetic. This feature is vital when aiming for realism in artworks simulating paintings or prints, as it introduces subtle texture variations and surface depth that digital renders often lack. This keyword helps bridge the gap between digital creation and physical artistry by mimicking the fibrous structure and matte finish of real canvas, offering a premium and authentic appearance. Used carefully, it can elevate stock images, fine art reproductions, and editorial visuals that benefit from material authenticity.",
+    "bestUseCases": [
+      "Creating digital paintings or artwork replicas",
+      "Designing premium stock images with natural texture",
+      "Producing editorial hero images with tactile depth"
+    ],
+    "relatedKeywords": [
+      "Oil Painting Texture",
+      "Canvas Print Realism",
+      "Natural Material Surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "textured-canvas-surface",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
