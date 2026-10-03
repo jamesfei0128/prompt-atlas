@@ -2938,27 +2938,27 @@
     "keyword": "Autumn Forest Atmosphere",
     "slug": "autumn-forest-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.962Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-03T14:28:44.418Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Brushed Steel Texture",
     "slug": "brushed-steel-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-14T10:47:53.962Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-03T14:29:07.423Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Volumetric Light Effects",
     "slug": "volumetric-light-effects",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.420Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-03T14:29:43.500Z",
     "source": "openai-discovery"
   },
   {

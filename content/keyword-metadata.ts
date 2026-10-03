@@ -11781,5 +11781,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Autumn Forest Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Autumn Forest Atmosphere: AI Image Prompt Guide",
+    "metaDescription": "Learn how to create stunning AI-generated images with the Autumn Forest Atmosphere keyword. Tips, formulas, and workflows for realistic seasonal vibes.",
+    "heroImage": {
+      "src": "/images/keywords/autumn-forest-atmosphere.png",
+      "alt": "A serene autumn forest with golden leaves and soft morning mist representing autumn forest atmosphere",
+      "title": "Autumn Forest Atmosphere in AI-generated image",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Autumn Forest Atmosphere refers to the visual and emotional qualities associated with forests during the fall season. When incorporated into AI image prompts, it helps produce scenes rich in warm hues like amber, crimson, and gold. The lighting tends to be soft, mimicking early morning or late afternoon sunlight filtered through foliage. This keyword also introduces elements such as fallen leaves, bare branches, and sometimes mist to evoke a serene yet dynamic environment. The atmosphere feels nostalgic, calm, and reflective, perfect for storytelling, seasonal marketing, and artistic nature representations.",
+    "bestUseCases": [
+      "Seasonal marketing materials and social media posts",
+      "Book covers or illustrations with a fall or nature theme",
+      "Backgrounds for mindfulness apps or websites promoting calm"
+    ],
+    "relatedKeywords": [
+      "Misty Forest Morning",
+      "Golden Hour Woods",
+      "Seasonal Nature Landscape"
+    ],
+    "difficulty": "Beginner",
+    "slug": "autumn-forest-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Brushed Steel Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Brushed Steel Texture: Premium AI Image Prompt Guide",
+    "metaDescription": "Explore how to create realistic brushed steel texture images with AI. Learn prompt formulas, best use cases, and avoid common mistakes for stunning metallic effects.",
+    "heroImage": {
+      "src": "/images/keywords/brushed-steel-texture.png",
+      "alt": "Close-up photorealistic brushed steel texture with linear grain and subtle matte reflections",
+      "title": "Brushed Steel Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Brushed steel texture is widely used in design and industrial contexts for its sleek, modern metallic look with a distinctive matte finish and faint linear grain. When used in AI image prompts, it guides the model to render surfaces that mimic steel polished in one direction, producing subtle reflections and texture that add realism and sophistication to metallic objects. This texture balances between shiny and dull, making it ideal for product visualizations, architectural details, and industrial design. Mastering brushed steel textures in AI imagery enhances the credibility and appeal of metallic representations across visuals.",
+    "bestUseCases": [
+      "Product visualization for electronics and appliances",
+      "Interior design renders featuring stainless steel fixtures",
+      "Marketing imagery showcasing industrial and modern metal objects"
+    ],
+    "relatedKeywords": [
+      "stainless steel texture",
+      "metallic texture",
+      "industrial metal surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "brushed-steel-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Volumetric Light Effects",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Volumetric Light Effects: Enhance AI Images with Atmospheric Lighting",
+    "metaDescription": "Discover how to use volumetric light effects in AI image prompts to create atmospheric depth and realism. Learn prompt formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/volumetric-light-effects.png",
+      "alt": "Interior scene with warm volumetric light beams filtering through large windows, highlighting dust particles",
+      "title": "Warm volumetric light effects in interior architecture",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Volumetric light effects bring a tangible sense of atmosphere and depth to images by mimicking how light interacts with particles in the air. When used in AI-generated visuals, these effects help establish mood, highlight focal points, and add realism by showcasing how light rays disperse through fog, smoke, or dust. This technique is commonly seen in cinematic scenes, landscape photography, and architectural renderings to give a premium, immersive quality. Adding volumetric lighting prompts to your AI commands can dramatically transform flat or static compositions into vivid, textured visuals with a professional polish.",
+    "bestUseCases": [
+      "Cinematic landscapes with sun rays piercing through clouds or trees",
+      "Interior architecture showcasing natural light filtering through windows with dust particles",
+      "Mystical or fantasy scenes requiring ethereal lighting to enhance mood and storytelling"
+    ],
+    "relatedKeywords": [
+      "god rays",
+      "fog effects",
+      "cinematic lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "volumetric-light-effects",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

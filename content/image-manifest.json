@@ -3131,6 +3131,30 @@
       "generationPrompt": "Close-up of a textured canvas surface with visible woven fibers and natural grain, soft diffused lighting, high detail, no text, no logos, no watermark, 16:9",
       "category": "Texture & Material",
       "keywordSlug": "textured-canvas-surface"
+    },
+    {
+      "filename": "autumn-forest-atmosphere.png",
+      "altText": "A serene autumn forest with golden leaves and soft morning mist representing autumn forest atmosphere",
+      "imageTitle": "Autumn Forest Atmosphere in AI-generated image",
+      "generationPrompt": "16:9 aspect ratio image depicting an autumn forest with warm orange and yellow leaves, soft diffused sunlight filtering through the trees, gentle morning mist rising, photorealistic style, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "autumn-forest-atmosphere"
+    },
+    {
+      "filename": "brushed-steel-texture.png",
+      "altText": "Close-up photorealistic brushed steel texture with linear grain and subtle matte reflections",
+      "imageTitle": "Brushed Steel Texture Close-Up",
+      "generationPrompt": "16:9 close-up of brushed steel surface showing smooth matte finish, soft linear grain horizontal streaks, diffused studio lighting, photorealistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "brushed-steel-texture"
+    },
+    {
+      "filename": "volumetric-light-effects.png",
+      "altText": "Interior scene with warm volumetric light beams filtering through large windows, highlighting dust particles",
+      "imageTitle": "Warm volumetric light effects in interior architecture",
+      "generationPrompt": "16:9 ultra-realistic interior of a modern loft with warm volumetric light beams filtering through large windows, soft shadows, dust particles visible in light shafts, photorealistic, premium stock image quality, clean composition, no text",
+      "category": "Lighting",
+      "keywordSlug": "volumetric-light-effects"
     }
   ]
 }
