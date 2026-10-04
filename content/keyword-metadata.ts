@@ -11871,5 +11871,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Natural Golden Hour Light",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Natural Golden Hour Light: Capturing Warmth and Depth in AI Images",
+    "metaDescription": "Discover how to use 'Natural Golden Hour Light' in AI prompts for warm, soft lighting effects that enhance realism and mood in photography and art.",
+    "heroImage": {
+      "src": "/images/keywords/natural-golden-hour-light.png",
+      "alt": "Portrait of a woman illuminated by warm natural golden hour light with soft shadows and a glowing background",
+      "title": "Woman Portrait with Natural Golden Hour Light",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Natural Golden Hour Light is a highly valued lighting effect in photography, cinematography, and digital art for its ability to create warm, inviting, and richly textured images. This lighting appears during the brief periods of sunrise and sunset when the sun is low on the horizon, casting a golden hue that enhances colors and shapes without harsh contrasts. When used in AI image generation, prompt inclusion of this term helps achieve scenes with realistic and appealing atmospheric conditions, ideal for portraits, landscapes, and lifestyle imagery. It energizes visuals with a natural softness that is both aesthetically pleasing and emotionally evocative, often used to convey tranquility, romance, and beauty.",
+    "bestUseCases": [
+      "Outdoor portrait photography where warm, flattering skin tones are desired",
+      "Landscape images emphasizing natural ambiance and soft shadows",
+      "Lifestyle and travel imagery that conveys mood and time of day"
+    ],
+    "relatedKeywords": [
+      "Soft Warm Lighting",
+      "Sunset Lighting",
+      "Ambient Natural Light"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "natural-golden-hour-light",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Moody Film Noir Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Moody Film Noir Lighting: The Art of Dramatic Shadows",
+    "metaDescription": "Explore Moody Film Noir Lighting in AI image prompts to create dramatic, high-contrast scenes filled with mystery and atmospheric depth for photography and design.",
+    "heroImage": {
+      "src": "/images/keywords/moody-film-noir-lighting.png",
+      "alt": "Portrait of a person illuminated with moody film noir lighting featuring dramatic shadows and high contrast",
+      "title": "Moody Film Noir Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Moody Film Noir Lighting replicates the classic film noir style popularized in 1940s and 1950s cinema. It emphasizes chiaroscuro effects—sharp contrasts between light and dark—to evoke emotional tension and mystery. This lighting approach creates depth and focus by selectively illuminating subjects while plunging backgrounds into darkness or ambiguous shadow. In AI image generation, applying this lighting style enhances drama, texture, and mood, making scenes feel cinematic and intense. It’s widely used to portray suspenseful narratives, urban nightscapes, or characters shrouded in secrecy, effectively adding a timeless noir aesthetic to visuals.",
+    "bestUseCases": [
+      "Creating atmospheric portraits with emotional depth",
+      "Designing cinematic urban night scenes or alleys",
+      "Producing promotional material for mystery or thriller genres"
+    ],
+    "relatedKeywords": [
+      "Dramatic Shadows",
+      "Chiaroscuro Lighting",
+      "Vintage Cinematic Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "moody-film-noir-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Overhead Diffused Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Overhead Diffused Lighting: Enhancing Soft Illumination in AI Images",
+    "metaDescription": "Discover how Overhead Diffused Lighting creates soft, even illumination for realistic AI-generated images. Learn prompt formulas, best use cases, and modeling tips.",
+    "heroImage": {
+      "src": "/images/keywords/overhead-diffused-lighting.png",
+      "alt": "Portrait of a young woman illuminated by soft, even overhead diffused lighting with natural tones and subtle shadows",
+      "title": "Portrait with Overhead Diffused Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Overhead Diffused Lighting is a fundamental technique in photography and digital imaging that involves placing a diffused light source directly above the subject. This method softens shadows and reduces contrast, creating an inviting and natural look. When applied in AI image generation, including this keyword in prompts helps achieve realistic skin tones, fabric textures, and surface details without harsh lighting artifacts. It is especially effective for portraits, still lifes, and product photography. The technique enhances depth subtly, maintaining a premium, clean aesthetic that suits modern editorial and commercial imagery.",
+    "bestUseCases": [
+      "Portrait photography where soft, flattering facial lighting is needed.",
+      "Product shots requiring clear, even illumination without glare.",
+      "Editorial and fashion images emphasizing natural textures and colors."
+    ],
+    "relatedKeywords": [
+      "Softbox Lighting",
+      "Natural Light Diffusion",
+      "Studio Soft Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "overhead-diffused-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

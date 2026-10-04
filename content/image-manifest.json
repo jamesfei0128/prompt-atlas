@@ -3155,6 +3155,30 @@
       "generationPrompt": "16:9 ultra-realistic interior of a modern loft with warm volumetric light beams filtering through large windows, soft shadows, dust particles visible in light shafts, photorealistic, premium stock image quality, clean composition, no text",
       "category": "Lighting",
       "keywordSlug": "volumetric-light-effects"
+    },
+    {
+      "filename": "natural-golden-hour-light.png",
+      "altText": "Portrait of a woman illuminated by warm natural golden hour light with soft shadows and a glowing background",
+      "imageTitle": "Woman Portrait with Natural Golden Hour Light",
+      "generationPrompt": "16:9 portrait of a young woman bathed in natural golden hour light, warm orange glow, soft long shadows, realistic skin tones, shallow depth of field, premium editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "natural-golden-hour-light"
+    },
+    {
+      "filename": "moody-film-noir-lighting.png",
+      "altText": "Portrait of a person illuminated with moody film noir lighting featuring dramatic shadows and high contrast",
+      "imageTitle": "Moody Film Noir Lighting Portrait",
+      "generationPrompt": "16:9 cinematic portrait of a man under Moody Film Noir Lighting, dramatic high contrast shadows, textured highlights, vintage noir atmosphere, black and white, photographic style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "moody-film-noir-lighting"
+    },
+    {
+      "filename": "overhead-diffused-lighting.png",
+      "altText": "Portrait of a young woman illuminated by soft, even overhead diffused lighting with natural tones and subtle shadows",
+      "imageTitle": "Portrait with Overhead Diffused Lighting",
+      "generationPrompt": "16:9 portrait of a young woman, overhead diffused lighting, soft shadows, natural skin tones, premium editorial style, realistic materials, subtle depth, clean background, no text, no logos, no watermark",
+      "category": "Lighting",
+      "keywordSlug": "overhead-diffused-lighting"
     }
   ]
 }

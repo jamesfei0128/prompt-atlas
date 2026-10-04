@@ -2965,27 +2965,27 @@
     "keyword": "Natural Golden Hour Light",
     "slug": "natural-golden-hour-light",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.420Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-04T15:03:50.224Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Moody Film Noir Lighting",
     "slug": "moody-film-noir-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-04T15:04:17.619Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Overhead Diffused Lighting",
     "slug": "overhead-diffused-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-04T15:04:40.924Z",
     "source": "openai-discovery"
   },
   {
