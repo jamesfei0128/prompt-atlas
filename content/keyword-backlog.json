@@ -2992,27 +2992,27 @@
     "keyword": "HDR Lighting Techniques",
     "slug": "hdr-lighting-techniques",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-06T16:23:04.196Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Color Temperature Matching",
     "slug": "color-temperature-matching",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-06T16:23:36.808Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Dynamic Range Lighting",
     "slug": "dynamic-range-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-06T16:24:02.166Z",
     "source": "openai-discovery"
   },
   {
@@ -3867,6 +3867,285 @@
     "category": "Commercial Use",
     "status": "pending",
     "createdAt": "2026-09-23T14:38:58.571Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Moody Film Grain Texture",
+    "slug": "moody-film-grain-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.581Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Negative Space Framing",
+    "slug": "negative-space-framing",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Contrast Backgrounds",
+    "slug": "high-contrast-backgrounds",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Overcast Diffused Light",
+    "slug": "overcast-diffused-light",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Textured Linen Fabric",
+    "slug": "textured-linen-fabric",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Natural Window Light",
+    "slug": "natural-window-light",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Semi-Gloss Surface Finish",
+    "slug": "semi-gloss-surface-finish",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Warm Neutral Color Scheme",
+    "slug": "warm-neutral-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Leading Line Composition",
+    "slug": "leading-line-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Granular Sandpaper Texture",
+    "slug": "granular-sandpaper-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "LED Panel Soft Lighting",
+    "slug": "led-panel-soft-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Polished Marble Surface",
+    "slug": "polished-marble-surface",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Lightroom Color Correction",
+    "slug": "lightroom-color-correction",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Centered Radial Composition",
+    "slug": "centered-radial-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Rim Lighting",
+    "slug": "soft-rim-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Complementary Tone Harmony",
+    "slug": "complementary-tone-harmony",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Asymmetrical Balance Layout",
+    "slug": "asymmetrical-balance-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Handmade Paper Texture",
+    "slug": "handmade-paper-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pastel Gradient Colors",
+    "slug": "pastel-gradient-colors",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Close Crop Framing",
+    "slug": "close-crop-framing",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Weathered Wood Grain Texture",
+    "slug": "weathered-wood-grain-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Dynamic Bounce Lighting",
+    "slug": "dynamic-bounce-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Analog Color Grading",
+    "slug": "analog-color-grading",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Foreground Background Blur",
+    "slug": "foreground-background-blur",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rough Concrete Wall Texture",
+    "slug": "rough-concrete-wall-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Focused Key Lighting",
+    "slug": "focused-key-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Triadic Color Palette",
+    "slug": "triadic-color-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Smooth Leather Material",
+    "slug": "smooth-leather-material",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Wide Angle Composition",
+    "slug": "wide-angle-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Embossed Paper Texture",
+    "slug": "embossed-paper-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Warm Tungsten Lighting",
+    "slug": "warm-tungsten-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-06T16:22:30.582Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }

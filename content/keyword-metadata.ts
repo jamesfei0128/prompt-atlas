@@ -11961,5 +11961,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "HDR Lighting Techniques",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "HDR Lighting Techniques: Enhance AI-Generated Images with Superior Lighting",
+    "metaDescription": "Master HDR lighting techniques to create vibrant, realistic AI images. Learn prompt formulas, best use cases, workflows, and style tips for stunning results.",
+    "heroImage": {
+      "src": "/images/keywords/hdr-lighting-techniques.png",
+      "alt": "Interior living room rendered with HDR lighting showcasing balanced bright highlights and deep shadows",
+      "title": "Modern living room with HDR lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "HDR lighting techniques simulate a photographic method that captures a broader luminance range by combining multiple exposure levels. Incorporating HDR descriptors in AI image prompts guides the model to produce visuals rich in contrast and color fidelity, mimicking professional photography results. This technique is particularly effective for scenes where fine details in shadows and highlights must be preserved, such as landscapes, architectural shots, or product imagery. Using HDR lighting keywords prompts AI to render images with superior depth and texture, contributing to a dynamic and immersive viewing experience.",
+    "bestUseCases": [
+      "Realistic architectural visualization requiring detailed light rendering",
+      "Vibrant landscape scenes needing balanced sky and shadow details",
+      "High-end product photography emphasizing texture and color fidelity"
+    ],
+    "relatedKeywords": [
+      "Cinematic Lighting",
+      "Studio Lighting",
+      "Golden Hour Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "hdr-lighting-techniques",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Color Temperature Matching",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Color Temperature Matching in AI Image Prompts",
+    "metaDescription": "Understand Color Temperature Matching for perfect lighting harmony in AI-generated images. Learn definitions, visual traits, and prompt formulas.",
+    "heroImage": {
+      "src": "/images/keywords/color-temperature-matching.png",
+      "alt": "Photo-realistic modern indoor setting with perfectly matched warm color temperature lighting",
+      "title": "Color Temperature Matching Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Color Temperature Matching is essential for creating visually coherent AI images where light sources share harmonious color properties. It influences the warmth or coolness of light in the scene, enhancing realism or stylization by ensuring all lighting matches a specific temperature range. This technique can evoke different moods—warm tones impart a cozy or nostalgic feel, while cooler tones produce crispness or calm. Including precise color temperature cues in AI prompts helps generate images with unified lighting, improving visual impact and professional quality across various subjects and settings.",
+    "bestUseCases": [
+      "Product photography with consistent white balance",
+      "Interior design visualizations emphasizing natural light",
+      "Portraits requiring mood-specific lighting harmony"
+    ],
+    "relatedKeywords": [
+      "white balance adjustment",
+      "warm lighting",
+      "cool lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "color-temperature-matching",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Dynamic Range Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Dynamic Range Lighting in AI Image Prompts",
+    "metaDescription": "Explore how Dynamic Range Lighting enhances AI-generated images with balanced highlights and shadows for realistic and striking visuals.",
+    "heroImage": {
+      "src": "/images/keywords/dynamic-range-lighting.png",
+      "alt": "Portrait of a woman illuminated with dynamic range lighting showing rich contrast and detailed shadows",
+      "title": "Dynamic Range Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Dynamic Range Lighting significantly improves the quality of AI-generated images by incorporating a wide range of light intensities, from deep shadows to bright highlights. This approach mimics natural lighting conditions or creatively accentuated environments, adding depth and realism to compositions. When integrated into AI prompts, it instructs the model to thoughtfully manage exposure and contrast, preventing flat or washed-out images. Such lighting enriches textures, elevates focal points through contrast, and contributes to a premium, polished appearance fitting for editorial and commercial use.",
+    "bestUseCases": [
+      "Product photography showcasing texture and material detail",
+      "Portraits emphasizing facial contours and mood",
+      "Scenic landscapes with dramatic light and shadow interplay"
+    ],
+    "relatedKeywords": [
+      "High Contrast Lighting",
+      "HDR Photography Style",
+      "Studio Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "dynamic-range-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

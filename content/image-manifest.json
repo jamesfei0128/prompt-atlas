@@ -3179,6 +3179,30 @@
       "generationPrompt": "16:9 portrait of a young woman, overhead diffused lighting, soft shadows, natural skin tones, premium editorial style, realistic materials, subtle depth, clean background, no text, no logos, no watermark",
       "category": "Lighting",
       "keywordSlug": "overhead-diffused-lighting"
+    },
+    {
+      "filename": "hdr-lighting-techniques.png",
+      "altText": "Interior living room rendered with HDR lighting showcasing balanced bright highlights and deep shadows",
+      "imageTitle": "Modern living room with HDR lighting",
+      "generationPrompt": "16:9 ultra-realistic modern living room interior with large windows, sunlight streaming in, HDR lighting highlighting detailed shadows and bright highlights, natural materials, clean editorial style, premium stock image quality, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "hdr-lighting-techniques"
+    },
+    {
+      "filename": "color-temperature-matching.png",
+      "altText": "Photo-realistic modern indoor setting with perfectly matched warm color temperature lighting",
+      "imageTitle": "Color Temperature Matching Example",
+      "generationPrompt": "16:9 modern indoor living room illuminated with warm ambient lighting matching color temperature around 3000K, soft shadows, clean editorial style, premium stock polish, realistic materials, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "color-temperature-matching"
+    },
+    {
+      "filename": "dynamic-range-lighting.png",
+      "altText": "Portrait of a woman illuminated with dynamic range lighting showing rich contrast and detailed shadows",
+      "imageTitle": "Dynamic Range Lighting Portrait",
+      "generationPrompt": "16:9 portrait of a woman with dynamic range lighting, sharp shadows, bright highlights, natural skin tones, high detail, professional studio environment, realistic materials, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "dynamic-range-lighting"
     }
   ]
 }
