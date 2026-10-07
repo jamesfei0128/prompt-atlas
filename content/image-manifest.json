@@ -3203,6 +3203,30 @@
       "generationPrompt": "16:9 portrait of a woman with dynamic range lighting, sharp shadows, bright highlights, natural skin tones, high detail, professional studio environment, realistic materials, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "dynamic-range-lighting"
+    },
+    {
+      "filename": "serene-water-surface-reflection.png",
+      "altText": "A tranquil lake with a serene water surface reflecting surrounding trees and a pastel sky at sunrise",
+      "imageTitle": "Serene Water Surface Reflection at Sunrise",
+      "generationPrompt": "16:9 tranquil lake with smooth, mirror-like water surface reflecting trees and soft pastel sky at golden hour, ultra-realistic lighting, clean editorial composition, subtle depth, no text, no logos, no watermark",
+      "category": "Atmosphere",
+      "keywordSlug": "serene-water-surface-reflection"
+    },
+    {
+      "filename": "snowy-winter-atmosphere.png",
+      "altText": "Snow-covered pine trees and a cozy cabin under soft diffused light capturing a snowy winter atmosphere",
+      "imageTitle": "Snowy Winter Atmosphere featuring Cabin and Pine Trees",
+      "generationPrompt": "16:9 scene of a cozy wooden cabin surrounded by snow-covered pine trees, soft falling snow in a snowy winter atmosphere, muted blue-gray cloudy sky, soft diffused lighting, realistic snow textures, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "snowy-winter-atmosphere"
+    },
+    {
+      "filename": "rustic-warm-cabin-atmosphere.png",
+      "altText": "Cozy rustic cabin interior with warm glowing firelight and wooden textures",
+      "imageTitle": "Rustic Warm Cabin Interior Atmosphere",
+      "generationPrompt": "16:9 ultra-realistic cozy rustic cabin interior, warm amber firelight illuminating rough wooden beams and stone fireplace, soft wool blankets, earthy tones, natural textures, premium stock photo style, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "rustic-warm-cabin-atmosphere"
     }
   ]
 }
