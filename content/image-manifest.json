@@ -3227,6 +3227,30 @@
       "generationPrompt": "16:9 ultra-realistic cozy rustic cabin interior, warm amber firelight illuminating rough wooden beams and stone fireplace, soft wool blankets, earthy tones, natural textures, premium stock photo style, no text, no logos",
       "category": "Atmosphere",
       "keywordSlug": "rustic-warm-cabin-atmosphere"
+    },
+    {
+      "filename": "muted-foggy-morning-mood.png",
+      "altText": "Serene early morning landscape with soft muted colors and gentle fog enveloping trees and hills",
+      "imageTitle": "Muted Foggy Morning Mood Landscape",
+      "generationPrompt": "16:9 serene landscape at dawn, soft muted colors, light fog gently covering trees and hills, diffused soft lighting, low contrast, calm tranquil atmosphere, realistic natural textures, premium stock image style, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "muted-foggy-morning-mood"
+    },
+    {
+      "filename": "tense-stormy-sky-atmosphere.png",
+      "altText": "Dark tense stormy sky with heavy swirling clouds and diffused lighting over a landscape",
+      "imageTitle": "Tense Stormy Sky Atmosphere over Landscape",
+      "generationPrompt": "16:9 ultra-realistic wide shot of a tense stormy sky atmosphere, dark heavy swirling clouds with diffused light breaking through, muted blue gray color palette, dramatic lighting, subtle lightning in the distance, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "tense-stormy-sky-atmosphere"
+    },
+    {
+      "filename": "dreamlike-soft-focus-atmosphere.png",
+      "altText": "Romantic portrait with warm dreamlike soft focus atmosphere, glowing light and gentle haze",
+      "imageTitle": "Dreamlike Soft Focus Atmosphere Portrait",
+      "generationPrompt": "16:9 portrait of a young woman in a garden, glowing warm soft focus atmosphere, gentle haze, golden hour lighting, subtle lens glow, cinematic mood, premium editorial style, realistic materials, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "dreamlike-soft-focus-atmosphere"
     }
   ]
 }

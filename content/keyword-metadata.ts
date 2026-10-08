@@ -12141,5 +12141,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Muted Foggy Morning Mood",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Muted Foggy Morning Mood: Atmospheric AI Image Prompt Keyword",
+    "metaDescription": "Discover how to evoke serene muted foggy morning moods in AI-generated images with key visual traits, prompt formulas, and commercial uses for atmospheric scenes.",
+    "heroImage": {
+      "src": "/images/keywords/muted-foggy-morning-mood.png",
+      "alt": "Serene early morning landscape with soft muted colors and gentle fog enveloping trees and hills",
+      "title": "Muted Foggy Morning Mood Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Muted Foggy Morning Mood keyword is used in AI image generation to create serene and atmospheric scenes reminiscent of early dawn shrouded in fog. This mood captures the softness of natural light diffused through moisture in the air, resulting in gentle shadows and muted colors. It is ideal for conveying tranquility and subtle mystery, making images feel calm and introspective. When added to prompts, it guides the AI to emphasize hazy atmospherics and subdued palettes, often softening outlines and textures. This keyword excels in landscape, nature, and urban scenes where a peaceful early morning ambiance is desired, and it aligns well with minimalistic and natural aesthetics.",
+    "bestUseCases": [
+      "Creating serene natural landscapes for wellness and mindfulness content",
+      "Producing atmospheric backgrounds for editorial or storytelling photography",
+      "Enhancing product shots with soft, moody outdoor light for ecommerce fashion"
+    ],
+    "relatedKeywords": [
+      "Soft Early Morning Atmosphere",
+      "Hazy Misty Dawn",
+      "Subdued Natural Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "muted-foggy-morning-mood",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Tense Stormy Sky Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Tense Stormy Sky Atmosphere: Create Dramatic AI Images",
+    "metaDescription": "Master the tense stormy sky atmosphere keyword for AI images: learn definition, visual traits, prompt formulas, best uses, and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/tense-stormy-sky-atmosphere.png",
+      "alt": "Dark tense stormy sky with heavy swirling clouds and diffused lighting over a landscape",
+      "title": "Tense Stormy Sky Atmosphere over Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Tense Stormy Sky Atmosphere' keyword brings a vivid emotional layer to AI-generated imagery by simulating the mood of an unstable, tumultuous weather scenario. It transforms neutral or calm skies into dynamic canvases filled with dark clouds, subtle lighting contrasts, and a palpable sense of tension or anticipation. This atmosphere can dramatically influence the storytelling and emotional pull in landscapes, cityscapes, or nature scenes. By including this keyword in your prompts, you guide AI models to produce images rich in contrast and dramatic lighting cues that amplify the underlying narrative's intensity or urgency.",
+    "bestUseCases": [
+      "Dramatic landscape photography recreations with intense skyscapes",
+      "Fantasy or thriller graphic novel covers requiring moody atmospheres",
+      "Weather-focused editorial illustrations highlighting stormy conditions"
+    ],
+    "relatedKeywords": [
+      "dramatic sky lighting",
+      "dark cloudscape",
+      "moody weather atmosphere"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "tense-stormy-sky-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Dreamlike Soft Focus Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Dreamlike Soft Focus Atmosphere: Enhance AI Image Moods",
+    "metaDescription": "Explore the Dreamlike Soft Focus Atmosphere keyword to create ethereal, gentle images with subtle haze and warmth in AI art prompts. Learn techniques and use cases.",
+    "heroImage": {
+      "src": "/images/keywords/dreamlike-soft-focus-atmosphere.png",
+      "alt": "Romantic portrait with warm dreamlike soft focus atmosphere, glowing light and gentle haze",
+      "title": "Dreamlike Soft Focus Atmosphere Portrait",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Dreamlike Soft Focus Atmosphere modifies AI image generation by adding a subtle, soothing blur that simulates optical softness often seen in dreamy or nostalgic photography. This effect reduces sharpness and contrast, evoking a serene or otherworldly ambiance. Artists use this atmosphere to imbue images with emotional depth and a timeless quality. The softness often features light glows or gentle halos around highlights, enhancing warmth and intimacy. It works well for portraiture, nature scenes, and fantasy art where mood and aesthetics are prioritized over crisp detail.",
+    "bestUseCases": [
+      "Creating romantic or nostalgic portraits",
+      "Designing fantasy-themed or surreal landscapes",
+      "Producing soft, moody editorial fashion images"
+    ],
+    "relatedKeywords": [
+      "ethereal lighting",
+      "misty haze",
+      "cinematic glow"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "dreamlike-soft-focus-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
