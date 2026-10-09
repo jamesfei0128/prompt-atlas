@@ -12231,5 +12231,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Peaceful Sunset Backdrop",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Peaceful Sunset Backdrop: Serene Atmosphere for AI Imagery",
+    "metaDescription": "Explore the peaceful sunset backdrop keyword to create serene, warm, and tranquil AI images with soft lighting and natural gradients — ideal for calming visuals.",
+    "heroImage": {
+      "src": "/images/keywords/peaceful-sunset-backdrop.png",
+      "alt": "Serene peaceful sunset backdrop with warm orange and pink gradient sky over calm natural landscape",
+      "title": "Peaceful Sunset Backdrop over Natural Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "A peaceful sunset backdrop is a powerful keyword for AI-generated imagery aiming to evoke calm, warmth, and natural beauty. This setting typically features a softly glowing sun dipping below the horizon, spreading warm tones throughout the sky and reflecting gently over landscapes or seascapes. The atmosphere created is tranquil and inviting, often used to convey endings, rest, or reflection. By including this keyword in prompts, artists and designers can produce images suitable for mood-setting visuals, relaxation concepts, or nature-themed content. It encourages the generation of images with harmonious color transitions and balanced compositions that avoid harsh contrasts or busy elements.",
+    "bestUseCases": [
+      "Creating calming wellness or meditation visuals",
+      "Backgrounds for serene nature or travel-themed artworks",
+      "Mood-setting scenic backdrops for storytelling or presentations"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Glow",
+      "Tranquil Twilight Scene",
+      "Soft Horizon Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "peaceful-sunset-backdrop",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Lush Tropical Forest Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Lush Tropical Forest Atmosphere: Capturing Vibrant Nature Scenes",
+    "metaDescription": "Explore how to evoke a lush tropical forest atmosphere in AI image prompts for vibrant, realistic nature scenes. Master prompt formulas and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/lush-tropical-forest-atmosphere.png",
+      "alt": "Vibrant lush tropical forest with dense green foliage and misty atmosphere under dappled sunlight",
+      "title": "Lush Tropical Forest Atmosphere with Dense Foliage and Mist",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Lush Tropical Forest Atmosphere' keyword is essential for generating images that convey the rich biodiversity and immersive ambiance of tropical rainforests. By emphasizing vibrant greenery, humid air quality, and layered plant textures, this keyword helps AI models create scenes that feel alive and teeming with natural energy. Ideal for environmental concept art, travel visuals, or nature-inspired designs, it enhances the depth and realism in compositions. It typically involves interplay of light and shadow, moisture effects like mist, and dynamic foliage arrangements, which all contribute to a captivating visual experience that transports the viewer to an exotic, verdant paradise.",
+    "bestUseCases": [
+      "Creating immersive backgrounds for wildlife documentaries or natural history projects",
+      "Designing eco-tourism promotional materials featuring exotic forest landscapes",
+      "Generating concept art for fantasy or adventure games set in tropical environments"
+    ],
+    "relatedKeywords": [
+      "Tropical Jungle Mood",
+      "Rainforest Mist Environment",
+      "Exotic Forest Canopy"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "lush-tropical-forest-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Balanced Radial Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Balanced Radial Composition: Master Symmetry in AI Art",
+    "metaDescription": "Discover how to use Balanced Radial Composition in AI prompts to create harmonious, symmetrical designs. Learn formulas, use cases, and avoid common mistakes.",
+    "heroImage": {
+      "src": "/images/keywords/balanced-radial-composition.png",
+      "alt": "Intricate floral mandala design exemplifying balanced radial composition with symmetrical elements radiating from center",
+      "title": "Balanced Radial Composition Art Sample",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Balanced Radial Composition organizes elements evenly around a central focal point, forming a circular, symmetrical pattern. This approach enhances visual appeal by creating order and focus in an image, often conveying harmony and equilibrium. In AI art generation, incorporating balanced radial composition into prompts helps produce images that feel proportionate and unified, such as mandalas, floral patterns, or architectural designs with spokes or radiating lines. The technique is valuable for crafting captivating visuals that naturally draw the viewer's gaze toward the center while maintaining a steady visual flow throughout. It supports both intricate and minimalist styles, lending itself well to various creative applications.",
+    "bestUseCases": [
+      "Creating mandala or floral pattern illustrations with symmetrical detail",
+      "Designing logos or emblems featuring circular symmetry",
+      "Generating architectural or interior design visuals with radial layouts"
+    ],
+    "relatedKeywords": [
+      "symmetrical composition",
+      "radial symmetry",
+      "centered composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "balanced-radial-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

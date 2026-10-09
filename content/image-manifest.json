@@ -3251,6 +3251,30 @@
       "generationPrompt": "16:9 portrait of a young woman in a garden, glowing warm soft focus atmosphere, gentle haze, golden hour lighting, subtle lens glow, cinematic mood, premium editorial style, realistic materials, no text, no logos",
       "category": "Atmosphere",
       "keywordSlug": "dreamlike-soft-focus-atmosphere"
+    },
+    {
+      "filename": "peaceful-sunset-backdrop.png",
+      "altText": "Serene peaceful sunset backdrop with warm orange and pink gradient sky over calm natural landscape",
+      "imageTitle": "Peaceful Sunset Backdrop over Natural Landscape",
+      "generationPrompt": "16:9 majestic peaceful sunset backdrop over a calm lake reflecting orange and pink hues, soft diffused light, tranquil natural scenery, clean composition, premium stock image quality, no text no logos no watermark",
+      "category": "Atmosphere",
+      "keywordSlug": "peaceful-sunset-backdrop"
+    },
+    {
+      "filename": "lush-tropical-forest-atmosphere.png",
+      "altText": "Vibrant lush tropical forest with dense green foliage and misty atmosphere under dappled sunlight",
+      "imageTitle": "Lush Tropical Forest Atmosphere with Dense Foliage and Mist",
+      "generationPrompt": "16:9 vibrant tropical forest scene, dense lush greenery with layered plants, soft mist and humidity in the air, dappled sunlight through thick canopy, photorealistic, ultra-detailed, natural textures, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "lush-tropical-forest-atmosphere"
+    },
+    {
+      "filename": "balanced-radial-composition.png",
+      "altText": "Intricate floral mandala design exemplifying balanced radial composition with symmetrical elements radiating from center",
+      "imageTitle": "Balanced Radial Composition Art Sample",
+      "generationPrompt": "16:9 close-up of an intricate mandala with balanced radial composition, symmetrical floral patterns radiating from center, soft natural lighting, high detail, clean background, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "balanced-radial-composition"
     }
   ]
 }
