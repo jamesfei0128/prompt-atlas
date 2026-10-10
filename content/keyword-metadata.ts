@@ -12321,5 +12321,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Layered Foreground Background",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Mastering Layered Foreground Background Composition in AI Art",
+    "metaDescription": "Discover how using layered foreground and background elevates AI-generated images with depth and realism. Learn prompt formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/layered-foreground-background.png",
+      "alt": "Artistic photograph showing clear layered foreground and background with refined natural lighting and depth",
+      "title": "Layered Foreground Background Composition Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "In AI-generated imagery, achieving convincing spatial depth is key to visual impact. The 'Layered Foreground Background' composition style organizes visual elements so that there is a tangible separation between the front and back parts of a scene. This approach helps direct viewer attention to important subjects while providing context with background details. By defining prompt terms that specify layering, users encourage AI models to render multiple distinct planes with differing focus and clarity. The result is images with realistic depth cues, subtle volumetric lighting, and engaging storytelling potential. This technique is versatile across genres such as landscapes, portraits, and still life, giving compositions professional polish and clarity.",
+    "bestUseCases": [
+      "Portrait photography or character arts emphasizing subject separation from environment",
+      "Landscape imagery where foreground details add depth and interest before the distant scenery",
+      "Product photography to highlight items with distinct background layers minimizing distractions"
+    ],
+    "relatedKeywords": [
+      "Depth of Field",
+      "Cinematic Composition",
+      "Atmospheric Perspective"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "layered-foreground-background",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Minimalist Negative Space Use",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Minimalist Negative Space Use in AI Image Prompts",
+    "metaDescription": "Discover how minimalist negative space use enhances AI-generated images, creating clean, balanced compositions ideal for modern design and editorial visuals.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-negative-space-use.png",
+      "alt": "Modern minimalist product image with ample negative space and clean composition",
+      "title": "Minimalist Negative Space Product Photography",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Minimalist negative space use enhances AI-generated images by instructing the model to prioritize empty or uncluttered areas in compositions. This approach results in visuals that feel spacious, balanced, and elegant, often with a strong focal point contrasted against vast empty backgrounds. Designers and creatives use this style to produce images that convey clarity and sophistication, effectively communicating their message with fewer elements. When included in AI prompts, it reduces clutter and encourages the generation of images with harmonious proportions and subtle depth, ideal for editorial hero shots, product showcases, and modern branding visuals.",
+    "bestUseCases": [
+      "Editorial hero images requiring clean, impactful visuals",
+      "Product photography with emphasis on the item using space for elegance",
+      "Modern branding and marketing visuals where simplicity conveys luxury"
+    ],
+    "relatedKeywords": [
+      "Minimalist Composition",
+      "Clean Layout",
+      "Focused Subject"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-negative-space-use",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Diagonal Symmetry Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Diagonal Symmetry Layout: Enhance AI Image Composition",
+    "metaDescription": "Discover the power of Diagonal Symmetry Layout in AI image prompts. Learn definition, usage tips, common mistakes, and advanced techniques for stunning visuals.",
+    "heroImage": {
+      "src": "/images/keywords/diagonal-symmetry-layout.png",
+      "alt": "Example of modern interior design using diagonal symmetry layout with balanced elements along a diagonal axis, refined lighting and realistic textures",
+      "title": "Modern Interior Render Featuring Diagonal Symmetry Layout",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Diagonal Symmetry Layout offers a sophisticated compositional approach for AI-generated images by leveraging symmetry across a diagonal axis rather than traditional vertical or horizontal lines. This layout introduces dynamic balance and movement, making scenes more engaging and less static. When used in AI prompts, it directs the model to position objects, lighting, or shapes so that they reflect symmetrically along a diagonal, resulting in refined and harmonious visuals. Its subtle complexity suits diverse genres from architectural photography to product design, especially when aiming for modern, editorial-quality imagery with premium polish and sophisticated lighting.",
+    "bestUseCases": [
+      "Architectural and interior design photography emphasizing dynamic balance",
+      "Fashion editorials seeking modern, visually engaging compositions",
+      "Product showcase images requiring premium, polished layouts"
+    ],
+    "relatedKeywords": [
+      "Radial Symmetry",
+      "Golden Ratio Composition",
+      "Rule of Thirds"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "diagonal-symmetry-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

@@ -3275,6 +3275,30 @@
       "generationPrompt": "16:9 close-up of an intricate mandala with balanced radial composition, symmetrical floral patterns radiating from center, soft natural lighting, high detail, clean background, no text, no logos",
       "category": "Composition",
       "keywordSlug": "balanced-radial-composition"
+    },
+    {
+      "filename": "layered-foreground-background.png",
+      "altText": "Artistic photograph showing clear layered foreground and background with refined natural lighting and depth",
+      "imageTitle": "Layered Foreground Background Composition Example",
+      "generationPrompt": "16:9 image of a layered forest scene with sharp foreground leaves, midground trees, and misty mountain background, natural light, realistic depth, clean composition, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "layered-foreground-background"
+    },
+    {
+      "filename": "minimalist-negative-space-use.png",
+      "altText": "Modern minimalist product image with ample negative space and clean composition",
+      "imageTitle": "Minimalist Negative Space Product Photography",
+      "generationPrompt": "16:9 photo of a single elegant product with wide, empty background, minimalist negative space use, soft natural lighting, realistic materials, clean editorial style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "minimalist-negative-space-use"
+    },
+    {
+      "filename": "diagonal-symmetry-layout.png",
+      "altText": "Example of modern interior design using diagonal symmetry layout with balanced elements along a diagonal axis, refined lighting and realistic textures",
+      "imageTitle": "Modern Interior Render Featuring Diagonal Symmetry Layout",
+      "generationPrompt": "16:9 photo-realistic image of a modern living room interior with a diagonal symmetry layout, balanced furniture mirrored diagonally, natural soft lighting, realistic materials, clean editorial style, subtle depth, premium stock image quality, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "diagonal-symmetry-layout"
     }
   ]
 }
