@@ -12411,5 +12411,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Framing With Natural Elements",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Framing With Natural Elements: Enhancing Composition in AI Images",
+    "metaDescription": "Explore how framing with natural elements enhances AI image composition, practical prompt formulas, best use cases, and professional workflows for creatives.",
+    "heroImage": {
+      "src": "/images/keywords/framing-with-natural-elements.png",
+      "alt": "Portrait of a woman framed naturally by overhanging tree branches and lush green leaves in soft morning light",
+      "title": "Framing With Natural Elements in Portrait Photography",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Framing with natural elements is a powerful compositional technique that uses elements such as trees, foliage, rocks, or water to surround or partially enclose the main subject or focal point of an image. This approach helps guide the viewer’s eye directly to the intended subject while adding layers of depth and realism. In AI image generation, including natural framing cues in prompts encourages the model to position these elements strategically in the foreground or edges, leading to rich and engaging visuals. This technique is particularly valuable in nature photography, portraiture, and storytelling imagery to convey atmosphere and context. Implementing this compositional style enhances visual harmony and boosts the professional quality of generated content.",
+    "bestUseCases": [
+      "Nature photography style portraits with tree branch framing",
+      "Editorial images highlighting subjects through flower or leaf borders",
+      "Product shots showcased within organic natural frames like grass or rocks"
+    ],
+    "relatedKeywords": [
+      "Natural Light Composition",
+      "Organic Texture Contrast",
+      "Foreground Interest Elements"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "framing-with-natural-elements",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Golden Ratio Framing",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Golden Ratio Framing in AI Image Composition",
+    "metaDescription": "Learn how to use Golden Ratio Framing for balanced, aesthetically pleasing AI-generated images with prompt formulas and use cases.",
+    "heroImage": {
+      "src": "/images/keywords/golden-ratio-framing.png",
+      "alt": "Elegant portrait photograph demonstrating golden ratio framing with soft natural lighting and balanced composition",
+      "title": "Portrait with Golden Ratio Framing",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Golden Ratio Framing applies the classical golden ratio (approximately 1:1.618) to modern AI image generation, influencing where main subjects and details are arranged to maximize visual appeal. Utilizing this technique in prompts encourages AI models to create images with a refined, natural composition that feels intuitively pleasing. This method is especially valued in photography, art, and design, where visual harmony enhances storytelling or product presentation. By integrating Golden Ratio Framing into prompts, users can elevate the aesthetic quality and balance of AI-generated visuals without manually adjusting layout post-generation.",
+    "bestUseCases": [
+      "Editorial photography and portrait compositions emphasizing natural balance",
+      "Product images requiring harmonious placement for premium appeal",
+      "Fine art and concept illustrations where classical aesthetics boost storytelling"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds",
+      "Symmetrical Balance",
+      "Minimalist Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "golden-ratio-framing",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Hierarchy In Visual Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Hierarchy In Visual Composition: Mastering Visual Flow",
+    "metaDescription": "Learn how Hierarchy In Visual Composition guides viewer focus in AI image prompts for balanced, impactful design with refined lighting and subtle depth.",
+    "heroImage": {
+      "src": "/images/keywords/hierarchy-in-visual-composition.png",
+      "alt": "Clean editorial image illustrating hierarchy in visual composition with a clear focal point and subtle depth",
+      "title": "Hierarchy In Visual Composition Editorial Image",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Hierarchy in visual composition is a foundational design principle that structures the visual narrative by establishing the importance of elements within an image. It ensures that the viewer naturally notices the intended focal points first, then progresses logically through supporting details. Employing hierarchy strategically in AI image prompting enhances readability and engagement by controlling contrast, scale, color, and placement of objects. This guides viewers through a clean editorial composition with premium polish, subtle lighting, and realistic materials. Proper hierarchy avoids clutter and confusion, giving images a professional, refined aesthetic suitable for hero visuals and thumbnails.",
+    "bestUseCases": [
+      "Editorial hero images emphasizing a key subject",
+      "Product photography with clear focus on merchandise",
+      "Social media banners highlighting calls to action"
+    ],
+    "relatedKeywords": [
+      "Visual Hierarchy",
+      "Focal Point Emphasis",
+      "Balanced Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "hierarchy-in-visual-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

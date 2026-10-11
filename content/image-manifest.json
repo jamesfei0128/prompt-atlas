@@ -3299,6 +3299,30 @@
       "generationPrompt": "16:9 photo-realistic image of a modern living room interior with a diagonal symmetry layout, balanced furniture mirrored diagonally, natural soft lighting, realistic materials, clean editorial style, subtle depth, premium stock image quality, no text, no logos",
       "category": "Composition",
       "keywordSlug": "diagonal-symmetry-layout"
+    },
+    {
+      "filename": "framing-with-natural-elements.png",
+      "altText": "Portrait of a woman framed naturally by overhanging tree branches and lush green leaves in soft morning light",
+      "imageTitle": "Framing With Natural Elements in Portrait Photography",
+      "generationPrompt": "16:9 close-up portrait of a woman framed by overhanging tree branches and leaves, soft natural morning light, shallow depth of field, realistic textures, cinematic composition, no logos, no text",
+      "category": "Composition",
+      "keywordSlug": "framing-with-natural-elements"
+    },
+    {
+      "filename": "golden-ratio-framing.png",
+      "altText": "Elegant portrait photograph demonstrating golden ratio framing with soft natural lighting and balanced composition",
+      "imageTitle": "Portrait with Golden Ratio Framing",
+      "generationPrompt": "A high-resolution photo of an elegant portrait framed using golden ratio composition, soft natural light illuminating the subject, premium stock photography quality, clean editorial style, subtle depth, realistic skin texture, no text, no logos, no watermark, 16:9 aspect ratio",
+      "category": "Composition",
+      "keywordSlug": "golden-ratio-framing"
+    },
+    {
+      "filename": "hierarchy-in-visual-composition.png",
+      "altText": "Clean editorial image illustrating hierarchy in visual composition with a clear focal point and subtle depth",
+      "imageTitle": "Hierarchy In Visual Composition Editorial Image",
+      "generationPrompt": "16:9 clean editorial composition showing a prominent main subject in sharp focus at the foreground, softly blurred background elements with subtle depth of field, refined lighting highlighting the subject, realistic textures, premium stock photo polish, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "hierarchy-in-visual-composition"
     }
   ]
 }
