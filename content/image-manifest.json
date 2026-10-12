@@ -3323,6 +3323,30 @@
       "generationPrompt": "16:9 clean editorial composition showing a prominent main subject in sharp focus at the foreground, softly blurred background elements with subtle depth of field, refined lighting highlighting the subject, realistic textures, premium stock photo polish, no text, no logos",
       "category": "Composition",
       "keywordSlug": "hierarchy-in-visual-composition"
+    },
+    {
+      "filename": "muted-pastel-color-palette.png",
+      "altText": "Modern interior with muted pastel color palette featuring soft blues, pinks, and beige tones",
+      "imageTitle": "Interior Design with Muted Pastel Colors",
+      "generationPrompt": "16:9 modern living room interior, muted pastel color palette in soft blues, pinks, and beiges, natural sunlight diffused through windows, cozy and calm atmosphere, realistic textures, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "muted-pastel-color-palette"
+    },
+    {
+      "filename": "bold-contrasting-color-scheme.png",
+      "altText": "Vibrant digital artwork demonstrating bold contrasting color scheme with vivid opposing colors",
+      "imageTitle": "Bold Contrasting Color Scheme Illustration",
+      "generationPrompt": "16:9 highly detailed modern digital artwork with bold contrasting color scheme featuring vivid electric blue and bright orange, clean composition, realistic lighting, subtle depth, no text or logos",
+      "category": "Color",
+      "keywordSlug": "bold-contrasting-color-scheme"
+    },
+    {
+      "filename": "complementary-color-pairing.png",
+      "altText": "Abstract composition showing complementary color pairing of blue and orange with modern clean design",
+      "imageTitle": "Complementary Color Pairing in Modern AI Art",
+      "generationPrompt": "16:9 image of a modern abstract scene emphasizing complementary colors blue and orange, clean editorial style, premium lighting, realistic textures, subtle depth, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "complementary-color-pairing"
     }
   ]
 }

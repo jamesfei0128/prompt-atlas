@@ -12501,5 +12501,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Muted Pastel Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Muted Pastel Color Palette: Subtle Hues for Modern AI Art",
+    "metaDescription": "Explore how the muted pastel color palette enhances AI image prompts with soft, desaturated colors. Learn prompt formulas, best use cases, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/muted-pastel-color-palette.png",
+      "alt": "Modern interior with muted pastel color palette featuring soft blues, pinks, and beige tones",
+      "title": "Interior Design with Muted Pastel Colors",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The muted pastel color palette blends the gentle softness of pastel tones with a restrained saturation level, resulting in colors that evoke tranquility and refinement. When integrated into AI image generation, these colors provide a versatile aesthetic that suits a variety of creative and commercial needs. This palette can transform images into visually soothing experiences, often appearing in editorial designs, fashion imagery, and lifestyle branding. It avoids the brightness and intensity typical of standard pastels, offering a more mature and elegant atmosphere. The muted pastels produce harmonious compositions by pairing subdued colors, ideal for designs requiring subtlety, sophistication, and approachability.",
+    "bestUseCases": [
+      "Editorial lifestyle photography needing soft, stylish color schemes",
+      "Interior design concepts emphasizing relaxed, warm atmospheres",
+      "Fashion imagery showcasing understated, elegant apparel colors"
+    ],
+    "relatedKeywords": [
+      "Soft Pastel Colors",
+      "Desaturated Color Scheme",
+      "Subtle Color Palette"
+    ],
+    "difficulty": "Beginner",
+    "slug": "muted-pastel-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Bold Contrasting Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Bold Contrasting Color Scheme: Vibrant AI Image Prompt Guide",
+    "metaDescription": "Master the Bold Contrasting Color Scheme in AI image prompts for striking visuals with vivid juxtapositions. Learn formulas, use cases, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/bold-contrasting-color-scheme.png",
+      "alt": "Vibrant digital artwork demonstrating bold contrasting color scheme with vivid opposing colors",
+      "title": "Bold Contrasting Color Scheme Illustration",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Bold Contrasting Color Scheme keyword in AI prompts leverages vivid, sharply opposing colors to produce striking, high-impact visuals. This style harnesses color theory principles such as complementary and triadic schemes to make images pop with energy and clarity. It is widely used in graphic design, marketing, and digital art, where capturing attention quickly is essential. Utilizing this approach in AI image generation leads to photographs, illustrations, or digital compositions that feel fresh, modern, and aesthetically bold. The resulting images often feature intense colors side-by-side with strong differentiation, which guides viewer focus and enhances visual storytelling.",
+    "bestUseCases": [
+      "Advertising visuals and marketing banners needing eye-catching impact",
+      "Editorial illustrations requiring strong visual hierarchy and focus",
+      "Branding materials that use vivid palettes to communicate bold identity"
+    ],
+    "relatedKeywords": [
+      "High Saturation Palette",
+      "Complementary Colors",
+      "Vibrant Color Blocking"
+    ],
+    "difficulty": "Beginner",
+    "slug": "bold-contrasting-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Complementary Color Pairing",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Complementary Color Pairing: Enhance AI Image Prompts",
+    "metaDescription": "Discover how complementary color pairing improves AI image prompts with vibrant contrasts and balanced visuals. Perfect for designers and creatives.",
+    "heroImage": {
+      "src": "/images/keywords/complementary-color-pairing.png",
+      "alt": "Abstract composition showing complementary color pairing of blue and orange with modern clean design",
+      "title": "Complementary Color Pairing in Modern AI Art",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Complementary color pairing leverages color theory by using two colors directly opposite each other on the color wheel, such as blue and orange or red and green. This technique is widely used in design and art to create striking visuals that naturally draw the viewer’s attention. In AI image generation, incorporating keywords or prompt elements emphasizing complementary colors can help produce images with balanced color contrast and dynamic interplay, enhancing overall aesthetics. This approach suits various styles, from minimalistic editorial layouts to rich, textured artworks, providing versatility in creative applications.",
+    "bestUseCases": [
+      "Editorial designs needing striking color contrast",
+      "Branding visuals that require memorable color harmony",
+      "Product photography backgrounds to enhance subject prominence"
+    ],
+    "relatedKeywords": [
+      "Color Contrast",
+      "Analogous Color Scheme",
+      "Color Theory"
+    ],
+    "difficulty": "Beginner",
+    "slug": "complementary-color-pairing",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
