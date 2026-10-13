@@ -3347,6 +3347,30 @@
       "generationPrompt": "16:9 image of a modern abstract scene emphasizing complementary colors blue and orange, clean editorial style, premium lighting, realistic textures, subtle depth, no text, no logos",
       "category": "Color",
       "keywordSlug": "complementary-color-pairing"
+    },
+    {
+      "filename": "warm-earth-tone-palette.png",
+      "altText": "Interior living room styled with warm earth tone palette, natural wood and soft lighting",
+      "imageTitle": "Warm Earth Tone Palette Interior Design",
+      "generationPrompt": "16:9 photorealistic interior living room decorated with warm earth tone palette, natural wood furniture, soft refined lighting, cozy organic ambiance, realistic textures, clean editorial style, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "warm-earth-tone-palette"
+    },
+    {
+      "filename": "natural-skin-tone-rendering.png",
+      "altText": "Professional photo showing natural skin tone rendering on diverse human models",
+      "imageTitle": "Natural Skin Tone Rendering in AI Imagery",
+      "generationPrompt": "Portrait of ethnically diverse individuals showcasing natural skin tone rendering, soft natural lighting, detailed skin texture, high resolution, clean editorial style, no text, no logos, no watermark, 16:9",
+      "category": "Color",
+      "keywordSlug": "natural-skin-tone-rendering"
+    },
+    {
+      "filename": "subtle-gradient-color-blends.png",
+      "altText": "Abstract smooth color transitions in subtle gradient blend from soft pink to light lavender",
+      "imageTitle": "Subtle Gradient Color Blends Abstract Background",
+      "generationPrompt": "16:9 aspect ratio image depicting a clean abstract background featuring subtle gradient color blends transitioning smoothly from soft pastel pink to light lavender, with refined lighting and a polished, premium stock photo appearance, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "subtle-gradient-color-blends"
     }
   ]
 }

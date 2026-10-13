@@ -12591,5 +12591,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Warm Earth Tone Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Warm Earth Tone Palette: Enhance Your AI Image Prompts",
+    "metaDescription": "Discover how to effectively use the Warm Earth Tone Palette in AI image prompts for natural, inviting visuals. Learn definitions, formulas, use cases, and model tips.",
+    "heroImage": {
+      "src": "/images/keywords/warm-earth-tone-palette.png",
+      "alt": "Interior living room styled with warm earth tone palette, natural wood and soft lighting",
+      "title": "Warm Earth Tone Palette Interior Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using a Warm Earth Tone Palette in AI image generation brings a natural and inviting atmosphere to visuals. These tones emulate colors found in nature, such as clay, autumn leaves, and sunbaked earth, providing a grounded and calming aesthetic. Incorporating this palette into prompts encourages AI models to generate images that feel organic and warm, which is ideal for themes involving nature, rustic settings, comfort, and heritage. It helps create harmonious compositions that appear authentic and emotionally resonant, making the images suitable for lifestyle, interior design, and environmental storytelling.",
+    "bestUseCases": [
+      "Interior design concepts featuring rustic or bohemian styles.",
+      "Lifestyle photography with autumn or outdoor themes.",
+      "Branding and packaging designs aiming for eco-friendly or natural appeal."
+    ],
+    "relatedKeywords": [
+      "Rustic Color Palette",
+      "Autumn Color Scheme",
+      "Natural Material Textures"
+    ],
+    "difficulty": "Beginner",
+    "slug": "warm-earth-tone-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Natural Skin Tone Rendering",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Natural Skin Tone Rendering in AI Image Prompts",
+    "metaDescription": "Learn how to achieve realistic natural skin tones in AI-generated images with effective prompt formulas and professional workflows for diverse creative uses.",
+    "heroImage": {
+      "src": "/images/keywords/natural-skin-tone-rendering.png",
+      "alt": "Professional photo showing natural skin tone rendering on diverse human models",
+      "title": "Natural Skin Tone Rendering in AI Imagery",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Natural Skin Tone Rendering is critical for producing AI-generated portraits or models that appear authentic and lifelike. It requires prompts to specifically guide the AI towards rendering skin with realistic color gradients, subtle shadows, and natural imperfections. Achieving this improves relatable human expressions and enhances emotional connection in visual content. This keyword is essential in contexts requiring true-to-life human representation, from fashion photography to editorial imagery, ensuring the AI captures diverse skin tones inclusively. By focusing on natural skin tone rendering, creators avoid flat, plastic, or overly stylized skin appearances, bringing genuine warmth and depth to AI-generated images.",
+    "bestUseCases": [
+      "Portrait photography simulations for diverse demographics",
+      "Fashion and beauty editorial artwork requiring realistic skin tones",
+      "Social media content where authentic human representation is key"
+    ],
+    "relatedKeywords": [
+      "realistic lighting",
+      "skin texture detail",
+      "ethnic diversity"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "natural-skin-tone-rendering",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Subtle Gradient Color Blends",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Subtle Gradient Color Blends: Enhancing AI Image Prompts",
+    "metaDescription": "Explore how subtle gradient color blends enrich AI-generated images with smooth transitions, ideal for design backgrounds and realistic lighting effects.",
+    "heroImage": {
+      "src": "/images/keywords/subtle-gradient-color-blends.png",
+      "alt": "Abstract smooth color transitions in subtle gradient blend from soft pink to light lavender",
+      "title": "Subtle Gradient Color Blends Abstract Background",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Subtle Gradient Color Blends are an essential visual technique in AI-generated imagery that enhance the overall composition and mood by incorporating gentle shifts between hues. These blends create a polished, professional look by avoiding abrupt color changes and enabling a seamless flow that can simulate natural lighting, shadows, or material surfaces. Using subtle gradients in prompts encourages AI models to produce images with refined color transitions that elevate the realism and elegance, making them perfect for backgrounds, product visualization, or editorial illustrations. Incorporating subtle color gradients helps establish depth while maintaining a clean and sophisticated style, highly valued in modern design and digital art.",
+    "bestUseCases": [
+      "Background images requiring elegant and soft color transitions",
+      "Product mockups benefiting from realistic lighting effects",
+      "Editorial and lifestyle images emphasizing visual harmony and depth"
+    ],
+    "relatedKeywords": [
+      "Soft Light Diffusion",
+      "Muted Pastel Palette",
+      "Seamless Color Transitions"
+    ],
+    "difficulty": "Beginner",
+    "slug": "subtle-gradient-color-blends",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
