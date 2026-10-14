@@ -3371,6 +3371,30 @@
       "generationPrompt": "16:9 aspect ratio image depicting a clean abstract background featuring subtle gradient color blends transitioning smoothly from soft pastel pink to light lavender, with refined lighting and a polished, premium stock photo appearance, no text, no logos",
       "category": "Color",
       "keywordSlug": "subtle-gradient-color-blends"
+    },
+    {
+      "filename": "soft-desaturated-palette.png",
+      "altText": "calm forest scene with soft desaturated palette showing muted greens and browns",
+      "imageTitle": "Soft Desaturated Palette example of a muted forest landscape",
+      "generationPrompt": "16:9 image of a peaceful forest path in soft desaturated palette, muted greens and browns, gentle natural light, hyper-realistic, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "soft-desaturated-palette"
+    },
+    {
+      "filename": "rich-jewel-tone-palette.png",
+      "altText": "Luxurious fashion portrait featuring rich jewel tone palette with deep sapphire and emerald hues",
+      "imageTitle": "Luxury portrait with rich jewel tones",
+      "generationPrompt": "16:9 portrait of a fashion model wearing a velvet gown in rich jewel tones of sapphire blue and emerald green, soft studio lighting, realistic textures, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "rich-jewel-tone-palette"
+    },
+    {
+      "filename": "matte-paper-texture.png",
+      "altText": "Close-up of matte paper texture showing soft, subtle grain and diffused light reflection",
+      "imageTitle": "Matte Paper Texture Sample",
+      "generationPrompt": "A high resolution close-up of matte paper texture with soft diffuse lighting, subtle grain detail, realistic materials, clean composition, no text, no logos, no watermark, 16:9",
+      "category": "Texture & Material",
+      "keywordSlug": "matte-paper-texture"
     }
   ]
 }

@@ -12681,5 +12681,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Soft Desaturated Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Soft Desaturated Palette: Enhance AI Image Colors with Subtle Elegance",
+    "metaDescription": "Discover how the Soft Desaturated Palette keyword refines AI images with muted tones. Learn prompt formulas, best use cases, and industry applications for subtle color styling.",
+    "heroImage": {
+      "src": "/images/keywords/soft-desaturated-palette.png",
+      "alt": "calm forest scene with soft desaturated palette showing muted greens and browns",
+      "title": "Soft Desaturated Palette example of a muted forest landscape",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "In AI-generated imagery, color palettes significantly influence the mood and visual impact of the final output. The Soft Desaturated Palette keyword directs AI models to render images with subdued colors by lowering saturation and brightness levels. This approach creates an image that feels gentle to the eye, with a natural yet understated aesthetic. By avoiding vibrant hues and opting for soft tones, this palette supports designs requiring subtlety and sophistication. It is particularly beneficial when the goal is to communicate calmness, nostalgia, or elegance, making the image appropriate for editorial layouts, fashion shoots, interior designs, and social media visuals.",
+    "bestUseCases": [
+      "Editorial photography with a calm mood",
+      "Lifestyle and fashion imagery for subtle branding",
+      "Interior design visuals showcasing soft color schemes"
+    ],
+    "relatedKeywords": [
+      "muted tones",
+      "pastel palette",
+      "earth tones"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-desaturated-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rich Jewel Tone Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Rich Jewel Tone Palette: Enhance AI Image Color Schemes",
+    "metaDescription": "Discover the Rich Jewel Tone Palette for AI art prompts. Learn definition, prompt formulas, best uses, related styles, and model-specific tips.",
+    "heroImage": {
+      "src": "/images/keywords/rich-jewel-tone-palette.png",
+      "alt": "Luxurious fashion portrait featuring rich jewel tone palette with deep sapphire and emerald hues",
+      "title": "Luxury portrait with rich jewel tones",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using the Rich Jewel Tone Palette in AI image generation significantly influences the aesthetic by introducing highly saturated, gemstone-inspired colors. These tones create images that appear luxurious and visually striking, elevating compositions beyond simple color schemes. The palette often brings a sense of refinement and depth to scenes or subjects, making it a perfect choice for designs requiring rich, bold visual impact. Applying this palette modifies lighting and material perception to simulate the luminous qualities of jewels, enhancing realism and allure in the final output.",
+    "bestUseCases": [
+      "Fashion and luxury product photography to highlight elegance",
+      "Editorial portraits with dramatic and vibrant color mood",
+      "Interior design visuals showcasing upscale, rich environments"
+    ],
+    "relatedKeywords": [
+      "vibrant color scheme",
+      "luxury color palette",
+      "gemstone-inspired colors"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rich-jewel-tone-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Matte Paper Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Matte Paper Texture: Ultimate Guide for AI Image Prompts",
+    "metaDescription": "Explore the matte paper texture keyword for AI art. Learn its traits, prompt formulas, best uses, and how to avoid common mistakes in your designs.",
+    "heroImage": {
+      "src": "/images/keywords/matte-paper-texture.png",
+      "alt": "Close-up of matte paper texture showing soft, subtle grain and diffused light reflection",
+      "title": "Matte Paper Texture Sample",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Incorporating matte paper texture into AI-generated images creates a refined, tactile feel that mimics real matte paper. This texture is prized for its understated elegance because it reduces unwanted reflections and highlights, allowing for crisp and clear details. Matte finishes carry a sophisticated, professional look often used in print design, fine art, and editorial projects to convey quality and subtlety. Using this keyword enhances realism especially when simulating printed materials, photography backdrops, or artistic media. Understanding and leveraging matte paper texture enables creators to craft visuals with depth and softness that stand apart from glossy or metallic textures.",
+    "bestUseCases": [
+      "High-quality print mockups such as brochures or invitations",
+      "Editorial photography with soft, understated surfaces",
+      "Fine art reproductions requiring realistic paper backgrounds"
+    ],
+    "relatedKeywords": [
+      "Soft Paper Texture",
+      "Matte Finish",
+      "Textured Paper Background"
+    ],
+    "difficulty": "Beginner",
+    "slug": "matte-paper-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
