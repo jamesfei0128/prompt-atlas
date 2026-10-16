@@ -3395,6 +3395,30 @@
       "generationPrompt": "A high resolution close-up of matte paper texture with soft diffuse lighting, subtle grain detail, realistic materials, clean composition, no text, no logos, no watermark, 16:9",
       "category": "Texture & Material",
       "keywordSlug": "matte-paper-texture"
+    },
+    {
+      "filename": "rough-canvas-surface-texture.png",
+      "altText": "Close-up of rough canvas surface texture showing coarse weave and fibers",
+      "imageTitle": "Coarse Woven Rough Canvas Texture",
+      "generationPrompt": "16:9 close-up shot of rough canvas surface texture, natural soft lighting, visible coarse woven fibers, photorealistic detail, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-canvas-surface-texture"
+    },
+    {
+      "filename": "crinkled-fabric-texture.png",
+      "altText": "Close-up detailed view of crinkled fabric texture showing natural folds and shadows",
+      "imageTitle": "Crinkled Fabric Texture Close-Up",
+      "generationPrompt": "A high-resolution close-up of crinkled fabric texture on soft silk material under soft natural lighting, showcasing irregular folds and delicate shadows in a clean editorial style, no text, no logos, no watermarks, 16:9 aspect ratio",
+      "category": "Texture & Material",
+      "keywordSlug": "crinkled-fabric-texture"
+    },
+    {
+      "filename": "aged-rusted-metal-texture.png",
+      "altText": "Close-up of aged rusted metal texture showing flaky rust and corroded surface",
+      "imageTitle": "Aged Rusted Metal Texture Macro Detail",
+      "generationPrompt": "16:9 close-up shot of aged rusted metal texture with flaky orange and brown rust patches, detailed corrosion and pitting, natural soft daylight highlighting surface roughness, ultra-realistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "aged-rusted-metal-texture"
     }
   ]
 }

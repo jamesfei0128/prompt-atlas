@@ -12771,5 +12771,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Rough Canvas Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rough Canvas Surface Texture: Enhance Realism in AI Art",
+    "metaDescription": "Discover how to use Rough Canvas Surface Texture in AI image prompts to add tactile depth and authentic feel. Perfect for digital art and design.",
+    "heroImage": {
+      "src": "/images/keywords/rough-canvas-surface-texture.png",
+      "alt": "Close-up of rough canvas surface texture showing coarse weave and fibers",
+      "title": "Coarse Woven Rough Canvas Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Rough Canvas Surface Texture is a popular keyword in the AI art community used to replicate the physical characteristics of a traditional painter's canvas within digital images. By incorporating this texture, artists and designers can introduce a natural, tactile element that enriches visual storytelling with the impression of real-world materials. This adds both photorealistic and artistic qualities, making AI-generated images evocative, detailed, and perfect for various creative projects that require a handcrafted feel. Whether aiming for a classic painting effect or textured backgrounds, this keyword guides AI models to recreate complex fiber surfaces realistically.",
+    "bestUseCases": [
+      "Creating digital paintings that mimic traditional canvas artwork",
+      "Designing realistic textured backgrounds for websites or print media",
+      "Generating stock images emphasizing handcrafted or artisanal aesthetics"
+    ],
+    "relatedKeywords": [
+      "Coarse Fabric Texture",
+      "Painterly Canvas Texture",
+      "Tactile Surface Detail"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rough-canvas-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Crinkled Fabric Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Crinkled Fabric Texture: AI Prompt Keyword Guide",
+    "metaDescription": "Explore how to use 'Crinkled Fabric Texture' in AI image prompts to create realistic, detailed fabric visuals with depth and subtle lighting effects.",
+    "heroImage": {
+      "src": "/images/keywords/crinkled-fabric-texture.png",
+      "alt": "Close-up detailed view of crinkled fabric texture showing natural folds and shadows",
+      "title": "Crinkled Fabric Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Crinkled Fabric Texture' keyword enriches AI-generated imagery by focusing on the realistic depiction of fabric surfaces showing natural wrinkles and folds. This texture adds an organic, lived-in feel to fabric, distinguishing it from smooth or perfectly flat materials. By simulating light interaction with creased fabric, it highlights depth and softness, enhancing visual interest. Incorporating this keyword benefits creators who want to portray everyday materials like linens, silk, or cotton with authentic imperfections, making scenes feel more tangible and immersive. It is especially valuable when combined with diverse lighting setups and close-up perspectives to emphasize fabric detail.",
+    "bestUseCases": [
+      "Fashion product photography showcasing detailed fabric textures",
+      "Interior design mood boards featuring draped textiles or upholstery",
+      "Artistic still-life compositions focusing on material contrasts and realism"
+    ],
+    "relatedKeywords": [
+      "wrinkled fabric",
+      "textured fabric",
+      "folded cloth texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "crinkled-fabric-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Aged Rusted Metal Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Aged Rusted Metal Texture: AI Prompt Guide for Realistic Textures",
+    "metaDescription": "Discover how to create stunning aged rusted metal textures with AI prompts. Learn characteristics, best uses, variations, and industry applications for premium designs.",
+    "heroImage": {
+      "src": "/images/keywords/aged-rusted-metal-texture.png",
+      "alt": "Close-up of aged rusted metal texture showing flaky rust and corroded surface",
+      "title": "Aged Rusted Metal Texture Macro Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The keyword \"Aged Rusted Metal Texture\" evokes imagery of metal that has undergone natural corrosion over time, resulting in unique and complex surface patterns. In AI-generated visuals, this texture adds authenticity and vintage character, often featuring combinations of flaky rust, oxidized patches, and distressed metal surfaces. It enhances the tactile quality of materials and conveys a sense of history or neglect. Such textures are essential in design, art, and modeling when a raw, industrial, or antique aesthetic is desired. By manipulating this keyword in prompts, creators can produce diverse and compelling interpretations of rusted metal suitable for backgrounds, product renders, and artistic compositions.",
+    "bestUseCases": [
+      "Creating realistic backgrounds or overlays for industrial or vintage-themed digital art",
+      "Designing 3D materials and textures for game environments or product visualizations",
+      "Enhancing architectural visualizations with aged metal elements like railings, doors, or fixtures"
+    ],
+    "relatedKeywords": [
+      "Corroded Metal Surface",
+      "Industrial Grunge Texture",
+      "Oxidized Metal Rust"
+    ],
+    "difficulty": "Beginner",
+    "slug": "aged-rusted-metal-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
