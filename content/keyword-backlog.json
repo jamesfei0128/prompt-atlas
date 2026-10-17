@@ -3262,27 +3262,27 @@
     "keyword": "Smooth Marble Surface Texture",
     "slug": "smooth-marble-surface-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-17T13:22:12.810Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Wet Glass Surface Effect",
     "slug": "wet-glass-surface-effect",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-17T13:22:46.605Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Fine Grain Film Texture",
     "slug": "fine-grain-film-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-08-25T10:21:08.421Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-17T13:23:21.825Z",
     "source": "openai-discovery"
   },
   {
@@ -4146,6 +4146,240 @@
     "category": "Lighting",
     "status": "pending",
     "createdAt": "2026-10-06T16:22:30.582Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Hour Glow",
+    "slug": "golden-hour-glow",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Morning Dew Atmosphere",
+    "slug": "morning-dew-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cinematic Fog Layers",
+    "slug": "cinematic-fog-layers",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rain-Soaked Street Mood",
+    "slug": "rain-soaked-street-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Leading Lines Perspective",
+    "slug": "leading-lines-perspective",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Symmetrical Framing Technique",
+    "slug": "symmetrical-framing-technique",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Split Complementary Palette",
+    "slug": "split-complementary-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Iridescent Color Shifts",
+    "slug": "iridescent-color-shifts",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.686Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Tactile Fabric Texture",
+    "slug": "tactile-fabric-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Weathered Wood Grain",
+    "slug": "weathered-wood-grain",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Crystalline Ice Texture",
+    "slug": "crystalline-ice-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Showcase Layout",
+    "slug": "product-showcase-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Brand Identity",
+    "slug": "minimalist-brand-identity",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Packaging Design Mockup",
+    "slug": "packaging-design-mockup",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Key Lighting Style",
+    "slug": "high-key-lighting-style",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Focus Glow",
+    "slug": "soft-focus-glow",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cold Blue Lighting Tone",
+    "slug": "cold-blue-lighting-tone",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Fog Filled Valley Scene",
+    "slug": "fog-filled-valley-scene",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Stormy Weather Mood",
+    "slug": "stormy-weather-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Desert Heat Haze",
+    "slug": "desert-heat-haze",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Coastal Breeze Atmosphere",
+    "slug": "coastal-breeze-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Quiet Snowfall Mood",
+    "slug": "quiet-snowfall-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Triangular Composition Layout",
+    "slug": "triangular-composition-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Center Weighted Composition",
+    "slug": "center-weighted-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Muted Pastel Palette",
+    "slug": "muted-pastel-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Bold Primary Color Blocks",
+    "slug": "bold-primary-color-blocks",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-10-17T13:21:40.687Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }

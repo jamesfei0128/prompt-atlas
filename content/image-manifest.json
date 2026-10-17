@@ -3419,6 +3419,30 @@
       "generationPrompt": "16:9 close-up shot of aged rusted metal texture with flaky orange and brown rust patches, detailed corrosion and pitting, natural soft daylight highlighting surface roughness, ultra-realistic, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "aged-rusted-metal-texture"
+    },
+    {
+      "filename": "smooth-marble-surface-texture.png",
+      "altText": "Close-up of a polished smooth marble surface with subtle grey veining and a glossy finish",
+      "imageTitle": "Smooth Marble Surface Texture Close-up",
+      "generationPrompt": "16:9 ultra-detailed close-up of smooth marble surface texture, polished glossy finish, subtle grey veins, natural soft lighting, photorealistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "smooth-marble-surface-texture"
+    },
+    {
+      "filename": "wet-glass-surface-effect.png",
+      "altText": "Close-up of glass surface covered with realistic wet droplets and glistening reflections",
+      "imageTitle": "Wet Glass Surface Effect with Water Droplets",
+      "generationPrompt": "A 16:9 ultra-realistic photo of a glass surface covered in fresh water droplets, with subtle reflections and diffusion, soft natural lighting, premium stock photo style, no text or logos",
+      "category": "Texture & Material",
+      "keywordSlug": "wet-glass-surface-effect"
+    },
+    {
+      "filename": "fine-grain-film-texture.png",
+      "altText": "Close-up texture showing fine grain film effect on a vintage photographic image",
+      "imageTitle": "Fine Grain Film Texture Detail",
+      "generationPrompt": "16:9 ultra-detailed close-up of fine grain film texture on a vintage photo, soft natural light, realistic film grain, subtle tactile organic pattern, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "fine-grain-film-texture"
     }
   ]
 }

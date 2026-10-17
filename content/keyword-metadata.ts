@@ -12861,5 +12861,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Smooth Marble Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Smooth Marble Surface Texture: Premium AI Image Prompt Insights",
+    "metaDescription": "Explore how to create realistic smooth marble surface textures with AI prompts. Learn visual traits, prompt formulas, and best uses for design and commercial projects.",
+    "heroImage": {
+      "src": "/images/keywords/smooth-marble-surface-texture.png",
+      "alt": "Close-up of a polished smooth marble surface with subtle grey veining and a glossy finish",
+      "title": "Smooth Marble Surface Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The smooth marble surface texture keyword is valuable for artists and designers aiming to replicate the luxurious and timeless appeal of marble in AI-generated images. It ensures the depiction of natural stone with polished, shiny surfaces, gentle veining, and realistic material depth. By incorporating this texture in prompts, creators can generate images suitable for high-end interiors, product mockups, or branding visuals that call for sophisticated marble backgrounds. The smoothness and fine detailing elevate the perceived quality and visual interest of the images.",
+    "bestUseCases": [
+      "Luxury interior design visualizations (e.g., countertops, flooring)",
+      "High-end product backgrounds requiring elegant natural stone",
+      "Architectural renders showcasing polished marble elements"
+    ],
+    "relatedKeywords": [
+      "polished stone surface texture",
+      "natural marble pattern",
+      "glossy ceramic tile texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "smooth-marble-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Wet Glass Surface Effect",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Wet Glass Surface Effect: Enhance AI Images with Realistic Texture",
+    "metaDescription": "Discover how to use the Wet Glass Surface Effect in AI image prompts for realistic, premium-looking textures. Ideal for editorial, advertising, and product visuals.",
+    "heroImage": {
+      "src": "/images/keywords/wet-glass-surface-effect.png",
+      "alt": "Close-up of glass surface covered with realistic wet droplets and glistening reflections",
+      "title": "Wet Glass Surface Effect with Water Droplets",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The Wet Glass Surface Effect creates compelling visual interest by simulating glass surfaces covered with moisture. This effect captures the fine details of water droplets and the way they alter light transmission and reflection, producing a glossy, tactile appearance. It's favored in modern editorial photography and advertising to evoke freshness, moisture, or a rainy ambiance. By incorporating this effect, AI-generated images gain added realism and textural complexity, making them ideal for product shots, interior scenes, and artistic photography with atmospheric mood.",
+    "bestUseCases": [
+      "Product photography featuring beverages, perfumes, or electronics with wet glass packaging",
+      "Editorial images portraying rainy, humid, or moody atmospheres",
+      "Interior and architectural visuals showcasing windows or glass surfaces with rain or condensation"
+    ],
+    "relatedKeywords": [
+      "Glass Surface Texture",
+      "Raindrops on Glass",
+      "Condensation Effect"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "wet-glass-surface-effect",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Fine Grain Film Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Fine Grain Film Texture: Enhance AI Images with Authentic Film Look",
+    "metaDescription": "Explore Fine Grain Film Texture to add realistic film grain effects in AI images, perfect for vintage, cinematic, and high-detail visuals.",
+    "heroImage": {
+      "src": "/images/keywords/fine-grain-film-texture.png",
+      "alt": "Close-up texture showing fine grain film effect on a vintage photographic image",
+      "title": "Fine Grain Film Texture Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Fine Grain Film Texture is a popular keyword used in AI image generation to replicate the nuanced and refined grain found in analog photographic film with higher emulsions or professional stocks. Unlike coarse grain, fine grain offers a gentle texture that adds organic qualities and depth to digital images, lending them a nostalgic, vintage charm while maintaining clarity and detail. This texture is especially valued in photography-inspired digital art and retro-themed visual designs. Applying this texture can bring a tactile, handcrafted feel to otherwise smooth and digitally perfect images, enhancing mood and artistic expression.",
+    "bestUseCases": [
+      "Vintage portrait photography recreations needing authentic analog feel",
+      "Cinematic scenes seeking filmic texture for mood and atmosphere",
+      "Editorial and fashion imagery enhanced with subtle grain for artistic expression"
+    ],
+    "relatedKeywords": [
+      "Analog Film Texture",
+      "Film Grain",
+      "Vintage Photo Effect"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "fine-grain-film-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
