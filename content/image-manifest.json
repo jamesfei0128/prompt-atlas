@@ -3443,6 +3443,30 @@
       "generationPrompt": "16:9 ultra-detailed close-up of fine grain film texture on a vintage photo, soft natural light, realistic film grain, subtle tactile organic pattern, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "fine-grain-film-texture"
+    },
+    {
+      "filename": "polished-wood-grain-texture.png",
+      "altText": "Close-up polished wood grain texture with visible grain and reflective gloss under soft lighting",
+      "imageTitle": "Polished Wood Grain Texture Surface",
+      "generationPrompt": "16:9 close-up shot of polished walnut wood surface featuring detailed wood grain texture with warm natural lighting, subtle soft reflections highlighting smooth glossy finish, clean background, no text or logos",
+      "category": "Texture & Material",
+      "keywordSlug": "polished-wood-grain-texture"
+    },
+    {
+      "filename": "stock-photography-portraits.png",
+      "altText": "Professional stock photography portrait of smiling diverse businesswoman with neutral background",
+      "imageTitle": "Stock Photography Portrait of Businesswoman",
+      "generationPrompt": "16:9 image of a smiling businesswoman in professional attire, natural soft lighting, neutral simple background, shallow depth of field, stock photography portraits style, realistic skin texture, high resolution, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "stock-photography-portraits"
+    },
+    {
+      "filename": "e-commerce-product-photoshoot.png",
+      "altText": "E-commerce product photoshoot style image showing a professional product shot of wireless headphones on white background with soft studio lighting",
+      "imageTitle": "E-commerce Product Photoshoot of Wireless Headphones",
+      "generationPrompt": "16:9 image of a single wireless headphone on a white seamless background, soft studio lighting highlighting texture and material, minimal shadows, clean editorial composition, premium stock-image quality, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "e-commerce-product-photoshoot"
     }
   ]
 }

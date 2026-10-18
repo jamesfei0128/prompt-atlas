@@ -12951,5 +12951,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Polished Wood Grain Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Polished Wood Grain Texture: Premium Realistic Surface for Design",
+    "metaDescription": "Discover how to use polished wood grain texture in AI image prompts for realistic, refined surfaces. Learn definitions, best use cases, mistakes to avoid, and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/polished-wood-grain-texture.png",
+      "alt": "Close-up polished wood grain texture with visible grain and reflective gloss under soft lighting",
+      "title": "Polished Wood Grain Texture Surface",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Polished wood grain texture is essential for creating images that emphasize realistic and luxurious wood surfaces. This texture highlights the intricate wood lines and rings, enhanced by a polished, glossy finish that reflects light subtly, adding depth and richness. When used in AI art prompts, it generates images of wood that look refined and tactile, suitable for premium product backgrounds, interior design visuals, furniture presentations, and editorial photography. It conveys warmth and natural elegance while maintaining a modern, clean aesthetic.",
+    "bestUseCases": [
+      "High-end furniture advertising visuals",
+      "Interior design concepts emphasizing natural materials",
+      "Product backgrounds requiring warm, natural textures"
+    ],
+    "relatedKeywords": [
+      "Glossy Wood Surface",
+      "Natural Wood Grain",
+      "Refined Wood Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "polished-wood-grain-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Stock Photography Portraits",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Stock Photography Portraits: Essential AI Prompt Guide",
+    "metaDescription": "Explore how to craft effective AI prompts for stock photography portraits, enhancing realism and commercial appeal in your images.",
+    "heroImage": {
+      "src": "/images/keywords/stock-photography-portraits.png",
+      "alt": "Professional stock photography portrait of smiling diverse businesswoman with neutral background",
+      "title": "Stock Photography Portrait of Businesswoman",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Stock photography portraits are essential in marketing, advertising, and editorial contexts because they provide universally relatable images of people. When generating AI images, including this keyword informs the model to produce polished, realistic human portraits that fit commercial use standards, such as clear faces, expressive but subtle emotions, and professional lighting. These portraits avoid extreme stylization, favoring naturalism and approachability, which makes them valuable for a variety of purposes including website hero images, brochures, and social media campaigns. The keyword helps the AI balance realism with aesthetic appeal, ensuring images are versatile across industries and demographics.",
+    "bestUseCases": [
+      "Corporate websites needing professional headshots",
+      "Marketing campaigns requiring approachable, diverse portraits",
+      "Editorial content in magazines and online articles"
+    ],
+    "relatedKeywords": [
+      "Corporate Headshots",
+      "Lifestyle Portraits",
+      "Editorial Portraits"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "stock-photography-portraits",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "E-Commerce Product Photoshoot",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "E-Commerce Product Photoshoot: AI Image Prompt Guide",
+    "metaDescription": "Discover how to create stunning AI-generated e-commerce product photoshoot images with expert prompt formulas, use cases, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/e-commerce-product-photoshoot.png",
+      "alt": "E-commerce product photoshoot style image showing a professional product shot of wireless headphones on white background with soft studio lighting",
+      "title": "E-commerce Product Photoshoot of Wireless Headphones",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "In AI image generation, 'E-Commerce Product Photoshoot' is used to simulate professional product photography tailored for online retail environments. This keyword enhances prompts with cues for refined lighting, crisp focus, and minimalistic backgrounds, mimicking studio conditions. The resulting images emphasize product details realistically, boosting visual appeal and consumer trust when used in catalogs, websites, or ads. This approach avoids clutter and over-stylization, producing versatile images ready for commercial presentation or branding purposes.",
+    "bestUseCases": [
+      "Online retail product catalog images",
+      "Promotional banners for e-commerce websites",
+      "Social media marketing visuals showcasing products"
+    ],
+    "relatedKeywords": [
+      "Studio Lighting",
+      "Product Detail Shot",
+      "Minimalist Commercial Photography"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "e-commerce-product-photoshoot",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
