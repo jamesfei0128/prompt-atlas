@@ -3467,6 +3467,30 @@
       "generationPrompt": "16:9 image of a single wireless headphone on a white seamless background, soft studio lighting highlighting texture and material, minimal shadows, clean editorial composition, premium stock-image quality, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "e-commerce-product-photoshoot"
+    },
+    {
+      "filename": "morning-fog-atmosphere.png",
+      "altText": "Serene early morning landscape with soft morning fog enveloping trees and diffused light",
+      "imageTitle": "Tranquil Morning Fog Atmosphere Landscape",
+      "generationPrompt": "16:9 serene natural forest scene in early morning with low-lying soft fog atmosphere, diffused soft light filtering through trees, muted cool tones, realistic materials, clean composition, editorial style, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "morning-fog-atmosphere"
+    },
+    {
+      "filename": "fill-light-technique.png",
+      "altText": "Portrait of a woman with soft fill light gently illuminating her face, studio lighting balance",
+      "imageTitle": "Soft Fill Light Portrait Photography",
+      "generationPrompt": "16:9 image of a female portrait lit with soft fill light reducing shadows, natural studio lighting, clean background, high detail, realistic skin tones, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "fill-light-technique"
+    },
+    {
+      "filename": "moody-urban-atmosphere.png",
+      "altText": "Moody urban street scene with dim lighting and fog",
+      "imageTitle": "Moody Urban Atmosphere in Cityscape Photography",
+      "generationPrompt": "16:9 panoramic city street at dusk, fog and rain, dim warm street lamps reflecting on wet pavement, moody urban atmosphere, muted cool tones, cinematic lighting, photorealistic, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "moody-urban-atmosphere"
     }
   ]
 }

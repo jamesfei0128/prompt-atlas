@@ -3316,27 +3316,27 @@
     "keyword": "Morning Fog Atmosphere",
     "slug": "morning-fog-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.971Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-19T16:43:00.525Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Fill Light Technique",
     "slug": "fill-light-technique",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-19T16:43:40.316Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Moody Urban Atmosphere",
     "slug": "moody-urban-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-19T16:44:20.525Z",
     "source": "openai-discovery"
   },
   {

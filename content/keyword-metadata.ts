@@ -13041,5 +13041,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Morning Fog Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Morning Fog Atmosphere: Creating Misty, Serene AI Images",
+    "metaDescription": "Discover how to generate calming morning fog atmosphere visuals with AI. Learn key prompt formulas, best use cases, and avoid common pitfalls for realistic misty scenes.",
+    "heroImage": {
+      "src": "/images/keywords/morning-fog-atmosphere.png",
+      "alt": "Serene early morning landscape with soft morning fog enveloping trees and diffused light",
+      "title": "Tranquil Morning Fog Atmosphere Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Morning Fog Atmosphere is an evocative keyword for AI image generation that calls for imagery depicting the calm and mystique of early dawn fog. This atmosphere is characterized by low contrast, diffused light, and a subtle veil of mist that softens details and enhances depth. Using this keyword in prompts helps produce landscapes, urban scenes, or nature shots that feel serene, introspective, or slightly mysterious. Photorealistic renderings benefit from this keyword by emulating natural weather conditions prevalent during sunrise. Its use is versatile across many visual styles, from realistic photography simulations to stylized art that emphasizes mood through softened visuals.",
+    "bestUseCases": [
+      "Landscape photography emulation for mood-centric nature shots",
+      "Book covers or editorial imagery requiring mysterious, soft scenes",
+      "Backgrounds for wellness and mindfulness-themed content"
+    ],
+    "relatedKeywords": [
+      "Foggy Morning",
+      "Misty Landscape",
+      "Early Dawn Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "morning-fog-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Fill Light Technique",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Fill Light Technique: Enhancing AI-Generated Images with Balanced Lighting",
+    "metaDescription": "Discover the Fill Light Technique for AI image prompts. Learn how to balance shadows and highlights, improve realism, and create professional images with optimal lighting.",
+    "heroImage": {
+      "src": "/images/keywords/fill-light-technique.png",
+      "alt": "Portrait of a woman with soft fill light gently illuminating her face, studio lighting balance",
+      "title": "Soft Fill Light Portrait Photography",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "The Fill Light Technique is a crucial component in creating realistic and professionally lit images using AI prompts. By adding a complementary light source, often opposite the main light, it softens shadows and maintains sufficient contrast for depth. This technique avoids flatness that occurs with uniform lighting, enabling better visual storytelling and mood balance. In AI-generated imagery, specifying fill light helps model algorithms simulate natural lighting environments, enhancing the final artwork's quality and appeal. It is widely applied in portraits, product photography simulations, and scene compositions to achieve a polished, studio-quality effect without harsh shadows overwhelming details.",
+    "bestUseCases": [
+      "Portrait photography style images to reveal facial details while maintaining mood",
+      "Product or still life renders needing balanced shadows for texture clarity",
+      "Interior scenes requiring natural yet controlled lighting to avoid flatness"
+    ],
+    "relatedKeywords": [
+      "Key Light",
+      "Back Light",
+      "Three Point Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "fill-light-technique",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Moody Urban Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Moody Urban Atmosphere: Crafting Moody Cityscapes with AI",
+    "metaDescription": "Explore how to create moody urban atmosphere images using AI prompts. Learn definitions, formulas, use cases, related styles, and model tips for evocative city visuals.",
+    "heroImage": {
+      "src": "/images/keywords/moody-urban-atmosphere.png",
+      "alt": "Moody urban street scene with dim lighting and fog",
+      "title": "Moody Urban Atmosphere in Cityscape Photography",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The 'Moody Urban Atmosphere' keyword guides AI image models to produce city environments imbued with emotional depth and cinematic tension. These images emphasize a specific ambiance characterized by somber lighting and subdued colors, evoking feelings such as nostalgia, solitude, or suspense. Artists and designers often seek this mood to communicate urban stories beyond the hustle and bustle, focusing instead on quiet moments or reflective scenes. Using this keyword effectively helps generate images that appear both realistic and emotionally charged, suitable for editorial content, film concept art, or evocative backgrounds in multimedia projects.",
+    "bestUseCases": [
+      "Editorial photography mimicking film noir or melancholic urban stories",
+      "Background imagery for films, games, or animations requiring suspense or noir aesthetics",
+      "Advertising campaigns targeting fashion or lifestyle brands with a sleek, emotional edge"
+    ],
+    "relatedKeywords": [
+      "Noir Cityscape",
+      "Rainy Night Streets",
+      "Foggy Metropolis"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "moody-urban-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
