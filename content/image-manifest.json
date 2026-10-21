@@ -3491,6 +3491,30 @@
       "generationPrompt": "16:9 panoramic city street at dusk, fog and rain, dim warm street lamps reflecting on wet pavement, moody urban atmosphere, muted cool tones, cinematic lighting, photorealistic, no text, no logos",
       "category": "Atmosphere",
       "keywordSlug": "moody-urban-atmosphere"
+    },
+    {
+      "filename": "high-contrast-color-palette.png",
+      "altText": "Abstract design using a high contrast color palette with vivid reds and dark blues",
+      "imageTitle": "High Contrast Color Palette Abstract Design",
+      "generationPrompt": "16:9 composition of abstract shapes using a high contrast color palette featuring vivid reds and deep blues, clean lighting, premium stock-image polish, subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "high-contrast-color-palette"
+    },
+    {
+      "filename": "woven-fabric-texture.png",
+      "altText": "Close-up of realistic woven fabric texture showing interlaced threads with natural lighting",
+      "imageTitle": "Close-up Woven Fabric Texture with Detailed Threads",
+      "generationPrompt": "16:9 close-up macro shot of woven fabric texture showing detailed interlaced threads with soft natural lighting, realistic materials, premium look, subtle depth, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "woven-fabric-texture"
+    },
+    {
+      "filename": "diffuse-lighting-effect.png",
+      "altText": "Portrait of a woman lit with diffuse lighting effect creating soft shadows and natural colors",
+      "imageTitle": "Diffuse Lighting Effect Portrait",
+      "generationPrompt": "16:9 portrait of a woman with diffuse lighting effect, soft shadows, natural colors, realistic skin texture, studio background, premium photo quality, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "diffuse-lighting-effect"
     }
   ]
 }

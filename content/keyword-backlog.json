@@ -3343,27 +3343,27 @@
     "keyword": "High Contrast Color Palette",
     "slug": "high-contrast-color-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-21T14:46:34.051Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Woven Fabric Texture",
     "slug": "woven-fabric-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-21T14:47:16.526Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Diffuse Lighting Effect",
     "slug": "diffuse-lighting-effect",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-10-21T14:47:57.170Z",
     "source": "openai-discovery"
   },
   {

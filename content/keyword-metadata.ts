@@ -13131,5 +13131,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "High Contrast Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "High Contrast Color Palette: Definition and Creative Uses",
+    "metaDescription": "Discover the high contrast color palette, its visual traits, prompt formulas, best use cases, and creative variations in AI image generation.",
+    "heroImage": {
+      "src": "/images/keywords/high-contrast-color-palette.png",
+      "alt": "Abstract design using a high contrast color palette with vivid reds and dark blues",
+      "title": "High Contrast Color Palette Abstract Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "A high contrast color palette significantly influences the mood and readability of visual content by emphasizing sharp differences between colors. This palette amplifies distinctions in tones and hues, resulting in images that feel vibrant, bold, and attention-grabbing. In AI image generation, specifying this keyword encourages models to produce compositions that highlight color differences, rather than blending or muted schemes. This enhances subject prominence and can evoke emotional responses or create memorable visuals, essential in advertising, editorial design, and digital art.",
+    "bestUseCases": [
+      "Advertising and marketing visuals requiring attention-grabbing colors",
+      "Editorial illustrations where clarity and emphasis are critical",
+      "Digital art projects focusing on bold, dramatic color schemes"
+    ],
+    "relatedKeywords": [
+      "Complementary Colors",
+      "Vibrant Color Scheme",
+      "Dark and Light Contrast"
+    ],
+    "difficulty": "Beginner",
+    "slug": "high-contrast-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Woven Fabric Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Woven Fabric Texture: Premium AI Image Prompt Guide",
+    "metaDescription": "Discover how to master 'Woven Fabric Texture' prompts for realistic, refined textile images. Learn best uses, creative tips, and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/woven-fabric-texture.png",
+      "alt": "Close-up of realistic woven fabric texture showing interlaced threads with natural lighting",
+      "title": "Close-up Woven Fabric Texture with Detailed Threads",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Woven fabric textures add tangible realism to AI-generated images, simulating the intricate patterns formed by threads crossing perpendicularly. This keyword enriches visuals by conveying materiality and tactile depth, essential for authentic textile representation in fashion, interiors, or product visuals. When used effectively, it elevates simple textile renderings into nuanced depictions that showcase thread details, surface shadows, and natural irregularities inherent in real fabrics, making generated images more convincing and premium-looking.",
+    "bestUseCases": [
+      "Fashion product close-ups showing fabric quality",
+      "Interior design textiles like curtains or upholstery",
+      "Ecommerce images highlighting clothing material details"
+    ],
+    "relatedKeywords": [
+      "Textile Texture",
+      "Fabric Macro Detail",
+      "Cotton Weave Pattern"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "woven-fabric-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Diffuse Lighting Effect",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Diffuse Lighting Effect in AI Imagery: A Complete Guide",
+    "metaDescription": "Explore the diffuse lighting effect in AI image prompts: definition, visual traits, prompt formulas, use cases, and tips for stunning results.",
+    "heroImage": {
+      "src": "/images/keywords/diffuse-lighting-effect.png",
+      "alt": "Portrait of a woman lit with diffuse lighting effect creating soft shadows and natural colors",
+      "title": "Diffuse Lighting Effect Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Diffuse lighting effect is a crucial concept in photography, art, and AI image generation that simulates soft, widespread light typically produced by overcast skies or light diffusion materials. This lighting style provides smooth gradations between light and shadow, avoiding harsh contrasts. When integrated into AI image prompts, it helps achieve images with a gentle, natural look that emphasizes subject details without dramatic shadows or glare. Diffuse lighting creates a mood of calm realism, ideal for portraits, product photography, and interior scenes. Understanding how to prompt for this effect enables creators to produce realistic and appealing visuals with enhanced depth and subtlety while maintaining a clean and harmonious composition.",
+    "bestUseCases": [
+      "Portrait photography with natural, flattering skin tones",
+      "Interior design visuals showcasing ambient indoor lighting",
+      "Product images needing soft, even illumination without reflections"
+    ],
+    "relatedKeywords": [
+      "Soft Lighting",
+      "Ambient Light",
+      "Natural Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "diffuse-lighting-effect",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
