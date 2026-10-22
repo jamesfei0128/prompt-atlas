@@ -3515,6 +3515,30 @@
       "generationPrompt": "16:9 portrait of a woman with diffuse lighting effect, soft shadows, natural colors, realistic skin texture, studio background, premium photo quality, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "diffuse-lighting-effect"
+    },
+    {
+      "filename": "symmetrical-balance-layout.png",
+      "altText": "Modern editorial photograph featuring symmetrical balance layout with mirrored elements",
+      "imageTitle": "Symmetrical Balance Layout in Editorial Photography",
+      "generationPrompt": "16:9 high-resolution image of a clean, modern editorial portrait featuring symmetrical balance layout, mirror-like arrangement of elements around vertical axis, premium lighting, realistic materials, refined depth, no text or logos",
+      "category": "Composition",
+      "keywordSlug": "symmetrical-balance-layout"
+    },
+    {
+      "filename": "analog-film-color-palette.png",
+      "altText": "Photo showing warm muted colors in a vintage analog film style",
+      "imageTitle": "Analog Film Color Palette Vintage Photo",
+      "generationPrompt": "16:9 photo of a cozy indoor scene with warm muted colors, subtle film grain, soft natural window light, analog film color palette, vintage aesthetic, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "analog-film-color-palette"
+    },
+    {
+      "filename": "ebook-cover-design.png",
+      "altText": "Clean, modern ebook cover design featuring a fantasy-themed central figure and refined lighting",
+      "imageTitle": "Ebook Cover Design Example",
+      "generationPrompt": "16:9 image of a fantasy ebook cover with a lone medieval knight, clean editorial composition, premium stock-image polish, refined soft lighting, subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "ebook-cover-design"
     }
   ]
 }

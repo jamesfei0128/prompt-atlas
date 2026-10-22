@@ -13221,5 +13221,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Symmetrical Balance Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Symmetrical Balance Layout: Mastering Compositional Harmony",
+    "metaDescription": "Discover the power of Symmetrical Balance Layout in AI image prompts to create visually harmonious and balanced compositions for editorial and commercial design.",
+    "heroImage": {
+      "src": "/images/keywords/symmetrical-balance-layout.png",
+      "alt": "Modern editorial photograph featuring symmetrical balance layout with mirrored elements",
+      "title": "Symmetrical Balance Layout in Editorial Photography",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Symmetrical Balance Layout is a foundational principle in visual composition that organizes imagery so that both halves reflect one another, conveying stability and formality. When included in AI image prompts, it instructs generative models to produce images where subjects, shapes, and lighting are harmoniously balanced on either side of an imaginary central line. This layout enhances the viewer’s perception of order and calm, making it ideal for editorial hero images, brand presentations, and premium commercial photography. It often results in compositions that feel polished and visually coherent, aligning well with clean and modern design aesthetics.",
+    "bestUseCases": [
+      "Editorial hero images needing formal visual structure",
+      "Product photography emphasizing symmetry and balance",
+      "Corporate branding visuals highlighting professionalism"
+    ],
+    "relatedKeywords": [
+      "Asymmetrical Balance",
+      "Radial Symmetry Layout",
+      "Grid-Based Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "symmetrical-balance-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Analog Film Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Analog Film Color Palette: Enhance AI Images with Vintage Tones",
+    "metaDescription": "Discover how to use the Analog Film Color Palette in AI prompts for authentic vintage colors. Learn definitions, formulas, best uses, and pro workflows.",
+    "heroImage": {
+      "src": "/images/keywords/analog-film-color-palette.png",
+      "alt": "Photo showing warm muted colors in a vintage analog film style",
+      "title": "Analog Film Color Palette Vintage Photo",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Analog Film Color Palette is a popular keyword in AI image generation, used to achieve an aesthetic inspired by classic analog photography. It encourages AI models to emulate the color tones of vintage film rolls, incorporating soft reds, dusty blues, faded greens, and warm beige hues. This palette adds emotional depth and a nostalgic atmosphere to images, evoking memories of the past with subtle imperfections like gentle grain and nuanced light scattering. It is highly valued for creating editorial looks, lifestyle imagery, and artistic photographs that stand out for their authenticity and mood. Incorporating this palette can elevate digital images beyond bright, clinical colors toward more tactile, artistic visuals.",
+    "bestUseCases": [
+      "Lifestyle photography with nostalgic ambiance",
+      "Editorial portraits needing timeless warmth",
+      "Artistic scenes emulating film photography"
+    ],
+    "relatedKeywords": [
+      "Vintage Film Look",
+      "Muted Color Palette",
+      "Film Grain Texture"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "analog-film-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Ebook Cover Design",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Ebook Cover Design: Create Stunning Covers with AI",
+    "metaDescription": "Learn how to design eye-catching ebook covers using AI prompts. Discover formulas, best uses, and industry applications for commercial success.",
+    "heroImage": {
+      "src": "/images/keywords/ebook-cover-design.png",
+      "alt": "Clean, modern ebook cover design featuring a fantasy-themed central figure and refined lighting",
+      "title": "Ebook Cover Design Example",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Ebook Cover Design is an essential element in capturing a reader's attention and conveying the essence of the book through a single image. Using AI-generated prompts tailored for ebook covers enables creators to rapidly produce high-quality, polished visuals that meet commercial publishing standards. These designs typically feature a balanced editorial composition, premium stock-image quality, and refined lighting to enhance the cover's visual impact. Removing text, logos, and watermarks ensures adaptability and focus on imagery, suitable for article hero images or thumbnail previews. Integrating Ebook Cover Design into AI prompts helps streamline creative workflows for authors, publishers, and marketers.",
+    "bestUseCases": [
+      "Creating covers for fiction or nonfiction ebooks with modern, clean visuals",
+      "Designing placeholder or concept covers during the publishing pipeline",
+      "Generating cover art for marketing campaigns and digital storefronts"
+    ],
+    "relatedKeywords": [
+      "Book Cover Illustration",
+      "Editorial Photography",
+      "Digital Book Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "ebook-cover-design",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
