@@ -3539,6 +3539,30 @@
       "generationPrompt": "16:9 image of a fantasy ebook cover with a lone medieval knight, clean editorial composition, premium stock-image polish, refined soft lighting, subtle depth, realistic materials, no text, no logos, no watermark",
       "category": "Commercial Use",
       "keywordSlug": "ebook-cover-design"
+    },
+    {
+      "filename": "winter-chill-atmosphere.png",
+      "altText": "Winter landscape featuring frost-covered trees and soft blue light evoking a crisp winter chill atmosphere",
+      "imageTitle": "Winter Chill Atmosphere in a Frosty Forest Scene",
+      "generationPrompt": "16:9 winter forest landscape at dawn with frost-covered trees, soft diffused blue lighting, light snowfall, crisp and clear atmosphere, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "winter-chill-atmosphere"
+    },
+    {
+      "filename": "rustic-stone-texture.png",
+      "altText": "Close-up of rustic stone texture showing rough, uneven natural stones with cracks and earthy tones",
+      "imageTitle": "Rustic Stone Texture Close-up",
+      "generationPrompt": "A close-up view of rustic stone texture with rough, uneven natural stone surfaces, visible coarse grains and cracks, earthy color palette, photorealistic lighting, 16:9, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rustic-stone-texture"
+    },
+    {
+      "filename": "product-packaging-mockup.png",
+      "altText": "Realistic product packaging mockup of a luxury skincare cream box with subtle studio lighting and clean background",
+      "imageTitle": "Luxury Skincare Product Packaging Mockup",
+      "generationPrompt": "16:9 image of a luxury skincare cream box product packaging mockup on a clean white background, subtle soft studio lighting, realistic matte paper texture, refined shadows, premium editorial style, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "product-packaging-mockup"
     }
   ]
 }

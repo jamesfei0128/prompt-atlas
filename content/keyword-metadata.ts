@@ -13311,5 +13311,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Winter Chill Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Winter Chill Atmosphere: Crafting Crisp, Frosty AI Images",
+    "metaDescription": "Discover how to evoke a Winter Chill Atmosphere in AI images with clear prompts, creative variations, and industry applications for crisp, frosty visuals.",
+    "heroImage": {
+      "src": "/images/keywords/winter-chill-atmosphere.png",
+      "alt": "Winter landscape featuring frost-covered trees and soft blue light evoking a crisp winter chill atmosphere",
+      "title": "Winter Chill Atmosphere in a Frosty Forest Scene",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Winter Chill Atmosphere keyword enhances AI-generated imagery by focusing on cold, crisp environmental details characteristic of winter. Incorporating this keyword adjusts the image's overall mood, encouraging elements such as frosted trees, icy textures, and subdued daylight that mimic winter conditions. This atmosphere can convey serenity, quiet, and brisk freshness, making scenes feel immersive and seasonally accurate. It especially suits visuals needing a cold temperature feel without harsh shadows or bright sunlight, offering subtle lighting cues reminiscent of overcast or bluish winter days. Utilizing this keyword helps artists and creators achieve authentic seasonal aesthetics in nature, urban, or abstract compositions.",
+    "bestUseCases": [
+      "Seasonal greeting cards and winter holiday artwork",
+      "Editorial illustrations conveying cold or somber moods",
+      "Backgrounds for winter sport or travel advertisements"
+    ],
+    "relatedKeywords": [
+      "Frosty Morning Light",
+      "Snowy Landscape",
+      "Cold Weather Mood"
+    ],
+    "difficulty": "Beginner",
+    "slug": "winter-chill-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rustic Stone Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rustic Stone Texture: Natural Rough Stone Patterns for AI Art",
+    "metaDescription": "Explore Rustic Stone Texture in AI image prompts: natural, rough stone surfaces ideal for authentic materials and backgrounds in digital art.",
+    "heroImage": {
+      "src": "/images/keywords/rustic-stone-texture.png",
+      "alt": "Close-up of rustic stone texture showing rough, uneven natural stones with cracks and earthy tones",
+      "title": "Rustic Stone Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Rustic Stone Texture captures the charm of natural, unpolished stone surfaces, commonly found in outdoor walls, patios, and countryside architecture. When used as an AI prompt keyword, it guides image generation toward materials that have a raw, tactile quality with an irregular and aged look. This texture is highly valuable for artists and designers aiming to depict authentic stonework or vintage construction details. The keyword enhances image realism by emphasizing stone’s natural imperfections such as cracks, chips, and coarse grains. This makes it an excellent choice for backgrounds, architectural visualizations, and product mockups needing an organic, weathered material feel.",
+    "bestUseCases": [
+      "Backgrounds for rustic or natural architecture visuals",
+      "Material textures in video game environment design",
+      "Product packaging and branding with an earthy, artisan vibe"
+    ],
+    "relatedKeywords": [
+      "Weathered Brick Texture",
+      "Natural Rock Surface",
+      "Coarse Granite Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rustic-stone-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Product Packaging Mockup",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Product Packaging Mockup: Create Realistic Packaging Visuals",
+    "metaDescription": "Discover how to craft stunning product packaging mockups with AI prompts for commercial use, focusing on realistic materials and refined lighting.",
+    "heroImage": {
+      "src": "/images/keywords/product-packaging-mockup.png",
+      "alt": "Realistic product packaging mockup of a luxury skincare cream box with subtle studio lighting and clean background",
+      "title": "Luxury Skincare Product Packaging Mockup",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Product packaging mockups are essential tools in design and marketing to realistically showcase how products will look on store shelves. Using AI to generate these images allows rapid iteration of packaging ideas, displaying details like folds, textures, and labels in a lifelike manner. These mockups often feature minimalist and modern compositions with soft shadows and lighting that emphasize the tactile qualities of packaging materials. They are invaluable for presentations, advertisements, and e-commerce listings, allowing creators to preview and refine designs without costly physical prototypes.",
+    "bestUseCases": [
+      "Designers previewing new packaging concepts",
+      "Marketers creating product visuals for campaigns",
+      "E-commerce sellers showcasing products with branded packaging"
+    ],
+    "relatedKeywords": [
+      "brand style guide",
+      "luxury product photography",
+      "ecommerce product shot"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "product-packaging-mockup",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
