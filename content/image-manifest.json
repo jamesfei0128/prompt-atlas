@@ -3587,6 +3587,30 @@
       "generationPrompt": "A high-resolution 16:9 landscape photograph with mountain scenery, composed using the golden triangle layout, warm sunlight casting dynamic shadows along diagonal lines, subtle depth of field, realistic natural colors, without text or logos",
       "category": "Composition",
       "keywordSlug": "golden-triangle-layout"
+    },
+    {
+      "filename": "satin-fabric-texture.png",
+      "altText": "Close-up of smooth, glossy satin fabric texture with delicate folds and subtle light reflections",
+      "imageTitle": "Satin Fabric Texture with Soft Highlights",
+      "generationPrompt": "16:9 image of flowing satin fabric with subtle gloss and soft light reflections, delicate folds, premium textile material, clean background, realistic studio lighting, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "satin-fabric-texture"
+    },
+    {
+      "filename": "event-invitation-layout.png",
+      "altText": "Modern event invitation layout with elegant floral design and realistic paper texture",
+      "imageTitle": "Elegant Floral Event Invitation Layout",
+      "generationPrompt": "16:9 image of an elegant floral event invitation layout, soft pastel color scheme, realistic textured paper, refined soft lighting, clean editorial composition, subtle depth, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "event-invitation-layout"
+    },
+    {
+      "filename": "studio-lighting-setup.png",
+      "altText": "Professional portrait illuminated with soft, even studio lighting setup",
+      "imageTitle": "Portrait with Studio Lighting Setup",
+      "generationPrompt": "16:9 photo of a professional portrait of a young woman with soft, even light from a studio lighting setup, showing smooth skin texture, subtle shadowing, clean neutral background, high detail, realistic materials, premium stock photo quality, no logos or text",
+      "category": "Lighting",
+      "keywordSlug": "studio-lighting-setup"
     }
   ]
 }

@@ -13491,5 +13491,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Satin Fabric Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Satin Fabric Texture: Luxurious Smoothness for AI Imagery",
+    "metaDescription": "Explore the Satin Fabric Texture keyword for AI image prompts. Learn its traits, uses, prompt formulas, and professional tips to create premium satin visuals.",
+    "heroImage": {
+      "src": "/images/keywords/satin-fabric-texture.png",
+      "alt": "Close-up of smooth, glossy satin fabric texture with delicate folds and subtle light reflections",
+      "title": "Satin Fabric Texture with Soft Highlights",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Satin fabric texture is synonymous with luxury and elegance, characterized by its smooth, glossy finish and soft hand feel. In AI image generation, incorporating the Satin Fabric Texture keyword helps produce visually rich images emphasizing the fabric's lustrous surface and fluid folds. This texture is highly valued in fashion, interior design, and product visualization, as it conveys sophistication and a premium quality. Using satin texture keywords effectively in AI prompts enables artists and designers to achieve realistic fabric rendering that captures the delicate interplay of light and shadow inherent to satin materials.",
+    "bestUseCases": [
+      "Fashion photography mockups showing satin garments",
+      "Interior design visuals featuring satin drapes or cushions",
+      "Product advertising for luxury textile items"
+    ],
+    "relatedKeywords": [
+      "Silk Fabric Texture",
+      "Glossy Textile Material",
+      "Smooth Fabric Surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "satin-fabric-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Event Invitation Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Event Invitation Layout: Design AI Image Prompts Guide",
+    "metaDescription": "Discover how to create stunning event invitation layouts with AI image prompts. Learn formulas, best uses, mistakes to avoid, and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/event-invitation-layout.png",
+      "alt": "Modern event invitation layout with elegant floral design and realistic paper texture",
+      "title": "Elegant Floral Event Invitation Layout",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "The 'Event Invitation Layout' keyword helps generate images that emulate real invitation designs used for various occasions such as weddings, corporate events, or parties. This keyword directs AI models to focus on creating well-organized, aesthetically pleasing compositions that highlight essential design elements like borders, icons, and space allocation, but without textual content. Utilizing this in prompts supports designers and marketers seeking refined visuals for previews, moodboards, or presentation of invitation concepts with premium stock-image quality. It ensures the images remain polished, versatile, and appropriate as hero images or thumbnails in commercial settings.",
+    "bestUseCases": [
+      "Creating concept visuals for wedding and party invitations",
+      "Marketing materials showcasing invitation design templates",
+      "Moodboards or client presentations for event planners"
+    ],
+    "relatedKeywords": [
+      "Wedding Invitation Style",
+      "Minimalist Graphic Layout",
+      "Editorial Design Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "event-invitation-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Studio Lighting Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Studio Lighting Setup: Mastering Professional Lighting in AI Images",
+    "metaDescription": "Learn how to incorporate studio lighting setup keywords into AI prompts for realistic, high-quality images with refined lighting and depth.",
+    "heroImage": {
+      "src": "/images/keywords/studio-lighting-setup.png",
+      "alt": "Professional portrait illuminated with soft, even studio lighting setup",
+      "title": "Portrait with Studio Lighting Setup",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Studio Lighting Setup is a crucial keyword in AI image generation that directs models to simulate professional photographic lighting conditions typical of a controlled studio environment. This setup emphasizes soft, diffused light sources, often from multiple angles, to highlight subject details without harsh contrasts. Using this keyword improves the realism and visual appeal of portraits, product shots, and other imagery by managing shadows and reflections precisely. It is ideal for creating polished images with a premium stock photo aesthetic, featuring realistic materials and subtle depth. Incorporating studio lighting enhances the mood and elevates the perceived quality of AI-generated visuals, making them suitable for editorial and commercial use.",
+    "bestUseCases": [
+      "Portrait photography simulations for advertising or fashion spreads",
+      "Product images needing clear detail and balanced light for e-commerce",
+      "Editorial hero images requiring clean, professional aesthetics"
+    ],
+    "relatedKeywords": [
+      "Softbox Lighting",
+      "Product Photography Lighting",
+      "Portrait Lighting Setup"
+    ],
+    "difficulty": "Beginner",
+    "slug": "studio-lighting-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
