@@ -3563,6 +3563,30 @@
       "generationPrompt": "16:9 image of a luxury skincare cream box product packaging mockup on a clean white background, subtle soft studio lighting, realistic matte paper texture, refined shadows, premium editorial style, no text, no logos",
       "category": "Commercial Use",
       "keywordSlug": "product-packaging-mockup"
+    },
+    {
+      "filename": "fill-light-softening.png",
+      "altText": "Portrait of a woman with soft fill light softening, smooth shadows and balanced natural lighting",
+      "imageTitle": "Fill Light Softening Example Portrait",
+      "generationPrompt": "16:9 portrait of a woman with soft fill light softening to reduce harsh shadows, studio setting, natural skin tones, clean background, high detail, professional photography style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "fill-light-softening"
+    },
+    {
+      "filename": "misty-mountain-atmosphere.png",
+      "altText": "Misty mountain landscape with soft fog enveloping peaks under diffuse morning light",
+      "imageTitle": "Serene Misty Mountain Atmosphere at Dawn",
+      "generationPrompt": "16:9 photo-realistic landscape of misty mountain atmosphere at sunrise, soft diffuse light, layered fog knitting around rugged peaks and pine trees, tranquil and ethereal mood, detailed textures, subtle pastel color palette, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "misty-mountain-atmosphere"
+    },
+    {
+      "filename": "golden-triangle-layout.png",
+      "altText": "Example of an elegant landscape photo using the Golden Triangle Layout with dynamic diagonal lines and balanced composition",
+      "imageTitle": "Landscape featuring Golden Triangle Layout",
+      "generationPrompt": "A high-resolution 16:9 landscape photograph with mountain scenery, composed using the golden triangle layout, warm sunlight casting dynamic shadows along diagonal lines, subtle depth of field, realistic natural colors, without text or logos",
+      "category": "Composition",
+      "keywordSlug": "golden-triangle-layout"
     }
   ]
 }

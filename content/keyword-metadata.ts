@@ -13401,5 +13401,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Fill Light Softening",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Fill Light Softening in AI Image Prompts: Enhance Your Lighting",
+    "metaDescription": "Learn how Fill Light Softening affects AI-generated images by reducing harsh shadows and creating balanced illumination with this beginner-friendly guide.",
+    "heroImage": {
+      "src": "/images/keywords/fill-light-softening.png",
+      "alt": "Portrait of a woman with soft fill light softening, smooth shadows and balanced natural lighting",
+      "title": "Fill Light Softening Example Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Fill Light Softening is a useful AI prompt keyword that enhances the quality of lighting in generated images by making shadows less harsh and illuminating shadowed areas softly. This effect simulates natural lighting conditions, where the fill light gently brightens areas blocked from the main light source, preventing overly stark contrasts and enhancing realism. Incorporating fill light softening in AI prompts helps produce refined visuals, especially in portraits, still life, and product photography styles. It results in images with subtle depth and pleasing tonal balance, making scenes appear evenly lit yet naturally dynamic.",
+    "bestUseCases": [
+      "Portraits needing gentle, flattering lighting that minimizes facial shadows",
+      "Product and still life photography for balanced, soft illumination",
+      "Editorial images requiring natural, soft ambient lighting with subtle depth"
+    ],
+    "relatedKeywords": [
+      "soft lighting",
+      "fill light",
+      "ambient light softening"
+    ],
+    "difficulty": "Beginner",
+    "slug": "fill-light-softening",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Misty Mountain Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Misty Mountain Atmosphere: Capturing Ethereal Mountain Scenery",
+    "metaDescription": "Explore the Misty Mountain Atmosphere keyword for AI images. Learn prompt formulas, best uses, creative variations, industry applications, and pro tips.",
+    "heroImage": {
+      "src": "/images/keywords/misty-mountain-atmosphere.png",
+      "alt": "Misty mountain landscape with soft fog enveloping peaks under diffuse morning light",
+      "title": "Serene Misty Mountain Atmosphere at Dawn",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The Misty Mountain Atmosphere keyword evokes a serene and mysterious mountain landscape where fog or mist softly blankets peaks and valleys. This atmosphere transforms ordinary mountain images into captivating scenes with a dreamy, ethereal quality. The mist diffuses sunlight and colors, introducing muted tones and gentle gradients that provide subtle depth and a sense of tranquility. Such imagery is prized both in fine art photography and digital creation for its ability to evoke calmness, mystery, and the sublime beauty of nature’s ephemeral moments. Using this keyword in AI prompts helps generate visuals that feel natural yet poetic, ideal for scenes where mood and environment play central roles.",
+    "bestUseCases": [
+      "Creating peaceful desktop or smartphone wallpapers with natural beauty",
+      "Designing mood-focused editorial or book covers for nature-related topics",
+      "Generating backgrounds for meditation or wellness apps emphasizing tranquility"
+    ],
+    "relatedKeywords": [
+      "Foggy Landscape",
+      "Mountain Sunrise Glow",
+      "Ethereal Natural Scenes"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "misty-mountain-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Golden Triangle Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Golden Triangle Layout: Mastering Dynamic Composition in AI Images",
+    "metaDescription": "Discover the Golden Triangle Layout for AI image prompts. Learn definitions, prompt formulas, best use cases, advanced techniques, and workflow tips.",
+    "heroImage": {
+      "src": "/images/keywords/golden-triangle-layout.png",
+      "alt": "Example of an elegant landscape photo using the Golden Triangle Layout with dynamic diagonal lines and balanced composition",
+      "title": "Landscape featuring Golden Triangle Layout",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Golden Triangle Layout is a powerful compositional tool used by photographers and artists to direct the viewer's attention along carefully arranged diagonal lines and triangular shapes. Unlike more symmetrical grids, this layout creates dynamic tension and balance by placing focal points at the intersections of imaginary triangular guides. When applied in AI image prompting, it helps the model generate images with a natural sense of movement, depth, and harmony. This improves storytelling and aesthetic appeal in visuals ranging from landscapes to portraits and product shots. By specifying the Golden Triangle Layout in prompts, creators achieve professional, refined compositions that resonate with viewers on a subconscious level.",
+    "bestUseCases": [
+      "Landscape photography emphasizing dynamic natural scenes",
+      "Portraits with dynamic posing and background elements",
+      "Product photography creating visual interest through diagonal compositions"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds",
+      "Diagonal Lines Composition",
+      "Dynamic Symmetry"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "golden-triangle-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
