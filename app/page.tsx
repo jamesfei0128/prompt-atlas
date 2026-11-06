@@ -57,7 +57,17 @@ export default function HomePage() {
               Browse curated prompt categories, styles, and keywords for Midjourney, ChatGPT,
               Flux, Stable Diffusion, and more.
             </p>
-            <div className="mt-8 flex flex-wrap gap-3">
+            <form action="/search" method="get" role="search" className="mt-7 max-w-xl">
+              <label htmlFor="home-search" className="mb-2 block text-sm font-semibold text-ink">What would you like to create?</label>
+              <div className="flex flex-col gap-2 rounded-lg border border-line bg-white p-2 shadow-sm sm:flex-row focus-within:border-sage">
+                <input id="home-search" name="q" type="search" maxLength={160}
+                  placeholder="Search styles, lighting, moods…"
+                  className="min-w-0 flex-1 rounded-md px-3 py-3 text-base text-ink outline-none focus-visible:ring-2 focus-visible:ring-sage" />
+                <button type="submit" className="rounded-md bg-ink px-5 py-3 text-sm font-semibold text-white transition hover:bg-sage focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sage">Search guides</button>
+              </div>
+              <p className="mt-2 text-xs text-ink/60">Try cinematic lighting, minimalist, or product photography.</p>
+            </form>
+            <div className="mt-6 flex flex-wrap gap-3">
               <Link
                 href="#popular-categories"
                 className="rounded-md bg-ink px-5 py-3 text-sm font-semibold text-white transition hover:bg-sage"
@@ -218,3 +228,4 @@ export default function HomePage() {
     </>
   );
 }
+
