@@ -2,6 +2,7 @@ import Link from "next/link";
 
 const links = [
   { href: "/", label: "Home" },
+  { href: "/search", label: "Search" },
   { href: "/blog", label: "Blog" },
   { href: "/about", label: "About" }
 ];
@@ -13,7 +14,7 @@ export function Header() {
         <Link href="/" className="text-lg font-semibold tracking-tight text-ink">
           PromptAtlas
         </Link>
-        <nav className="flex items-center gap-5 text-sm text-ink/70">
+        <nav aria-label="Main navigation" className="flex items-center gap-3 text-sm text-ink/70 sm:gap-5">
           {links.map((link) => (
             <Link key={link.href} href={link.href} className="transition hover:text-ink">
               {link.label}
@@ -24,3 +25,4 @@ export function Header() {
     </header>
   );
 }
+
