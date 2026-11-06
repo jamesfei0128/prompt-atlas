@@ -27,7 +27,7 @@ function normalize(value: string) {
 
 function tokens(value: string) {
   return normalize(value).split(/\s+/).filter(Boolean).filter((word) => !stopWords.has(word))
-    .map((word) => aliases[word] ?? word);
+    .map((word) => Object.prototype.hasOwnProperty.call(aliases, word) ? aliases[word] : word);
 }
 
 export function createSearchIndex<T extends SearchArticle>(articles: T[]) {
