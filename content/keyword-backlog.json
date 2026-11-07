@@ -3478,27 +3478,27 @@
     "keyword": "Sunset Warm Atmosphere",
     "slug": "sunset-warm-atmosphere",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-07T15:59:25.676Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Minimalist Grid Composition",
     "slug": "minimalist-grid-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-07T15:59:48.701Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Pastel Color Palette",
     "slug": "pastel-color-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-07T16:00:11.904Z",
     "source": "openai-discovery"
   },
   {

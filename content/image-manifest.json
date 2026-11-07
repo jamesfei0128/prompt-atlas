@@ -3611,6 +3611,30 @@
       "generationPrompt": "16:9 photo of a professional portrait of a young woman with soft, even light from a studio lighting setup, showing smooth skin texture, subtle shadowing, clean neutral background, high detail, realistic materials, premium stock photo quality, no logos or text",
       "category": "Lighting",
       "keywordSlug": "studio-lighting-setup"
+    },
+    {
+      "filename": "sunset-warm-atmosphere.png",
+      "altText": "Sunset warm atmosphere casting golden light over a serene beach landscape with soft shadows and glowing haze",
+      "imageTitle": "Sunset Warm Atmosphere over Serene Beach Landscape",
+      "generationPrompt": "16:9 image of a serene beach at sunset with warm golden light illuminating soft waves and casting gentle shadows, subtle atmospheric haze, realistic materials and refined lighting, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "sunset-warm-atmosphere"
+    },
+    {
+      "filename": "minimalist-grid-composition.png",
+      "altText": "Minimalist grid composition showcasing clean, balanced arrangement of abstract shapes with soft lighting",
+      "imageTitle": "Minimalist Grid Composition Example",
+      "generationPrompt": "A clean minimalist grid composition of abstract geometric shapes arranged evenly with soft natural lighting, subtle shadows, neutral color palette, ultra-realistic textures, high detail, 16:9 aspect ratio, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "minimalist-grid-composition"
+    },
+    {
+      "filename": "pastel-color-palette.png",
+      "altText": "AI generated image showcasing a soft pastel color palette with gentle pinks, blues, and greens in a bright, airy composition",
+      "imageTitle": "AI Artwork Featuring Pastel Color Palette",
+      "generationPrompt": "16:9 photo-realistic scene with pastel color palette featuring soft pink, baby blue, mint green hues, delicate natural lighting, smooth textures, minimal shadows, clean modern design, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "pastel-color-palette"
     }
   ]
 }

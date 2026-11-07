@@ -13581,5 +13581,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Sunset Warm Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Sunset Warm Atmosphere: Enhance AI Images with Golden Glow",
+    "metaDescription": "Discover how to use 'Sunset Warm Atmosphere' to add golden warmth and dramatic lighting to AI-generated images for stunning visual impact.",
+    "heroImage": {
+      "src": "/images/keywords/sunset-warm-atmosphere.png",
+      "alt": "Sunset warm atmosphere casting golden light over a serene beach landscape with soft shadows and glowing haze",
+      "title": "Sunset Warm Atmosphere over Serene Beach Landscape",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Using 'Sunset Warm Atmosphere' in AI image prompts infuses scenes with the unique qualities of sunset lighting, creating inviting, emotive visuals. This setting captures the essence of the golden hour, enhancing subjects and backgrounds with warmth and softness that evoke feelings of nostalgia, tranquility, or drama. It is versatile for diverse subjects such as landscapes, portraits, architecture, and still life. Implementing this keyword enriches images by tuning color balance towards warm tones and simulating natural light transitions seen during sunset.",
+    "bestUseCases": [
+      "Creating romantic or nostalgic outdoor portraits",
+      "Enhancing landscape photography with natural golden-hour tones",
+      "Designing warm, moody backgrounds for branding or storytelling visuals"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Lighting",
+      "Warm Light Effects",
+      "Sunset Glow"
+    ],
+    "difficulty": "Beginner",
+    "slug": "sunset-warm-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Minimalist Grid Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Minimalist Grid Composition: Clean, Balanced AI Image Design",
+    "metaDescription": "Explore Minimalist Grid Composition for AI images. Learn definition, visual traits, prompt formulas, uses, variations, and pro tips to create striking, balanced visuals.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-grid-composition.png",
+      "alt": "Minimalist grid composition showcasing clean, balanced arrangement of abstract shapes with soft lighting",
+      "title": "Minimalist Grid Composition Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Minimalist Grid Composition is a powerful keyword for generating AI images that are clean, organized, and aesthetically balanced. It guides models to arrange subjects or objects systematically within a grid, fostering harmony through spatial relationships and simplicity. This style reduces visual noise, focusing on essential forms and subtle contrasts. Common in editorial design and digital interfaces, it enhances readability and modern appeal. For AI artists and designers, using this keyword helps craft polished visuals with premium stock-image quality, refined lighting, and realistic materials, suitable for professional publishing, branding, and digital content visuals.",
+    "bestUseCases": [
+      "Website hero banners with clean layout",
+      "Editorial and magazine article feature images",
+      "Product showcases requiring balanced arrangement"
+    ],
+    "relatedKeywords": [
+      "clean grid layout",
+      "minimalist aesthetic",
+      "balanced composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-grid-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Pastel Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Pastel Color Palette: Soft Hues for Stunning AI Images",
+    "metaDescription": "Discover how to use pastel color palette in AI image prompts to create gentle, muted visuals perfect for modern design and commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/pastel-color-palette.png",
+      "alt": "AI generated image showcasing a soft pastel color palette with gentle pinks, blues, and greens in a bright, airy composition",
+      "title": "AI Artwork Featuring Pastel Color Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Using a pastel color palette in AI-generated images helps achieve a soft, tranquil aesthetic that is visually pleasing and versatile. These palettes evoke feelings of calmness, innocence, and lightness, making them ideal for various contexts from editorial content to product photography. Incorporating pastel tones reduces visual noise and creates harmonious scenes that appeal emotionally without overwhelming the viewer. This approach contrasts with vivid palettes by emphasizing subtlety and elegance, perfect for modern design trends and delicate compositions.",
+    "bestUseCases": [
+      "Fashion and beauty editorial images needing a delicate, feminine look",
+      "Children’s book illustrations or nursery decor visuals that require soft tones",
+      "Product photography for cosmetics or lifestyle brands emphasizing tranquility and sophistication"
+    ],
+    "relatedKeywords": [
+      "Soft Lighting",
+      "Muted Tones",
+      "Minimalist Aesthetic"
+    ],
+    "difficulty": "Beginner",
+    "slug": "pastel-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
