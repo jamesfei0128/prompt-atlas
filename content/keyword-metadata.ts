@@ -13671,5 +13671,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Soft Shadow Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Soft Shadow Lighting: Enhance Realism with Gentle Shadows",
+    "metaDescription": "Discover how soft shadow lighting transforms AI-generated images with smooth, diffused shadows for natural, premium visuals. Perfect for beginners in AI art.",
+    "heroImage": {
+      "src": "/images/keywords/soft-shadow-lighting.png",
+      "alt": "Portrait of a person illuminated by soft shadow lighting with gentle, diffused shadows enhancing facial features",
+      "title": "Soft Shadow Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Soft shadow lighting is a lighting technique that emphasizes subtle, diffused shadows rather than sharp, well-defined ones. This approach creates a natural, gentle appearance in images, mimicking conditions such as cloudy daylight or filtered indoor lighting. By incorporating soft shadow lighting in your AI prompts, you encourage the generator to produce images with smooth tonal transitions and realistic depth cues, lending a premium and natural feel to the composition. It's especially popular in portrait photography, product visuals, and editorial imagery where harsh shadows might distract or reduce perceived image quality.",
+    "bestUseCases": [
+      "Portraits with flattering, natural facial illumination",
+      "Product photography emphasizing texture and form without harsh shadows",
+      "Editorial images requiring mood softening and premium aesthetics"
+    ],
+    "relatedKeywords": [
+      "diffused lighting",
+      "natural sunlight",
+      "ambient lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-shadow-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Framing With Negative Space",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Framing With Negative Space: Mastering Composition for AI Images",
+    "metaDescription": "Explore framing with negative space to enhance AI image composition. Learn definitions, visual traits, prompt formulas, and industry uses for striking imagery.",
+    "heroImage": {
+      "src": "/images/keywords/framing-with-negative-space.png",
+      "alt": "Portrait of a woman framed by ample negative space with minimalist background and soft natural lighting",
+      "title": "Framing With Negative Space Example Portrait",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Framing with negative space is a powerful compositional tool used in photography, design, and AI-generated art to emphasize the subject by surrounding it with empty or minimal areas. This technique directs viewers' eyes directly to the main element, creating a clean and sophisticated appearance. In AI image generation, including this approach helps produce images with a refined focus, fewer distractions, and a premium aesthetic. It is especially useful for editorial, marketing, and product imagery where clarity and elegance are desired. Adopting negative space framing can elevate visual storytelling by balancing subject prominence with spacious backgrounds, often enhancing emotional tone and artistic quality.",
+    "bestUseCases": [
+      "Product photography and ecommerce images needing clear product focus",
+      "Editorial portraits where subject emphasis and mood matter",
+      "Minimalist advertising creatives highlighting a single element"
+    ],
+    "relatedKeywords": [
+      "Minimalist Composition",
+      "Subject Isolation",
+      "Clean Background"
+    ],
+    "difficulty": "Beginner",
+    "slug": "framing-with-negative-space",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Duotone Gradient Colors",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Duotone Gradient Colors: Enhance AI Image Prompts with Vibrant Dual Hues",
+    "metaDescription": "Learn how to use Duotone Gradient Colors in AI art prompts to create striking dual-color blends for editorial, advertising, and stylish visuals.",
+    "heroImage": {
+      "src": "/images/keywords/duotone-gradient-colors.png",
+      "alt": "Stylish portrait with duotone gradient colors blending cobalt blue and soft pink",
+      "title": "Portrait with Duotone Gradient Colors in Blue and Pink",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Duotone Gradient Colors dramatically influence the mood and style of AI-generated images by overlaying a smooth color gradient between two tones. This technique evokes a contemporary, polished look that can range from bold and striking to soft and subtle depending on the selected colors. It brings depth and emphasis to compositions, commonly used for editorial photography, branding visuals, or creative product imagery. When incorporated thoughtfully into prompts, duotone gradients turn standard images into visually appealing, eye-catching artworks with a professional finish. The effect is ideal for drawing focus and imparting a modern aesthetic to diverse image subjects.",
+    "bestUseCases": [
+      "Editorial portraits for magazines or blogs needing stylish color accentuation",
+      "Advertising banners that require bold, trendy color schemes to catch attention",
+      "Ecommerce product images that benefit from a modern, cohesive color branding"
+    ],
+    "relatedKeywords": [
+      "Color Grading",
+      "Gradient Lighting",
+      "Duotone Portrait"
+    ],
+    "difficulty": "Beginner",
+    "slug": "duotone-gradient-colors",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

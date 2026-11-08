@@ -3635,6 +3635,30 @@
       "generationPrompt": "16:9 photo-realistic scene with pastel color palette featuring soft pink, baby blue, mint green hues, delicate natural lighting, smooth textures, minimal shadows, clean modern design, no text, no logos",
       "category": "Color",
       "keywordSlug": "pastel-color-palette"
+    },
+    {
+      "filename": "soft-shadow-lighting.png",
+      "altText": "Portrait of a person illuminated by soft shadow lighting with gentle, diffused shadows enhancing facial features",
+      "imageTitle": "Soft Shadow Lighting Portrait",
+      "generationPrompt": "16:9 portrait of a person under soft shadow lighting, realistic skin tones, gentle diffused shadows, natural background, premium stock photo style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-shadow-lighting"
+    },
+    {
+      "filename": "framing-with-negative-space.png",
+      "altText": "Portrait of a woman framed by ample negative space with minimalist background and soft natural lighting",
+      "imageTitle": "Framing With Negative Space Example Portrait",
+      "generationPrompt": "16:9 portrait of a woman centered with ample negative space around her, minimalist soft beige background, soft natural lighting, clean composition, realistic skin tones, premium stock photo style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "framing-with-negative-space"
+    },
+    {
+      "filename": "duotone-gradient-colors.png",
+      "altText": "Stylish portrait with duotone gradient colors blending cobalt blue and soft pink",
+      "imageTitle": "Portrait with Duotone Gradient Colors in Blue and Pink",
+      "generationPrompt": "A clean editorial portrait of a woman with duotone gradient colors blending cobalt blue to soft pink, refined lighting, subtle depth, realistic skin texture, premium stock-image quality, no text, no logos, no watermark, 16:9",
+      "category": "Color",
+      "keywordSlug": "duotone-gradient-colors"
     }
   ]
 }

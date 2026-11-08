@@ -3505,27 +3505,27 @@
     "keyword": "Soft Shadow Lighting",
     "slug": "soft-shadow-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-08T16:26:58.694Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Framing With Negative Space",
     "slug": "framing-with-negative-space",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-08T16:27:19.962Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Duotone Gradient Colors",
     "slug": "duotone-gradient-colors",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-08T16:27:41.546Z",
     "source": "openai-discovery"
   },
   {
@@ -4380,6 +4380,357 @@
     "category": "Color",
     "status": "pending",
     "createdAt": "2026-10-17T13:21:40.687Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Hour Lighting",
+    "slug": "golden-hour-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Moody Film Atmosphere",
+    "slug": "moody-film-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Art Style",
+    "slug": "minimalist-art-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vibrant Color Spectrum",
+    "slug": "vibrant-color-spectrum",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Social Media Banner Layout",
+    "slug": "social-media-banner-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Box Lighting Setup",
+    "slug": "soft-box-lighting-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Misty Morning Atmosphere",
+    "slug": "misty-morning-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Leading Lines Composition",
+    "slug": "leading-lines-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Watercolor Painting Style",
+    "slug": "watercolor-painting-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Key Lighting Technique",
+    "slug": "high-key-lighting-technique",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Impressionist Art Style",
+    "slug": "impressionist-art-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Monochrome Color Scheme",
+    "slug": "monochrome-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Packaging Design Visuals",
+    "slug": "product-packaging-design-visuals",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rembrandt Portrait Lighting",
+    "slug": "rembrandt-portrait-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Foggy Landscape Atmosphere",
+    "slug": "foggy-landscape-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Dynamic Diagonal Composition",
+    "slug": "dynamic-diagonal-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flat Design Illustration Style",
+    "slug": "flat-design-illustration-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Worn Wood Texture",
+    "slug": "worn-wood-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "App Landing Screen Layout",
+    "slug": "app-landing-screen-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Ring Light Portrait Lighting",
+    "slug": "ring-light-portrait-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Sunny Outdoor Atmosphere",
+    "slug": "sunny-outdoor-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Expressionist Painting Style",
+    "slug": "expressionist-painting-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Glossy Plastic Texture",
+    "slug": "glossy-plastic-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.423Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Email Marketing Banner Visual",
+    "slug": "email-marketing-banner-visual",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Hard Side Lighting Effect",
+    "slug": "hard-side-lighting-effect",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rainy Urban Atmosphere",
+    "slug": "rainy-urban-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Grid Based Composition Layout",
+    "slug": "grid-based-composition-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pop Art Graphic Style",
+    "slug": "pop-art-graphic-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Earth Tone Palette",
+    "slug": "earth-tone-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Product Catalog Page Design",
+    "slug": "product-catalog-page-design",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Studio Strobe Lighting Setup",
+    "slug": "studio-strobe-lighting-setup",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Golden Sunset Atmosphere",
+    "slug": "golden-sunset-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Negative Space Composition",
+    "slug": "negative-space-composition",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cubist Art Style",
+    "slug": "cubist-art-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Muted Warm Color Scheme",
+    "slug": "muted-warm-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Silk Fabric Texture",
+    "slug": "silk-fabric-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Event Promotion Visual Layout",
+    "slug": "event-promotion-visual-layout",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Ambient Lighting",
+    "slug": "soft-ambient-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Winter Snow Atmosphere",
+    "slug": "winter-snow-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-08T16:26:35.424Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }
