@@ -13761,5 +13761,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Rough Concrete Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rough Concrete Texture: Definition and AI Prompt Guide",
+    "metaDescription": "Explore how to use 'Rough Concrete Texture' in AI image prompts for realistic, tactile surfaces. Learn visual traits, formulas, and creative tips.",
+    "heroImage": {
+      "src": "/images/keywords/rough-concrete-texture.png",
+      "alt": "Close-up image of rough concrete texture showing granular surface and cracks under natural light",
+      "title": "Rough Concrete Texture Surface",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Rough Concrete Texture' keyword enriches AI image prompts by introducing the tactile quality and imperfect finishes typical of raw concrete. By specifying it, the generated images gain authentic gritty surface details, elevations, tiny fissures, and granularity that evoke industrial or architectural realism. This texture is often highlighted in close-up material shots or urban environments. It differs from smooth concrete textures by emphasizing natural wear and surface variation, aiding designers and creatives who want to portray rugged, utilitarian aesthetics.",
+    "bestUseCases": [
+      "Architectural visualizations showcasing industrial or brutalist designs",
+      "Background texture for graphic design or 3D environment texturing",
+      "High-detail close-ups for material studies or product mockups"
+    ],
+    "relatedKeywords": [
+      "Concrete Wall Texture",
+      "Brutalist Architecture",
+      "Urban Decay Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "rough-concrete-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Brand Logo Presentation",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Brand Logo Presentation AI Image Prompts",
+    "metaDescription": "Discover how to craft compelling brand logo presentation images using AI with modern, polished visuals ideal for commercial use and design showcases.",
+    "heroImage": {
+      "src": "/images/keywords/brand-logo-presentation.png",
+      "alt": "High-quality brand logo presentation with subtle lighting on a minimalist background",
+      "title": "Brand Logo Presentation Mockup",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Using 'Brand Logo Presentation' in AI prompts helps designers and marketers create images that highlight logos in a sophisticated manner. These visuals typically feature the logo isolated or on simple mockup devices, such as business cards, signage, or digital screens, with an emphasis on realism and modern aesthetics. The style is consistent with premium stock imagery, offering a clean editorial feel without extraneous elements like text or watermarks. This approach ensures the logo remains the focal point, supporting brand storytelling in presentations, portfolios, or marketing content.",
+    "bestUseCases": [
+      "Design portfolios showcasing logo concepts.",
+      "Client presentations to demonstrate branding options.",
+      "Marketing materials requiring polished logo visuals."
+    ],
+    "relatedKeywords": [
+      "Logo Mockup",
+      "Corporate Branding",
+      "Product Packaging"
+    ],
+    "difficulty": "Beginner",
+    "slug": "brand-logo-presentation",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Natural Window Light Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Natural Window Light Setup for Stunning AI Image Lighting",
+    "metaDescription": "Master the natural window light setup in AI image prompts to create realistic, soft, and premium lighting effects perfect for editorial and commercial visuals.",
+    "heroImage": {
+      "src": "/images/keywords/natural-window-light-setup.png",
+      "alt": "Portrait of a person illuminated by soft natural window light creating gentle shadows and a warm glow",
+      "title": "Natural Window Light Setup in Portrait Photography",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "In AI-generated imagery, replicating natural window light setup brings a sophisticated and comforting atmosphere to scenes, leveraging the qualities of sunlight filtered through windows. This lighting style is prized for its soft shadows and realistic tonal range, which enhance textures and details naturally. By incorporating natural window light into prompts, artists can achieve premium, editorial-quality images that feel both inviting and authentic. This setup is versatile, working well for portraits, interiors, product photography, and lifestyle visuals, delivering a warm yet crisp mood.",
+    "bestUseCases": [
+      "Portrait photography with natural, flattering lighting",
+      "Interior design visuals showing daylight ambience",
+      "Product shots emphasizing soft, evenly distributed illumination"
+    ],
+    "relatedKeywords": [
+      "Soft natural light",
+      "Diffuse daylight interior",
+      "Window lighting portrait"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "natural-window-light-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

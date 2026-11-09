@@ -3659,6 +3659,30 @@
       "generationPrompt": "A clean editorial portrait of a woman with duotone gradient colors blending cobalt blue to soft pink, refined lighting, subtle depth, realistic skin texture, premium stock-image quality, no text, no logos, no watermark, 16:9",
       "category": "Color",
       "keywordSlug": "duotone-gradient-colors"
+    },
+    {
+      "filename": "rough-concrete-texture.png",
+      "altText": "Close-up image of rough concrete texture showing granular surface and cracks under natural light",
+      "imageTitle": "Rough Concrete Texture Surface",
+      "generationPrompt": "16:9 close-up shot of rough concrete texture wall, visible granules and cracks, soft natural lighting, high detail, realistic surface materials, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "rough-concrete-texture"
+    },
+    {
+      "filename": "brand-logo-presentation.png",
+      "altText": "High-quality brand logo presentation with subtle lighting on a minimalist background",
+      "imageTitle": "Brand Logo Presentation Mockup",
+      "generationPrompt": "16:9 aspect ratio, clean minimalist brand logo presentation, soft studio lighting, realistic paper texture, neutral background, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "brand-logo-presentation"
+    },
+    {
+      "filename": "natural-window-light-setup.png",
+      "altText": "Portrait of a person illuminated by soft natural window light creating gentle shadows and a warm glow",
+      "imageTitle": "Natural Window Light Setup in Portrait Photography",
+      "generationPrompt": "16:9 portrait of a person inside a modern room illuminated by soft natural window light, diffused sunlight casting gentle shadows, warm ambient tones, realistic textures, clean editorial style, premium stock image aesthetics, no text, no logos, no watermark",
+      "category": "Lighting",
+      "keywordSlug": "natural-window-light-setup"
     }
   ]
 }
