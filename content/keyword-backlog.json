@@ -3559,27 +3559,27 @@
     "keyword": "Calm Foggy Scene",
     "slug": "calm-foggy-scene",
     "category": "Atmosphere",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-10T17:22:09.441Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Diagonal Rule Composition",
     "slug": "diagonal-rule-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.972Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-10T17:22:36.762Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Neutral Warm Color Palette",
     "slug": "neutral-warm-color-palette",
     "category": "Color",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-08T13:58:40.973Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-10T17:23:07.557Z",
     "source": "openai-discovery"
   },
   {

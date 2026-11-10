@@ -42104,4 +42104,350 @@ export const generatedKeywordSeeds: Keyword[] = [{
       "answer": "Yes, by adding modifiers such as time of day, weather conditions, or window treatments (like sheer curtains), you can tailor the mood from warm and cozy to cool and calm in an AI prompt."
     }
   ]
+  },
+  {
+    title: "Calm Foggy Scene",
+    category: "Atmosphere",
+    published: true,
+    seoTitle: "Calm Foggy Scene: Create Serene Misty Atmospheres",
+    metaDescription: "Discover how to craft calm foggy scenes in AI image prompts with tips for realistic fog, serene mood, and soft lighting, ideal for tranquil landscapes.",
+    heroImage: keywordHero("calm-foggy-scene", "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"),
+    definition: "A 'Calm Foggy Scene' in AI imagery refers to a visual composition where a serene, peaceful atmosphere is created using soft, diffused fog blankets that subtly veil elements. Incorporating this keyword guides AI to generate images evoke tranquility through misty conditions, desaturated colors, and gentle light diffusion, enhancing mood and depth without harsh contrasts or clutter. This changes prompts by emphasizing softness, low visibility, and atmospheric perspective.",
+    visualCharacteristics: [
+    "Soft, layered fog veiling details",
+    "Subtle, muted color palette with grayish tones",
+    "Diffused, low-contrast lighting creating depth"
+  ],
+    overview: "A Calm Foggy Scene keyword introduces a gentle mist that envelops the environment, producing a tranquil and introspective mood. This atmospheric effect softens outlines and colors, often invoking feelings of quietness and serenity. The fog dampens direct light and reduces scene contrast, resulting in layered depth where foreground elements stand out softly against obscured backgrounds. Such scenes commonly feature natural settings like lakesides, forests, or quiet urban mornings, rendered with muted palettes and subtle lighting to emphasize calmness. In AI-generated art, specifying this keyword helps direct the model's focus toward misty ambiance and smooth tonal transitions, making images ideal for contemplative artworks or peaceful environment designs.",
+    whatItDoes: "Including 'Calm Foggy Scene' in AI prompts instructs the model to integrate gentle fog effects that reduce sharpness and contrast for a soothing visual narrative. It enhances atmospheric depth by layering mist that partially obscures distant objects, creating an ethereal and immersive sensation. This keyword also influences light, favoring diffuse and indirect illumination over harsh highlights or shadows, promoting a peaceful scene dynamic. By adding this descriptor, the AI balances detail and obscurity, resulting in images that feel both natural and emotionally evocative. This is especially effective for generating backgrounds or hero visuals where mood-setting and subtle environmental storytelling are critical.",
+    bestUseCases: [
+    "Creating tranquil nature landscapes for wellness or meditation content",
+    "Backgrounds for poetic or introspective editorial designs",
+    "Mood-setting visuals for calm travel and outdoor brand campaigns"
+  ],
+    relatedKeywords: [
+    "Misty Morning",
+    "Soft Atmospheric Light",
+    "Serene Landscape"
+  ],
+    examplePrompt: "a calm foggy scene over a quiet forest lake at dawn, soft muted colors, diffused sunlight filtering through mist",
+    promptExamples: [
+    "a calm foggy scene over a quiet forest lake at dawn, soft muted colors, diffused sunlight filtering through mist",
+    "serene foggy morning in the mountains, gentle layers of mist enveloping pine trees, pastel color palette",
+    "peaceful urban park with calm fog, blurred distant buildings, subdued light, natural and tranquil atmosphere"
+  ],
+    commercialApplications: [
+    "Background images for wellness app interfaces focusing on relaxation",
+    "Advertising visuals for spa and holistic health centers",
+    "Stock photos for calm lifestyle and nature-related marketing materials"
+  ],
+    adobeStockPotential: "Calm foggy scenes have strong potential in stock photography markets due to their broad appeal in wellness, travel, and editorial sectors. These images often serve as versatile backdrops or mood enhancers in commercial projects, presenting peaceful environments that fit various themes from mindfulness to nature exploration. Their subtlety and softness appeal to designers seeking to evoke calm without overpowering other design elements, making them repeat purchases for uses in websites, print layouts, and digital products.",
+    difficulty: "Intermediate",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "A Calm Foggy Scene adds a peaceful, mist-shrouded atmosphere to an AI-generated image. It signals the model to include gentle fog effects with low visibility, softened outlines, and muted color tones that create a tranquil, atmospheric mood. This keyword directs AI to prioritize subtle light diffusion and atmospheric depth over sharp detail, shifting the composition to feel quiet and introspective."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To craft a calm foggy scene prompt, combine atmospheric descriptors with environmental elements and mood cues. Example formula:  [time of day] + calm foggy scene + [environment type] + soft diffused lighting + muted color palette + serene mood. Variations include adding specific weather conditions or desired color tones. Ensure to describe fog density and lighting softness explicitly for best results.",
+      "items": [
+        "[Time of day] (dawn, morning, dusk)",
+        "Calm foggy scene",
+        "Environment (forest, lake, urban park)",
+        "Soft diffused lighting",
+        "Muted, pastel or desaturated colors"
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Tranquil nature landscapes used in meditation or wellness content",
+        "Backgrounds for poetic or introspective editorial design projects",
+        "Visuals for calm travel and outdoor brand marketing campaigns"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "Common errors when prompting for calm foggy scenes include overusing fog density, resulting in obscured or featureless images that lack focal points. Another mistake is neglecting light direction, which can cause flat or unnatural compositions. Using overly saturated colors or high contrast can break the intended calm, misty mood. Avoid generic descriptions lacking atmospheric details, as this yields unrealistic or bland fog effects. A clear balance between fog thickness, lighting, and color saturation is essential for an authentic calm foggy scene.",
+      "items": [
+        "Excessive fog density hiding all details",
+        "Ignoring light source and shadows leading to flatness",
+        "Using saturated or bright colors that conflict with fog's muted nature",
+        "Lack of specificity causing generic and unrealistic foggy visuals"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "For refined calm foggy scenes, integrate layered fog densities to create depth, such as a heavier mist in the background with lighter veil in the foreground. Combine subtle warm or cool light tints to enhance mood and time of day. Add focal elements with sharper detail just ahead of the fog layers to anchor composition. Experiment with volumetric lighting effects inside the mist, enhancing softness without losing spatial definition. Precise prompt constraints on fog thickness, color temperature, and depth cues can elevate imagery from simple to sophisticated.",
+      "items": [
+        "Use layered fog to build depth (foreground light fog, deeper background haze)",
+        "Incorporate gentle warm or cool light tints to convey mood",
+        "Highlight key elements with sharper focus near the viewer",
+        "Employ volumetric lighting to add subtle light shafts and softness",
+        "Specify fog density and color temperature clearly in prompts"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "Begin by defining the concept: decide the scene’s environment, time of day, and mood aligned with calm foggy aesthetics. Construct a detailed prompt using the formula with attention to fog characteristics and lighting nuances. Generate multiple variations to capture different fog densities and light conditions. Review outputs for realism, mood, and composition balance. Select the most compelling results and refine if needed by adjusting prompt specificity or using iterative image-to-image techniques. Finalize by enhancing colors or contrast subtly in post-production to maintain calmness without losing atmospheric quality.",
+      "items": [
+        "Concept definition: environment, mood, time of day",
+        "Detailed prompt writing with fog density and lighting descriptions",
+        "Generate multiple image variations",
+        "Review and select based on atmosphere and clarity",
+        "Refine prompts or perform iterative generation as needed"
+      ]
+    },
+    {
+      "type": "relatedStyles",
+      "title": "Related Styles",
+      "body": "Calm foggy scenes are stylistically compatible with Soft Atmospheric Light for gentle illumination and Serene Landscape for tranquil settings. Adjacent keywords include Misty Morning for early day fog effects and Diffused Natural Lighting for subtle light interactions. These styles emphasize low contrast, muted colors, and peaceful moods. Integrating them can enrich calm foggy compositions, offering layered atmospheric nuances or focused environmental storytelling.",
+      "items": [
+        "Soft Atmospheric Light",
+        "Serene Landscape",
+        "Misty Morning"
+      ]
+    },
+    {
+      "type": "modelSpecificTips",
+      "title": "Model-Specific Tips",
+      "body": "When using modern AI image models, emphasize descriptive adjectives for fog qualities like 'soft,' 'layered,' or 'diffused' over abstract terms. Avoid complex or ambiguous synonyms to maintain consistent fog representation. Balance the fog description with lighting cues to prevent flat results — specify time of day or light source when possible. Using simple, clear prompt structures helps models interpret foggy scenes reliably across platforms. If available, include negative keywords to reduce unwanted haze that obscures main subjects.",
+      "items": [
+        "Use clear, descriptive adjectives for fog and lighting",
+        "Specify time of day or light source to contextualize fog",
+        "Maintain simple prompt structures for consistent results",
+        "Include negative keywords to control excessive haze"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How can I make the fog look natural and not overpowering in AI images?",
+      "answer": "Control fog density by specifying terms like 'light mist' or 'soft fog' in your prompt, and balance it with sharper foreground elements. Including lighting conditions such as 'diffused sunlight' helps keep the fog subtle and realistic."
+    },
+    {
+      "question": "What environments work best for calm foggy scenes?",
+      "answer": "Natural settings like lakes, forests, meadows, or quiet urban parks during early morning or dusk create ideal backdrops. Avoid overly busy environments to maintain serenity and clarity."
+    }
+  ]
+  },
+  {
+    title: "Diagonal Rule Composition",
+    category: "Composition",
+    published: true,
+    seoTitle: "Diagonal Rule Composition in AI Image Prompts",
+    metaDescription: "Explore Diagonal Rule Composition to create dynamic and balanced AI-generated images. Learn definitions, prompt formulas, best use cases, and common mistakes.",
+    heroImage: keywordHero("diagonal-rule-composition", "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"),
+    definition: "Diagonal Rule Composition is a design technique that guides how elements in an image are arranged along diagonal lines, creating dynamic movement and balance. In AI image prompts, specifying \"diagonal composition\" encourages the generation of visuals with strong diagonal alignments, adding energy and depth compared to static horizontal or vertical layouts.",
+    visualCharacteristics: [
+    "Strong leading diagonal lines directing viewer's eye",
+    "Dynamic and asymmetric balance of elements",
+    "Sense of motion or tension within the frame"
+  ],
+    overview: "Diagonal Rule Composition enhances visual storytelling by strategically placing subjects or elements along diagonal lines running from corner to corner or side to side. This method leads the viewer’s eye through the image, evoking movement, drama, or tension. In AI image generation, applying this rule results in more engaging and dynamic scenes rather than static or overly symmetrical outputs. It is especially useful in photography, digital art, and design to break monotony and add interest. Incorporating instructions for diagonal composition in prompts helps AI models prioritize these arrangements, improving overall aesthetic impact.",
+    whatItDoes: "When an AI prompt includes references to diagonal rule composition, the AI prioritizes arranging focal subjects or lines along diagonal axes instead of horizontal or vertical layouts. This imparts a sense of depth and dynamism while maintaining compositional balance through careful placement of elements. The diagonal lines serve as visual pathways leading the viewer's eye across the image. The result is images that feel more energetic, dramatic, and appealing. Such prompts often yield works that look professionally composed and visually stimulating without seeming cluttered or chaotic.",
+    bestUseCases: [
+    "Dynamic sports action shots with diagonal motion lines",
+    "Architectural photography emphasizing angled building elements",
+    "Creative portraits featuring subjects posed along diagonal planes"
+  ],
+    relatedKeywords: [
+    "Leading Lines Composition",
+    "Golden Ratio Composition",
+    "Rule of Thirds Composition"
+  ],
+    examplePrompt: "\"A dramatic portrait of a woman posed with body angled diagonally, soft lighting, blurred background, diagonal rule composition\"",
+    promptExamples: [
+    "\"A dramatic portrait of a woman posed with body angled diagonally, soft lighting, blurred background, diagonal rule composition\"",
+    "\"Modern city skyline at sunset with strong diagonal leading lines, vibrant colors, clean style, diagonal rule composition\"",
+    "\"Athlete mid-jump captured with motion blur along a diagonal path, high contrast, sportswear branding, diagonal rule composition\""
+  ],
+    commercialApplications: [
+    "Advertising campaigns emphasizing energy and movement",
+    "Editorial photography enhancing story tension and focus",
+    "E-commerce product photos with dynamic and engaging layouts"
+  ],
+    adobeStockPotential: "Images featuring diagonal rule composition have high commercial value on stock platforms like Adobe Stock because they naturally attract viewers' attention and convey professionalism. Their dynamic arrangement makes them ideal for commercial use in marketing, editorial spreads, and website hero images. Buyers often seek such compositions for impactful visuals that stand out in crowded media and advertising spaces. Properly tagged diagonal composition images can rank well in searches for dynamic and modern compositions, increasing licensing opportunities.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "Diagonal Rule Composition involves arranging elements along diagonal lines within the frame to create dynamic flow and balance. In AI prompts, it instructs the model to favor compositions that lead the eye diagonally across the image, enhancing energy and visual interest.",
+      "items": [
+        "Arranges key elements along diagonal axes",
+        "Creates movement and tension",
+        "Balances asymmetry dynamically"
+      ]
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "To evoke diagonal rule composition in AI prompts, include explicit keywords around diagonal lines, angles, and dynamic balance. Combine these with subject descriptions and environment details.",
+      "items": [
+        "\"diagonal composition\"",
+        "\"strong leading diagonal lines\"",
+        "\"elements arranged along a diagonal\"",
+        "\"dynamic asymmetrical balance\"",
+        "\"movement along diagonal axis\""
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "body": "Diagonal rule composition excels when capturing scenes requiring motion, energy, and engagement. It suits scenarios where the visual flow needs to guide the viewer dynamically.",
+      "items": [
+        "Sports action imagery with dynamic motion",
+        "Architectural shots emphasizing angled forms",
+        "Creative portraits with asymmetrical posing"
+      ]
+    },
+    {
+      "type": "creativeVariations",
+      "title": "Creative Variations",
+      "body": "Experimenting with the diagonal composition can involve playing with color schemes, subject placement, lighting direction, and stylistic elements to keep outputs fresh and avoid repetition.",
+      "items": [
+        "Warm vs. cool color palettes",
+        "Daylight vs. dramatic artificial lighting",
+        "Foreground or background emphasis along diagonal",
+        "Minimalist vs. complex element arrangements"
+      ]
+    },
+    {
+      "type": "industryApplications",
+      "title": "Industry Applications",
+      "body": "The diagonal rule composition is widely used across industries seeking striking, professional imagery that commands attention and conveys motion or tension.",
+      "items": [
+        "Advertising campaigns to emphasize product dynamism",
+        "Editorial photo spreads with narrative flow",
+        "E-commerce images that visually engage viewers"
+      ]
+    },
+    {
+      "type": "commonMistakes",
+      "title": "Common Mistakes",
+      "body": "Common pitfalls include overusing diagonal lines causing visual chaos, ignoring balance leading to awkward asymmetry, or vague prompts that don't clearly instruct diagonal composition.",
+      "items": [
+        "Confusing cluttered diagonal elements with planned lines",
+        "Neglecting composition balance leading to discomfort",
+        "Omitting clear directional keywords in prompts"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "How do I instruct an AI to use diagonal rule composition?",
+      "answer": "Include clear keywords like \"diagonal composition,\" \"leading diagonal lines,\" or \"elements arranged along a diagonal\" in your prompt to guide the AI toward this arrangement."
+    },
+    {
+      "question": "Why is diagonal rule composition effective?",
+      "answer": "It creates dynamic movement and visual interest by leading the viewer’s eye across the image diagonally, breaking monotony of horizontal or vertical layouts."
+    }
+  ]
+  },
+  {
+    title: "Neutral Warm Color Palette",
+    category: "Color",
+    published: true,
+    seoTitle: "Neutral Warm Color Palette: Definition and Use in AI Image Prompts",
+    metaDescription: "Discover the Neutral Warm Color Palette to enhance AI image prompts with subtle warmth and balance, perfect for natural and elegant designs.",
+    heroImage: keywordHero("neutral-warm-color-palette", "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"),
+    definition: "The Neutral Warm Color Palette refers to a selection of colors combining neutral tones like beige, taupe, and cream with warm undertones such as soft browns, warm grays, and muted oranges. In AI image prompts, specifying a Neutral Warm Color Palette shifts the generated visuals towards warm, subtle, and harmonious hues that evoke comfort and natural elegance, enhancing realism and mood balance.",
+    visualCharacteristics: [
+    "Soft beige and cream backgrounds",
+    "Warm browns and muted oranges",
+    "Balanced, natural warmth with subtle contrast"
+  ],
+    overview: "Utilizing a Neutral Warm Color Palette in AI image generation brings a uniquely inviting and balanced aesthetic to your visuals. This palette harmonizes warm and neutral hues to create scenes that feel natural, comforting, and elegant, making it ideal for interior design mockups, lifestyle photography, and product presentations. The warmth is gentle and subtle rather than overpowering, helping to maintain a clean, modern look while adding emotional depth and coziness. By incorporating this palette, designers and creatives can produce images that resonate emotionally while retaining a versatile and professional appeal.",
+    whatItDoes: "Including the Neutral Warm Color Palette in AI prompts guides the model to render images with a softly warm and neutral tone range. This affects the mood by introducing subtle warmth that energizes yet calms, creating inviting and realistic visuals. It balances color elements so dominant warm shades do not overshadow the composition, preserving a sophisticated and clean style. This palette enhances natural material textures like wood, leather, or linen, promoting a tactile sense of realism that digital images often lack. Overall, it delivers a harmonious visual experience suitable for a wide array of design contexts.",
+    bestUseCases: [
+    "Interior design visualizations seeking cozy yet modern aesthetics",
+    "Fashion and lifestyle imagery with a natural and approachable feel",
+    "Product photography emphasizing organic or artisanal qualities"
+  ],
+    relatedKeywords: [
+    "Warm Earth Tones",
+    "Soft Neutral Colors",
+    "Muted Warm Palette"
+  ],
+    examplePrompt: "\"Interior living room with Neutral Warm Color Palette, soft beige walls, warm wood furniture, natural lighting, minimalist style\"",
+    promptExamples: [
+    "\"Interior living room with Neutral Warm Color Palette, soft beige walls, warm wood furniture, natural lighting, minimalist style\"",
+    "\"Fashion portrait using Neutral Warm Color Palette, earth tone clothing, warm highlights, gentle shadows, studio backdrop\"",
+    "\"Product shot of handcrafted leather bag, Neutral Warm Color Palette, warm taupe background, soft natural light\""
+  ],
+    commercialApplications: [
+    "Home decor branding and marketing materials",
+    "Fashion catalogs and lifestyle advertisements",
+    "E-commerce product photography with natural branding"
+  ],
+    adobeStockPotential: "The Neutral Warm Color Palette holds strong potential for Adobe Stock contributors as it aligns with trending design aesthetics focused on natural, warm, and sophisticated visuals. Many commercial clients seek images that feel authentic and inviting without being over-saturated or artificial. This palette suits a broad variety of sectors including interior design, fashion, and lifestyle, increasing marketability. Images using this palette often stand out with a timeless quality, appealing to premium buyers looking for subtle emotional resonance in their visuals. Stock images with consistent neutral warm tones can cover diverse commercial needs, improving usability and sales potential.",
+    difficulty: "Beginner",
+    articleSections: [
+    {
+      "type": "definition",
+      "title": "Definition",
+      "body": "The Neutral Warm Color Palette represents a curated range of colors combining neutral shades — like beige, cream, taupe — with warm nuances such as soft browns and muted oranges. When used in AI image prompts, it directs the model to produce images characterized by subtle warmth and balanced tones. This shift creates a comforting yet elegant atmosphere in the output, ideal for realistic and professional-looking visuals. Beginners can leverage this keyword to achieve natural warmth without overwhelming brightness or saturation."
+    },
+    {
+      "type": "promptFormula",
+      "title": "Prompt Formula",
+      "body": "Constructing AI prompts with the Neutral Warm Color Palette involves blending descriptions of color tones with environment and material details for clarity. Use patterns such as:\n- \"[Subject] with Neutral Warm Color Palette, warm beige background, soft brown accents, natural lighting\"\n- \"[Setting] featuring muted warm tones, taupe walls, subtle orange highlights, cozy atmosphere\"\n- \"[Product] in warm neutral colors, cream and brown textures, soft shadows\"\nThese formulas help consistently evoke the palette's soothing and balanced essence.",
+      "items": [
+        "\"[Subject] with Neutral Warm Color Palette, warm beige background, soft brown accents, natural lighting\"",
+        "\"[Setting] featuring muted warm tones, taupe walls, subtle orange highlights, cozy atmosphere\"",
+        "\"[Product] in warm neutral colors, cream and brown textures, soft shadows\""
+      ]
+    },
+    {
+      "type": "bestUseCases",
+      "title": "Best Use Cases",
+      "items": [
+        "Interior design visualizations seeking cozy yet modern aesthetics",
+        "Fashion and lifestyle imagery with a natural and approachable feel",
+        "Product photography emphasizing organic or artisanal qualities"
+      ]
+    },
+    {
+      "type": "advancedTechniques",
+      "title": "Advanced Techniques",
+      "body": "To finely tune AI generation with the Neutral Warm Color Palette, combine precise color temperature descriptors with material and lighting constraints. For example, specify \"warm golden hour light\" to enhance natural warmth or \"matte textures\" to prevent glossy reflections that can conflict with the subtle tones. Use negative prompts to exclude overly vibrant colors that detract from neutrality. Layer this palette with style references to mid-century modern or Scandinavian design to yield images with coherent mood and theme. Additionally, experiment with varying saturation levels to balance warmth and neutrality for the intended emotional impact.",
+      "items": [
+        "Combine with \"warm golden hour light\" for natural warmth",
+        "Use \"matte textures\" to keep subtle tones consistent",
+        "Apply negative prompts to exclude bright or saturated colors",
+        "Incorporate style cues like mid-century modern or Scandinavian design",
+        "Adjust saturation to fine-tune warmth versus neutrality"
+      ]
+    },
+    {
+      "type": "professionalWorkflow",
+      "title": "Professional Workflow",
+      "body": "A streamlined workflow for applying the Neutral Warm Color Palette begins with a clear briefing that defines the subject, mood, and color specifications emphasizing warm neutrals. Use targeted prompts based on established formulas to generate initial images. Evaluate outputs focusing on tone consistency, lighting harmony, and material realism. Select promising candidates and refine prompts by adding or adjusting constraints such as light direction, texture, or additional color balance. Repeat generation and selection until visual goals are met. Finally, post-process images minimally to preserve the natural warmth and neutral balance, ensuring professional-ready results suitable for client delivery or stock submission.",
+      "items": [
+        "Define subject and mood emphasizing warm neutrals",
+        "Use formula-based prompts for consistent color tone",
+        "Evaluate generated images for tone and lighting harmony",
+        "Refine prompts with additional constraints and details",
+        "Perform minimal post-processing to retain palette integrity"
+      ]
+    }
+  ],
+    faqs: [
+    {
+      "question": "What colors are included in a Neutral Warm Color Palette?",
+      "answer": "It generally includes beige, cream, taupe, soft browns, warm grays, and muted oranges—all combining neutral and warm tones for subtle warmth."
+    },
+    {
+      "question": "How do I use the Neutral Warm Color Palette keyword in AI prompts?",
+      "answer": "Incorporate it by specifying the palette alongside descriptions of lighting and materials to guide the AI towards warm, neutral color schemes that evoke a cozy and natural mood."
+    }
+  ]
   }];

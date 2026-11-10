@@ -3683,6 +3683,30 @@
       "generationPrompt": "16:9 portrait of a person inside a modern room illuminated by soft natural window light, diffused sunlight casting gentle shadows, warm ambient tones, realistic textures, clean editorial style, premium stock image aesthetics, no text, no logos, no watermark",
       "category": "Lighting",
       "keywordSlug": "natural-window-light-setup"
+    },
+    {
+      "filename": "calm-foggy-scene.png",
+      "altText": "Calm foggy landscape with soft mist over a tranquil lake at dawn under diffused light",
+      "imageTitle": "Calm Foggy Scene at Dawn with Soft Mist",
+      "generationPrompt": "16:9 serene calm foggy scene at dawn over a peaceful lake, soft diffused sunlight filtering through mist, muted pastel colors, gentle layered fog veiling distant trees, natural and tranquil atmosphere, clean composition, realistic materials, no text, no logos, no watermark",
+      "category": "Atmosphere",
+      "keywordSlug": "calm-foggy-scene"
+    },
+    {
+      "filename": "diagonal-rule-composition.png",
+      "altText": "Abstract cityscape with strong diagonal lines creating dynamic composition and visual depth",
+      "imageTitle": "Diagonal Rule Composition in Modern Cityscape",
+      "generationPrompt": "A modern city skyline with prominent diagonal leading lines, dynamic lighting at sunset, high resolution, realistic materials, subtle depth, clean editorial style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "diagonal-rule-composition"
+    },
+    {
+      "filename": "neutral-warm-color-palette.png",
+      "altText": "Modern interior space showcasing a neutral warm color palette with soft beige walls, warm wood accents, and natural light.",
+      "imageTitle": "Interior design with Neutral Warm Color Palette",
+      "generationPrompt": "16:9 ultra-realistic interior design room lit by warm natural light, featuring a neutral warm color palette of beige walls, taupe furniture, warm wood flooring, soft shadows, clean modern composition, premium stock quality, no text or logos",
+      "category": "Color",
+      "keywordSlug": "neutral-warm-color-palette"
     }
   ]
 }

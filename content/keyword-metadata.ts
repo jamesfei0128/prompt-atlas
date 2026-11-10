@@ -13851,5 +13851,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Calm Foggy Scene",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Calm Foggy Scene: Create Serene Misty Atmospheres",
+    "metaDescription": "Discover how to craft calm foggy scenes in AI image prompts with tips for realistic fog, serene mood, and soft lighting, ideal for tranquil landscapes.",
+    "heroImage": {
+      "src": "/images/keywords/calm-foggy-scene.png",
+      "alt": "Calm foggy landscape with soft mist over a tranquil lake at dawn under diffused light",
+      "title": "Calm Foggy Scene at Dawn with Soft Mist",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "A Calm Foggy Scene keyword introduces a gentle mist that envelops the environment, producing a tranquil and introspective mood. This atmospheric effect softens outlines and colors, often invoking feelings of quietness and serenity. The fog dampens direct light and reduces scene contrast, resulting in layered depth where foreground elements stand out softly against obscured backgrounds. Such scenes commonly feature natural settings like lakesides, forests, or quiet urban mornings, rendered with muted palettes and subtle lighting to emphasize calmness. In AI-generated art, specifying this keyword helps direct the model's focus toward misty ambiance and smooth tonal transitions, making images ideal for contemplative artworks or peaceful environment designs.",
+    "bestUseCases": [
+      "Creating tranquil nature landscapes for wellness or meditation content",
+      "Backgrounds for poetic or introspective editorial designs",
+      "Mood-setting visuals for calm travel and outdoor brand campaigns"
+    ],
+    "relatedKeywords": [
+      "Misty Morning",
+      "Soft Atmospheric Light",
+      "Serene Landscape"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "calm-foggy-scene",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Diagonal Rule Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Diagonal Rule Composition in AI Image Prompts",
+    "metaDescription": "Explore Diagonal Rule Composition to create dynamic and balanced AI-generated images. Learn definitions, prompt formulas, best use cases, and common mistakes.",
+    "heroImage": {
+      "src": "/images/keywords/diagonal-rule-composition.png",
+      "alt": "Abstract cityscape with strong diagonal lines creating dynamic composition and visual depth",
+      "title": "Diagonal Rule Composition in Modern Cityscape",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Diagonal Rule Composition enhances visual storytelling by strategically placing subjects or elements along diagonal lines running from corner to corner or side to side. This method leads the viewer’s eye through the image, evoking movement, drama, or tension. In AI image generation, applying this rule results in more engaging and dynamic scenes rather than static or overly symmetrical outputs. It is especially useful in photography, digital art, and design to break monotony and add interest. Incorporating instructions for diagonal composition in prompts helps AI models prioritize these arrangements, improving overall aesthetic impact.",
+    "bestUseCases": [
+      "Dynamic sports action shots with diagonal motion lines",
+      "Architectural photography emphasizing angled building elements",
+      "Creative portraits featuring subjects posed along diagonal planes"
+    ],
+    "relatedKeywords": [
+      "Leading Lines Composition",
+      "Golden Ratio Composition",
+      "Rule of Thirds Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "diagonal-rule-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Neutral Warm Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Neutral Warm Color Palette: Definition and Use in AI Image Prompts",
+    "metaDescription": "Discover the Neutral Warm Color Palette to enhance AI image prompts with subtle warmth and balance, perfect for natural and elegant designs.",
+    "heroImage": {
+      "src": "/images/keywords/neutral-warm-color-palette.png",
+      "alt": "Modern interior space showcasing a neutral warm color palette with soft beige walls, warm wood accents, and natural light.",
+      "title": "Interior design with Neutral Warm Color Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Utilizing a Neutral Warm Color Palette in AI image generation brings a uniquely inviting and balanced aesthetic to your visuals. This palette harmonizes warm and neutral hues to create scenes that feel natural, comforting, and elegant, making it ideal for interior design mockups, lifestyle photography, and product presentations. The warmth is gentle and subtle rather than overpowering, helping to maintain a clean, modern look while adding emotional depth and coziness. By incorporating this palette, designers and creatives can produce images that resonate emotionally while retaining a versatile and professional appeal.",
+    "bestUseCases": [
+      "Interior design visualizations seeking cozy yet modern aesthetics",
+      "Fashion and lifestyle imagery with a natural and approachable feel",
+      "Product photography emphasizing organic or artisanal qualities"
+    ],
+    "relatedKeywords": [
+      "Warm Earth Tones",
+      "Soft Neutral Colors",
+      "Muted Warm Palette"
+    ],
+    "difficulty": "Beginner",
+    "slug": "neutral-warm-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
