@@ -13941,5 +13941,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Leather Surface Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Leather Surface Texture: Realistic AI Image Prompt Guide",
+    "metaDescription": "Master leather surface texture prompts for AI image generation with clear definitions, formulas, use cases, and industry insights.",
+    "heroImage": {
+      "src": "/images/keywords/leather-surface-texture.png",
+      "alt": "Close-up of realistic brown leather surface texture showing fine grain and subtle wrinkles under soft lighting",
+      "title": "Realistic Leather Surface Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Leather surface texture is a pivotal element in AI-generated images that demand realism and material authenticity. It embodies the intricate details and characteristics of leather, including unique grain patterns, pores, and natural wear marks. Incorporating leather texture in AI prompts helps produce images where materials feel tangible, enhancing the overall visual experience. This texture varies between different types of leather, such as smooth, pebbled, or distressed, which further enriches creative expression. Mastery of leather surface texture prompts elevates renderings in fashion, interior design, product visualization, and advertising by visually communicating quality and style.",
+    "bestUseCases": [
+      "Product mockups featuring leather goods such as wallets, bags, or shoes.",
+      "Interior design visualizations highlighting leather furniture and upholstery.",
+      "Fashion editorial images showcasing leather clothing with texture emphasis."
+    ],
+    "relatedKeywords": [
+      "Grainy Leather Texture",
+      "Distressed Leather Surface",
+      "Smooth Leather Finish"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "leather-surface-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Magazine Cover Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Magazine Cover Layout: Crafting Premium Editorial Designs",
+    "metaDescription": "Discover how to create stunning magazine cover layouts with AI prompts. Learn key traits, formulas, use cases, and industry tips for professional editorial design.",
+    "heroImage": {
+      "src": "/images/keywords/magazine-cover-layout.png",
+      "alt": "Magazine cover layout featuring polished editorial composition with a confident woman as the focal point and soft natural lighting",
+      "title": "Polished Magazine Cover Layout Editorial Image",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Magazine cover layouts are essential in visual communication, providing the first impression of a publication. In AI-generated images, this keyword prompts the model to create highly structured, eye-catching compositions that mimic professional magazine covers. These feature a clear central figure or object, meticulous spatial arrangement, and refined lighting to emulate editorial polish. By integrating this keyword, creators can generate images suitable for hero visuals on editorial websites or high-end social media posts. It ensures a versatile yet sophisticated style that balances artistic flair and commercial appeal without using actual text or logos.",
+    "bestUseCases": [
+      "Editorial hero images for online articles or blog posts",
+      "Mockups for publishing design portfolios and presentations",
+      "Social media thumbnails requiring polished and appealing visual storytelling"
+    ],
+    "relatedKeywords": [
+      "Editorial Portrait",
+      "Clean Composition",
+      "Premium Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "magazine-cover-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Rembrandt Lighting Setup",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Rembrandt Lighting Setup: Mastering Dramatic Portrait Illumination",
+    "metaDescription": "Discover Rembrandt Lighting Setup for AI images: definition, uses, prompt formulas, and industry applications to create stunning, moody portraits with refined lighting.",
+    "heroImage": {
+      "src": "/images/keywords/rembrandt-lighting-setup.png",
+      "alt": "Portrait of a woman illuminated using Rembrandt Lighting Setup with a triangle of light on the cheek",
+      "title": "Rembrandt Lighting Portrait Sample",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Rembrandt Lighting Setup is one of the most renowned lighting techniques used in portrait photography and classical painting. It is characterized by a distinct triangle of light on the subject's cheek opposite from the main light source. This lighting style creates a dramatic yet natural look, enhancing facial features with a balanced interplay of light and shadow. When incorporated into AI image prompts, specifying a Rembrandt Lighting Setup helps the model generate portraits with dynamic three-dimensionality and mood, mimicking the warmth and depth achieved via professional studio lighting.",
+    "bestUseCases": [
+      "Creating dramatic and moody portrait photography",
+      "Artistic still-life compositions that emphasize shape and form",
+      "Editorial images requiring classic and cinematic lighting styles"
+    ],
+    "relatedKeywords": [
+      "Chiaroscuro Lighting",
+      "Butterfly Lighting",
+      "Loop Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rembrandt-lighting-setup",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

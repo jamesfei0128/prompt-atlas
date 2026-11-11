@@ -3707,6 +3707,30 @@
       "generationPrompt": "16:9 ultra-realistic interior design room lit by warm natural light, featuring a neutral warm color palette of beige walls, taupe furniture, warm wood flooring, soft shadows, clean modern composition, premium stock quality, no text or logos",
       "category": "Color",
       "keywordSlug": "neutral-warm-color-palette"
+    },
+    {
+      "filename": "leather-surface-texture.png",
+      "altText": "Close-up of realistic brown leather surface texture showing fine grain and subtle wrinkles under soft lighting",
+      "imageTitle": "Realistic Leather Surface Texture Close-up",
+      "generationPrompt": "16:9 close-up of detailed brown leather surface texture with natural grain and subtle wrinkles illuminated by soft diffuse lighting, clean background, photo-realistic, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "leather-surface-texture"
+    },
+    {
+      "filename": "magazine-cover-layout.png",
+      "altText": "Magazine cover layout featuring polished editorial composition with a confident woman as the focal point and soft natural lighting",
+      "imageTitle": "Polished Magazine Cover Layout Editorial Image",
+      "generationPrompt": "16:9 portrait of confident businesswoman on a magazine cover layout, soft natural lighting, clean background, subtle shadows, realistic texture, high resolution, editorial style, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "magazine-cover-layout"
+    },
+    {
+      "filename": "rembrandt-lighting-setup.png",
+      "altText": "Portrait of a woman illuminated using Rembrandt Lighting Setup with a triangle of light on the cheek",
+      "imageTitle": "Rembrandt Lighting Portrait Sample",
+      "generationPrompt": "A photorealistic portrait of a woman with Rembrandt lighting setup, featuring a distinct triangle of light on the shadowed cheek, dramatic shadows, soft, natural skin textures, refined lighting, clean composition, 16:9 ratio, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "rembrandt-lighting-setup"
     }
   ]
 }
