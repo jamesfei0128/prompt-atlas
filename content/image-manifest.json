@@ -3731,6 +3731,30 @@
       "generationPrompt": "A photorealistic portrait of a woman with Rembrandt lighting setup, featuring a distinct triangle of light on the shadowed cheek, dramatic shadows, soft, natural skin textures, refined lighting, clean composition, 16:9 ratio, no text, no logos",
       "category": "Lighting",
       "keywordSlug": "rembrandt-lighting-setup"
+    },
+    {
+      "filename": "twilight-evening-atmosphere.png",
+      "altText": "Serene twilight evening atmosphere over a calm lake with soft purple and orange sky",
+      "imageTitle": "Twilight Evening Atmosphere at Lakeside Dusk",
+      "generationPrompt": "16:9 serene lakeside scene at twilight evening atmosphere, soft gradient sky blending purple and orange hues, gentle reflections on still water, muted color palette, photorealistic, refined lighting, no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "twilight-evening-atmosphere"
+    },
+    {
+      "filename": "centered-symmetry-composition.png",
+      "altText": "High quality AI-generated image demonstrating centered symmetry composition with balanced architecture and refined lighting",
+      "imageTitle": "Centered Symmetry Composition Example",
+      "generationPrompt": "16:9 image of a modern architectural facade with perfect centered symmetry composition, clean editorial lighting, subtle depth, realistic materials, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "centered-symmetry-composition"
+    },
+    {
+      "filename": "candlelight-glow.png",
+      "altText": "Portrait of woman softly illuminated with candlelight glow warm amber tones",
+      "imageTitle": "Soft Candlelight Glow Portrait",
+      "generationPrompt": "16:9 photo-realistic portrait of a woman softly illuminated by warm candlelight glow, gentle shadows, amber tones, cozy intimate mood, clean editorial style, refined lighting, realistic skin textures, no text, no logos, no watermark",
+      "category": "Lighting",
+      "keywordSlug": "candlelight-glow"
     }
   ]
 }

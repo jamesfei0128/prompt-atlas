@@ -14031,5 +14031,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Twilight Evening Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Twilight Evening Atmosphere: Capturing Serene Dusk Scenes",
+    "metaDescription": "Explore the Twilight Evening Atmosphere keyword for AI image prompts to create serene dusk scenes with soft lighting and subtle colors, perfect for editorial and commercial use.",
+    "heroImage": {
+      "src": "/images/keywords/twilight-evening-atmosphere.png",
+      "alt": "Serene twilight evening atmosphere over a calm lake with soft purple and orange sky",
+      "title": "Twilight Evening Atmosphere at Lakeside Dusk",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Twilight Evening Atmosphere captures the unique transitional period between day and night, where natural light softens and colors merge into a peaceful blend. This atmosphere evokes feelings of calmness, introspection, and subtle beauty. Including this keyword in AI image prompts helps produce imagery that highlights serene landscapes, quiet urban scenes, or contemplative moments under the soft dusk sky. The lighting is gentle yet visually rich, often featuring cool shadows alongside warm horizon glows. This setting is ideal for visuals requiring emotional depth without harsh contrasts or saturation, making it highly valuable for creative projects needing evocative and naturalistic atmospheres.",
+    "bestUseCases": [
+      "Creating tranquil landscape or cityscape scenes at dusk",
+      "Designing mood-rich editorial hero images emphasizing calm transitions",
+      "Generating backgrounds for products or environments needing subtle, natural lighting"
+    ],
+    "relatedKeywords": [
+      "Golden Hour Glow",
+      "Dusk Skyline",
+      "Serene Landscape"
+    ],
+    "difficulty": "Beginner",
+    "slug": "twilight-evening-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Centered Symmetry Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Centered Symmetry Composition for Stunning AI Images",
+    "metaDescription": "Learn how to use Centered Symmetry Composition in AI image prompts to create balanced, visually appealing designs with refined lighting and depth.",
+    "heroImage": {
+      "src": "/images/keywords/centered-symmetry-composition.png",
+      "alt": "High quality AI-generated image demonstrating centered symmetry composition with balanced architecture and refined lighting",
+      "title": "Centered Symmetry Composition Example",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Centered Symmetry Composition offers a powerful way to create images that draw immediate attention to their core subject through balanced framing. By positioning key elements centrally and ensuring symmetrical surroundings, this technique fosters a sense of stability and calm. When applied in AI-generated art, it helps the model focus on creating harmonious scenes with equal visual weight on both sides, enhancing the image’s elegance and impact. This approach is especially effective in portraits, architectural photography, and graphic designs that aim for a polished, editorial look.",
+    "bestUseCases": [
+      "Product portraits emphasizing the item’s details",
+      "Architectural images highlighting structural symmetry",
+      "Graphic compositions requiring a formal, balanced aesthetic"
+    ],
+    "relatedKeywords": [
+      "Golden Ratio Composition",
+      "Rule of Thirds Composition",
+      "Radial Symmetry Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "centered-symmetry-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Candlelight Glow",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Candlelight Glow: Enhancing AI Images with Warm Lighting",
+    "metaDescription": "Discover how the 'Candlelight Glow' keyword adds warm, soft lighting effects to AI images, perfect for cozy, intimate scenes and premium visual storytelling.",
+    "heroImage": {
+      "src": "/images/keywords/candlelight-glow.png",
+      "alt": "Portrait of woman softly illuminated with candlelight glow warm amber tones",
+      "title": "Soft Candlelight Glow Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Using the 'Candlelight Glow' keyword in AI image prompts effectively simulates the atmospheric lighting produced by candles, enriching compositions with a warm, inviting ambiance. This effect brings a natural softness to light and shadow interplay, often resulting in images that feel intimate and serene. 'Candlelight Glow' is ideal for scenes requiring emotional warmth, nostalgic tones, or elegant softness. Incorporating this keyword helps artists and designers evoke moods associated with comfort, romance, and subtle luxury, making images appear more humanized and approachable without overpowering the subject matter.",
+    "bestUseCases": [
+      "Portraits needing soft, warm, flattering illumination",
+      "Interior scenes emphasizing cozy, intimate atmosphere",
+      "Still life compositions showcasing delicate textures with warm highlights"
+    ],
+    "relatedKeywords": [
+      "Warm Lighting",
+      "Soft Shadows",
+      "Cozy Atmosphere"
+    ],
+    "difficulty": "Beginner",
+    "slug": "candlelight-glow",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
