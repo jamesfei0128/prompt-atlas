@@ -14121,5 +14121,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Softbox Diffused Light",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Softbox Diffused Light: Enhance AI Image Lighting",
+    "metaDescription": "Discover how softbox diffused light improves AI image prompts with smooth, even lighting effects ideal for portraits and product shots.",
+    "heroImage": {
+      "src": "/images/keywords/softbox-diffused-light.png",
+      "alt": "Portrait of a woman softly lit by diffused softbox lighting with smooth shadows and natural skin tones",
+      "title": "Softbox Diffused Light Portrait Example",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Using 'Softbox Diffused Light' in AI image generation significantly improves lighting quality by mimicking professional photography setups. This technique ensures subjects are evenly lit with soft shadows, avoiding the stark contrasts caused by direct lighting. It enhances the realism of portraits, products, and still life scenes by smoothing textures and highlighting details naturally. Integrating this keyword into prompts helps achieve polished, high-quality renders with a premium, editorial feel. This lighting style suits varied creative directions, from fashion shoots to product visuals, making images appear inviting and professionally crafted.",
+    "bestUseCases": [
+      "Portrait photography or character renders to create flattering facial lighting",
+      "Product visualization where even, shadow-free illumination reveals details",
+      "Still life and food photography to produce soft textures and appetizing colors"
+    ],
+    "relatedKeywords": [
+      "Studio Lighting",
+      "Soft Lighting",
+      "Diffused Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "softbox-diffused-light",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Window Natural Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Window Natural Lighting: Enhance AI Image Prompts with Realistic Light",
+    "metaDescription": "Discover how to use 'Window Natural Lighting' in AI image prompts for realistic, soft, and premium natural light effects in interiors and portraits.",
+    "heroImage": {
+      "src": "/images/keywords/window-natural-lighting.png",
+      "alt": "Modern interior bathed in warm window natural lighting with soft shadows",
+      "title": "Sunlit Modern Interior with Window Natural Lighting",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Window natural lighting introduces an elegant interplay of light and shadow by simulating daylight streaming through a window. This lighting style is prized for its ability to create depth, highlight textures, and enhance realism in AI-generated imagery. It mimics real-world environments where sunlight subtly filters into a room, casting soft patterns and enriching the subject with natural hues. Including 'Window Natural Lighting' in prompts helps generate images with a sophisticated, authentic feel, ideal for editorial photos, portraits, and interior scenes. This style relies on accurate lighting angles, realistic material reflections, and balanced exposure to convey a premium, polished look suitable for various creative and commercial projects.",
+    "bestUseCases": [
+      "Interior design visualizations showcasing natural ambiance",
+      "Portrait photography emphasizing soft, natural facial highlights",
+      "Editorial and lifestyle imagery with realistic daylight effects"
+    ],
+    "relatedKeywords": [
+      "Soft Window Light",
+      "Natural Daylight Interior",
+      "Sunlit Portrait Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "window-natural-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Moody Shadow Contrast",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Moody Shadow Contrast: Enhancing Depth in AI Images",
+    "metaDescription": "Discover how Moody Shadow Contrast enriches AI-generated images with dramatic lighting and depth. Learn prompt formulas and advanced techniques for stunning visuals.",
+    "heroImage": {
+      "src": "/images/keywords/moody-shadow-contrast.png",
+      "alt": "Portrait with dramatic moody shadow contrast lighting",
+      "title": "Moody Shadow Contrast Lighting Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Moody Shadow Contrast is a powerful keyword that influences the lighting scheme of AI-generated images by emphasizing the contrast between dark shadowed areas and bright lit regions. This technique replicates natural or artificial lighting setups that cast pronounced shadows, giving the image a more three-dimensional and dramatic look. It's commonly used in portraiture, still life, architectural images, and cinematic scenes to evoke feelings of mystery, intensity, or sophistication. By directing AI models to apply moody lighting contrasts, creatives can produce images that stand out with emotional depth and visual intrigue, suitable for editorial, commercial, or artistic purposes.",
+    "bestUseCases": [
+      "Dramatic portrait photography emphasizing facial features with shadow play",
+      "Cinematic scenes with high contrast lighting to enhance storytelling",
+      "Still life compositions highlighting texture and form through shadow depth"
+    ],
+    "relatedKeywords": [
+      "Dramatic Lighting",
+      "High Contrast Shadows",
+      "Cinematic Lighting"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "moody-shadow-contrast",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

@@ -3755,6 +3755,30 @@
       "generationPrompt": "16:9 photo-realistic portrait of a woman softly illuminated by warm candlelight glow, gentle shadows, amber tones, cozy intimate mood, clean editorial style, refined lighting, realistic skin textures, no text, no logos, no watermark",
       "category": "Lighting",
       "keywordSlug": "candlelight-glow"
+    },
+    {
+      "filename": "softbox-diffused-light.png",
+      "altText": "Portrait of a woman softly lit by diffused softbox lighting with smooth shadows and natural skin tones",
+      "imageTitle": "Softbox Diffused Light Portrait Example",
+      "generationPrompt": "16:9 portrait of a woman with softbox diffused light, smooth skin texture, studio background, realistic materials, premium stock photography style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "softbox-diffused-light"
+    },
+    {
+      "filename": "window-natural-lighting.png",
+      "altText": "Modern interior bathed in warm window natural lighting with soft shadows",
+      "imageTitle": "Sunlit Modern Interior with Window Natural Lighting",
+      "generationPrompt": "16:9 image of a modern living room illuminated by soft window natural lighting, realistic shadows and reflections, clean editorial composition, premium stock image quality, subtle depth, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "window-natural-lighting"
+    },
+    {
+      "filename": "moody-shadow-contrast.png",
+      "altText": "Portrait with dramatic moody shadow contrast lighting",
+      "imageTitle": "Moody Shadow Contrast Lighting Portrait",
+      "generationPrompt": "A cinematic portrait of a person with moody shadow contrast lighting, intense interplay of shadows and highlights, studio setting, high detail, photorealistic, no text, no logos, no watermark, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "moody-shadow-contrast"
     }
   ]
 }

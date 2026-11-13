@@ -3640,27 +3640,27 @@
     "keyword": "Softbox Diffused Light",
     "slug": "softbox-diffused-light",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.570Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-13T17:26:11.946Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Window Natural Lighting",
     "slug": "window-natural-lighting",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.570Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-13T17:26:40.797Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Moody Shadow Contrast",
     "slug": "moody-shadow-contrast",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.570Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-13T17:27:06.610Z",
     "source": "openai-discovery"
   },
   {
