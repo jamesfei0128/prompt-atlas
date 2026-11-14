@@ -14211,5 +14211,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Twilight Color Palette",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Twilight Color Palette: Definition, Uses & AI Prompt Guide",
+    "metaDescription": "Discover the Twilight Color Palette, its visual traits, and how to use it effectively in AI image prompts for stunning, mood-rich results.",
+    "heroImage": {
+      "src": "/images/keywords/twilight-color-palette.png",
+      "alt": "Peaceful landscape image featuring a twilight color palette with blended purples, pinks, and soft oranges",
+      "title": "Landscape at Twilight with Muted Color Palette",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Twilight Color Palette encapsulates the delicate and harmonious colors of the sky as day transitions into night, or vice versa, creating emotionally evocative imagery. When applied in AI-generated art, it balances cooler shades like blues and purples with warmer hues such as pinks and oranges, producing a soft yet vivid atmosphere. This palette is popular for scenes that convey peace, introspection, or romance. It influences not only color choices but also lighting and shadow treatment, resulting in images with subtle depth and gentle contrast. Utilizing this palette in AI prompts helps generate visuals that feel both natural and artistically refined, fitting well with landscapes, portraits, and conceptual art aiming to evoke tranquility or mystery.",
+    "bestUseCases": [
+      "Creating moody landscape and urban scenes during dusk or dawn",
+      "Designing portraits with serene, emotional lighting",
+      "Producing fantasy or conceptual art with mystical ambiance"
+    ],
+    "relatedKeywords": [
+      "Sunset Glow",
+      "Dusk Atmosphere",
+      "Soft Pastel Colors"
+    ],
+    "difficulty": "Beginner",
+    "slug": "twilight-color-palette",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Muted Earth Tones",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Muted Earth Tones: Elegant Color Palette for AI Art",
+    "metaDescription": "Explore Muted Earth Tones—the subtle, natural color palette enhancing AI-generated images with warmth and sophistication. Perfect for premium stock visuals.",
+    "heroImage": {
+      "src": "/images/keywords/muted-earth-tones.png",
+      "alt": "Cozy interior scene featuring muted earth tones with warm wood and soft beige fabrics",
+      "title": "Muted Earth Tones in Interior Design",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Muted Earth Tones are a popular keyword in AI image generation, used to create visuals that feel warm, grounded, and natural. These colors mimic the understated beauty of nature’s palette—think soft sands, weathered woods, and gentle clay hues. When applied in prompts, muted earth tones steer the AI toward producing images with a calming and refined atmosphere, avoiding harsh or overly vivid colors. This color scheme is ideal for editorial photography, interior renders, and lifestyle visuals where a harmonious, elegant look is desired. The palette’s versatility allows it to complement various subjects, from portraits to product shots, enhancing realism through subtle, natural shading.",
+    "bestUseCases": [
+      "Editorial photography with a natural, refined aesthetic",
+      "Interior design renders showcasing organic materials",
+      "Lifestyle branding that requires warm, understated visuals"
+    ],
+    "relatedKeywords": [
+      "Soft Warm Lighting",
+      "Natural Textures",
+      "Desaturated Palette"
+    ],
+    "difficulty": "Beginner",
+    "slug": "muted-earth-tones",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Pastel Gradient Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Pastel Gradient Scheme: Soft Color Transitions for AI Art",
+    "metaDescription": "Discover the pastel gradient scheme, a soft and elegant color transition style perfect for AI-generated art, design, and branding visuals with subtle depth and charm.",
+    "heroImage": {
+      "src": "/images/keywords/pastel-gradient-scheme.png",
+      "alt": "Elegant soft pastel gradient color transition background",
+      "title": "Pastel Gradient Scheme Visual Example",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The pastel gradient scheme is a popular choice in AI-generated imagery to evoke elegance, softness, and calmness. By combining gentle hues arranged in seamless transitions, this color style enriches visuals with lightness and a premium feel. It is frequently employed for backgrounds, product presentations, and lifestyle imagery where a tranquil and stylish mood is desired. This scheme enhances perception by reducing visual noise through subtle color shifts and balances composition by harmonizing elements under a unified, serene palette.",
+    "bestUseCases": [
+      "Backgrounds for websites, apps, and social media posts needing calm and inviting ambiance",
+      "Product photography emphasizing elegance and lightness, especially in fashion and beauty",
+      "Editorial layouts and lifestyle illustrations requiring a soft, cohesive color environment"
+    ],
+    "relatedKeywords": [
+      "Soft Color Palette",
+      "Smooth Gradient",
+      "Muted Pastels"
+    ],
+    "difficulty": "Beginner",
+    "slug": "pastel-gradient-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

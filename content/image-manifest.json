@@ -3779,6 +3779,30 @@
       "generationPrompt": "A cinematic portrait of a person with moody shadow contrast lighting, intense interplay of shadows and highlights, studio setting, high detail, photorealistic, no text, no logos, no watermark, 16:9",
       "category": "Lighting",
       "keywordSlug": "moody-shadow-contrast"
+    },
+    {
+      "filename": "twilight-color-palette.png",
+      "altText": "Peaceful landscape image featuring a twilight color palette with blended purples, pinks, and soft oranges",
+      "imageTitle": "Landscape at Twilight with Muted Color Palette",
+      "generationPrompt": "16:9 serene landscape at twilight, soft lighting blending purples, pinks, and warm oranges, subtle gradients, realistic materials, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "twilight-color-palette"
+    },
+    {
+      "filename": "muted-earth-tones.png",
+      "altText": "Cozy interior scene featuring muted earth tones with warm wood and soft beige fabrics",
+      "imageTitle": "Muted Earth Tones in Interior Design",
+      "generationPrompt": "16:9 cozy modern living room interior, muted earth tones palette, warm wooden furniture, beige linen fabrics, soft ambient lighting, realistic texture, subtle depth, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "muted-earth-tones"
+    },
+    {
+      "filename": "pastel-gradient-scheme.png",
+      "altText": "Elegant soft pastel gradient color transition background",
+      "imageTitle": "Pastel Gradient Scheme Visual Example",
+      "generationPrompt": "16:9 image of a smooth pastel gradient background blending soft pink, lavender, and light blue tones with refined lighting and subtle depth, clean and premium aesthetic, no text, no logos",
+      "category": "Color",
+      "keywordSlug": "pastel-gradient-scheme"
     }
   ]
 }
