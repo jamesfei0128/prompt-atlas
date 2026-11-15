@@ -3803,6 +3803,30 @@
       "generationPrompt": "16:9 image of a smooth pastel gradient background blending soft pink, lavender, and light blue tones with refined lighting and subtle depth, clean and premium aesthetic, no text, no logos",
       "category": "Color",
       "keywordSlug": "pastel-gradient-scheme"
+    },
+    {
+      "filename": "rustic-wood-texture.png",
+      "altText": "Close-up of rustic wood texture showing natural grain, knots, and weathered surface with warm lighting",
+      "imageTitle": "Rustic Wood Texture Close-Up with Warm Natural Lighting",
+      "generationPrompt": "A high-resolution close-up of rustic wood texture with visible grain patterns and natural knots, warm natural lighting highlighting weathered surface details, realistic materials, subtle depth, clean composition, no text, no logos, no watermark, editorial style, 16:9 aspect ratio",
+      "category": "Texture & Material",
+      "keywordSlug": "rustic-wood-texture"
+    },
+    {
+      "filename": "smooth-marble-surface.png",
+      "altText": "Close-up of a smooth polished white marble surface showing subtle grey veins and glossy reflections",
+      "imageTitle": "Smooth Polished Marble Surface with Soft Lighting",
+      "generationPrompt": "16:9 close-up of a smooth polished white marble surface with delicate grey veins and natural glossy reflections, soft ambient lighting, high resolution, realistic materials, clean backdrop, no text or logos",
+      "category": "Texture & Material",
+      "keywordSlug": "smooth-marble-surface"
+    },
+    {
+      "filename": "weathered-stone-texture.png",
+      "altText": "Close-up of weathered stone texture showing cracks and natural erosion",
+      "imageTitle": "Weathered Stone Texture in Natural Light",
+      "generationPrompt": "16:9 highly detailed close-up of weathered stone texture showing rough surface with cracks, erosion, natural color variations, realistic lighting, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "weathered-stone-texture"
     }
   ]
 }

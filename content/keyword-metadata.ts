@@ -14301,5 +14301,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Rustic Wood Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Rustic Wood Texture: Authentic AI Image Prompt Keyword",
+    "metaDescription": "Explore Rustic Wood Texture, a keyword for AI prompts creating natural, aged wood surfaces. Perfect for design, interiors, and authentic material visuals.",
+    "heroImage": {
+      "src": "/images/keywords/rustic-wood-texture.png",
+      "alt": "Close-up of rustic wood texture showing natural grain, knots, and weathered surface with warm lighting",
+      "title": "Rustic Wood Texture Close-Up with Warm Natural Lighting",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The Rustic Wood Texture keyword is essential for AI-generated imagery aiming to capture the beauty and authenticity of aged wooden surfaces. It focuses on elements like visible grain lines, natural knots, rough or distressed finishes, and varying tones that suggest time-worn wood. This texture is favored in designs needing a natural, warm, and inviting atmosphere, often used in interiors, product backgrounds, or marketing visuals that emphasize craftsmanship and organic appeal. By including Rustic Wood Texture in your AI prompts, you ensure high fidelity to rustic aesthetics, enriching images with detailed, tactile wooden surfaces that appear both realistic and artistically textured.",
+    "bestUseCases": [
+      "Backgrounds for product photography with a natural look",
+      "Interiors and furniture design visualizations",
+      "Rustic branding and packaging designs"
+    ],
+    "relatedKeywords": [
+      "Weathered Wood Texture",
+      "Distressed Wood Grain",
+      "Natural Wood Surface"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "rustic-wood-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Smooth Marble Surface",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Smooth Marble Surface Texture for AI Image Prompts",
+    "metaDescription": "Discover how to create smooth marble surface textures in AI-generated images with expert prompt formulas and advanced techniques for stunning realistic effects.",
+    "heroImage": {
+      "src": "/images/keywords/smooth-marble-surface.png",
+      "alt": "Close-up of a smooth polished white marble surface showing subtle grey veins and glossy reflections",
+      "title": "Smooth Polished Marble Surface with Soft Lighting",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Smooth Marble Surface' keyword enables AI-generated images to mimic the appearance of finely polished marble stone. This texture is prized for its luxurious and elegant look, featuring gentle veins that create organic patterns on a smooth, shiny background. Using this keyword in prompts enhances visual realism and material fidelity, particularly for interior designs, product renders, architectural visualizations, and artistic compositions. Achieving this effect involves specifying surface smoothness, glossiness, and vein subtlety to create believable and appealing marble textures.",
+    "bestUseCases": [
+      "Luxury interior design visualizations featuring marble countertops or flooring",
+      "Product photography backgrounds requiring elegant stone textures",
+      "Architectural renderings showcasing marble facades or decorative details"
+    ],
+    "relatedKeywords": [
+      "polished stone texture",
+      "marble veins detail",
+      "glossy granite surface"
+    ],
+    "difficulty": "Beginner",
+    "slug": "smooth-marble-surface",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Weathered Stone Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Weathered Stone Texture: Realistic AI Image Prompt Guide",
+    "metaDescription": "Master AI prompts with Weathered Stone Texture for realistic, natural stone surfaces. Learn definitions, formulas, and pro tips for stunning textures.",
+    "heroImage": {
+      "src": "/images/keywords/weathered-stone-texture.png",
+      "alt": "Close-up of weathered stone texture showing cracks and natural erosion",
+      "title": "Weathered Stone Texture in Natural Light",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Weathered Stone Texture captures the complex visual details of stone that has undergone natural aging processes like erosion, weathering, and mineral deposits. This texture is characterized by rough, uneven surfaces with cracks, discoloration, and organic imperfections that make stone appear realistic and historical rather than artificially smooth or polished. Including Weathered Stone Texture in AI prompts helps achieve authentic depictions of stone walls, pavements, sculptures, or natural rock formations with visible time effects. This texture is favored in concepts needing atmosphere, aged materials, or outdoor environments where nature’s impact is evident. It enriches images by adding subtle depth, tactile quality, and visual interest through nuanced surface details, enhancing realism and storytelling in architectural renders, backgrounds, and material studies.",
+    "bestUseCases": [
+      "Architectural visualizations featuring aged stone walls or ruins",
+      "Game environment assets like rocky pathways or cliffs with natural erosion",
+      "Product mockups needing realistic stone surfaces with authentic texture"
+    ],
+    "relatedKeywords": [
+      "Rough Stone Texture",
+      "Aged Brick Wall Texture",
+      "Natural Rock Surface"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "weathered-stone-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
