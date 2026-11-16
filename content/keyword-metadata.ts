@@ -14391,5 +14391,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Knitted Fabric Pattern",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Knitted Fabric Pattern: Texture & Material AI Image Prompt Guide",
+    "metaDescription": "Explore how 'Knitted Fabric Pattern' enhances AI-generated textures with realistic knit details. Learn prompt formulas, use cases, and creative variations for designers.",
+    "heroImage": {
+      "src": "/images/keywords/knitted-fabric-pattern.png",
+      "alt": "Close-up detailed view of a knitted fabric pattern with interlaced yarn loops in soft natural light",
+      "title": "Knitted Fabric Pattern Close-Up Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Knitted Fabric Pattern' keyword brings the tactile quality of knit textiles into AI-generated images, adding depth and realism through intricate stitch details. This pattern is ideal for showcasing cozy apparel, home textiles, or craft-related products. By simulating the physical texture of yarn, it offers a warm, tactile feel that enhances the visual appeal in digital renders. Using this keyword helps artists and designers visualize knitwear and textile products with authentic structural nuances, indispensable for detailed fabric representation.",
+    "bestUseCases": [
+      "Fashion and apparel design prototypes featuring knitwear",
+      "Interior design visuals showcasing knitted cushions or blankets",
+      "Craft and textile art presentations focusing on fabric details"
+    ],
+    "relatedKeywords": [
+      "Woven Fabric Texture",
+      "Fleece Fabric Pattern",
+      "Crochet Lace Design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "knitted-fabric-pattern",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Coarse Canvas Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Coarse Canvas Texture: Enhance AI Images with Realistic Fabric Detail",
+    "metaDescription": "Discover how to use Coarse Canvas Texture in AI prompts for lifelike fabric visuals. Learn best uses, prompt formulas, and pro techniques.",
+    "heroImage": {
+      "src": "/images/keywords/coarse-canvas-texture.png",
+      "alt": "Close-up of coarse canvas texture showing rough woven fabric detail on natural fibers",
+      "title": "Coarse Canvas Texture Close-Up Fabric Detail",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Coarse Canvas Texture serves as a valuable keyword in AI art generation when aiming for realistic or artistic renderings of fabric surfaces. It helps simulate the natural irregularities and robust weave typical of heavy canvas material, adding tactile depth and authenticity. Artists and designers commonly use it to replicate the look of stretched canvas in paintings, rugged textile bags, or decorative upholstery. Using this texture in prompts enhances the physicality of the image, making flat surfaces appear tangible and textured. The detail level is usually moderate to high, focusing on visible thread patterns and fabric imperfections without softening or glossiness.",
+    "bestUseCases": [
+      "Simulating canvas surfaces on digital paintings or artwork",
+      "Creating realistic textured backgrounds or product materials",
+      "Enhancing detail in fashion items like bags, shoes, or outdoor gear"
+    ],
+    "relatedKeywords": [
+      "Rough Fabric Texture",
+      "Woven Textile Detail",
+      "Natural Fiber Material"
+    ],
+    "difficulty": "Beginner",
+    "slug": "coarse-canvas-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Open Space Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Open Space Composition in AI Art: Creating Balanced Visuals",
+    "metaDescription": "Learn how Open Space Composition enhances AI images by adding balance, focus, and clarity. Perfect for clean, modern visuals in various industries.",
+    "heroImage": {
+      "src": "/images/keywords/open-space-composition.png",
+      "alt": "Modern minimalistic open space composition with isolated subject and clean empty background",
+      "title": "Open Space Composition example in AI-generated image",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Open Space Composition is a powerful design technique used in AI art generation to balance visual elements through intentional emptiness. By crafting prompts that incorporate open or negative space, artists and designers can achieve compositions that highlight their subjects more effectively and evoke emotional responses like tranquility or expansiveness. This approach improves image clarity, helps direct the viewer's eye, and prevents overcrowding that can detract from the overall message. Especially useful in minimalistic and editorial styles, open space composition enhances both aesthetic appeal and functional communication.",
+    "bestUseCases": [
+      "Minimalist product photography highlighting single items",
+      "Editorial portraits with clean backgrounds emphasizing subject",
+      "Website hero images requiring clear focal points and space for text overlays"
+    ],
+    "relatedKeywords": [
+      "Negative Space",
+      "Minimalist Composition",
+      "Balanced Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "open-space-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

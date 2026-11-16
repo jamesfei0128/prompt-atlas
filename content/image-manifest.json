@@ -3827,6 +3827,30 @@
       "generationPrompt": "16:9 highly detailed close-up of weathered stone texture showing rough surface with cracks, erosion, natural color variations, realistic lighting, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "weathered-stone-texture"
+    },
+    {
+      "filename": "knitted-fabric-pattern.png",
+      "altText": "Close-up detailed view of a knitted fabric pattern with interlaced yarn loops in soft natural light",
+      "imageTitle": "Knitted Fabric Pattern Close-Up Texture",
+      "generationPrompt": "16:9 ultra-detailed close-up of a knitted fabric pattern showing interlaced loops of yarn, soft natural lighting, realistic texture, premium stock photo style, no text or logos",
+      "category": "Texture & Material",
+      "keywordSlug": "knitted-fabric-pattern"
+    },
+    {
+      "filename": "coarse-canvas-texture.png",
+      "altText": "Close-up of coarse canvas texture showing rough woven fabric detail on natural fibers",
+      "imageTitle": "Coarse Canvas Texture Close-Up Fabric Detail",
+      "generationPrompt": "16:9 photo-realistic close-up of coarse canvas texture fabric, natural beige color, visible thick woven threads, soft natural lighting, shallow depth of field, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "coarse-canvas-texture"
+    },
+    {
+      "filename": "open-space-composition.png",
+      "altText": "Modern minimalistic open space composition with isolated subject and clean empty background",
+      "imageTitle": "Open Space Composition example in AI-generated image",
+      "generationPrompt": "16:9 image of a single modern chair in a large, brightly lit empty room with clean white walls and vast open space around the subject, realistic materials, premium lighting, minimalistic style, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "open-space-composition"
     }
   ]
 }

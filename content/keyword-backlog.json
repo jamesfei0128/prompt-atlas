@@ -3721,27 +3721,27 @@
     "keyword": "Knitted Fabric Pattern",
     "slug": "knitted-fabric-pattern",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.570Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-16T19:56:02.005Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Coarse Canvas Texture",
     "slug": "coarse-canvas-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.570Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-16T19:56:28.496Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Open Space Composition",
     "slug": "open-space-composition",
     "category": "Composition",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.570Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-16T19:56:53.630Z",
     "source": "openai-discovery"
   },
   {
