@@ -14481,5 +14481,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Calm Morning Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Calm Morning Atmosphere: Serene and Soft Ambient Imagery",
+    "metaDescription": "Discover how to create calming morning atmosphere visuals with AI prompts, featuring soft light, gentle colors, and tranquil scenes for peaceful image results.",
+    "heroImage": {
+      "src": "/images/keywords/calm-morning-atmosphere.png",
+      "alt": "Serene early morning scene with soft light, muted pastel colors, and tranquil composition",
+      "title": "Calm Morning Atmosphere AI Generated Image",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "The \"Calm Morning Atmosphere\" keyword is essential for generating images that capture the serene and gentle ambiance found at dawn or early morning. It influences AI models to prioritize soft lighting, subtle shadows, and harmonious color schemes that evoke a sense of peace and quietude. This keyword typically highlights scenes like a mist-covered garden, a peaceful lakeside at sunrise, or a cozy interior bathed in gentle morning glow. Such imagery is highly appealing for projects that look to inspire calmness, relaxation, and freshness. Including \"Calm Morning Atmosphere\" in prompts can transform otherwise generic settings into evocative moments of stillness and renewal, suitable for wellness, lifestyle, and nature themes.",
+    "bestUseCases": [
+      "Advertising campaigns promoting wellness, meditation, or morning rituals",
+      "Lifestyle blog hero images illustrating peaceful daily routines",
+      "Stock photography collections for spas, retreats, or cozy home interiors"
+    ],
+    "relatedKeywords": [
+      "Soft Morning Light",
+      "Peaceful Sunrise Scene",
+      "Tranquil Interior Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "calm-morning-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Vintage Film Atmosphere",
+    "category": "Atmosphere",
+    "published": true,
+    "seoTitle": "Vintage Film Atmosphere: Enhance AI Images with Retro Charm",
+    "metaDescription": "Discover how to evoke nostalgic vintage film atmosphere in AI-generated images with expert prompt formulas and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/vintage-film-atmosphere.png",
+      "alt": "A serene urban street scene captured with vintage film atmosphere featuring muted colors, film grain, and soft focus.",
+      "title": "Vintage Film Atmosphere Urban Street Scene",
+      "background": "linear-gradient(135deg, #dfe7e5 0%, #9ca8a3 48%, #5f6967 100%)"
+    },
+    "overview": "Vintage Film Atmosphere captures the aesthetic of analog film photography and cinematography, transporting viewers to an earlier era. This style adds emotional warmth and nostalgia, achieved through techniques like subdued colors, film grain, and lens imperfections. Artists and designers use this atmosphere to imbue images with storytelling depth and timeless quality. In AI image generation, specifying Vintage Film Atmosphere guides models to emulate these distinctive visual cues, lending authenticity and emotional resonance to digital artwork.",
+    "bestUseCases": [
+      "Retro-inspired editorial photography and movie stills",
+      "Nostalgic branding and advertising campaigns",
+      "Mood-driven portrait and lifestyle art compositions"
+    ],
+    "relatedKeywords": [
+      "Film Grain Texture",
+      "Retro Lighting Style",
+      "Analog Photography Effect"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "vintage-film-atmosphere",
+    "categorySlug": "atmosphere",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Minimalist Vector Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Minimalist Vector Style: Clean, Modern AI Image Prompts",
+    "metaDescription": "Explore the Minimalist Vector Style for AI image prompts. Learn definition, prompt formulas, use cases, common mistakes, advanced techniques, and workflows.",
+    "heroImage": {
+      "src": "/images/keywords/minimalist-vector-style.png",
+      "alt": "Minimalist vector style digital illustration with geometric shapes and flat colors",
+      "title": "Minimalist Vector Style Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Minimalist Vector Style focuses on creating modern, polished imagery characterized by simplicity and clarity. It removes unnecessary details and textures to highlight the core subject through clean shapes and bold, flat colors. This style is especially valued in editorial design, branding, and digital interfaces where clarity and readability are paramount. Using this style in AI image prompts directs the model to generate visuals with structured compositions and minimal distractions, often mimicking vector art.",
+    "bestUseCases": [
+      "Branding assets such as logos and icons",
+      "Editorial illustrations for clean, readable layouts",
+      "Digital UI elements requiring clarity and scalability"
+    ],
+    "relatedKeywords": [
+      "Flat Design",
+      "Geometric Abstraction",
+      "Line Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "minimalist-vector-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

@@ -3851,6 +3851,30 @@
       "generationPrompt": "16:9 image of a single modern chair in a large, brightly lit empty room with clean white walls and vast open space around the subject, realistic materials, premium lighting, minimalistic style, no text, no logos",
       "category": "Composition",
       "keywordSlug": "open-space-composition"
+    },
+    {
+      "filename": "calm-morning-atmosphere.png",
+      "altText": "Serene early morning scene with soft light, muted pastel colors, and tranquil composition",
+      "imageTitle": "Calm Morning Atmosphere AI Generated Image",
+      "generationPrompt": "16:9 aspect ratio; photo-realistic image of a tranquil outdoor scene at sunrise, soft diffused warm light illuminating a peaceful lakeside with light morning mist; pastel color palette; subtle depth of field; calm morning atmosphere; editorial quality; no text, no logos",
+      "category": "Atmosphere",
+      "keywordSlug": "calm-morning-atmosphere"
+    },
+    {
+      "filename": "vintage-film-atmosphere.png",
+      "altText": "A serene urban street scene captured with vintage film atmosphere featuring muted colors, film grain, and soft focus.",
+      "imageTitle": "Vintage Film Atmosphere Urban Street Scene",
+      "generationPrompt": "16:9 cinematic urban street at dusk with muted colors, soft focus, visible film grain texture, light leaks and subtle vignetting, vintage film atmosphere, clean editorial composition, premium stock-image quality, refined lighting, realistic materials, no text, no logos, no watermark",
+      "category": "Atmosphere",
+      "keywordSlug": "vintage-film-atmosphere"
+    },
+    {
+      "filename": "minimalist-vector-style.png",
+      "altText": "Minimalist vector style digital illustration with geometric shapes and flat colors",
+      "imageTitle": "Minimalist Vector Style Illustration",
+      "generationPrompt": "16:9 image of minimalist vector style digital illustration featuring simple geometric shapes, flat colors, clean lines, on white background, subtle depth, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "minimalist-vector-style"
     }
   ]
 }
