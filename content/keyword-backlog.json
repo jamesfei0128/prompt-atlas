@@ -3775,27 +3775,27 @@
     "keyword": "Flat Iconographic Style",
     "slug": "flat-iconographic-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.571Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-18T18:30:54.537Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Photorealistic Render Style",
     "slug": "photorealistic-render-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.571Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-18T18:31:24.257Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Abstract Geometric Style",
     "slug": "abstract-geometric-style",
     "category": "Style",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.571Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-18T18:31:52.325Z",
     "source": "openai-discovery"
   },
   {

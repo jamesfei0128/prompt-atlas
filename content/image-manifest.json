@@ -3875,6 +3875,30 @@
       "generationPrompt": "16:9 image of minimalist vector style digital illustration featuring simple geometric shapes, flat colors, clean lines, on white background, subtle depth, no text, no logos",
       "category": "Style",
       "keywordSlug": "minimalist-vector-style"
+    },
+    {
+      "filename": "flat-iconographic-style.png",
+      "altText": "Flat iconographic style colorful icons with simple geometric shapes and bold colors on a clean background",
+      "imageTitle": "Flat Iconographic Style Icons Illustration",
+      "generationPrompt": "16:9 image of flat iconographic style icons, simple geometric shapes, bold solid colors, no gradients, no shadows, clean white background, modern minimal composition, premium realistic materials, editorial style",
+      "category": "Style",
+      "keywordSlug": "flat-iconographic-style"
+    },
+    {
+      "filename": "photorealistic-render-style.png",
+      "altText": "Photorealistic render style example showing a lifelike luxury wristwatch with reflective surfaces and natural lighting",
+      "imageTitle": "Photorealistic Render Style Example",
+      "generationPrompt": "16:9 image of a luxury wristwatch on a reflective surface, photorealistic render style, fine detail, natural soft lighting, studio environment, 8k resolution, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "photorealistic-render-style"
+    },
+    {
+      "filename": "abstract-geometric-style.png",
+      "altText": "Abstract geometric style composition with colorful overlapping shapes",
+      "imageTitle": "Abstract Geometric Style Visual Composition",
+      "generationPrompt": "16:9 ratio image of abstract geometric style featuring overlapping colorful triangles, circles, and polygons with clean, modern composition, subtle lighting, realistic textures, vector art aesthetics, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "abstract-geometric-style"
     }
   ]
 }

@@ -14571,5 +14571,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Flat Iconographic Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Flat Iconographic Style: Clean & Modern AI Image Prompt Guide",
+    "metaDescription": "Explore Flat Iconographic Style for AI image creation. Learn definitions, best use cases, prompt formulas, and industry applications to craft sharp, minimal visuals.",
+    "heroImage": {
+      "src": "/images/keywords/flat-iconographic-style.png",
+      "alt": "Flat iconographic style colorful icons with simple geometric shapes and bold colors on a clean background",
+      "title": "Flat Iconographic Style Icons Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Flat Iconographic Style emphasizes simplicity and clarity by using minimalistic icons characterized by clean lines, solid colors, and basic shapes. This style eliminates complex lighting and texturing, creating visuals that are easy to interpret at any size. It is popular in digital interfaces, educational materials, and branding elements for its straightforward communication and modern aesthetic. Incorporating this style into AI prompts ensures generated images remain visually uncluttered and stylistically consistent with contemporary flat design trends.",
+    "bestUseCases": [
+      "User interface icons for apps and websites",
+      "Infographic symbols and illustrations",
+      "Branding elements and logo concepts"
+    ],
+    "relatedKeywords": [
+      "Minimalist Iconography",
+      "Vector Graphic Style",
+      "Flat Design"
+    ],
+    "difficulty": "Beginner",
+    "slug": "flat-iconographic-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Photorealistic Render Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Photorealistic Render Style: Ultimate Guide for AI Image Prompts",
+    "metaDescription": "Discover the Photorealistic Render Style in AI prompts. Learn definitions, prompt formulas, best uses, common mistakes, advanced tips, workflows, and related styles.",
+    "heroImage": {
+      "src": "/images/keywords/photorealistic-render-style.png",
+      "alt": "Photorealistic render style example showing a lifelike luxury wristwatch with reflective surfaces and natural lighting",
+      "title": "Photorealistic Render Style Example",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "Photorealistic Render Style is a popular and powerful style keyword used in AI image generation to produce images that look convincingly real, like photographs captured by professional cameras. It focuses on realism through advanced rendering of materials, light behavior, and environmental effects. This style excels in depicting scenes with authentic texture detail, realistic reflections, and natural color tones. It stands out for applications requiring high fidelity visuals, such as product mockups, architectural visualizations, and immersive concept art. Using this style helps bridge the gap between CGI and photography, enhancing commercial appeal and viewer immersion.",
+    "bestUseCases": [
+      "Product visualization for marketing and e-commerce",
+      "Architectural and interior design presentations",
+      "Character portraits and scenes requiring lifelike visuals"
+    ],
+    "relatedKeywords": [
+      "Ultra-Realistic",
+      "Hyper-Detail Render",
+      "Cinema4D Render"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "photorealistic-render-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Abstract Geometric Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Abstract Geometric Style: Modern AI Art Design Keyword",
+    "metaDescription": "Explore the Abstract Geometric Style in AI image generation. Learn definitions, prompt formulas, best use cases, advanced techniques, and workflow tips.",
+    "heroImage": {
+      "src": "/images/keywords/abstract-geometric-style.png",
+      "alt": "Abstract geometric style composition with colorful overlapping shapes",
+      "title": "Abstract Geometric Style Visual Composition",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Abstract Geometric Style is popular in modern graphic design and digital art for its clean, minimalist aesthetics and emphasis on shape and color dynamics. By using this style in AI image generation, creators can obtain images that rely on structured geometry and abstract forms rather than representational subjects. This style facilitates clarity and versatility in artistic outputs, making it well suited for branding, editorial illustrations, and conceptual visuals. Its characteristic simplicity and sharp edges deliver a polished, contemporary look that appeals widely across creative industries.",
+    "bestUseCases": [
+      "Branding assets like logos and icons emphasizing clarity and abstraction",
+      "Editorial illustrations needing clean and versatile compositions",
+      "Backgrounds or textures in UI/UX design emphasizing geometric patterns"
+    ],
+    "relatedKeywords": [
+      "Minimalist Style",
+      "Vector Art",
+      "Geometric Pattern"
+    ],
+    "difficulty": "Beginner",
+    "slug": "abstract-geometric-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
