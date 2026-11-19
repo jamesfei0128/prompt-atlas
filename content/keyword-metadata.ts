@@ -14661,5 +14661,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Watercolor Brushwork Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "Watercolor Brushwork Style: AI Image Prompt Guide",
+    "metaDescription": "Explore the Watercolor Brushwork Style in AI image prompts with tips, visual traits, and best use cases to enhance your creative projects.",
+    "heroImage": {
+      "src": "/images/keywords/watercolor-brushwork-style.png",
+      "alt": "Watercolor brushwork style floral painting with soft translucent washes and visible brush textures",
+      "title": "Watercolor Brushwork Style Floral Illustration",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The Watercolor Brushwork Style brings the charm of traditional watercolor painting into AI-generated images, offering a dreamy and artistic aesthetic. It emphasizes fluid brushstrokes, soft hues, and the natural blending of pigments on textured paper, creating visuals with a handmade, painterly quality. This style is perfect for illustrations, artistic portraits, and nature scenes where subtlety and emotional expression are desired. By incorporating this keyword into prompts, creators can achieve images that balance realism with impressionistic artistry, enriching designs with warmth and depth.",
+    "bestUseCases": [
+      "Artistic illustrations and book covers requiring a hand-painted look",
+      "Greeting cards and stationery with delicate, natural imagery",
+      "Editorial visuals and social media content seeking an impressionistic aesthetic"
+    ],
+    "relatedKeywords": [
+      "Watercolor Style",
+      "Painterly Style",
+      "Ink Wash Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "watercolor-brushwork-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "High Contrast Graphic Style",
+    "category": "Style",
+    "published": true,
+    "seoTitle": "High Contrast Graphic Style: Bold Visuals for Stunning AI Images",
+    "metaDescription": "Explore the High Contrast Graphic Style for AI image prompts. Learn definition, prompt formulas, best uses, and professional tips to craft impactful visuals.",
+    "heroImage": {
+      "src": "/images/keywords/high-contrast-graphic-style.png",
+      "alt": "High contrast graphic style portrait with bold shadows and sharp edges",
+      "title": "High Contrast Graphic Style Bold Portrait",
+      "background": "linear-gradient(135deg, #ece7df 0%, #a9b6ad 48%, #4d5652 100%)"
+    },
+    "overview": "The High Contrast Graphic Style enhances AI-generated images by emphasizing clear distinctions between light and shadow. This style removes subtle gradients to highlight shape and form, creating visuals that are both dramatic and easy to read. It suits designs where immediate impact and clarity are crucial, such as posters, editorial covers, and branding materials. By leveraging this style, creators can produce images with a modern, edgy feel that commands attention, making it a popular choice in graphic design and social media visuals.",
+    "bestUseCases": [
+      "Poster design and promotional graphics",
+      "Editorial magazine covers",
+      "Social media visual content requiring instant impact"
+    ],
+    "relatedKeywords": [
+      "Graphic Illustration Style",
+      "Bold Monochrome Style",
+      "Poster Art Style"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "high-contrast-graphic-style",
+    "categorySlug": "style",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Product Photography Setup",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Product Photography Setup: AI Image Prompt Guide",
+    "metaDescription": "Learn how to create stunning product photography setups with AI prompts. Discover definitions, prompt formulas, uses, creative variations, and industry applications.",
+    "heroImage": {
+      "src": "/images/keywords/product-photography-setup.png",
+      "alt": "Professional product photography studio setup with soft lighting and clean white background showcasing a premium product",
+      "title": "Product Photography Studio Setup",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "A Product Photography Setup involves arranging and describing visual components that mimic a professional studio environment for photographing products. In AI image generation, it enhances prompts by specifying lighting conditions, backgrounds, camera angles, and compositional elements which help create images that look polished and market-ready. Such setups typically use refined lighting techniques that capture textures and materials realistically, subtle shadows for depth, and minimalistic but elegant backgrounds to keep the focus on the product. These details make images suitable for commercial portfolios and advertising.",
+    "bestUseCases": [
+      "Creating high-quality visuals for ecommerce product listings",
+      "Designing clean and appealing advertisements for consumer goods",
+      "Developing editorial images for product-focused magazine spreads"
+    ],
+    "relatedKeywords": [
+      "Studio Lighting Techniques",
+      "Commercial Product Artistry",
+      "Minimalist Background Setup"
+    ],
+    "difficulty": "Beginner",
+    "slug": "product-photography-setup",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

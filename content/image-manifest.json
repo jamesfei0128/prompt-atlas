@@ -3899,6 +3899,30 @@
       "generationPrompt": "16:9 ratio image of abstract geometric style featuring overlapping colorful triangles, circles, and polygons with clean, modern composition, subtle lighting, realistic textures, vector art aesthetics, no text, no logos",
       "category": "Style",
       "keywordSlug": "abstract-geometric-style"
+    },
+    {
+      "filename": "watercolor-brushwork-style.png",
+      "altText": "Watercolor brushwork style floral painting with soft translucent washes and visible brush textures",
+      "imageTitle": "Watercolor Brushwork Style Floral Illustration",
+      "generationPrompt": "A delicate floral arrangement painted in watercolor brushwork style, soft pastel translucent washes, visible textured brushstrokes on textured paper, 16:9, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "watercolor-brushwork-style"
+    },
+    {
+      "filename": "high-contrast-graphic-style.png",
+      "altText": "High contrast graphic style portrait with bold shadows and sharp edges",
+      "imageTitle": "High Contrast Graphic Style Bold Portrait",
+      "generationPrompt": "16:9 image of a portrait in high contrast graphic style, deep shadows, bright highlights, sharp edges, minimal midtones, clean background, no text, no logos",
+      "category": "Style",
+      "keywordSlug": "high-contrast-graphic-style"
+    },
+    {
+      "filename": "product-photography-setup.png",
+      "altText": "Professional product photography studio setup with soft lighting and clean white background showcasing a premium product",
+      "imageTitle": "Product Photography Studio Setup",
+      "generationPrompt": "16:9 image of a professional product photography setup, featuring softbox lighting, pristine white seamless background, focused lighting highlighting a sleek modern product, clean and minimal composition, realistic textures, no text, no logos",
+      "category": "Commercial Use",
+      "keywordSlug": "product-photography-setup"
     }
   ]
 }
