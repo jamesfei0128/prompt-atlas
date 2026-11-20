@@ -14751,5 +14751,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Stock Image Backgrounds",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Stock Image Backgrounds: Essential AI Prompt Keyword Guide",
+    "metaDescription": "Explore how Stock Image Backgrounds transform AI prompts with clean, versatile backgrounds perfect for commercial use in advertising, editorial, and ecommerce.",
+    "heroImage": {
+      "src": "/images/keywords/stock-image-backgrounds.png",
+      "alt": "Clean and neutral stock image background with subtle gradient and soft lighting",
+      "title": "Stock Image Background Composition",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Stock Image Backgrounds are foundational elements in AI-generated imagery that serve as non-distracting, aesthetically pleasing backdrops for a variety of uses. These backgrounds prioritize versatility, ensuring they complement rather than compete with the main subject, making them ideal for marketing materials, editorial layouts, and ecommerce showcases. They are designed with premium stock-image polish—exhibiting subtle lighting nuances and realistic material textures—to maintain a consistent modern aesthetic. The inclusion of stock image backgrounds in AI prompts ensures visual cohesion and enhances the overall clarity and impact of the composition. This makes them invaluable for designers and marketers seeking ready-to-use images that meet professional standards without additional editing.",
+    "bestUseCases": [
+      "Professional website hero images needing versatile, uncluttered backdrops",
+      "Ecommerce product photos requiring neutral settings to highlight items",
+      "Marketing materials where clear, adaptable backgrounds enhance text overlay and branding"
+    ],
+    "relatedKeywords": [
+      "Minimalist Backgrounds",
+      "Editorial Backgrounds",
+      "Commercial Use Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "stock-image-backgrounds",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "E-Learning Illustration Style",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "E-Learning Illustration Style: Visual AI Prompt Guide",
+    "metaDescription": "Discover how to create modern e-learning illustrations with AI prompts. Learn best uses, prompt formulas, common mistakes, and advanced tips.",
+    "heroImage": {
+      "src": "/images/keywords/e-learning-illustration-style.png",
+      "alt": "Modern e-learning illustration of a student using a laptop in a clean digital environment",
+      "title": "E-Learning Illustration Style Sample",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "The E-Learning Illustration Style is designed to capture the essence of modern digital education through visually engaging and clear imagery. It adapts a clean, editorial look with premium polish, using realistic yet simplified materials and subtle lighting to avoid clutter. This style supports conveying concepts such as online courses, virtual classrooms, and digital study environments. By applying this style in AI image prompts, creators can reliably achieve visuals ideal for e-learning platforms, educational blogs, and training materials that require high readability and a professional yet inviting tone.",
+    "bestUseCases": [
+      "Illustrations for online course platforms and marketing",
+      "Visuals for educational mobile apps and interfaces",
+      "Graphics for training manuals and instructional guides"
+    ],
+    "relatedKeywords": [
+      "Digital Learning Art",
+      "Educational Technology Illustration",
+      "Online Course Visual Style"
+    ],
+    "difficulty": "Beginner",
+    "slug": "e-learning-illustration-style",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Web Banner Composition",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Web Banner Composition: Craft Clean, Impactful AI Image Layouts",
+    "metaDescription": "Master Web Banner Composition in AI prompts for polished, commercial-quality visuals with refined lighting and clean editorial style — perfect for modern websites.",
+    "heroImage": {
+      "src": "/images/keywords/web-banner-composition.png",
+      "alt": "Modern web banner composition with clean editorial layout and refined lighting",
+      "title": "Web Banner Composition Modern Editorial Layout",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Web Banner Composition is a specialized keyword phrase that helps AI generators create images perfectly suited for website banners and header graphics. It ensures that visual weight is distributed harmoniously across a wide, narrow canvas with clear focal areas to draw viewer attention quickly. This composition style favors minimal clutter, refined lighting to add depth without harsh contrast, and realistic materials for a polished, professional look. By incorporating Web Banner Composition in prompts, creators can achieve premium stock-image quality visuals that fit seamlessly as hero images or thumbnail cards for online platforms, meeting commercial needs efficiently.",
+    "bestUseCases": [
+      "Creating website header images and promotional banners",
+      "Designing clean e-commerce hero visuals",
+      "Producing editorial banner graphics for online articles"
+    ],
+    "relatedKeywords": [
+      "Digital Banner Layout",
+      "Hero Image Composition",
+      "Commercial Web Graphics"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "web-banner-composition",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
