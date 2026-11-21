@@ -14841,5 +14841,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Print Brochure Layout",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Print Brochure Layout: Design & AI Image Prompt Guide",
+    "metaDescription": "Learn how to craft perfect print brochure layout prompts for AI image generation. Explore definitions, prompt formulas, best use cases, common mistakes, and advanced techniques.",
+    "heroImage": {
+      "src": "/images/keywords/print-brochure-layout.png",
+      "alt": "Professional tri-fold print brochure layout with clean design and premium paper texture",
+      "title": "Clean Tri-Fold Print Brochure Layout",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Print Brochure Layout is a crucial keyword in AI image generation that helps create realistic and appealing brochure designs for commercial printing. It influences the AI to focus on spatial organization, multi-panel flow, and polished finishing details, such as folded edges or paper texture. Ideal for showcasing marketing collateral concepts or editorial editorial design presentations, this keyword ensures images reflect professional print standards with clarity and elegance. Using this keyword helps designers and marketers visualize brochures before production, improving concept communication and minimizing costly revisions.",
+    "bestUseCases": [
+      "Designing corporate tri-fold brochures with clean panel divisions",
+      "Creating conceptual layouts for event or product catalogs",
+      "Visualizing marketing brochures focusing on premium print finishes"
+    ],
+    "relatedKeywords": [
+      "Tri-fold Brochure Design",
+      "Marketing Collateral Layout",
+      "Editorial Print Composition"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "print-brochure-layout",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Corporate Branding Visuals",
+    "category": "Commercial Use",
+    "published": true,
+    "seoTitle": "Corporate Branding Visuals: AI Image Prompt Keyword Guide",
+    "metaDescription": "Discover how to craft effective AI prompts for corporate branding visuals with expert tips, use cases, and creative variations for premium commercial images.",
+    "heroImage": {
+      "src": "/images/keywords/corporate-branding-visuals.png",
+      "alt": "Modern corporate office interior with clean design and natural light",
+      "title": "Corporate Branding Visuals: Modern Office Scene",
+      "background": "linear-gradient(135deg, #edf1ee 0%, #c9d2cb 48%, #6f8375 100%)"
+    },
+    "overview": "Corporate Branding Visuals in AI-generated images serve as essential elements for establishing a company's identity across digital and print media. These visuals prioritize clarity, cohesion, and a modern aesthetic to communicate professionalism and trustworthiness. Incorporating this keyword into AI prompts encourages the creation of premium stock-style images that reflect business environments, sleek office spaces, branded product placements, and abstract designs reflecting corporate values. Images generated are suitable for website headers, marketing collateral, social media branding, and advertising campaigns. They avoid distracting elements such as text or logos to maintain flexibility for customization and broad commercial applications.",
+    "bestUseCases": [
+      "Website hero images for tech and finance companies",
+      "Marketing and advertising campaign visuals",
+      "Branded social media content and company presentations"
+    ],
+    "relatedKeywords": [
+      "Modern Office Interiors",
+      "Professional Teamwork",
+      "Minimalist Corporate Design"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "corporate-branding-visuals",
+    "categorySlug": "commercial-use",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Moody Film Grain Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Moody Film Grain Texture: Enhance Images with Cinematic Grit",
+    "metaDescription": "Discover how Moody Film Grain Texture adds cinematic depth and atmosphere to AI-generated images, perfect for editorial and creative projects.",
+    "heroImage": {
+      "src": "/images/keywords/moody-film-grain-texture.png",
+      "alt": "Cinematic portrait of a woman featuring moody film grain texture with soft shadows and vintage tones",
+      "title": "Moody Film Grain Texture Cinematic Portrait",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The Moody Film Grain Texture keyword enriches AI-generated images by introducing a nuanced grain pattern mimicking traditional film photography. It adds depth and character, often producing a nostalgic or cinematic mood. This effect softens digital precision, lending authenticity and tactile feeling to visuals. Artists and designers use this texture to evoke emotion and a timeless aesthetic, ideal for storytelling or dramatic compositions.",
+    "bestUseCases": [
+      "Creating cinematic portraits with a dramatic atmosphere",
+      "Designing vintage-style editorial layouts and covers",
+      "Producing textured backgrounds for creative storytelling visuals"
+    ],
+    "relatedKeywords": [
+      "Film Grain Overlay",
+      "Cinematic Texture",
+      "Vintage Photography Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "moody-film-grain-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

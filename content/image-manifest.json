@@ -3947,6 +3947,30 @@
       "generationPrompt": "16:9 modern web banner scene, clean editorial composition with refined lighting and subtle depth, realistic materials, no text, no logos, no watermark, premium stock image aesthetic",
       "category": "Commercial Use",
       "keywordSlug": "web-banner-composition"
+    },
+    {
+      "filename": "print-brochure-layout.png",
+      "altText": "Professional tri-fold print brochure layout with clean design and premium paper texture",
+      "imageTitle": "Clean Tri-Fold Print Brochure Layout",
+      "generationPrompt": "A professional tri-fold print brochure layout, clean editorial style, premium matte paper texture, soft natural lighting, subtle depth, no text, no logos, no watermark, 16:9 ratio",
+      "category": "Commercial Use",
+      "keywordSlug": "print-brochure-layout"
+    },
+    {
+      "filename": "corporate-branding-visuals.png",
+      "altText": "Modern corporate office interior with clean design and natural light",
+      "imageTitle": "Corporate Branding Visuals: Modern Office Scene",
+      "generationPrompt": "16:9 ultra-realistic image of a modern corporate office interior with natural light, clean editorial composition, refined lighting, realistic materials, subtle depth, no text, no logos, no watermark",
+      "category": "Commercial Use",
+      "keywordSlug": "corporate-branding-visuals"
+    },
+    {
+      "filename": "moody-film-grain-texture.png",
+      "altText": "Cinematic portrait of a woman featuring moody film grain texture with soft shadows and vintage tones",
+      "imageTitle": "Moody Film Grain Texture Cinematic Portrait",
+      "generationPrompt": "A moody cinematic portrait of a woman with subtle film grain texture, soft shadows, muted color palette, vintage style lighting, 16:9 aspect ratio, realistic details, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "moody-film-grain-texture"
     }
   ]
 }

@@ -3856,27 +3856,27 @@
     "keyword": "Print Brochure Layout",
     "slug": "print-brochure-layout",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.571Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-21T17:01:15.875Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Corporate Branding Visuals",
     "slug": "corporate-branding-visuals",
     "category": "Commercial Use",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-09-23T14:38:58.571Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-21T17:01:42.753Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Moody Film Grain Texture",
     "slug": "moody-film-grain-texture",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-10-06T16:22:30.581Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-21T17:02:06.295Z",
     "source": "openai-discovery"
   },
   {
@@ -4731,6 +4731,276 @@
     "category": "Atmosphere",
     "status": "pending",
     "createdAt": "2026-11-08T16:26:35.424Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cinematic Low-Key Lighting",
+    "slug": "cinematic-low-key-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.683Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rainy Window Mood",
+    "slug": "rainy-window-mood",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.683Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vintage Film Grain Atmosphere",
+    "slug": "vintage-film-grain-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.683Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Surreal Dreamlike Setting",
+    "slug": "surreal-dreamlike-setting",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.683Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Negative Space Utilization",
+    "slug": "negative-space-utilization",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.683Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Foreground Subject Framing",
+    "slug": "foreground-subject-framing",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.683Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Symmetrical Layout Balance",
+    "slug": "symmetrical-layout-balance",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.683Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Minimalist Graphic Style",
+    "slug": "minimalist-graphic-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vector Line Art Style",
+    "slug": "vector-line-art-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flat Illustrative Style",
+    "slug": "flat-illustrative-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Monochrome Blue Palette",
+    "slug": "monochrome-blue-palette",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "High Contrast Black White",
+    "slug": "high-contrast-black-white",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Pastel Sunset Gradient",
+    "slug": "pastel-sunset-gradient",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Vibrant Neon Color Scheme",
+    "slug": "vibrant-neon-color-scheme",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Woven Burlap Texture",
+    "slug": "woven-burlap-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Fine Wood Grain Detail",
+    "slug": "fine-wood-grain-detail",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Website Hero Banner Image",
+    "slug": "website-hero-banner-image",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Social Media Post Visual",
+    "slug": "social-media-post-visual",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Stock Photography Concepts",
+    "slug": "stock-photography-concepts",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Ecommerce Product Display",
+    "slug": "ecommerce-product-display",
+    "category": "Commercial Use",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Color Graded Mood Lighting",
+    "slug": "color-graded-mood-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Soft Backdrop Glow",
+    "slug": "soft-backdrop-glow",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Ambient Indoor Lighting",
+    "slug": "ambient-indoor-lighting",
+    "category": "Lighting",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Hypnotic Misty Atmosphere",
+    "slug": "hypnotic-misty-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Cold Winter Day Atmosphere",
+    "slug": "cold-winter-day-atmosphere",
+    "category": "Atmosphere",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Dynamic Diagonal Layout",
+    "slug": "dynamic-diagonal-layout",
+    "category": "Composition",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Flat Pastel Color Style",
+    "slug": "flat-pastel-color-style",
+    "category": "Style",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Rich Metallic Color Finish",
+    "slug": "rich-metallic-color-finish",
+    "category": "Color",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Textured Paper Surface",
+    "slug": "textured-paper-surface",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
+    "publishedAt": null,
+    "source": "openai-discovery"
+  },
+  {
+    "keyword": "Embossed Cardstock Texture",
+    "slug": "embossed-cardstock-texture",
+    "category": "Texture & Material",
+    "status": "pending",
+    "createdAt": "2026-11-21T17:00:52.684Z",
     "publishedAt": null,
     "source": "openai-discovery"
   }
