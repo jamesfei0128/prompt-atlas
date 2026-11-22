@@ -3971,6 +3971,30 @@
       "generationPrompt": "A moody cinematic portrait of a woman with subtle film grain texture, soft shadows, muted color palette, vintage style lighting, 16:9 aspect ratio, realistic details, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "moody-film-grain-texture"
+    },
+    {
+      "filename": "negative-space-framing.png",
+      "altText": "Example of a modern portrait with negative space framing showing clear minimal background and subject focus",
+      "imageTitle": "Portrait with Negative Space Framing",
+      "generationPrompt": "16:9 portrait of a person with negative space framing, minimalist background, soft natural lighting, clean and balanced composition, realistic materials, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "negative-space-framing"
+    },
+    {
+      "filename": "high-contrast-backgrounds.png",
+      "altText": "Modern editorial portrait with a woman against a high contrast background featuring bold color separation and refined lighting",
+      "imageTitle": "High Contrast Background Editorial Portrait",
+      "generationPrompt": "16:9 portrait of a confident young woman, high contrast background with bold black and vivid red colors, clean editorial composition, premium stock-image quality, refined lighting, subtle depth, realistic materials, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "high-contrast-backgrounds"
+    },
+    {
+      "filename": "overcast-diffused-light.png",
+      "altText": "Portrait of a woman in natural overcast diffused light with soft shadows and balanced lighting",
+      "imageTitle": "Portrait under Overcast Diffused Light",
+      "generationPrompt": "16:9 portrait of a woman outdoors, overcast diffused light, soft shadows, natural skin tones, clean composition, editorial style, realistic materials, no text, no logos, no watermark",
+      "category": "Lighting",
+      "keywordSlug": "overcast-diffused-light"
     }
   ]
 }

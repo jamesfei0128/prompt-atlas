@@ -14931,5 +14931,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Negative Space Framing",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Mastering Negative Space Framing in AI Image Composition",
+    "metaDescription": "Explore how negative space framing enhances AI-generated images with balanced composition and emphasis, ideal for clean, modern visuals.",
+    "heroImage": {
+      "src": "/images/keywords/negative-space-framing.png",
+      "alt": "Example of a modern portrait with negative space framing showing clear minimal background and subject focus",
+      "title": "Portrait with Negative Space Framing",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Negative space framing is a powerful artistic technique widely applied in photography, painting, and AI image generation to focus attention and create visual harmony. By deliberately incorporating ample empty or less detailed space around the main subject, this method generates a natural frame, enhancing the subject's prominence. In AI prompts, specifying negative space framing guides models to produce images with clean, uncluttered backgrounds and strong focal points. This approach helps achieve a modern and professional look, ideal for editorial content, advertising, and minimalist design. Utilizing negative space effectively can also give the composition breathing room, making the image more aesthetically pleasing and impactful to viewers.",
+    "bestUseCases": [
+      "Editorial photography for magazine covers or feature stories emphasizing a subject",
+      "Advertising visuals needing clear focus on product or model with minimal distractions",
+      "Website hero images requiring clean, modern composition to draw user attention"
+    ],
+    "relatedKeywords": [
+      "Minimalist Composition",
+      "Symmetrical Framing",
+      "Rule of Thirds"
+    ],
+    "difficulty": "Beginner",
+    "slug": "negative-space-framing",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "High Contrast Backgrounds",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "High Contrast Backgrounds: Enhance Visual Impact with Bold Color",
+    "metaDescription": "Explore how high contrast backgrounds amplify image depth and focus. Learn prompt formulas, best uses, and pro workflows for striking AI-generated visuals.",
+    "heroImage": {
+      "src": "/images/keywords/high-contrast-backgrounds.png",
+      "alt": "Modern editorial portrait with a woman against a high contrast background featuring bold color separation and refined lighting",
+      "title": "High Contrast Background Editorial Portrait",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "High contrast backgrounds serve as a dynamic backdrop that increases the visual impact of AI-generated imagery by emphasizing subjects through stark color or tonal differences. This technique is widely used in graphic design and photography to draw viewer attention and establish mood. When incorporated into AI prompts, it helps produce images where subjects stand out crisply against vivid or stark backgrounds, improving readability and aesthetic appeal. The result is often bold, eye-catching visuals suitable for editorial, advertising, and creative content. By integrating high contrast backgrounds thoughtfully, artists and designers can elevate the overall composition both digitally and in print.",
+    "bestUseCases": [
+      "Product photography backgrounds to highlight items with clean separation",
+      "Editorial portraits where the subject stands out sharply against the background",
+      "Graphic design assets like icons or banners needing bold and clear background contrast"
+    ],
+    "relatedKeywords": [
+      "Bold Colors",
+      "Minimalist Backgrounds",
+      "Sharp Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "high-contrast-backgrounds",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Overcast Diffused Light",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Overcast Diffused Light: Soft, Even Lighting for Realistic Images",
+    "metaDescription": "Discover how 'Overcast Diffused Light' creates soft, natural illumination in AI-generated images, ideal for portraits, landscapes, and product visuals.",
+    "heroImage": {
+      "src": "/images/keywords/overcast-diffused-light.png",
+      "alt": "Portrait of a woman in natural overcast diffused light with soft shadows and balanced lighting",
+      "title": "Portrait under Overcast Diffused Light",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "In AI image generation, 'Overcast Diffused Light' simulates the natural lighting effect seen on cloudy days. This lighting reduces direct sunlight, scattering light and producing soft shadows and gentle highlights. The result is an image with balanced exposure and a muted color range that retains surface details and texture without harsh contrasts. This approach suits a wide range of subjects, including outdoor scenes, portraits, and still-life compositions, delivering a polished and realistic look. Incorporating 'Overcast Diffused Light' in prompts helps achieve images that are visually pleasing and versatile across creative and commercial contexts.",
+    "bestUseCases": [
+      "Portrait photography with flattering skin tones and soft shadows",
+      "Product images highlighting textures without harsh reflections",
+      "Outdoor landscapes with balanced lighting and muted skies"
+    ],
+    "relatedKeywords": [
+      "Soft Natural Light",
+      "Cloudy Day Lighting",
+      "Diffuse Ambient Light"
+    ],
+    "difficulty": "Beginner",
+    "slug": "overcast-diffused-light",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
