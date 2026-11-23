@@ -15021,5 +15021,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Textured Linen Fabric",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Textured Linen Fabric: Premium AI Image Prompt Keyword",
+    "metaDescription": "Discover how to craft AI image prompts featuring textured linen fabric for realistic, premium visuals in design and commercial projects.",
+    "heroImage": {
+      "src": "/images/keywords/textured-linen-fabric.png",
+      "alt": "close-up of textured linen fabric showing natural woven fibers and subtle irregularities",
+      "title": "Textured Linen Fabric Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Textured linen fabric is a popular material in design and photography for its natural, tactile aesthetics and organic appearance. When used in AI image prompt crafting, it guides the generation towards fabric visuals that evoke a handmade, artisanal feel characterized by visible weave patterns and a slightly rough surface. This texture adds authenticity and depth to textiles in digital imagery, making it highly valued for fashion, interior design, and lifestyle visual content. The keyword helps produce realistic fabric renders with a premium and understated elegance ideal for editorial and commercial uses.",
+    "bestUseCases": [
+      "Creating realistic textile close-ups for fashion catalogs",
+      "Designing backgrounds or materials in interior decor renders",
+      "Visualizing sustainable and organic product packaging with fabric accents"
+    ],
+    "relatedKeywords": [
+      "Coarse Cotton Fabric",
+      "Natural Fiber Textile",
+      "Woven Burlap Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "textured-linen-fabric",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Natural Window Light",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Natural Window Light: Enhancing AI Image Prompts",
+    "metaDescription": "Discover how to use natural window light in AI prompts for realistic, soft lighting effects. Learn prompt formulas, best use cases, and professional workflows.",
+    "heroImage": {
+      "src": "/images/keywords/natural-window-light.png",
+      "alt": "Elegant modern interior illuminated by soft natural window light casting warm, diffused shadows",
+      "title": "Modern Interior with Natural Window Light",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Natural window light is a fundamental lighting element used to simulate daylight within indoor scenes for AI image generation. It evokes authenticity and warmth by mimicking how sunlight gently filters through windows, casting soft shadows and nuanced highlights on subjects and environments. Incorporating natural window light in prompts aids in creating images with a balanced, inviting atmosphere and dynamic depth. This lighting style is especially valued for its ability to add naturalistic textures and emphasize material qualities without harsh contrasts. It aligns well with modern editorial and lifestyle photography aesthetics, enhancing realism and emotional appeal in AI-generated visuals.",
+    "bestUseCases": [
+      "Interior architectural renders emphasizing natural ambiance",
+      "Portraits capturing soft, flattering daylight lighting",
+      "Product photography showcasing realistic textures under natural illumination"
+    ],
+    "relatedKeywords": [
+      "Soft Morning Light",
+      "Golden Hour Indoor",
+      "Diffused Daylight"
+    ],
+    "difficulty": "Beginner",
+    "slug": "natural-window-light",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Semi-Gloss Surface Finish",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Semi-Gloss Surface Finish: Guide for AI Image Prompts",
+    "metaDescription": "Explore how to effectively use the 'Semi-Gloss Surface Finish' keyword in AI image prompts to achieve refined, realistic textures with subtle shine.",
+    "heroImage": {
+      "src": "/images/keywords/semi-gloss-surface-finish.png",
+      "alt": "Close-up of a wood surface with semi-gloss finish showing gentle reflections and smooth texture",
+      "title": "Wood Surface with Semi-Gloss Finish",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The 'Semi-Gloss Surface Finish' keyword is essential for anyone seeking to depict materials with subtle reflectivity and refined texture in AI-generated images. By specifying this surface finish, prompts signal models to create surfaces that catch light gently, providing a polished yet natural appearance. This effect is ideal for showcasing products, materials, or objects where neither a dull matte nor a shiny glossy look is desired. The resulting images often display nuanced depth and realistic material qualities, making them highly suitable for editorial, commercial, and design contexts.",
+    "bestUseCases": [
+      "Product visualization requiring elegant but non-glossy reflections",
+      "Interior design renders showing polished wood or laminate surfaces",
+      "Fashion and accessory imagery with refined material finishes"
+    ],
+    "relatedKeywords": [
+      "Matte Surface Finish",
+      "High Gloss Surface Finish",
+      "Satin Surface Finish"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "semi-gloss-surface-finish",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];

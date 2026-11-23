@@ -3910,27 +3910,27 @@
     "keyword": "Textured Linen Fabric",
     "slug": "textured-linen-fabric",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-10-06T16:22:30.582Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-23T21:49:24.405Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Natural Window Light",
     "slug": "natural-window-light",
     "category": "Lighting",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-10-06T16:22:30.582Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-23T21:49:52.111Z",
     "source": "openai-discovery"
   },
   {
     "keyword": "Semi-Gloss Surface Finish",
     "slug": "semi-gloss-surface-finish",
     "category": "Texture & Material",
-    "status": "pending",
+    "status": "published",
     "createdAt": "2026-10-06T16:22:30.582Z",
-    "publishedAt": null,
+    "publishedAt": "2026-11-23T21:50:22.915Z",
     "source": "openai-discovery"
   },
   {

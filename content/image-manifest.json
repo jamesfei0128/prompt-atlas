@@ -3995,6 +3995,30 @@
       "generationPrompt": "16:9 portrait of a woman outdoors, overcast diffused light, soft shadows, natural skin tones, clean composition, editorial style, realistic materials, no text, no logos, no watermark",
       "category": "Lighting",
       "keywordSlug": "overcast-diffused-light"
+    },
+    {
+      "filename": "textured-linen-fabric.png",
+      "altText": "close-up of textured linen fabric showing natural woven fibers and subtle irregularities",
+      "imageTitle": "Textured Linen Fabric Close-up",
+      "generationPrompt": "A close-up studio photograph of textured linen fabric with visible woven fibers and soft natural lighting, premium quality textile, no text, no logos, no watermark, 16:9",
+      "category": "Texture & Material",
+      "keywordSlug": "textured-linen-fabric"
+    },
+    {
+      "filename": "natural-window-light.png",
+      "altText": "Elegant modern interior illuminated by soft natural window light casting warm, diffused shadows",
+      "imageTitle": "Modern Interior with Natural Window Light",
+      "generationPrompt": "A clean, modern living room interior illuminated by soft natural window light coming through large windows, warm tones, subtle shadows, realistic textures, 16:9 composition, photorealistic, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "natural-window-light"
+    },
+    {
+      "filename": "semi-gloss-surface-finish.png",
+      "altText": "Close-up of a wood surface with semi-gloss finish showing gentle reflections and smooth texture",
+      "imageTitle": "Wood Surface with Semi-Gloss Finish",
+      "generationPrompt": "16:9 ultra-realistic close-up of a wooden tabletop with semi-gloss surface finish, soft natural lighting, detailed texture, warm tones, no text, no logos, no watermark",
+      "category": "Texture & Material",
+      "keywordSlug": "semi-gloss-surface-finish"
     }
   ]
 }
