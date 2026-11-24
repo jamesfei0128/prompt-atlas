@@ -15111,5 +15111,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Warm Neutral Color Scheme",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Warm Neutral Color Scheme: Definition and Best Uses",
+    "metaDescription": "Explore the Warm Neutral Color Scheme with clear definitions, visual traits, prompt formulas, and practical use cases to enhance your AI image prompts.",
+    "heroImage": {
+      "src": "/images/keywords/warm-neutral-color-scheme.png",
+      "alt": "Cozy modern interior with warm neutral color scheme featuring beige and taupe tones",
+      "title": "Warm Neutral Color Scheme Interior Scene",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "The Warm Neutral Color Scheme is favored in design and imagery for its natural, comforting appeal. These colors evoke feelings of warmth, relaxation, and understated elegance, making them ideal for environments that aim to be inviting yet modern. When incorporated into AI image prompts, this scheme adjusts the color balance toward gentle earthy hues, influencing textures and materials to look natural and realistic. It supports a wide range of applications, from lifestyle photography to product presentations, by offering a subtle yet rich visual experience that is both timeless and adaptable.",
+    "bestUseCases": [
+      "Lifestyle and interior photography emphasizing cozy, inviting spaces",
+      "Product presentations with natural materials like wood, leather, or textiles",
+      "Brand visuals requiring timeless, elegant, and warm atmospheres"
+    ],
+    "relatedKeywords": [
+      "Earth Tone Palette",
+      "Soft Lighting",
+      "Natural Texture"
+    ],
+    "difficulty": "Beginner",
+    "slug": "warm-neutral-color-scheme",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Leading Line Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Leading Line Composition: Enhance Visual Flow in AI Images",
+    "metaDescription": "Discover how Leading Line Composition guides viewers through images, improving focus and depth. Learn prompt formulas, use cases, and creative variations.",
+    "heroImage": {
+      "src": "/images/keywords/leading-line-composition.png",
+      "alt": "A tranquil mountain valley with a winding river leading the eye toward distant peaks under soft daylight",
+      "title": "Mountain Valley with Leading Line Composition",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Leading Line Composition is a fundamental principle in visual design and photography that strategically incorporates lines to lead the viewer’s eye through the image. When applied in AI image generation, it results in artworks where elements like roads, bridges, or architectural features form natural directional pathways. These lines enhance the depth and spatial awareness of the composition, creating a more engaging and structured visual experience. Using leading lines in prompts helps AI generate images with clear visual flow and focus, improving overall aesthetic appeal and storytelling.",
+    "bestUseCases": [
+      "Landscape photography prompts emphasizing depth",
+      "Architectural designs showcasing structural lines",
+      "Editorial and lifestyle imagery directing focus"
+    ],
+    "relatedKeywords": [
+      "Rule of Thirds",
+      "Symmetry Composition",
+      "Depth of Field"
+    ],
+    "difficulty": "Beginner",
+    "slug": "leading-line-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Granular Sandpaper Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Granular Sandpaper Texture: Essential AI Prompt Guide",
+    "metaDescription": "Discover how to craft realistic granular sandpaper texture in AI image prompts. Learn definitions, uses, formulas, and pro techniques for perfect textured results.",
+    "heroImage": {
+      "src": "/images/keywords/granular-sandpaper-texture.png",
+      "alt": "Close-up granular sandpaper texture showing fine abrasive grains and rough surface",
+      "title": "Granular Sandpaper Texture Close-Up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Granular sandpaper texture is a crucial element in AI-generated imagery when aiming for realistic, tactile surfaces that mimic abrasive materials. It captures the fine grains and roughness inherent to sandpaper, providing visual cues that improve depth and material authenticity. Incorporating this texture in your prompts helps portray surfaces that look coarse and touchable, often used in close-up shots and material samples. This texture influences lighting, causing subtle shadows and highlights on each grain, contributing to a premium stock-image aesthetic. It is ideal for editorials, product renders, or industrial-themed projects requiring substrate realism.",
+    "bestUseCases": [
+      "Creating detailed product mockups for abrasives or tools",
+      "Designing industrial backgrounds with textured surfaces",
+      "Enhancing artistic renders requiring tactile material realism"
+    ],
+    "relatedKeywords": [
+      "Rough Concrete Texture",
+      "Fine Grain Wood Texture",
+      "Rustic Stone Surface"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "granular-sandpaper-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
