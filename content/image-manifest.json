@@ -4043,6 +4043,30 @@
       "generationPrompt": "16:9 close-up macro photograph of granular sandpaper texture with fine abrasive particles, soft directional lighting emphasizing surface roughness and tactile detail, realistic materials, subtle depth, editorial style, no text, no logos",
       "category": "Texture & Material",
       "keywordSlug": "granular-sandpaper-texture"
+    },
+    {
+      "filename": "led-panel-soft-lighting.png",
+      "altText": "Portrait illuminated by soft, diffused LED panel lighting with smooth shadows and natural skin tones",
+      "imageTitle": "LED Panel Soft Lighting Studio Portrait",
+      "generationPrompt": "A high-quality studio portrait of a young woman, illuminated by soft diffused LED panel lighting, even light distribution, gentle shadows, natural skin tones, premium stock photo style, clean background, 16:9",
+      "category": "Lighting",
+      "keywordSlug": "led-panel-soft-lighting"
+    },
+    {
+      "filename": "polished-marble-surface.png",
+      "altText": "Close-up of polished marble surface showing glossy texture and natural veining",
+      "imageTitle": "Polished Marble Surface Texture",
+      "generationPrompt": "a detailed close-up of a polished marble surface with glossy reflections and natural beige and white veining, studio lighting, ultra-realistic texture, no text, no logos, no watermark, 16:9",
+      "category": "Texture & Material",
+      "keywordSlug": "polished-marble-surface"
+    },
+    {
+      "filename": "lightroom-color-correction.png",
+      "altText": "A high-quality portrait photograph showcasing natural and vibrantly balanced colors achieved through Lightroom Color Correction",
+      "imageTitle": "Portrait Edited with Lightroom Color Correction Style",
+      "generationPrompt": "16:9 portrait of a young woman outdoors, soft natural lighting, vivid yet natural colors with Lightroom color correction style, subtle shadows and balanced contrast, realistic skin tones, premium stock quality, no text or logos",
+      "category": "Color",
+      "keywordSlug": "lightroom-color-correction"
     }
   ]
 }

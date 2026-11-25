@@ -15201,5 +15201,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "LED Panel Soft Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "LED Panel Soft Lighting: Enhance AI Image Prompts with Soft Glow",
+    "metaDescription": "Discover how 'LED Panel Soft Lighting' transforms AI-generated images with smooth, diffused illumination. Perfect for realistic, premium visuals.",
+    "heroImage": {
+      "src": "/images/keywords/led-panel-soft-lighting.png",
+      "alt": "Portrait illuminated by soft, diffused LED panel lighting with smooth shadows and natural skin tones",
+      "title": "LED Panel Soft Lighting Studio Portrait",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "In AI-generated imagery, lighting plays a crucial role in conveying mood, realism, and focus. LED Panel Soft Lighting simulates a popular real-world lighting technique where a broad LED panel diffuses light softly across the scene. This provides a flattering and contemporary look ideal for portraits, product shots, and editorial compositions. Incorporating this keyword in prompts helps generate polished visuals characterized by smooth lighting transitions and a professional aesthetic, removing stark shadows or overexposed areas. Its subtlety enhances material realism and depth, making images appear inviting and high-end.",
+    "bestUseCases": [
+      "Professional portraits requiring flattering, soft illumination",
+      "Product photography with emphasis on material details and colors",
+      "Editorial or lifestyle imagery showcasing natural, premium lighting"
+    ],
+    "relatedKeywords": [
+      "Softbox Lighting",
+      "Diffuse Window Light",
+      "Studio Portrait Lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "led-panel-soft-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Polished Marble Surface",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Polished Marble Surface Texture for Realistic AI Images",
+    "metaDescription": "Discover how to use 'Polished Marble Surface' in AI prompts to create stunning, realistic marble textures perfect for design, advertising, and interiors.",
+    "heroImage": {
+      "src": "/images/keywords/polished-marble-surface.png",
+      "alt": "Close-up of polished marble surface showing glossy texture and natural veining",
+      "title": "Polished Marble Surface Texture",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "The keyword 'Polished Marble Surface' describes a lustrous stone texture characterized by a smooth, glossy finish and intricate natural veining. When incorporated into AI image prompts, it instructs the model to create surfaces that simulate the luxury and sophisticated appearance typical of finely polished marble. This term enhances image realism by emphasizing light reflection and material intricacy, making it an ideal descriptor for designers and content creators seeking premium, elegant stone textures in their visuals.",
+    "bestUseCases": [
+      "Architectural interior renders highlighting countertops or floors",
+      "Luxury product backgrounds featuring elegant materials",
+      "Editorial images showcasing textures in fashion or design layouts"
+    ],
+    "relatedKeywords": [
+      "Glossy Stone Texture",
+      "Luxury Marble Veining",
+      "Realistic Stone Surface"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "polished-marble-surface",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Lightroom Color Correction",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Lightroom Color Correction: Enhance AI Image Colors Seamlessly",
+    "metaDescription": "Discover Lightroom Color Correction techniques for AI image prompts. Learn definitions, formulas, use cases, and advanced tips to enhance color realism and vibrancy.",
+    "heroImage": {
+      "src": "/images/keywords/lightroom-color-correction.png",
+      "alt": "A high-quality portrait photograph showcasing natural and vibrantly balanced colors achieved through Lightroom Color Correction",
+      "title": "Portrait Edited with Lightroom Color Correction Style",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Lightroom Color Correction is a vital concept for refining digital imagery, especially when generating AI-created visuals. It emphasizes manipulating color palettes to achieve natural yet enhanced appearances that mimic professional photo editing workflows found in Adobe Lightroom. By incorporating Lightroom Color Correction into prompts, users can guide AI models to produce images with enhanced clarity, balanced exposure, and consistent tonal harmony. This process results in images that attract more attention due to their polished and realistic finish, which is essential for marketing, editorial use, and creative portfolios.",
+    "bestUseCases": [
+      "Product photography with natural color harmony",
+      "Portraits requiring flattering skin tone adjustment",
+      "Landscape imagery emphasizing vibrant yet authentic colors"
+    ],
+    "relatedKeywords": [
+      "color grading",
+      "photo retouching",
+      "vibrance enhancement"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "lightroom-color-correction",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];
