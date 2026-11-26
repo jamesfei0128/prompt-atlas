@@ -4067,6 +4067,30 @@
       "generationPrompt": "16:9 portrait of a young woman outdoors, soft natural lighting, vivid yet natural colors with Lightroom color correction style, subtle shadows and balanced contrast, realistic skin tones, premium stock quality, no text or logos",
       "category": "Color",
       "keywordSlug": "lightroom-color-correction"
+    },
+    {
+      "filename": "centered-radial-composition.png",
+      "altText": "Illustration of a centered radial composition with symmetrical organic shapes radiating from a central point in soft lighting",
+      "imageTitle": "Centered Radial Composition in AI-generated image",
+      "generationPrompt": "16:9 image of a symmetrical radial composition with centered circular layout, intricate patterns radiating from the middle, soft natural lighting, realistic textures, clean editorial style, premium quality, no text, no logos",
+      "category": "Composition",
+      "keywordSlug": "centered-radial-composition"
+    },
+    {
+      "filename": "soft-rim-lighting.png",
+      "altText": "Portrait of a woman softly illuminated with gentle rim lighting highlighting her silhouette",
+      "imageTitle": "Soft Rim Lighting on Portrait Subject",
+      "generationPrompt": "16:9 photo of a woman portrait with soft rim lighting gently illuminating her edges, studio background, natural colors, subtle shadows, ultra realistic, premium editorial style, no text, no logos",
+      "category": "Lighting",
+      "keywordSlug": "soft-rim-lighting"
+    },
+    {
+      "filename": "complementary-tone-harmony.png",
+      "altText": "Vivid AI-generated image demonstrating complementary tone harmony with contrasting blue and orange color palette",
+      "imageTitle": "AI Image Featuring Complementary Tone Harmony",
+      "generationPrompt": "A 16:9 composition showing a modern portrait with complementary tone harmony of teal and coral colors, soft studio lighting, clean background, realistic skin textures, subtle depth, no text or logos",
+      "category": "Color",
+      "keywordSlug": "complementary-tone-harmony"
     }
   ]
 }

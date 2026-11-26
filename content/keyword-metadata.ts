@@ -15291,5 +15291,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 3
+  },
+  {
+    "title": "Centered Radial Composition",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Centered Radial Composition: Mastering Symmetrical Visual Focus",
+    "metaDescription": "Discover the centered radial composition technique in AI image prompts, enhancing symmetry and focal impact for clean, balanced visuals.",
+    "heroImage": {
+      "src": "/images/keywords/centered-radial-composition.png",
+      "alt": "Illustration of a centered radial composition with symmetrical organic shapes radiating from a central point in soft lighting",
+      "title": "Centered Radial Composition in AI-generated image",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "Centered Radial Composition is a powerful artistic technique used to create visually compelling and balanced images by organizing elements symmetrically around a central focal point. This style enhances viewer engagement by guiding the eye toward the center while maintaining equilibrium throughout the image. When integrated into AI image prompts, it helps produce artwork with a premium editorial quality, characterized by clean lines and a refined, polished look. The approach is especially valuable for generating hero images, product visuals, or thematic designs where focus and structure are paramount. It often complements designs needing subtle depth and realistic materials, lending a sophisticated modern polish.",
+    "bestUseCases": [
+      "Hero images for editorial websites",
+      "Product showcases requiring symmetrical emphasis",
+      "Abstract or pattern-based background designs"
+    ],
+    "relatedKeywords": [
+      "Symmetrical Balance",
+      "Radial Pattern",
+      "Central Focus Composition"
+    ],
+    "difficulty": "Beginner",
+    "slug": "centered-radial-composition",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Soft Rim Lighting",
+    "category": "Lighting",
+    "published": true,
+    "seoTitle": "Soft Rim Lighting: Enhancing AI Image Prompts with Subtle Glow",
+    "metaDescription": "Discover how soft rim lighting elevates AI images with gentle edge illumination. Learn definition, formulas, use cases, and expert techniques for impactful visuals.",
+    "heroImage": {
+      "src": "/images/keywords/soft-rim-lighting.png",
+      "alt": "Portrait of a woman softly illuminated with gentle rim lighting highlighting her silhouette",
+      "title": "Soft Rim Lighting on Portrait Subject",
+      "background": "linear-gradient(135deg, #1f2523 0%, #8d6a45 48%, #f3dfb8 100%)"
+    },
+    "overview": "Soft rim lighting is a refined lighting technique that delicately outlines a subject’s edges with a subtle, diffused glow. Unlike strong rim lights that create sharp and dramatic borders, soft rim lighting enhances depth and dimensionality while maintaining a natural and polished look. When included in AI image generation prompts, it instructs the model to apply this understated lighting effect, helping objects and figures stand out softly against their surroundings. This lighting approach is particularly valued in portraiture, product photography, and editorial imagery for its ability to produce premium-quality, elegant visuals with enhanced clarity and mood. Soft rim lighting blends tonal gradation smoothly, giving images a sophisticated, three-dimensional feel without overwhelming shadows or highlights.",
+    "bestUseCases": [
+      "Portrait photography with delicate subject-background separation",
+      "Product shots requiring elegant, premium showcasing",
+      "Editorial imagery emphasizing mood with subtle lighting"
+    ],
+    "relatedKeywords": [
+      "rim lighting",
+      "soft lighting",
+      "diffuse lighting"
+    ],
+    "difficulty": "Beginner",
+    "slug": "soft-rim-lighting",
+    "categorySlug": "lighting",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
+  },
+  {
+    "title": "Complementary Tone Harmony",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Complementary Tone Harmony in AI Image Prompts",
+    "metaDescription": "Explore Complementary Tone Harmony, a color principle enhancing AI image prompts with balanced contrasting colors for visually striking results.",
+    "heroImage": {
+      "src": "/images/keywords/complementary-tone-harmony.png",
+      "alt": "Vivid AI-generated image demonstrating complementary tone harmony with contrasting blue and orange color palette",
+      "title": "AI Image Featuring Complementary Tone Harmony",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Complementary Tone Harmony plays a vital role in producing AI-generated images by leveraging opposite colors on the color wheel to enhance visual impact. This harmony creates striking contrasts that draw the viewer's attention while maintaining balance, preventing colors from clashing harshly. By embedding this principle into AI prompts, artists and designers can achieve images with richer color dynamics, improved depth, and an overall polished aesthetic that elevates artistic and commercial value. The technique is widely applicable across genres, from vibrant editorial visuals to atmospheric product photography, making it a versatile tool in the AI creative workflow.",
+    "bestUseCases": [
+      "Advertising visuals requiring eye-catching and dynamic color contrast",
+      "Editorial imagery that benefits from vibrant, balanced palettes",
+      "Product photography needing accentuated colors to highlight features"
+    ],
+    "relatedKeywords": [
+      "Color Contrast",
+      "Analogous Tone Harmony",
+      "Vibrant Saturation"
+    ],
+    "difficulty": "Beginner",
+    "slug": "complementary-tone-harmony",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
   }
 ] satisfies KeywordMetadata[];
