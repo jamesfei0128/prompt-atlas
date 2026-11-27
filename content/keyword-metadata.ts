@@ -15381,5 +15381,95 @@ export const keywordMetadata = [
     "hasDefinition": true,
     "promptExampleCount": 3,
     "faqCount": 2
+  },
+  {
+    "title": "Asymmetrical Balance Layout",
+    "category": "Composition",
+    "published": true,
+    "seoTitle": "Asymmetrical Balance Layout: Modern Composition Explained",
+    "metaDescription": "Explore the Asymmetrical Balance Layout in design, its visual traits, best uses, and prompt formulas to create dynamic AI-generated images with refined composition.",
+    "heroImage": {
+      "src": "/images/keywords/asymmetrical-balance-layout.png",
+      "alt": "Abstract modern graphic demonstrating asymmetrical balance layout with contrasting shapes and subtle depth",
+      "title": "Asymmetrical Balance Layout Graphic",
+      "background": "linear-gradient(135deg, #fbfaf7 0%, #e5e0d8 48%, #89968f 100%)"
+    },
+    "overview": "The Asymmetrical Balance Layout is a fundamental compositional approach that balances elements without mirroring them, yielding images that feel lively and visually engaging. Unlike symmetrical layouts that rely on identical halves, asymmetry uses varied objects or colors with careful placement to maintain harmony and interest. In AI-generated art, emphasizing asymmetrical balance results in compositions that look modern and professional, often used in editorial, advertising, or artistic layouts. This approach enhances depth and movement, producing images that captivate the viewer by offering subtle complexity rather than obvious uniformity. Incorporating it in AI prompts helps achieve sophisticated designs crucial for premium stock imagery, editorial spreads, and creative projects requiring a fresh visual dynamic.",
+    "bestUseCases": [
+      "Creating editorial and magazine layouts with dynamic visual flow",
+      "Advertising artwork where impactful, engaging compositions are key",
+      "Modern website or app interfaces needing fresh, balanced designs"
+    ],
+    "relatedKeywords": [
+      "Dynamic Composition",
+      "Rule of Thirds Layout",
+      "Visual Hierarchy"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "asymmetrical-balance-layout",
+    "categorySlug": "composition",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Handmade Paper Texture",
+    "category": "Texture & Material",
+    "published": true,
+    "seoTitle": "Handmade Paper Texture: Premium AI Image Prompt Keyword",
+    "metaDescription": "Explore how to use 'Handmade Paper Texture' in AI image prompts for authentic textures, artistic designs, and refined visuals in creative projects.",
+    "heroImage": {
+      "src": "/images/keywords/handmade-paper-texture.png",
+      "alt": "Close-up view of handmade paper texture showing natural fibers and organic surface irregularities in warm light",
+      "title": "Handmade Paper Texture Close-up",
+      "background": "linear-gradient(135deg, #f1eee8 0%, #b8b0a3 48%, #6f6b63 100%)"
+    },
+    "overview": "Handmade paper texture is prized for its natural, artisanal appearance, bringing warmth and character to digital artworks and design projects. When incorporated into AI-generated images, this texture adds a handcrafted touch that contrasts with overly polished or synthetic surfaces. It mimics the irregular surfaces, unique fiber arrangements, and subtle color shifts found in real handmade paper, enhancing realism and depth. Artists and designers use it to evoke nostalgia, authenticity, or eco-friendly themes across print and digital media.",
+    "bestUseCases": [
+      "Backgrounds for vintage-style invitations or stationery",
+      "Eco-friendly product packaging designs with natural appeal",
+      "Artistic digital collages requiring tactile, organic surfaces"
+    ],
+    "relatedKeywords": [
+      "Vintage Paper Texture",
+      "Fiber Paper Texture",
+      "Rough Paper Surface"
+    ],
+    "difficulty": "Intermediate",
+    "slug": "handmade-paper-texture",
+    "categorySlug": "texture-and-material",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 2
+  },
+  {
+    "title": "Pastel Gradient Colors",
+    "category": "Color",
+    "published": true,
+    "seoTitle": "Pastel Gradient Colors: Soft Color Transitions for AI Art",
+    "metaDescription": "Explore pastel gradient colors in AI image prompts to create delicate, soft color shifts perfect for dreamy backgrounds and modern designs.",
+    "heroImage": {
+      "src": "/images/keywords/pastel-gradient-colors.png",
+      "alt": "Abstract smooth pastel gradient colors blending softly in a modern clean composition",
+      "title": "Soft Pastel Gradient Color Background",
+      "background": "linear-gradient(135deg, #d8a365 0%, #9aa982 48%, #6e879f 100%)"
+    },
+    "overview": "Pastel gradient colors are an elegant design choice characterized by smooth, subtle shifts between light, desaturated hues. When included in AI art prompts, they instruct the model to create images with delicate color blending that evoke softness and serenity. This aesthetic suits contemporary and minimalist styles, enhancing backgrounds, abstract art, interfaces, and lifestyle visuals. Pastel gradients can soften compositions, making them visually pleasing and modern, ideal for projects seeking calm and understated elegance without the intensity of bright or harsh colors.",
+    "bestUseCases": [
+      "Backgrounds for websites, apps, or presentations needing soft appeal",
+      "Lifestyle and fashion images emphasizing gentle, stylish color tones",
+      "Abstract or conceptual art that favors subtle mood and lightness"
+    ],
+    "relatedKeywords": [
+      "Soft Color Palettes",
+      "Gradient Backgrounds",
+      "Muted Tone Art"
+    ],
+    "difficulty": "Beginner",
+    "slug": "pastel-gradient-colors",
+    "categorySlug": "color",
+    "hasDefinition": true,
+    "promptExampleCount": 3,
+    "faqCount": 3
   }
 ] satisfies KeywordMetadata[];

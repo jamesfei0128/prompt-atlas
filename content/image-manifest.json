@@ -4091,6 +4091,30 @@
       "generationPrompt": "A 16:9 composition showing a modern portrait with complementary tone harmony of teal and coral colors, soft studio lighting, clean background, realistic skin textures, subtle depth, no text or logos",
       "category": "Color",
       "keywordSlug": "complementary-tone-harmony"
+    },
+    {
+      "filename": "asymmetrical-balance-layout.png",
+      "altText": "Abstract modern graphic demonstrating asymmetrical balance layout with contrasting shapes and subtle depth",
+      "imageTitle": "Asymmetrical Balance Layout Graphic",
+      "generationPrompt": "16:9 composition of an abstract editorial layout, asymmetrical balance with contrasting organic shapes and varied sizes, soft natural lighting, premium stock photo style, clean and refined materials, no text, no logos, no watermark",
+      "category": "Composition",
+      "keywordSlug": "asymmetrical-balance-layout"
+    },
+    {
+      "filename": "handmade-paper-texture.png",
+      "altText": "Close-up view of handmade paper texture showing natural fibers and organic surface irregularities in warm light",
+      "imageTitle": "Handmade Paper Texture Close-up",
+      "generationPrompt": "16:9 close-up shot of organic handmade paper texture with visible fibers and uneven edges, warm natural lighting, subtle shadows, realistic surface, soft earthy color palette, premium texture, no text, no logos",
+      "category": "Texture & Material",
+      "keywordSlug": "handmade-paper-texture"
+    },
+    {
+      "filename": "pastel-gradient-colors.png",
+      "altText": "Abstract smooth pastel gradient colors blending softly in a modern clean composition",
+      "imageTitle": "Soft Pastel Gradient Color Background",
+      "generationPrompt": "16:9 image of smooth pastel gradient colors blending softly with subtle depth, refined lighting, realistic matte texture, minimalistic composition, no text, no logos, no watermark",
+      "category": "Color",
+      "keywordSlug": "pastel-gradient-colors"
     }
   ]
 }
